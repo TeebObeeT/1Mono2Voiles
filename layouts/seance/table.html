@@ -1,0 +1,69 @@
+<table>
+<tr>
+    <th class="you-dark">Pr&eacute;-requis</th>
+    <td class="you-dark">{{range index .Params.seance "00_prereq"}}
+        <li>{{ . }}
+        {{ end }}
+    </td>
+    <td class="me-dark">{{range index .Params.seance "01_orga"}}
+        <li>{{ . }}
+        {{ end }}
+    </td>
+    <th class="me-dark">Orga</th>
+</tr>
+<tr>
+    <th class="you-light">But</th>
+    <td class="you-light">{{index .Params.seance "02_but"}}</td>
+    <td class="me-light">{{index .Params.seance "03_objectif"}}</td>
+    <th class="me-light">Objectif</th>
+</tr>
+<tr>
+    <th class="you-dark">R&eacute;ussite</th>
+    <td class="you-dark">{{range index .Params.seance "04_reussite"}}
+        <li>{{ . }}
+        {{ end }}
+    </td>
+    <td  class="me-dark">{{range index .Params.seance "05_evaluation"}}
+        <li>{{ . }}
+        {{ end }}
+    </td >
+    <th class="me-dark">Evaluation</th>
+</tr>		
+<tr>
+    <th class="you-light">Consignes</th>
+    <td class="you-light">{{range index .Params.seance "06_consignes"}}
+        <li>{{ . }}
+        {{ end }}
+    </td>
+    <td class="me-light">{{range index .Params.seance "07_securite"}}
+        <li>{{ . }}
+        {{ end }}
+    </td>
+    <th class="me-light">S&eacute;curit&eacute;</th>
+</tr>	
+<tr>
+    <th rowspan=2 class="you-dark">Didactique</th>
+    <td class="you-dark">{{range index .Params.seance "08_didac" "plus"}}
+        <li style="list-style-type:none">+ {{ . }}
+        {{ end }}
+    </td>
+    <td  class="me-dark">{{range index .Params.seance "09_meteo" "plus"}}
+        <li style="list-style-type:none">+ {{ . }}
+        {{ end }}
+    </td>
+    <th rowspan=2 class="me-dark">MTO</th>
+</tr>
+<tr>
+    <td class="you-light">
+        {{range index .Params.seance "08_didac" "moins"}}
+        <li style="list-style-type:none">- {{ . }}
+        {{ end }}
+    </td>
+    <td  class="me-light">
+    {{range index .Params.seance "09_meteo" "moins"}}
+        <li style="list-style-type:none">- {{ . }}
+        {{ end }}
+    </td>
+
+</tr>
+</table>
