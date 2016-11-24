@@ -7,11 +7,16 @@ planning:
   jour_01:
     00_nom: Samedi
     01_matin:
-    - null
+    - Réunion moniteurs avec RTQ
+    - Check bateau
     02_aprèsmidi:
-    - null
+    - Accueil stagiaires
+    - Séance inventaire
+    - Séance grément
+    - Séance déplacements
     03_soir:
-    - null
+    - Découverte du plan d'eau
+    - Matelotage
     04_conduite:
     - null
     05_manoeuvre:
@@ -27,7 +32,10 @@ planning:
     10_environnement:
     - null
     11_administratif:
-    - null
+    - Solde
+    - Certificats
+    - Cautions
+    - Location de cirés
   jour_02:
     00_nom: Dimanche
     01_matin:
@@ -177,20 +185,3 @@ semaine: stage 1 semaine à terre
 tags: []
 title: Prévisionnel Semaine 1/2 à Terre - Initial
 ---
-
-<!--more-->
-# Conduite
-
-# Manoeuvre
-
-# Navigation
-
-# Sécurité
-
-# Technologie
-
-# Vie maritime
-
-# Environnement
-
-# Administratif
