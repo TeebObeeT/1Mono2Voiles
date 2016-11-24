@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/tags/changement-amure/index.xml</link>
+    <link>http://teebo.eu/monovoile/tags/changement-amure/index.xml</link>
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/tags/changement-amure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://teebo.eu/monovoile/tags/changement-amure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Empannage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/seance/Empannage/</link>
+      <link>http://teebo.eu/monovoile/seance/Empannage/</link>
       <pubDate>Tue, 15 Nov 2016 14:22:25 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/seance/Empannage/</guid>
+      <guid>http://teebo.eu/monovoile/seance/Empannage/</guid>
       <description>&lt;p&gt;Test de contenu court&lt;/p&gt;
 </description>
     </item>
