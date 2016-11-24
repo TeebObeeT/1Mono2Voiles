@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 Mono 2 Voiles</title>
+    <link>https://teebobeet.github.io/1Mono2Voiles/postes/index.xml</link>
+    <description>Recent content on 1 Mono 2 Voiles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>grément</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/seance/gr%C3%A9ment/</link>
+      <pubDate>Thu, 24 Nov 2016 23:02:01 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/seance/gr%C3%A9ment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,7 @@ baseurl = "https://teebobeet.github.io/1Mono2Voiles/"
 title = "1 Mono 2 Voiles"
 languageCode = "fr-fr"
 metaDataFormat=  "yaml"
+publishdir= "docs"
 DefaultContentLanguage=  "fr"
 
 [author]
