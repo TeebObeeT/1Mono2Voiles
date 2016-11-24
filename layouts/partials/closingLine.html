@@ -1,0 +1,22 @@
+<div class="post-meta">
+{{ if isset .Params "author" }} 
+    <span class="post-author">
+        <img src="{{ .Site.BaseURL }}/img/user.png"/>
+        {{ .Params.author }}
+    </span>
+{{ end }}
+<span class="post-date">
+    <img src="{{ .Site.BaseURL }}/img/calendar.png">
+    <span class="post-date-day"><sup>{{ .Date.Format "2" }}</sup></span><span class="post-date-separator">/</span><span class="post-date-month">{{ .Date.Format "Jan" }}</span> <span class="post-date-year">{{ .Date.Format "2006" }}</span>
+</span>
+{{ if isset .Params "tags"}}
+    {{if gt (len .Params.tags) 1 }} 
+        <div class="post-tags">
+            <img src="{{ .Site.BaseURL }}/img/map.png">
+            {{ range .Params.tags }}
+            <a href='{{ "tags/" | relURL }}{{ . | urlize }}'>{{ . }}</a>
+            {{ end }}
+        </div>
+    {{end}}
+{{end}}
+</div>

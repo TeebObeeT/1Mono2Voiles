@@ -1,0 +1,391 @@
+/*----------------------------------------------------
+Generic global look and feel
+----------------------------------------------------*/
+html{
+    font-size:0.8em;
+    background:#EEE;
+}
+hr{
+	height: 0.1rem;
+	border: 0;
+	color: #CC071E;
+	background-color: #CC071E;
+	width: 90%;
+}
+
+/*----------------------------------------------------
+Big blocks placement and deco, including element
+that are creating margin between blocks
+----------------------------------------------------*/
+body {
+    margin:0;
+}
+#sidebar {
+        background:#3F7AB2;
+}
+
+#content {
+        background: #FEFEFE;
+}
+#toc {
+}
+
+@media only screen and (max-width: 1024px) {
+    #sidebar {
+        width:100%;
+        display: block;
+    }
+    h1,h2,h3,h4 {
+        margin-top:0;
+		margin-bottom:0;
+    }    
+    #toc {
+        background:#42ABF4;
+        width:100%;
+        display: block;
+		margin-top:-22px; /*empty html apparently added before the toc 8-) */
+    }
+    #toc ul, #sidebar ul {
+        margin:0;
+    }
+    #content {
+        width:100%;
+    }
+	#sidebar hr,
+	#sidebar h2,
+	#toc h3,
+	#toc span{
+		display: none;
+	}
+	nav.nav{
+		padding-top:-0.4rem;
+	}
+	.nav-item {
+		display: inline-block;
+		*display: inline;
+		zoom: 1;
+	}
+	#toc li{
+		display: inline-block;
+		*display: inline;
+		
+	}
+}
+
+@media only screen and (min-width: 1024px) {
+    #sidebar {
+        position: fixed;
+        top: 0;
+        left:0;
+        height: 100%;
+		width:15%;
+		padding-top:2rem;
+    }
+	#content {
+        left: 15%;
+        position:absolute;
+        width:66%;
+        padding: 0 2%;
+        top:0;
+    }
+
+    #toc {
+        background:#3F7AB2;
+        position: fixed;
+        top: 0;
+        width:15%;
+        left:85%;
+        height:100%;
+    }
+	nav.nav{
+		padding:0.4rem;
+	}
+}
+ /*----------------------------------------------------
+Sidebar content look and feel
+ ----------------------------------------------------*/
+#sidebar, #sidebar a {
+	font-family: Arial;
+	text-align: center;
+	text-decoration:none;
+}
+#sidebar h1 a {
+	color:#FEFEFE;
+	font-size:3rem;
+} 
+#sidebar h2 {
+	color:#C3D1EB;
+	font-style:italic;
+	font-weight: 200;
+	font-size:1.4rem;
+}
+#sidebar a:hover {
+	color:#FEFEFE;
+	text-decoration:underline;
+}
+#sidebar li{
+	list-style:none;
+}
+
+.nav-item a {
+    background: transparent;
+    color: #FEFEFE;
+    margin-top: 1rem;
+    letter-spacing: 0.05rem;
+    text-transform: uppercase;
+    font-size: 1rem;
+    text-decoration: none;
+    margin-right: 0.1rem;
+    line-height: 1.5rem;
+	font-weight: 400;
+}
+ul.nav-list {
+	margin:0;
+	padding:0;
+}
+
+.nav-item a:hover,
+.nav-item a:focus {
+    text-decoration: none;
+}
+.nav-item-separator {
+	font-weight: 600;
+	font-family: Arial ;
+	color: #CC071E;
+	letter-spacing: -0.15rem;
+	margin-right: 0.4rem;
+	font-size: 1.6rem
+}
+
+.tags-list, .tags-list a {
+	color:#FEFEFE;
+}
+
+/*----------------------------------------------------
+TOC Look and feel
+ ----------------------------------------------------*/
+ 
+#toc, #toc a {
+	color:#FEFEFE;
+	text-decoration:none;
+	font-family: Arial;
+}
+#toc li ul li {
+	list-style: decimal;
+	list-style-position:inside;
+	font-weight: normal;
+}
+#toc li ul li ul li {
+	list-style: lower-latin;
+	list-style-position:inside;
+}
+#toc li ul li ul li ul li{
+	list-style: Lower-greek;
+	list-style-position:inside;
+}
+#toc ul {
+	padding-left:1em;
+}
+nav#TableOfContents ul:first-child {
+	padding-left: 0.2rem;
+	list-style: Upper-roman;
+	list-style-position:inside;
+	font-weight:800;
+}
+#toc h3 {
+    margin-bottom:0;
+    margin-top:1.8em;
+}
+#toc span {
+    font-size:0.8rem;
+    font-style: Italic;
+}
+/*----------------------------------------------------
+Copyright Look and feel
+ ----------------------------------------------------*/
+.footer {
+    text-align: center;
+    padding: 0;
+    font-weight: 100;
+    color: #aeaeae;
+    font-size: 0.7rem;
+}
+/*----------------------------------------------------
+Global post Look and feel
+ ----------------------------------------------------*/
+#content {
+    font-family:georgia;
+    font-size:1.2rem; 
+    line-height:1.5rem;
+}
+
+
+/*----------------------------------------------------
+Seance and planning Look and feel
+ ----------------------------------------------------*/
+ 
+.seance table{
+	border-collapse: collapse;
+	border: 1px solid #3F7AB2;
+}
+.seance th.you-dark, .seance th.me-dark,
+.planning th.dark {
+	background-color:#3F7AB2;
+	color:#FEFEFE;
+}
+
+.seance td.you-dark, .seance td.me-dark,
+.planning td.dark {
+	background-color:#C3D1EB;
+
+}
+.seance th.you-light, .seance th.me-light,
+.planning th.light  {
+	background-color:#42ABF4;
+	color:#FEFEFE;
+}
+
+.seance td.you-light, .seance td.me-light,
+.planning td.light {
+	background-color:#D5DDEB;
+}
+
+.seance td{
+	padding: 0.2em;
+	border-left: 1px solid #3F7AB2;
+	border-right: 1px solid #3F7AB2;
+	
+}
+.seance li{
+	list-style-position: inside;
+	padding-top:0.4rem;
+	padding-bottom:0.4rem;
+	line-height: 1.2rem;
+}
+.planning table {
+    border-collapse: collapse;
+	border: 1px solid #FEFEFE;
+    width:100%;
+    font-size: 0.9rem;
+}
+
+.planning td, .planning th {
+    border: 2px solid #FEFEFE;
+}
+.planning li {
+    list-style:none;
+}
+
+td.discret {
+    border:none;
+    padding:0;
+    margin:0;
+}
+th.title, th.title a {
+    text-align: left;
+    border-right: none;
+    color: #3F7AB2;
+    text-decoration: none;
+}
+
+td.desc {
+    border-left: none;
+    text-align: right;
+}
+
+/*----------------------------------------------------
+Headers Look and feel
+----------------------------------------------------*/
+.post-title {
+    color: #CC071E;
+    border-bottom: 2px solid #CC071E;
+    margin-bottom:1rem;
+}
+.post-header h1 {
+    margin-bottom:0.5em;
+    padding-bottom:0.2em;
+    font-size:1.7rem;
+}
+.post-header a {
+    text-decoration:none;
+    color: #CC071E;
+}
+div.post-header h1.post-title span.post-niveaux{
+    float: right;
+    display: inline-block;
+    font-size:0.9rem;
+    height:100%;
+    margin-top:0.3rem;
+}
+a.post-category-section {
+    border: 1px solid #CC071E;
+    border-bottom: none;
+}
+a.post-category {
+    font-family:arial;
+}
+.post-category {
+    margin: 0;
+    padding: 0.2rem 0.5rem;
+    color: #fff;
+    background: #999;
+    font-size: 0.75rem;
+}
+a.post-category:hover {
+	text-decoration: underline;
+	color:#000;
+}
+
+/*----------------------------------------------------
+Footer Look and feel
+----------------------------------------------------*/
+.post-meta {
+    padding: 0.5rem 0;
+    width:100%;
+}
+.post-meta img {
+    vertical-align:middle;
+}
+.post-author {
+    color:#3F7AB2;
+    font-style: italic;
+}
+.post-date {
+    color: #CC071E;
+    margin-left:33%;    
+}
+.post-tags {
+    color: #CC071E;
+    float:right;
+}
+.post-tags a {
+    color:#42ABF4;
+    text-decoration:none;
+    font-size: 0.9rem;
+    font-family: Arial;
+}
+.post-tags a:hover {
+    text-decoration:underline;
+}
+/*----------------------------------------------------
+Categories Look and feel
+----------------------------------------------------*/
+div.post-categories {
+    padding-bottom:0.3rem;
+    padding-left:0;
+    display: inline-block;
+}
+div.post-categories a {
+    text-decoration:none;
+    font-family:arial;
+    font-size:0.8rem;
+}
+/*----------------------------------------------------
+List of posts Look and feel
+----------------------------------------------------*/
+.post{
+    background: #EEE;
+}
+.post h4 {
+    margin:0;
+}
