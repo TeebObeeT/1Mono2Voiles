@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://teebo.eu/monovoile/</loc>
-    <lastmod>2016-11-15T14:22:25+01:00</lastmod>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/</loc>
+    <lastmod>2016-11-24T19:19:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://teebo.eu/monovoile/seance/Empannage/</loc>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/planning/Pr%C3%A9visionnelSemaine1TerreInitial/</loc>
+    <lastmod>2016-11-24T19:19:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/seance/Empannage/</loc>
     <lastmod>2016-11-15T14:22:25+01:00</lastmod>
   </url>
   
