@@ -1,0 +1,97 @@
+{{ partial "header.html" . }}
+<body>
+{{ partial "sidebar.html" . }}
+{{ partial "toc.html" . }}
+<div class="planning" id="content">
+
+	<div class="post-header">
+		<h1 id="title" class="post-title"><a href={{ .RelPermalink }}>{{ .Title }}</a>{{partial "niveaux.html" . }}</h1>
+		
+	</div>
+		{{partial "categories.html" . }} 
+	<div>
+    <!--<table style="width:29cm; height:20cm">
+		<tr>
+			<th></th>
+			<th class="dark">Matin</th>
+			<th class="dark">Après-midi</th>
+			<th class="dark">Soir</th>
+			<th class="light">Conduite</th>
+			<th class="light">Manoeuvre</th>
+			<th class="light">Navigation</th>
+			<th class="light">Sécurité</th>
+			<th class="light">Technologie</th>
+			<th class="light">Vie Maritime</th>
+			<th class="light">Environnement</th>
+			<th class="light">Administratif</th>
+		</tr>
+		{{ range $valeurs := sort .Params.planning }} 
+			<tr>
+				{{ range $k,$v := sort $valeurs}}
+					{{if eq $k 0 }}
+						<th class="dark">{{ $v }}</th>
+					{{else if lt $k 4}}
+						<td class="dark">
+                            {{range $v}}
+                                <li>{{.}}</li>
+                            {{end}}
+						</td>
+                    {{else}}
+                    	<td class="light">
+                            {{range $v}}
+                                <li>{{.}}</li>
+                            {{end}}
+						</td>
+					{{end}}
+				{{end}}
+			</tr>
+		{{end}}
+	</table>   
+	-->
+
+	{{ $valeurs_majeures := (dict "01_matin" "Matin" "02_aprèsmidi" "Après-midi" "03_soir" "Soir") }}
+    {{ $valeurs_mineures := (dict "04_conduite" "Conduite" "05_manoeuvre" "Manoeuvre" "06_navigation" "Navigation" "07_securite" "Sécurité" "08_technologie" "Technologie" "09_viemaritime" "Vie maritime" "10_environnement" "Environnement" "11_administratif" "Administratif" ) }}
+	
+	<table>
+		<tr>
+			<th></th>
+			{{range sort .Params.planning}}
+				<th class="dark">{{index . "00_nom"}}</th>
+			{{end}}
+		</tr>
+		{{range $clef,$label := $valeurs_majeures}}
+		<tr>
+			<th class="dark">{{$label}}</th>
+			{{range sort $.Params.planning}}
+				<td class="dark">
+					{{range index . $clef}}
+						<li>{{.}}</li>
+					{{end}}
+				</td>
+			{{end}}
+		</tr>
+		{{end}}
+		{{range $clef,$label := $valeurs_mineures}}
+		<tr>
+			<th class="light">{{$label}}</th>
+			{{range sort $.Params.planning}}
+				<td class="light">
+					{{range index . $clef}}
+						<li>{{.}}</li>
+					{{end}}
+				</td>
+			{{end}}
+		</tr>
+		{{end}}
+    </table> 
+	
+	{{ .Content }} 	
+		
+	{{ partial "closingLine.html" . }} 
+	{{ partial "footer.html" . }} 
+ </div>
+ {{ partial "bodyend.html" . }}
+<body>
+ 
+</div>
+</html>

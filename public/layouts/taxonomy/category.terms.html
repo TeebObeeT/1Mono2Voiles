@@ -1,0 +1,43 @@
+{{ partial "header.html" . }}
+<body>
+    <div id="layout">
+        {{ partial "sidebar.html" . }}
+        <div id="content">
+			<h1 class="post-title">
+			  {{ .Data.Plural | humanize}}
+			  
+			</h1>    
+			
+			<div class="posts">
+                {{ range $key, $value := .Data.Terms.ByCount }}
+					<p><a class='post-category post-category-{{ replaceRE "[éèê]" "e" $value.Name | urlize }}' href="{{ $value.Name | urlize }}">{{ $value.Name  }}</a>({{ $value.Count }})</p>
+				{{ end }}
+
+			</div>
+        {{ partial "footer.html" . }}
+        </div>
+    </div>
+    {{ partial "bodyend.html" . }}
+</body>
+
+
+
+
+
+
+<div id="layout">
+  <div>
+    <ul>
+    {{ $data := .Data }}
+    {{ range $key, $value := .Data.Terms.ByCount }}
+      <li><a href="{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a> {{ $value.Count }}</li>
+    {{ end }}
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+</html>
