@@ -43,7 +43,7 @@ body {
         background:#42ABF4;
         width:100%;
         display: block;
-		margin-top:-22px; /*empty html apparently added before the toc 8-) */
+		
     }
     #toc ul, #sidebar ul {
         margin:0;
