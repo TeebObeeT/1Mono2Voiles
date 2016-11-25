@@ -23,10 +23,9 @@ seance:
     - Les drisses sont mises correctement en place (trajet drisse)
     - La grand voile est prête à être hissée
   06_consignes:
-    - >-
-      Préparer le bateau avec une voile d'avant et la grand voile prêtes à
+    - Préparer le bateau avec une voile d'avant et la grand voile prêtes à
       hisser
-    - 'Il faut bien attacher les 3 points de la voile (écoute, drisse, amure)'
+    - Il faut bien attacher les 3 points de la voile (écoute, drisse, amure)
     - Réfléchir au passage des bouts
     - Ne jamais lâcher une drisse non attachée
   07_securite:
