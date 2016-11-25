@@ -1,37 +1,49 @@
 ---
 author: Teebo
-categories: []
-date: 2016-11-24T23:02:01+01:00
+categories:
+  - Manoeuvre
+date: 2016-11-24T22:02:01.000Z
 niveaux:
-- Niveau-1
+  - Niveau-1
 postes:
-- null
+  - null
 seance:
   00_prereq:
-  - null
+    - null
   01_orga:
-  - null
-  02_but: null
-  03_objectif: null
+    - null
+  02_but: Gréer le bateau pour être prêt au départ
+  03_objectif: Autonomie sur préparation du beateau
   04_reussite:
-  - null
+    - Le bateau est prêt au départ
+    - Les voiles sont mises et prêtes à hisser
+    - La voile d'avant est hissée et affalée
   05_evaluation:
-  - null
+    - Les écoutes passent correctement et un noeud d'arrêt est fait
+    - Les drisses sont mises correctement en place (trajet drisse)
+    - La grand voile est prête à être hissée
   06_consignes:
-  - null
+    - >-
+      Préparer le bateau avec une voile d'avant et la grand voile prêtes à
+      hisser
+    - 'Il faut bien attacher les 3 points de la voile (écoute, drisse, amure)'
+    - Réfléchir au passage des bouts
+    - Ne jamais lâcher une drisse non attachée
   07_securite:
-  - null
+    - Déplacements sur pont glissant
   08_didac:
     moins:
-    - null
+      - Le moniteur donne des instructions précises sur les choses à faire
+      - Le moniteur fait les noeuds
     plus:
-    - null
+      - 'Si l''excécution se fait rapidement, une petite sortie est possible'
   09_meteo:
     moins:
-    - null
+      - Hisser la grand voile aussi
     plus:
-    - Réduire la voilure
-tags: []
-title: grément
+      - Hisser le tourmentin en voile d'avant
+tags:
+  - Gréer
+title: Gréer
+published: true
 ---
-
