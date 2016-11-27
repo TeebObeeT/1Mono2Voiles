@@ -51,12 +51,12 @@
     <th rowspan=2 class="you-dark">Didactique</th>
     <td class="you-dark">
       {{range index .Params.seance "08_didac" "plus"}}
-        {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/plus.svg"/> {{ . }}<br/>{{end}}
+        {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/plus.svg" alt="+"/> {{ . }}<br/>{{end}}
       {{ end }}
     </td>
     <td  class="me-dark">
       {{range index .Params.seance "09_meteo" "plus"}}
-        {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/plus.svg"/> {{ . }}<br/>{{end}}
+        {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/plus.svg" alt="+"/> {{ . }}<br/>{{end}}
       {{ end }}
     </td>
     <th rowspan=2 class="me-dark">MTO</th>
@@ -64,12 +64,12 @@
 <tr>
     <td class="you-light">
         {{range index .Params.seance "08_didac" "moins"}}
-          {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/minus.svg"/> {{ . }}<br/>{{end}}
+          {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/minus.svg" alt="-"/> {{ . }}<br/>{{end}}
         {{ end }}
     </td>
     <td  class="me-light">
       {{range index .Params.seance "09_meteo" "moins"}}
-        {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/minus.svg"/> {{ . }}<br/>{{end}}
+        {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/minus.svg" alt="-"/> {{ . }}<br/>{{end}}
       {{ end }}
     </td>
 
