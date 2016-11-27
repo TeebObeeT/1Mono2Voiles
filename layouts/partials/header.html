@@ -10,13 +10,14 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/voile.css" media="screen">
   <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/print.css" media="print" />
-  
-  <!-- Icons -->
-  
-  <!-- RSS -->
-  <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 
-  
+  <!-- Icons -->
+
+  <!-- RSS -->
+  {{if .RSSlink}}
+    <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{end}}
+
   {{ if .Site.Params.categoriescss }}
     <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/{{ .Site.Params.categoriescss }}" media="screen">
   {{ end }}
