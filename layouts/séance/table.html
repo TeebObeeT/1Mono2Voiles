@@ -1,13 +1,15 @@
 <table>
 <tr>
     <th class="you-dark">Pr&eacute;-requis</th>
-    <td class="you-dark">{{range index .Params.seance "00_prereq"}}
-        <li>{{ . }}
-        {{ end }}
+    <td class="you-dark">
+      {{range index .Params.seance "00_prereq"}}
+        {{if .}}<li>{{ . }}</li>{{end}}
+      {{ end }}
     </td>
-    <td class="me-dark">{{range index .Params.seance "01_orga"}}
-        <li>{{ . }}
-        {{ end }}
+    <td class="me-dark">
+      {{range index .Params.seance "01_orga"}}
+        {{if .}}<li>{{ . }}</li>{{end}}
+      {{ end }}
     </td>
     <th class="me-dark">Orga</th>
 </tr>
@@ -19,50 +21,56 @@
 </tr>
 <tr>
     <th class="you-dark">R&eacute;ussite</th>
-    <td class="you-dark">{{range index .Params.seance "04_reussite"}}
-        <li>{{ . }}
-        {{ end }}
+    <td class="you-dark">
+      {{range index .Params.seance "04_reussite"}}
+          {{if .}}<li>{{ . }}</li>{{end}}
+      {{ end }}
     </td>
-    <td  class="me-dark">{{range index .Params.seance "05_evaluation"}}
-        <li>{{ . }}
-        {{ end }}
+    <td  class="me-dark">
+      {{range index .Params.seance "05_evaluation"}}
+        {{if .}}<li>{{ . }}</li>{{end}}
+      {{ end }}
     </td >
     <th class="me-dark">Evaluation</th>
-</tr>		
+</tr>
 <tr>
     <th class="you-light">Consignes</th>
-    <td class="you-light">{{range index .Params.seance "06_consignes"}}
-        <li>{{ . }}
-        {{ end }}
+    <td class="you-light">
+      {{range index .Params.seance "06_consignes"}}
+        {{if .}}<li>{{ . }}</li>{{end}}
+      {{ end }}
     </td>
-    <td class="me-light">{{range index .Params.seance "07_securite"}}
-        <li>{{ . }}
-        {{ end }}
+    <td class="me-light">
+      {{range index .Params.seance "07_securite"}}
+        {{if .}}<li>{{ . }}</li>{{end}}
+      {{ end }}
     </td>
     <th class="me-light">S&eacute;curit&eacute;</th>
-</tr>	
+</tr>
 <tr>
     <th rowspan=2 class="you-dark">Didactique</th>
-    <td class="you-dark">{{range index .Params.seance "08_didac" "plus"}}
-        <li style="list-style-type:none">+ {{ . }}
-        {{ end }}
+    <td class="you-dark">
+      {{range index .Params.seance "08_didac" "plus"}}
+        {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/plus.svg"/> {{ . }}<br/>{{end}}
+      {{ end }}
     </td>
-    <td  class="me-dark">{{range index .Params.seance "09_meteo" "plus"}}
-        <li style="list-style-type:none">+ {{ . }}
-        {{ end }}
+    <td  class="me-dark">
+      {{range index .Params.seance "09_meteo" "plus"}}
+        {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/plus.svg"/> {{ . }}<br/>{{end}}
+      {{ end }}
     </td>
     <th rowspan=2 class="me-dark">MTO</th>
 </tr>
 <tr>
     <td class="you-light">
         {{range index .Params.seance "08_didac" "moins"}}
-        <li style="list-style-type:none">- {{ . }}
+          {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/minus.svg"/> {{ . }}<br/>{{end}}
         {{ end }}
     </td>
     <td  class="me-light">
-    {{range index .Params.seance "09_meteo" "moins"}}
-        <li style="list-style-type:none">- {{ . }}
-        {{ end }}
+      {{range index .Params.seance "09_meteo" "moins"}}
+        {{if .}}<img class="bullet" src="{{ $.Site.BaseURL }}/img/minus.svg"/> {{ . }}<br/>{{end}}
+      {{ end }}
     </td>
 
 </tr>

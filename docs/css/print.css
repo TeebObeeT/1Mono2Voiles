@@ -56,7 +56,7 @@ Seance and planning Look and feel
 }
 
 .seance td, .seance th{
-	border: 1px solid #000;	
+	border: 1px solid #000;
 }
 
 .seance li{
@@ -132,4 +132,12 @@ span.post-niveaux a.post-category {
 }
 a.post-category {
     display:none;
+}
+
+/*----------------------------------------------------
+List special lists
+----------------------------------------------------*/
+img.bullet {
+    width:1rem;
+
 }

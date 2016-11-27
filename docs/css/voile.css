@@ -38,12 +38,12 @@ body {
     h1,h2,h3,h4 {
         margin-top:0;
 		margin-bottom:0;
-    }    
+    }
     #toc {
         background:#42ABF4;
         width:100%;
         display: block;
-		
+
     }
     #toc ul, #sidebar ul {
         margin:0;
@@ -68,7 +68,7 @@ body {
 	#toc li{
 		display: inline-block;
 		*display: inline;
-		
+
 	}
 }
 
@@ -112,7 +112,7 @@ Sidebar content look and feel
 #sidebar h1 a {
 	color:#FEFEFE;
 	font-size:3rem;
-} 
+}
 #sidebar h2 {
 	color:#C3D1EB;
 	font-style:italic;
@@ -164,7 +164,7 @@ ul.nav-list {
 /*----------------------------------------------------
 TOC Look and feel
  ----------------------------------------------------*/
- 
+
 #toc, #toc a {
 	color:#FEFEFE;
 	text-decoration:none;
@@ -215,7 +215,7 @@ Global post Look and feel
  ----------------------------------------------------*/
 #content {
     font-family:georgia;
-    font-size:1.2rem; 
+    font-size:1.2rem;
     line-height:1.5rem;
 }
 
@@ -223,10 +223,14 @@ Global post Look and feel
 /*----------------------------------------------------
 Seance and planning Look and feel
  ----------------------------------------------------*/
- 
+
 .seance table{
 	border-collapse: collapse;
 	border: 1px solid #3F7AB2;
+}
+.seance tr table,
+.seance div table{
+  width:100%;
 }
 .seance th.you-dark, .seance th.me-dark,
 .planning th.dark {
@@ -254,7 +258,7 @@ Seance and planning Look and feel
 	padding: 0.2em;
 	border-left: 1px solid #3F7AB2;
 	border-right: 1px solid #3F7AB2;
-	
+
 }
 .seance li{
 	list-style-position: inside;
@@ -352,7 +356,7 @@ Footer Look and feel
 }
 .post-date {
     color: #CC071E;
-    margin-left:33%;    
+    margin-left:33%;
 }
 .post-tags {
     color: #CC071E;
@@ -388,4 +392,11 @@ List of posts Look and feel
 }
 .post h4 {
     margin:0;
+}
+/*----------------------------------------------------
+List special lists
+----------------------------------------------------*/
+img.bullet {
+    width:1.1rem;
+    vertical-align: middle;
 }
