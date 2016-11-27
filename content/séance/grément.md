@@ -43,6 +43,6 @@ seance:
       - Hisser le tourmentin en voile d'avant
 tags:
   - Gréer
-title: Gréer
+title: Grément
 published: true
 ---

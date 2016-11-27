@@ -6,9 +6,9 @@
 
 	<div class="post-header">
 		<h1 id="title" class="post-title"><a href={{ .RelPermalink }}>{{ .Title }}</a>{{partial "niveaux.html" . }}</h1>
-		
+
 	</div>
-		{{partial "categories.html" . }} 
+		{{partial "categories.html" . }}
 	<div>
     <!--<table style="width:29cm; height:20cm">
 		<tr>
@@ -25,7 +25,7 @@
 			<th class="light">Environnement</th>
 			<th class="light">Administratif</th>
 		</tr>
-		{{ range $valeurs := sort .Params.planning }} 
+		{{ range $valeurs := sort .Params.planning }}
 			<tr>
 				{{ range $k,$v := sort $valeurs}}
 					{{if eq $k 0 }}
@@ -46,12 +46,12 @@
 				{{end}}
 			</tr>
 		{{end}}
-	</table>   
+	</table>
 	-->
 
 	{{ $valeurs_majeures := (dict "01_matin" "Matin" "02_aprèsmidi" "Après-midi" "03_soir" "Soir") }}
     {{ $valeurs_mineures := (dict "04_conduite" "Conduite" "05_manoeuvre" "Manoeuvre" "06_navigation" "Navigation" "07_securite" "Sécurité" "08_technologie" "Technologie" "09_viemaritime" "Vie maritime" "10_environnement" "Environnement" "11_administratif" "Administratif" ) }}
-	
+
 	<table>
 		<tr>
 			<th></th>
@@ -65,7 +65,15 @@
 			{{range sort $.Params.planning}}
 				<td class="dark">
 					{{range index . $clef}}
-						<li>{{.}}</li>
+						{{if . }}
+							<li>
+									{{if findRE "/" .}}
+										<a href='{{ . | urlize | relURL  }}'>{{replace . "/" " " | humanize}}</a>
+									{{else}}
+										{{.}}
+									{{end}}
+							</li>
+						{{end}}
 					{{end}}
 				</td>
 			{{end}}
@@ -83,15 +91,15 @@
 			{{end}}
 		</tr>
 		{{end}}
-    </table> 
-	
-	{{ .Content }} 	
-		
-	{{ partial "closingLine.html" . }} 
-	{{ partial "footer.html" . }} 
+    </table>
+
+	{{ .Content }}
+
+	{{ partial "closingLine.html" . }}
+	{{ partial "footer.html" . }}
  </div>
  {{ partial "bodyend.html" . }}
 <body>
- 
+
 </div>
 </html>

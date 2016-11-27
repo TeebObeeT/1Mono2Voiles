@@ -10,11 +10,11 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Gréer</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/seance/gr%C3%A9ment/</link>
+      <title>Grément</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/gr%C3%A9ment/</link>
       <pubDate>Thu, 24 Nov 2016 22:02:01 +0000</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/seance/gr%C3%A9ment/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/gr%C3%A9ment/</guid>
       <description></description>
     </item>
     
@@ -36,10 +36,10 @@
     
     <item>
       <title>Empannage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/seance/Empannage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage/</link>
       <pubDate>Tue, 15 Nov 2016 14:22:25 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/seance/Empannage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage/</guid>
       <description>&lt;p&gt;Test de contenu court&lt;/p&gt;
 </description>
     </item>

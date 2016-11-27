@@ -12,7 +12,7 @@ planning:
     02_aprèsmidi:
     - Accueil stagiaires
     - Séance inventaire
-    - Séance grément
+    - séance/grément
     - Séance déplacements
     03_soir:
     - Découverte du plan d'eau
