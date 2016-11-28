@@ -3,12 +3,19 @@
 <table>
 	<tr>
 		<th class="you-dark">But</th>
-		<td class="you-dark">{{ index .Params.seance "02_but"}}			
-</td>
+		<td class="you-dark">
+			{{ if index .Params.seance "02_but"}}
+				{{  index .Params.seance "02_but" | safeHTML}}
+			{{end}}
+		</td>
 	</tr>
 	<tr>
 		<th class="me-light">Objectif</th>
-		<td class="me-light">{{ index .Params.seance "03_objectif" }}</td>
+		<td class="me-light">
+			{{range index .Params.seance "03_objectifs"}}
+				{{if .}}<li>{{ . | safeHTML }}</li>{{end}}
+			{{ end }}
+		</td>
 	</tr>
  </table>
 </div>

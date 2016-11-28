@@ -5,9 +5,9 @@
         <div id="content">
 			<h1 class="post-title">
 			  {{ .Data.Plural | humanize}}
-			  
-			</h1>    
-			
+
+			</h1>
+
 			<div class="posts">
                 {{ range $key, $value := .Data.Terms.ByCount }}
 					<p><a class='post-category post-category-{{ replaceRE "[éèê]" "e" $value.Name | urlize }}' href="{{ $value.Name | urlize }}">{{ $value.Name  }}</a>({{ $value.Count }})</p>

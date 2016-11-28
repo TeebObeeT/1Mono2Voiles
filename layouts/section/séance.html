@@ -5,7 +5,7 @@
         <div id="content">
             {{ range .Data.Pages }}
             <div class="seance">
-                <table><tr><th class="title"><h1><a href={{ .RelPermalink }}>{{ .Title }}</a></h1></th><td class="desc">{{ .Section | humanize }} {{range .Params.niveaux}}{{.}}{{end}}</td></tr>
+                <table><tr><th class="title"><h1><a href={{ .RelPermalink }}>{{ .Title | humanize }}</a></h1></th><td class="desc">{{ .Section | humanize }} {{range .Params.niveaux}}{{.}}{{end}}</td></tr>
                 <tr><td class="discret" colspan=2>{{ .Render "table"}}</td></tr>
                 <tr><td colspan=2>{{ .Content }}</td></tr></table>
             </div>

@@ -2,18 +2,18 @@
 <body>
 {{ partial "sidebar.html" . }}{{ partial "toc.html" . }}<div class="{{ .Section }}" id="content">
     <div class="post-header">
-		<h1 id="title" class="post-title"><a href={{ .RelPermalink }}>{{ .Title }}</a>{{partial "niveaux.html" . }}</h1>
+		<h1 id="title" class="post-title"><a href={{ .RelPermalink }}>{{ .Title | humanize }}</a>{{partial "niveaux.html" . }}</h1>
 	</div>
 
     <div>
-		{{partial "categories.html" . }} 
+		{{partial "categories.html" . }}
         {{ .Content }}
-	{{ partial "closingLine.html" . }} 
-	{{ partial "footer.html" . }} 
+	{{ partial "closingLine.html" . }}
+	{{ partial "footer.html" . }}
     </div>
 
  {{ partial "bodyend.html" . }}
 <body>
- 
+
 </div>
 </html>

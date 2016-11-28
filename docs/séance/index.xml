@@ -6,8 +6,44 @@
     <description>Recent content in Séance-rsses on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 24 Nov 2016 22:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 18:09:31 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>périmètre</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/p%C3%A9rim%C3%A8tre/</link>
+      <pubDate>Mon, 28 Nov 2016 18:09:31 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/p%C3%A9rim%C3%A8tre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Déplacements</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/d%C3%A9placements/</link>
+      <pubDate>Mon, 28 Nov 2016 17:33:58 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/d%C3%A9placements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rangement</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rangement/</link>
+      <pubDate>Mon, 28 Nov 2016 15:45:15 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rangement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inventaire</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/inventaire/</link>
+      <pubDate>Mon, 28 Nov 2016 15:18:50 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/inventaire/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Grément</title>
@@ -15,8 +51,7 @@
       <pubDate>Thu, 24 Nov 2016 22:02:01 +0000</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/gr%C3%A9ment/</guid>
-      <description>&lt;p&gt;TestTest de contenu court ou long ou tres lon ou encore plus long ou surtout trop long ou long ou court mais pas trop, enfin suffisament long pour pas être court&amp;hellip; de contenu court ou long ou tres lon ou encore plus long ou surtout trop long ou long ou court mais pas trop, enfin suffisament long pour pas être court&amp;hellip;Test de contenu court ou long ou tres lon ou encore plus long ou surtout trop long ou long ou court mais pas trop, enfin suffisament long pour pas être court&amp;hellip;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -25,8 +60,7 @@
       <pubDate>Tue, 15 Nov 2016 14:22:25 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage/</guid>
-      <description>&lt;p&gt;Test de contenu court&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

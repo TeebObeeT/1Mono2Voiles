@@ -7,7 +7,7 @@
             {{ range .Data.Pages }}
                 <section  class="post">
                     <div class="post-header">
-                        <h1 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{partial "niveaux.html" . }}</h1>
+                        <h1 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title | humanize}}</a>{{partial "niveaux.html" . }}</h1>
                     </div>{{ .Render "short" }}
                     {{ partial "closingLine.html" . }}
                 </section>

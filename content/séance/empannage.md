@@ -10,13 +10,14 @@ postes:
 author: Teebo
 seance:
  00_prereq:
-  - Distinguer les allures portantes,
+  - 1C1.6 Distinguer les allures portantes,
   - Chronologie de l'empannage
   - 1C1.2 Utiliser la barre pour se diriger
  01_orga:
   - Long bord de grand-largue
  02_but: Passer d'une amure à l'autre en passant par le vent arrière
- 03_objectif: 1M1 Changement d'amure
+ 03_objectifs:
+ - 1M1.1 Utiliser la barre pour changer d’amure
  04_reussite:
   - Enchainer 3 empannages sans que la bôme passe de manière incontrôlée
  05_evaluation:
@@ -42,6 +43,5 @@ seance:
   plus:
   - Réduire la voilure (ris)
   moins:
-  - Ancre ou coffre à l'arrière du bateau 
+  - Ancre ou coffre à l'arrière du bateau
 ---
-Test de contenu court

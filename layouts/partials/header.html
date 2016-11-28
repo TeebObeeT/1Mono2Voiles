@@ -1,7 +1,7 @@
 {{ partial "doctype.html" . }}
 <head>
   <title>
-    {{ .Title }}{{ if ne .Title .Site.Title }} // {{ .Site.Title }}{{ end }}
+    {{ .Title | humanize }}{{ if ne .Title .Site.Title }}[{{ .Site.Title }}]{{ end }}
   </title>
 
   {{ partial "meta.html" . }}

@@ -2,18 +2,20 @@
 author: Teebo
 categories:
   - Manoeuvre
+  - Technologie
 date: 2016-11-24T22:02:01.000Z
 niveaux:
   - Niveau-1
-postes:
-  - null
 seance:
   00_prereq:
     - null
   01_orga:
     - null
   02_but: Gréer le bateau pour être prêt au départ
-  03_objectif: Autonomie sur préparation du beateau
+  03_objectifs:
+  - 1C2.1 Gréer, hisser et affaler le foc et la grand-voile
+  - 1C2.2 Gréer les écoutes et les bosses
+  - 1T1.1 Faire deux nœuds marins
   04_reussite:
     - Le bateau est prêt au départ
     - Les voiles sont mises et prêtes à hisser
@@ -22,6 +24,7 @@ seance:
     - Les écoutes passent correctement et un noeud d'arrêt est fait
     - Les drisses sont mises correctement en place (trajet drisse)
     - La grand voile est prête à être hissée
+    - Les bosses de ris sont préparées correctement
   06_consignes:
     - Préparer le bateau avec une voile d'avant et la grand voile prêtes à
       hisser
@@ -29,13 +32,13 @@ seance:
     - Réfléchir au passage des bouts
     - Ne jamais lâcher une drisse non attachée
   07_securite:
-    - Déplacements sur pont glissant
+    - Déplacements sur pont glissant, 1 main pour soi
   08_didac:
     moins:
       - Le moniteur donne des instructions précises sur les choses à faire
       - Le moniteur fait les noeuds
     plus:
-      - 'Si l''excécution se fait rapidement, une petite sortie est possible'
+      - Hisser et affaler sur l'eau
   09_meteo:
     moins:
       - Hisser la grand voile aussi
@@ -46,4 +49,3 @@ tags:
 title: Grément
 published: true
 ---
-TestTest de contenu court ou long ou tres lon ou encore plus long ou surtout trop long ou long ou court mais pas trop, enfin suffisament long pour pas être court... de contenu court ou long ou tres lon ou encore plus long ou surtout trop long ou long ou court mais pas trop, enfin suffisament long pour pas être court...Test de contenu court ou long ou tres lon ou encore plus long ou surtout trop long ou long ou court mais pas trop, enfin suffisament long pour pas être court...
