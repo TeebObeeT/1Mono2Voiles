@@ -189,5 +189,5 @@ planning:
 prevision: true
 semaine: stage 1 semaine à terre
 tags: []
-title: Prévisionnel Semaine 1/2 à Terre - Initial
+title: Prévisionnel stage à terre 1 semaine
 ---
