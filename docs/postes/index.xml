@@ -9,13 +9,57 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Grément</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/gr%C3%A9ment/</link>
-      <pubDate>Thu, 24 Nov 2016 22:02:01 +0000</pubDate>
+      <title>premiers virements</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/premiers-virements/</link>
+      <pubDate>Tue, 29 Nov 2016 15:06:04 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/gr%C3%A9ment/</guid>
-      <description>&lt;p&gt;TestTest de contenu court ou long ou tres lon ou encore plus long ou surtout trop long ou long ou court mais pas trop, enfin suffisament long pour pas être court&amp;hellip; de contenu court ou long ou tres lon ou encore plus long ou surtout trop long ou long ou court mais pas trop, enfin suffisament long pour pas être court&amp;hellip;Test de contenu court ou long ou tres lon ou encore plus long ou surtout trop long ou long ou court mais pas trop, enfin suffisament long pour pas être court&amp;hellip;&lt;/p&gt;
-</description>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/premiers-virements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mouillage</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/mouillage/</link>
+      <pubDate>Tue, 29 Nov 2016 15:05:51 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/mouillage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>initiation au grand largue</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue/</link>
+      <pubDate>Tue, 29 Nov 2016 15:05:36 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>initiation au près</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-pr%C3%A8s/</link>
+      <pubDate>Tue, 29 Nov 2016 15:05:18 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-pr%C3%A8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>départ</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9part/</link>
+      <pubDate>Tue, 29 Nov 2016 12:06:20 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9part/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grand</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/grand-largue/</link>
+      <pubDate>Tue, 29 Nov 2016 11:10:07 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/grand-largue/</guid>
+      <description></description>
     </item>
     
   </channel>

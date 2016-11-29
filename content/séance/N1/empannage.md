@@ -14,7 +14,7 @@ seance:
   - Chronologie de l'empannage
   - 1C1.2 Utiliser la barre pour se diriger
  01_orga:
-  - Long bord de grand-largue
+  - Long bord de grand largue
  02_but: Passer d'une amure à l'autre en passant par le vent arrière
  03_objectifs:
  - 1M1.1 Utiliser la barre pour changer d’amure

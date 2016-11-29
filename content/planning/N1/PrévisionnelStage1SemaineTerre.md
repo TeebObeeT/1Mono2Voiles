@@ -11,12 +11,12 @@ planning:
     - Check bateau
     02_aprèsmidi:
     - Accueil stagiaires
-    - séance/inventaire
-    - séance/grément
-    - séance/rangement
-    - séance/déplacements
+    - séance/N1/inventaire
+    - séance/N1/grément
+    - séance/N1/rangement
+    - séance/N1/déplacements
     03_soir:
-    - séance/périmètre
+    - séance/N1/périmètre
     - Matelotage
     04_conduite:
     - 1C2.1 Gréer, hisser et affaler le foc et la grand-voile
@@ -45,19 +45,31 @@ planning:
   jour_02:
     00_nom: Dimanche
     01_matin:
-    - null
+    - séance/N1/départ
+    - séance/N1/allures
+    - séance/N1/arrêt
+    - séance/N1/initiation au près
     02_aprèsmidi:
-    - null
+    - chrono/prise de ris
+    - séance/N1/prise de ris
+    - séance/N1/initiation au grand largue
+    - séance/N1/mouillage
+    - séance/N1/premiers virements
     03_soir:
-    - null
+    - chrono/virements
+    - topo/N1/allures
     04_conduite:
-    - null
+    - 1C1.1 Gonfler la voile pour avancer
+    - 1C1.2 Utiliser la barre pour se diriger
+    - 1C1.6 Différencier les allures de près des allures portantes
     05_manoeuvre:
-    - null
+    - 1M3.1 Se préparer au départ à la voile ou au moteur
+    - 1M4.1 Participer aux manœuvres d’entrée et de sortie de port
+    - 1M2.1  Identifier les dispositifs de réduction de voilure
     06_navigation:
     - null
     07_sécurité:
-    - null
+    - 1S2.1 Se préparer au remorquage
     08_technologie:
     - null
     09_viemaritime:
@@ -69,9 +81,11 @@ planning:
   jour_03:
     00_nom: Lundi
     01_matin:
-    - null
+    - topo/sécurité à terre
+    - chrono/ROF
+    - séance/repères
+    - séance/N1/ROF
     02_aprèsmidi:
-    - null
     03_soir:
     - null
     04_conduite:
