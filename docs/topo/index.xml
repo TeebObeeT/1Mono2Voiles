@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topo-rsses on 1 Mono 2 Voiles</title>
+    <link>https://teebobeet.github.io/1Mono2Voiles/topo/index.xml</link>
+    <description>Recent content in Topo-rsses on 1 Mono 2 Voiles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 29 Nov 2016 18:14:05 +0100</lastBuildDate>
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/topo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>allures</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures/</link>
+      <pubDate>Tue, 29 Nov 2016 18:14:05 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures/</guid>
+      <description>&lt;p&gt;Présentation initiale sur les grandes familles d&amp;rsquo;allures et leurs particularités, avec introduction sur pourquoi le bateau avance et les différences entre écoulements laminaires et perturbés
+&lt;/p&gt;
+
+&lt;h1 id=&#34;différents-vents&#34;&gt;Différents vents&lt;/h1&gt;
+
+&lt;h2 id=&#34;définitions&#34;&gt;Définitions&lt;/h2&gt;
+
+&lt;p&gt;Le &lt;strong&gt;vent réel&lt;/strong&gt; est le vent que ressent une personne assise sur la plage ou que l&amp;rsquo;on ressent quand le bateau est à l&amp;rsquo;arrêt.&lt;/p&gt;
+
+&lt;p&gt;Le &lt;strong&gt;vent vitesse&lt;/strong&gt; est le vent ressenti lorsque par une journée sans vent, on se fait tracter pour sortir, ou bien, celui que l&amp;rsquo;on ressent à vélo quand il n&amp;rsquo;y a pas de vent.&lt;/p&gt;
+
+&lt;p&gt;Le &lt;strong&gt;vent apparent&lt;/strong&gt; est celui que l&amp;rsquo;équipage et le bateau ressentent lorsque celui-ci avance. Il est la somme vectorielle &lt;em&gt;(Chasles pour les collégiens)&lt;/em&gt; des deux autres.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../../img/topos/vents.gif&#34; alt=&#34;Différents vents&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;influence-de-la-vitesse-sur-le-vent-apparent&#34;&gt;Influence de la vitesse sur le vent apparent&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Plus le bateau va aller vite &lt;em&gt;par rapport au vent réel&lt;/em&gt; et plus le vent apparent sera influencé par le vent vitesse, donc dans l&amp;rsquo;axe du bateau.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;les-familles-d-allures&#34;&gt;Les familles d&amp;rsquo;allures&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Les &lt;strong&gt;allures&lt;/strong&gt; sont définies par rapport au &lt;strong&gt;vent réel&lt;/strong&gt;! (surtout en salle)&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;réglages&lt;/strong&gt; sont font par rapport au &lt;strong&gt;vent apparent&lt;/strong&gt;! (toujours sur l&amp;rsquo;eau)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;vent-arrière-si-déjà-abordé&#34;&gt;Vent Arrière (si déjà abordé)&lt;/h2&gt;
+
+&lt;h3 id=&#34;comment-le-remarque-t-on&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
+
+&lt;h4 id=&#34;visuel&#34;&gt;Visuel&lt;/h4&gt;
+
+&lt;h4 id=&#34;auditif&#34;&gt;Auditif&lt;/h4&gt;
+
+&lt;h4 id=&#34;kinéstéthique&#34;&gt;Kinéstéthique&lt;/h4&gt;
+
+&lt;h3 id=&#34;pourquoi-on-avance&#34;&gt;Pourquoi on avance&lt;/h3&gt;
+
+&lt;h3 id=&#34;qu-est-ce-qui-se-passe-quand-on-accélère&#34;&gt;Qu&amp;rsquo;est ce qui se passe quand on accélère?&lt;/h3&gt;
+
+&lt;h2 id=&#34;portant&#34;&gt;Portant&lt;/h2&gt;
+
+&lt;h3 id=&#34;comment-le-remarque-t-on-1&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
+
+&lt;h4 id=&#34;visuel-1&#34;&gt;Visuel&lt;/h4&gt;
+
+&lt;h4 id=&#34;auditif-1&#34;&gt;Auditif&lt;/h4&gt;
+
+&lt;h4 id=&#34;kinéstéthique-1&#34;&gt;Kinéstéthique&lt;/h4&gt;
+
+&lt;h3 id=&#34;pourquoi-on-avance-1&#34;&gt;Pourquoi on avance&lt;/h3&gt;
+
+&lt;h3 id=&#34;qu-est-ce-qui-se-passe-quand-on-accélère-1&#34;&gt;Qu&amp;rsquo;est ce qui se passe quand on accélère?&lt;/h3&gt;
+
+&lt;h2 id=&#34;travers&#34;&gt;Travers&lt;/h2&gt;
+
+&lt;h3 id=&#34;comment-le-remarque-t-on-2&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
+
+&lt;h4 id=&#34;visuel-2&#34;&gt;Visuel&lt;/h4&gt;
+
+&lt;h4 id=&#34;auditif-2&#34;&gt;Auditif&lt;/h4&gt;
+
+&lt;h4 id=&#34;kinéstéthique-2&#34;&gt;Kinéstéthique&lt;/h4&gt;
+
+&lt;h3 id=&#34;pourquoi-on-avance-2&#34;&gt;Pourquoi on avance&lt;/h3&gt;
+
+&lt;h3 id=&#34;qu-est-ce-qui-se-passe-quand-on-accélère-2&#34;&gt;Qu&amp;rsquo;est ce qui se passe quand on accélère?&lt;/h3&gt;
+
+&lt;h2 id=&#34;près&#34;&gt;Près&lt;/h2&gt;
+
+&lt;h3 id=&#34;comment-le-remarque-t-on-3&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
+
+&lt;h4 id=&#34;visuel-3&#34;&gt;Visuel&lt;/h4&gt;
+
+&lt;h4 id=&#34;auditif-3&#34;&gt;Auditif&lt;/h4&gt;
+
+&lt;h4 id=&#34;kinéstéthique-3&#34;&gt;Kinéstéthique&lt;/h4&gt;
+
+&lt;h3 id=&#34;pourquoi-on-avance-3&#34;&gt;Pourquoi on avance&lt;/h3&gt;
+
+&lt;h3 id=&#34;qu-est-ce-qui-se-passe-quand-on-accélère-3&#34;&gt;Qu&amp;rsquo;est ce qui se passe quand on accélère?&lt;/h3&gt;
+
+&lt;h2 id=&#34;bout-au-vent&#34;&gt;Bout au vent&lt;/h2&gt;
+
+&lt;h3 id=&#34;comment-le-remarque-t-on-4&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
+
+&lt;h4 id=&#34;visuel-4&#34;&gt;Visuel&lt;/h4&gt;
+
+&lt;h4 id=&#34;auditif-4&#34;&gt;Auditif&lt;/h4&gt;
+
+&lt;h4 id=&#34;kinéstéthique-4&#34;&gt;Kinéstéthique&lt;/h4&gt;
+
+&lt;h3 id=&#34;pourquoi-on-avance-4&#34;&gt;Pourquoi on avance&lt;/h3&gt;
+
+&lt;p&gt;Facile, on recule parce que le vent nous pousse!&lt;/p&gt;
+
+&lt;h3 id=&#34;qu-est-ce-qui-se-passe-quand-on-accélère-4&#34;&gt;Qu&amp;rsquo;est ce qui se passe quand on accélère?&lt;/h3&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

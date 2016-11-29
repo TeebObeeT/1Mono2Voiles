@@ -27,6 +27,7 @@ seance:
   - A partir d'un bateau lancé, faire arrêter le bateau pour que ses voiles ne portent plus
   - <b>Barre</b> - Pointer la barre vers la bôme
   - <b>Ecoutes</b> - Choquer en grand (penser au hale-bas de GV)
+  - Tourner aux postes ecoutes et barre
   07_securite:
   - La bôme est susceptible de se déplacer rapidement et de battre
   - Toujours regarder où l'on va dans une manoeuvre
