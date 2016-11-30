@@ -1,7 +1,7 @@
 ---
 author: Teebo
 categories: [Manoeuvre]
-date: 2016-11-29T13:52:24* [ ]01:00
+date: 2016-11-29T13:52:24+01:00
 niveaux:
 - Niveau-1
 postes:
@@ -69,7 +69,7 @@ Le lâcher de ris est similaire à la prise de ris, si ce n'est qu'il faut hisse
 **GV** |_Border de nouveau la grand voile._
 
 ## Rangement
- | 
+ |
 ------|-------
 **Numéro 1 ou Piano** |_Reprendre le mou des autres bosses de ris en attente._
 **Equipage** |_Si la voile est gênante, nouer les garcettes._
