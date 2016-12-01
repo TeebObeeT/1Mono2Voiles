@@ -4,6 +4,8 @@ categories: [Manoeuvre]
 date: 2016-11-29T13:52:24+01:00
 niveaux:
 - Niveau-1
+- Niveau-2
+- Niveau-3
 postes:
 - Barre
 - Piano

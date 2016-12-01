@@ -4,6 +4,10 @@ categories: [Sécurité]
 date: 2016-12-01T11:37:18+01:00
 niveaux:
 - Niveau-1
+- Niveau-2
+- Niveau-3
+- Niveau-4
+- Niveau-5
 postes:
 - Barre
 - GV

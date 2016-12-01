@@ -19,10 +19,9 @@ Comme dans toute manoeuvre, la communication est primordiale!
 ## Préparation
  |
 ------|-------
-**Foc** | Vérifier que l'ecoute bien lovée et prête à filer
-**Foc** | Vérifier que la contre-écoute reprise légèrement et tournée dans le bon sens autour du winch
 **Barre** | "Parés à virer?"
-**Equipage** | "Parés"!
+**Foc** | Vérifier que l'ecoute bien lovée et prête à filer
+**Foc** | Vérifier que la contre-écoute reprise légèrement et tournée dans le bon sens autour du winch**Equipage** | "Parés"!
 
 ## Exécution
  |
@@ -41,4 +40,4 @@ Comme dans toute manoeuvre, la communication est primordiale!
 
 # Remarques
 * **Après le virement, c'est avant le virement!** On reprépare toujours le prochain virement
-* Le **barreur** peut **changer de côté avant ou après le virement**, ou pendant si il est à l'aise, mais sans compromettre la manoeuvre_**
+* Le **barreur** peut **changer de côté avant ou après le virement**, ou pendant si il est à l'aise, mais sans compromettre la manoeuvre
