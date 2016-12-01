@@ -23,7 +23,9 @@ Encore une fois, la communication est essentielle, c'est le barreur (ou chef de 
 
 ## Préparation
 Cette manoeuvre ne se prépare pas, c'est aussi pour ça qu'il est important que le bateau soit toujours près à manoeuvrer!
-Dès que l'objet tombe/est repéré, un pointeur le montre en permanence au barreur (idéalement dans la descente, peu faire piano et/ou récuparateur par la suite)
+
+Dès que l'objet tombe/est repéré, un pointeur le montre en permanence au barreur *(idéalement dans la descente, peu faire piano et/ou récuparateur par la suite)*
+
 ## Exécution
  |
 ------|-------

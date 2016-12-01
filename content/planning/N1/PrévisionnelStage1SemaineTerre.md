@@ -33,6 +33,9 @@ planning:
     - 1T1.1 Faire deux nœuds marins
     - 1T1.2 Connaître la bonne utilisation des équipements nautiques et de vie à bord
     - 1T2.1 Connaître les principaux points du navire à vérifier avant une navigation
+    - 1T3.1 Plier les voiles et ranger les équipements après utilisation
+    - 1T3.2 Maintenir le navire propre et rangé
+    - 1T4.1 Participer aux réparations simples avec le moniteur
     09_viemaritime:
     - 1V1.2 Organiser le rangement de ses effets personnels
     - 1V1.3 Exprimer ses attentes
@@ -62,6 +65,8 @@ planning:
     04_conduite:
     - 1C1.1 Gonfler la voile pour avancer
     - 1C1.2 Utiliser la barre pour se diriger
+    - 1C1.3  Utiliser la voile pour ralentir
+    - 1C1.4  Utiliser la barre pour ralentir
     - 1C1.6 Différencier les allures de près des allures portantes
     - 2C1.4  Ajuster la trajectoire à une ouverture de voile donnée
     05_manoeuvre:
@@ -94,9 +99,14 @@ planning:
     - séance/repères
     - séance/N1/rof
     02_aprèsmidi:
-    - JEUX
+    - chrono/N1/empannage
+    - séance/N1/premiers empannages
+    - séance/N1/changement de foc
+    - séance/N1/cape
+    - séance/N1/vent arrière
     03_soir:
-    - null
+    - chrono/cape
+    - topo/N1/marées
     04_conduite:
     - null
     05_manoeuvre:
@@ -104,7 +114,9 @@ planning:
     06_navigation:
     - null
     07_sécurité:
-    - null
+    - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
+    - 1S3.1 Connaître la personne ou le service à contacter
+    - 1S3.2 Utiliser le moyen d’alerte défini
     08_technologie:
     - null
     09_viemaritime:
@@ -116,11 +128,16 @@ planning:
   jour_04:
     00_nom: Mardi
     01_matin:
-    - topo/N1/équilibre
+    - topo/N1/équilibres
+    - séance/N1/équilibres
+    - séance/N1/barre attachée
+    - séance/N1/virements
     02_aprèsmidi:
-    - null
+    - séance/N1/grand largue
+    - séance/N1/près
+    - séance/N1/empannages
     03_soir:
-    - null
+    - Bilan de mi-stage
     04_conduite:
     - null
     05_manoeuvre:
@@ -136,15 +153,21 @@ planning:
     10_environnement:
     - null
     11_administratif:
-    - null
+    - Bilan de mi-stage
   jour_05:
     00_nom: Mercredi
     01_matin:
-    - null
+    - topo/N1/réglages ajustages
+    - séance/N1/réglages
+    - séance/N1/quick stop
+    - topo/N1/météo
     02_aprèsmidi:
-    - null
+    - chrono/N1/hissagge de spi
+    - séance/N1/gréer le spi
+    - séance/N1/hissage-affalage de spi
+    - séance/N1/ajustages
     03_soir:
-    - null
+    - topo/N1/cadre
     04_conduite:
     - null
     05_manoeuvre:
@@ -164,9 +187,13 @@ planning:
   jour_06:
     00_nom: Jeudi
     01_matin:
-    - null
+    - topo/N1/privilèges
+    - séance/N1/banane
+    - séance/N1/évaluation
+    - séance/N1/prise de coffre
     02_aprèsmidi:
-    - null
+    - topo/N1/navigation
+    - séance/N1/promenade
     03_soir:
     - null
     04_conduite:
@@ -188,7 +215,9 @@ planning:
   jour_07:
     00_nom: Vendredi
     01_matin:
-    - null
+    - chrono/N1/empannage sous spi
+    - séance/N1/manipulation tangon
+    - séance/N1/empannage sous spi
     02_aprèsmidi:
     - Rangement base
     - Nettoyage bateau
@@ -220,3 +249,7 @@ semaine: stage 1 semaine à terre
 tags: []
 title: Prévisionnel stage à terre 1 semaine
 ---
+
+
+1C1.5
+1V1.1

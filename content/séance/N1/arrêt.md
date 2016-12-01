@@ -17,6 +17,8 @@ seance:
   02_but: Arrêter le bateau
   03_objectifs:
   - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
+  - 1C1.3  Utiliser la voile pour ralentir
+  - 1C1.4  Utiliser la barre pour ralentir
   04_reussite:
   - Le bateau est arrêté en moins de 20s
   - Le bateau reste arrêté au moins 30s
