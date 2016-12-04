@@ -96,19 +96,20 @@ planning:
     01_matin:
     - topo/sécurité à terre
     - chrono/rof
-    - séance/repères
+    - séance/N1/repères
     - séance/N1/rof
     02_aprèsmidi:
     - chrono/N1/empannage
-    - séance/N1/premiers empannages
+    - séance/N1/vent arrière
     - séance/N1/changement de foc
     - séance/N1/cape
-    - séance/N1/vent arrière
+    - séance/N1/premiers empannages
     03_soir:
     - chrono/cape
     - topo/N1/marées
     04_conduite:
-    - null
+    - 1C1.6 Différencier les allures de près des allures portantes
+    - Distinction au vent / sous le vent
     05_manoeuvre:
     - null
     06_navigation:

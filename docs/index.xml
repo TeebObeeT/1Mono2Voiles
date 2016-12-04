@@ -6,8 +6,35 @@
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 01 Dec 2016 15:19:14 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 Dec 2016 10:35:16 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>vent arrière</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</link>
+      <pubDate>Sun, 04 Dec 2016 10:35:16 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rof</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rof/</link>
+      <pubDate>Sun, 04 Dec 2016 10:15:07 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repères</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rep%C3%A8res/</link>
+      <pubDate>Sun, 04 Dec 2016 09:47:46 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rep%C3%A8res/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>empannage sous spi</title>
@@ -1060,33 +1087,6 @@ Comme dans toute manoeuvre, la communication est primordiale!
 &lt;li&gt;&lt;strong&gt;Après le virement, c&amp;rsquo;est avant le virement!&lt;/strong&gt; On reprépare toujours le prochain virement&lt;/li&gt;
 &lt;li&gt;Le &lt;strong&gt;barreur&lt;/strong&gt; peut &lt;strong&gt;changer de côté avant ou après le virement&lt;/strong&gt;, ou pendant si il est à l&amp;rsquo;aise, mais sans compromettre la manoeuvre&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>premiers virements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/premiers-virements/</link>
-      <pubDate>Tue, 29 Nov 2016 15:06:04 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/premiers-virements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mouillage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/mouillage/</link>
-      <pubDate>Tue, 29 Nov 2016 15:05:51 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/mouillage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>initiation au grand largue</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue/</link>
-      <pubDate>Tue, 29 Nov 2016 15:05:36 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue/</guid>
-      <description></description>
     </item>
     
   </channel>
