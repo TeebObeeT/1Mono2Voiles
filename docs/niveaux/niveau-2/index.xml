@@ -9,6 +9,63 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Marées</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es/</link>
+      <pubDate>Mon, 05 Dec 2016 13:14:11 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es/</guid>
+      <description>&lt;p&gt;Les marées sont présentes partout, en Manche, en Méditérannée, et même dans mon café!
+Petites explications sur le phénomène et brêve prise en main du calcul de marée.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;description-du-phénomène&#34;&gt;Description du phénomène&lt;/h1&gt;
+
+&lt;h2 id=&#34;marées&#34;&gt;Marées&lt;/h2&gt;
+
+&lt;h2 id=&#34;coefficient&#34;&gt;Coefficient&lt;/h2&gt;
+
+&lt;h1 id=&#34;origine-du-phénomène&#34;&gt;Origine du phénomène&lt;/h1&gt;
+
+&lt;h2 id=&#34;lune-cycle-des-heures&#34;&gt;Lune - Cycle des heures&lt;/h2&gt;
+
+&lt;h2 id=&#34;soleil-cycle-des-coefficients&#34;&gt;Soleil - Cycle des coefficients&lt;/h2&gt;
+
+&lt;h3 id=&#34;sizygie-dans-l-axe&#34;&gt;Sizygie : Dans l&amp;rsquo;axe&lt;/h3&gt;
+
+&lt;h3 id=&#34;quadrature-triangle-rectangle&#34;&gt;Quadrature : Triangle rectangle&lt;/h3&gt;
+
+&lt;h2 id=&#34;terre-rotation-coryolis&#34;&gt;Terre : Rotation (Coryolis)&lt;/h2&gt;
+
+&lt;h2 id=&#34;géographie-locale-tous-les-endroits-ne-sont-pas-synchronisés&#34;&gt;Géographie locale - Tous les endroits ne sont pas synchronisés&lt;/h2&gt;
+
+&lt;h1 id=&#34;sources-de-données&#34;&gt;Sources de données&lt;/h1&gt;
+
+&lt;h2 id=&#34;shom-seule-source-officielle&#34;&gt;SHOM - seule source officielle&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Service Hydrographique et Océanographique de la Marine&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Le SHOM utilise la formule harmonique depuis 1991 en remplacement de la formule de Laplace:
+&lt;img src=&#34;../../img/topos/harmonique.png&#34; alt=&#34;Formule harmonique&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;information du SHOM est reprise à plusieurs endroits, mais attention aux apps de téléphones!&lt;/p&gt;
+
+&lt;h2 id=&#34;présentation-des-données&#34;&gt;Présentation des données&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/topos/ports.png&#34; alt=&#34;Horaires de marées&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;calcul-de-marée&#34;&gt;Calcul de marée&lt;/h1&gt;
+
+&lt;h2 id=&#34;port-de-référence&#34;&gt;Port de référence&lt;/h2&gt;
+
+&lt;h2 id=&#34;courbe-sinusoidale&#34;&gt;Courbe sinusoidale&lt;/h2&gt;
+
+&lt;h2 id=&#34;droite-des-douzièmes&#34;&gt;Droite des douzièmes&lt;/h2&gt;
+
+&lt;h2 id=&#34;demi-cercle-anglais&#34;&gt;Demi-cercle anglais&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
       <title>rof</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rof/</link>
       <pubDate>Sun, 04 Dec 2016 10:15:07 +0100</pubDate>

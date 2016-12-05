@@ -1,38 +1,47 @@
 ---
 author: Teebo
-categories: []
+categories: [Conduite]
 date: 2016-12-04T10:35:16+01:00
 niveaux:
 - Niveau-1
 postes:
-- null
+- Barre
+- GV
 seance:
   00_prereq:
   - null
   01_orga:
-  - null
-  02_but: null
+  - Départ au vent du plan d'eau
+  - Chrono
+  02_but: Naviguer avec les voiles en ciseaux pendant 3'
   03_objectifs:
-  - null
+  - Sentir le bateau au vent arrière et observer la chute de la GV
   04_reussite:
-  - null
+  - Le barreur tient les voiles en ciseaux pendant 3' sans empannage ni foc "à contre"
   05_evaluation:
-  - null
+  - Pas de grands coups de barre
+  - L'équipier de GV surveille bien sa chute
+  - Le foc reste gonflé ou au pire dans l'axe du bateau
+  - Pas d'empannage
   06_consignes:
-  - null
+  - Faire passer les voiles en ciseaux
+  - Tenir les voiles en ciseaux pendant 3'
+  - Pointer la voile "fautive" avec la barre
   07_securite:
-  - null
+  - Personne debout dans le trajet de la bôme
+  - Personne debout dans le trajet du palan
+  - Chariot au milieu
   08_didac:
     moins:
-    - null
+    - Chercher la limite de chute du foc et "jouer" avec
     plus:
-    - null
+    - S'écarter vers le travers puis retrouver les ciseaux plusieurs fois
   09_meteo:
     moins:
-    - null
+    - GV bordée dans l'axe
+    - Mouillage à l'arrière
     plus:
     - Réduire la voilure (ris)
 tags: []
 title: vent arrière
 ---
-

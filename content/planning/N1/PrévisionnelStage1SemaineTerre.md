@@ -101,15 +101,16 @@ planning:
     02_aprèsmidi:
     - chrono/N1/empannage
     - séance/N1/vent arrière
-    - séance/N1/changement de foc
+    - séance/N1/changement de focs
     - séance/N1/cape
     - séance/N1/premiers empannages
     03_soir:
     - chrono/cape
-    - topo/N1/marées
+    - topo/marées
     04_conduite:
     - 1C1.6 Différencier les allures de près des allures portantes
     - Distinction au vent / sous le vent
+    - Sentir le bateau au vent arrière et observer la chute de la GV
     05_manoeuvre:
     - null
     06_navigation:

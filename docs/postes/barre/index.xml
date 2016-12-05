@@ -9,6 +9,24 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/barre/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Mise à la cape</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/cape/</link>
+      <pubDate>Mon, 05 Dec 2016 12:54:56 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/cape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vent arrière</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</link>
+      <pubDate>Sun, 04 Dec 2016 10:35:16 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>rof</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rof/</link>
       <pubDate>Sun, 04 Dec 2016 10:15:07 +0100</pubDate>
@@ -1015,24 +1033,6 @@ Comme dans toute manoeuvre, la communication est primordiale!
       <pubDate>Tue, 29 Nov 2016 13:06:49 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-ris/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>allures</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/allures/</link>
-      <pubDate>Tue, 29 Nov 2016 13:06:39 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/allures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Empannage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage/</link>
-      <pubDate>Tue, 15 Nov 2016 14:22:25 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage/</guid>
       <description></description>
     </item>
     

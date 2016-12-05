@@ -19,7 +19,7 @@ seance:
   - Chacun est capable de montrer 2 points sur l'eau et leur représentation sur la carte
   - L'équipage repère les points cardinaux
   05_evaluation:
-  - Chacun sait d'écrire ce qu'il voit correctement (ex: tourelle cardinale est)
+  - Chacun sait d'écrire ce qu'il voit correctement (ex tourelle cardinale est)
   06_consignes:
   - En binôme, chacun trouve un point sur l'eau et le décrit à celui qui a la carte
   - Ensuite on inverse les rôles
