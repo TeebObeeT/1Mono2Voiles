@@ -30,6 +30,7 @@ Petites explications sur le phénomène et brêve prise en main du calcul de mar
 *Service Hydrographique et Océanographique de la Marine*
 
 Le SHOM utilise la formule harmonique depuis 1991 en remplacement de la formule de Laplace:
+
 ![Formule harmonique](../../img/topos/harmonique.png)
 
 L'information du SHOM est reprise à plusieurs endroits, mais attention aux apps de téléphones!
