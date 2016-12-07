@@ -5,7 +5,7 @@ date: 2016-12-05T16:11:55+01:00
 niveaux:
 - Niveau-1
 tags: []
-title: Equilibre
+title: Equilibres
 ---
 Il s'agit ici d'une introduction aux équilibres hydro/aéro qui font que le bateau avance, gîte, ne se retourne pas,...
 
