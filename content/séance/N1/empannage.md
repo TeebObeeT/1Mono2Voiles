@@ -1,4 +1,5 @@
 ---
+draft: true 
 title: Empannage
 date: 2016-11-15T14:22:25+01:00
 categories: [Manoeuvre]
