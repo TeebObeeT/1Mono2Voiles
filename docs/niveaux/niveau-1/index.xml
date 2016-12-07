@@ -9,6 +9,303 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>météo</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</link>
+      <pubDate>Tue, 06 Dec 2016 15:09:59 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</guid>
+      <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
+Egalemment une explication générique sur les anticyclones/dépressions et effets de site.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;bulletin-météo&#34;&gt;Bulletin météo&lt;/h1&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;h3 id=&#34;echelle-beaufort&#34;&gt;Echelle Beaufort&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Force&lt;/th&gt;
+&lt;th&gt;Appellation&lt;/th&gt;
+&lt;th&gt;Vitesse du vent&lt;/th&gt;
+&lt;th&gt;Etat de la mer&lt;/th&gt;
+&lt;th&gt;Effets à terre&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;calme&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1N&lt;/td&gt;
+&lt;td&gt;Mer d&amp;rsquo;huile, miroir&lt;/td&gt;
+&lt;td&gt;La fumée monte droit&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;très légère brise&lt;/td&gt;
+&lt;td&gt;1 à 3N&lt;/td&gt;
+&lt;td&gt;Mer ridée&lt;/td&gt;
+&lt;td&gt;La fumée indique la direction du vent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;légère brise&lt;/td&gt;
+&lt;td&gt;4 à 6N&lt;/td&gt;
+&lt;td&gt;Vaguelettes&lt;/td&gt;
+&lt;td&gt;On sent le vent au visage&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;petite brise&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;7 à 10N&lt;/td&gt;
+&lt;td&gt;Petits moutons&lt;/td&gt;
+&lt;td&gt;Les drapeaux flottent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;jolie brise&lt;/td&gt;
+&lt;td&gt;11 à 16N&lt;/td&gt;
+&lt;td&gt;Nombreux moutons&lt;/td&gt;
+&lt;td&gt;Le sable s&amp;rsquo;envole&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;bonne brise&lt;/td&gt;
+&lt;td&gt;17 à 21N&lt;/td&gt;
+&lt;td&gt;Vagues, embruns&lt;/td&gt;
+&lt;td&gt;Les branches des pins s&amp;rsquo;agitent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;vent frais&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;22 à 27N&lt;/td&gt;
+&lt;td&gt;Lames, crêtes d&amp;rsquo;écume étendues&lt;/td&gt;
+&lt;td&gt;Les fils électriques sifflent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;7&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;grand frais&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;28 à 33N&lt;/td&gt;
+&lt;td&gt;Lames déferlantes&lt;/td&gt;
+&lt;td&gt;On peine à marcher contre le vent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;coup de vent&lt;/td&gt;
+&lt;td&gt;34 à 40N&lt;/td&gt;
+&lt;td&gt;Les crêtes des vagues partent en tourbillon d&amp;rsquo;écume&lt;/td&gt;
+&lt;td&gt;On ne marche plus contre le vent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;fort coup de vent&lt;/td&gt;
+&lt;td&gt;41 à 47N&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;10&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;tempête&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;48 à 55N&lt;/td&gt;
+&lt;td&gt;Les embruns obscurcissent la vue, on ne voit plus rien&lt;/td&gt;
+&lt;td&gt;Les enfants de moins de 12 ans volent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;violente tempête&lt;/td&gt;
+&lt;td&gt;56 à 63N&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;ouragan&lt;/td&gt;
+&lt;td&gt;64N et plus&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;echelle-douglas&#34;&gt;Echelle Douglas&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Force&lt;/th&gt;
+&lt;th&gt;Descriptif&lt;/th&gt;
+&lt;th&gt;Hauteur en mètres&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;calme&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;ridée&lt;/td&gt;
+&lt;td&gt;0 à 0,1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;belle&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;0,1 à 0,5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;peu agitée&lt;/td&gt;
+&lt;td&gt;0,5 à 1,25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;agitée&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1,25 à 2,5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;forte&lt;/td&gt;
+&lt;td&gt;2,5 à 4&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;très forte&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;4 à 6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;grosse&lt;/td&gt;
+&lt;td&gt;6 à 9&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;très grosse&lt;/td&gt;
+&lt;td&gt;9 à 14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;énorme&lt;/td&gt;
+&lt;td&gt;14 et plus&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;situation-générale-et-évolution&#34;&gt;Situation générale et évolution&lt;/h2&gt;
+
+&lt;h3 id=&#34;bulletin-météorologique-spécial&#34;&gt;Bulletin Météorologique Spécial&lt;/h3&gt;
+
+&lt;p&gt;A partir de force 7.&lt;/p&gt;
+
+&lt;p&gt;Notifications, significations.&lt;/p&gt;
+
+&lt;h3 id=&#34;pression-atmosphérique&#34;&gt;Pression atmosphérique&lt;/h3&gt;
+
+&lt;p&gt;!TODO&lt;/p&gt;
+
+&lt;h3 id=&#34;anticyclone&#34;&gt;Anticyclone&lt;/h3&gt;
+
+&lt;p&gt;!TODO&lt;/p&gt;
+
+&lt;h3 id=&#34;dépression&#34;&gt;Dépression&lt;/h3&gt;
+
+&lt;p&gt;!TODO&lt;/p&gt;
+
+&lt;h2 id=&#34;observations&#34;&gt;Observations&lt;/h2&gt;
+
+&lt;p&gt;!TODO&lt;/p&gt;
+
+&lt;h2 id=&#34;prévisions&#34;&gt;Prévisions&lt;/h2&gt;
+
+&lt;h3 id=&#34;vent&#34;&gt;Vent&lt;/h3&gt;
+
+&lt;p&gt;Exprimé en beaufort, attention aux rafales&lt;/p&gt;
+
+&lt;h3 id=&#34;mer&#34;&gt;Mer&lt;/h3&gt;
+
+&lt;p&gt;Voir l&amp;rsquo;échelle Douglas&lt;/p&gt;
+
+&lt;h3 id=&#34;houle&#34;&gt;Houle&lt;/h3&gt;
+
+&lt;p&gt;Origine de la houle au large, selon zone annonciatrice du vent à venir&lt;/p&gt;
+
+&lt;h3 id=&#34;temps&#34;&gt;Temps&lt;/h3&gt;
+
+&lt;p&gt;Bulletin &amp;ldquo;traditionnel&amp;rdquo;&lt;/p&gt;
+
+&lt;h3 id=&#34;visibilité&#34;&gt;Visibilité&lt;/h3&gt;
+
+&lt;p&gt;Il s&amp;rsquo;agit de visibilité horizontale (&lt;em&gt;pas oblique ou verticale&lt;/em&gt;). C&amp;rsquo;est une visibilité théorique si il y avait assez de lumière (&lt;em&gt;pour la nuit&lt;/em&gt;)&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Qualification&lt;/th&gt;
+&lt;th&gt;Distance (en milles marins)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Bonne&lt;/td&gt;
+&lt;td&gt;supérieure à 5 milles marins&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Médiocre&lt;/td&gt;
+&lt;td&gt;entre 2 et 5 milles marins&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mauvaise&lt;/td&gt;
+&lt;td&gt;entre 0,5 et 2 milles marins&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Brouillard&lt;/td&gt;
+&lt;td&gt;inférieure à 0,5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;effets-de-site&#34;&gt;Effets de site&lt;/h1&gt;
+
+&lt;h2 id=&#34;thermique&#34;&gt;Thermique&lt;/h2&gt;
+
+&lt;p&gt;!TODO&lt;/p&gt;
+
+&lt;h2 id=&#34;venturi&#34;&gt;Venturi&lt;/h2&gt;
+
+&lt;p&gt;!TODO&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Equilibre</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibre/</link>
       <pubDate>Mon, 05 Dec 2016 16:11:55 +0100</pubDate>
@@ -855,24 +1152,6 @@ Si un doute sur le dépassement, ne pas hésiter à prévenir le moniteur&lt;/p&
 &lt;li&gt;Gaëtan&lt;/li&gt;
 &lt;li&gt;Charles-Pierre (Sharp)&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>2ème semaine 05112016</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/R%C3%A9alis%C3%A9Semaine2Mer-05112016/</link>
-      <pubDate>Thu, 01 Dec 2016 11:09:37 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/R%C3%A9alis%C3%A9Semaine2Mer-05112016/</guid>
-      <description>&lt;p&gt;Semaine réalisée en &amp;ldquo;improvisation&amp;rdquo; en fonction de la météo et sur &lt;a href=&#34;https://teebobeet.github.io/1Mono2Voiles/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelSemaine2Mer-05112016/&#34; title=&#34;Prévisionnel&#34;&gt;cette base&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stagiaires:&lt;/strong&gt;
-* Alain
-* Marc
-* Antoine
-* Gaëtan
-* Charles-Pierre (Sharp)&lt;/p&gt;</description>
     </item>
     
   </channel>
