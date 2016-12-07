@@ -16,7 +16,7 @@
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</guid>
       <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
-Egalemment une explication générique sur les anticyclones/dépressions et effets de site.&lt;/p&gt;
+Egalement une explication générique sur les anticyclones/dépressions et effets de site.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -226,21 +226,53 @@ Egalemment une explication générique sur les anticyclones/dépressions et effe
 
 &lt;p&gt;Notifications, significations.&lt;/p&gt;
 
-&lt;h3 id=&#34;pression-atmosphérique&#34;&gt;Pression atmosphérique&lt;/h3&gt;
+&lt;h3 id=&#34;pression-et-humidité-atmosphérique&#34;&gt;Pression et humidité atmosphérique&lt;/h3&gt;
 
-&lt;p&gt;!TODO&lt;/p&gt;
+&lt;p&gt;La pression atmosphérique est la pression exercée par une colonne d&amp;rsquo;air au niveau de la mer par une température de 15°C. La pression normale est d&amp;rsquo;environ 1013,25hPa, arrondie à 1015hPa dans le monde anglo-saxon.&lt;/p&gt;
+
+&lt;p&gt;La pression dépend de la température de l&amp;rsquo;air ainsi que son humidité (&lt;em&gt;pour un volume donné, celui de notre colonne d&amp;rsquo;air&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Plus l&amp;rsquo;air est chaud, plus il peut contenir de l&amp;rsquo;eau (&lt;em&gt;ex: Chaleur tropicale et froid polaire&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;Quand l&amp;rsquo;air se refroidit la vapeur condense et forme des gouttelettes d&amp;rsquo;eau liquide : on dit que le seuil de la saturation augmente avec la température.  (*ex rosée, condensation dans la salle de bain en hiver)&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;humidité &lt;strong&gt;relative&lt;/strong&gt; d&amp;rsquo;une masse d&amp;rsquo;air varie donc avec la température de l&amp;rsquo;air. Lorsque la température augmente, en journée, l&amp;rsquo;humidité relative diminue, alors que le contenu en eau de la masse d&amp;rsquo;air - l&amp;rsquo;humidité absolue - reste inchangé. &lt;/p&gt;
+
+&lt;p&gt;De même la pression dépend de la température:&lt;/p&gt;
+
+&lt;p&gt;​       PV=nRT&lt;/p&gt;
+
+&lt;p&gt;P: &lt;em&gt;Pression&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;V: &lt;em&gt;Volume&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;n: &lt;em&gt;Quantité d&amp;rsquo;air (moles)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;R: &lt;em&gt;Constante d&amp;rsquo;Avogadro&lt;/em&gt; ou &lt;em&gt;Constante universelle des gaz parfaits&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Du coup, à volume constant (&lt;em&gt;notre colonne d&amp;rsquo;air&lt;/em&gt;), et pour la même quantité d&amp;rsquo;air, la pression dépend de la température. Plus il fait chaud, plus la pression augmente.&lt;/p&gt;
 
 &lt;h3 id=&#34;anticyclone&#34;&gt;Anticyclone&lt;/h3&gt;
 
-&lt;p&gt;!TODO&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/topos/anticyclonedepression.bmp&#34; alt=&#34;Anticyclone et dépression&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Un anticyclone est une masse d&amp;rsquo;air froid et sec qui descend de la troposphère et qui agit comme un &amp;ldquo;compresseur&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Un anticyclone tourne en sens horaire et les vents s&amp;rsquo;en écartent.&lt;/p&gt;
 
 &lt;h3 id=&#34;dépression&#34;&gt;Dépression&lt;/h3&gt;
 
-&lt;p&gt;!TODO&lt;/p&gt;
+&lt;p&gt;Une dépression est une masse d&amp;rsquo;air chaude et humide en surface terrestre, qui du coup va monter (&lt;em&gt;moins dense/moins lourd que l&amp;rsquo;air froid du dessus&lt;/em&gt;) et se refroidir =&amp;gt; Condensation. C&amp;rsquo;est une sorte d&amp;rsquo;aspirateur à air.&lt;/p&gt;
+
+&lt;p&gt;Une dépression tourne en sens anti-horaire et les vents rentrent.&lt;/p&gt;
+
+&lt;h3 id=&#34;création-du-vent-géostrophique&#34;&gt;Création du vent géostrophique&lt;/h3&gt;
+
+&lt;p&gt;Le vent géostrophique est le vent qui se crée dans l&amp;rsquo;atmosphère sans prendre en compte les frottements dûs au sol et à la géographie. Il est celui que l&amp;rsquo;on peut prédire en regardant juste les cartes des anticyclones et dépressions&lt;/p&gt;
 
 &lt;h2 id=&#34;observations&#34;&gt;Observations&lt;/h2&gt;
 
-&lt;p&gt;!TODO&lt;/p&gt;
+&lt;p&gt;Cela permet de situer le point de départ géographique et météorologique des prévisions.&lt;/p&gt;
 
 &lt;h2 id=&#34;prévisions&#34;&gt;Prévisions&lt;/h2&gt;
 
@@ -299,11 +331,19 @@ Egalemment une explication générique sur les anticyclones/dépressions et effe
 
 &lt;h2 id=&#34;thermique&#34;&gt;Thermique&lt;/h2&gt;
 
-&lt;p&gt;!TODO&lt;/p&gt;
+&lt;p&gt;Durant le jour, près des côtes d’un lac ou de la mer, le soleil réchauffe plus rapidement le sol que l’eau. L’air prend donc plus d’expansion sur terre et s’élève créant une pression plus basse que sur le plan d’eau. Une fois encore cette différence de pression se crée sur une distance très faible et ne peut être contrebalancée par les forces de Coriolis. Une brise de mer (lac) s’établit donc. La même chose se produit la nuit mais en direction inverse, la brise de terre&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/topos/thermique.bmp&#34; alt=&#34;Thermique&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;venturi&#34;&gt;Venturi&lt;/h2&gt;
 
-&lt;p&gt;!TODO&lt;/p&gt;</description>
+&lt;p&gt;Le vent est dirigé par les obstacles, il suivra une vallée, il longera une côte en falaises,&amp;hellip;De plus, il se renforcera, en quelque sorte, &lt;em&gt;il y a moins de place pour faire passer l&amp;rsquo;air, il faut donc le faire passer plus vite.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;orages&#34;&gt;Orages&lt;/h1&gt;
+
+&lt;p&gt;Un &lt;strong&gt;orage&lt;/strong&gt; (dérivé à l&amp;rsquo;aide du suffixe &lt;em&gt;age&lt;/em&gt; de l&amp;rsquo;ancien français &lt;em&gt;ore&lt;/em&gt;, signifiant « vent) est une perturbation atmosphérique d&amp;rsquo;origine convective (-)&lt;em&gt;mouvements verticaux dans un fluide&lt;/em&gt; ) associée à un type de nuage particulier : le cumulonimbus. Ce dernier est à forte extension verticale, il engendre des pluies fortes à diluviennes, des décharges électriques de foudre accompagnées de tonnerre. Dans des cas extrêmes, l&amp;rsquo;orage peut produire des chutes de grêle, des vents très violents et, rarement, des tornades.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/topos/orage.bmp&#34; alt=&#34;Orage&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

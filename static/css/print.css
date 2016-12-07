@@ -29,7 +29,7 @@ Seance and planning Look and feel
 }
 .seance table{
     border-collapse: collapse;
-	border: 1px solid #000;
+	  border: 1px solid #000;
     width: 100%;
     font-size:12pt;
 }
