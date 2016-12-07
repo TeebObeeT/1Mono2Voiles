@@ -130,6 +130,6 @@ Le vent est dirigé par les obstacles, il suivra une vallée, il longera une cô
 
 # Orages
 
-Un **orage** (dérivé à l'aide du suffixe *age* de l'ancien français *ore*, signifiant « vent) est une perturbation atmosphérique d'origine convective (-)*mouvements verticaux dans un fluide* ) associée à un type de nuage particulier : le cumulonimbus. Ce dernier est à forte extension verticale, il engendre des pluies fortes à diluviennes, des décharges électriques de foudre accompagnées de tonnerre. Dans des cas extrêmes, l'orage peut produire des chutes de grêle, des vents très violents et, rarement, des tornades.
+Un **orage** (dérivé à l'aide du suffixe *age* de l'ancien français *ore*, signifiant « vent) est une perturbation atmosphérique d'origine convective (-)*mouvements verticaux dans un fluide*) associée à un type de nuage particulier : le cumulonimbus. Ce dernier est à forte extension verticale, il engendre des pluies fortes à diluviennes, des décharges électriques de foudre accompagnées de tonnerre. Dans des cas extrêmes, l'orage peut produire des chutes de grêle, des vents très violents et, rarement, des tornades.
 
 ![Orage](../../../img/topos/orage.bmp)
