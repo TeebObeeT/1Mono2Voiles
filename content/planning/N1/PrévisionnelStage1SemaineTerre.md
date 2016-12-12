@@ -142,7 +142,11 @@ planning:
     03_soir:
     - Bilan de mi-stage
     04_conduite:
-    - null
+    - Sentir le bateau et les conséquences de la répartition des masses au près
+    - Se positionner correctement sur le bateau au près
+    - Réglage des voiles aux allures portantes
+    - Sentir le bateau et les conséquences de la répartition des masses au GL
+    - Se positionner correctement sur le bateau au GL
     05_manoeuvre:
     - null
     06_navigation:
