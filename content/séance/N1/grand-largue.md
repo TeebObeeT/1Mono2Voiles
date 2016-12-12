@@ -1,36 +1,41 @@
 ---
-draft: true
 author: Teebo
 categories: []
 date: 2016-11-29T11:10:07+01:00
 niveaux:
 - Niveau-1
 postes:
-- null
+- Foc
+- GV
 seance:
   00_prereq:
-  - null
+  - initiation au grand largue
   01_orga:
-  - null
-  02_but: null
+  - Idéalement, repérer un endroit du plan d'eau avec un vent tournant
+  - Sinon le moniteur "simule" le vent tournant en changeant de direction
+  02_but: Garder le bateau régler sans toucher à la barre
   03_objectifs:
-  - null
+  - Réglage des voiles aux allures portantes
   04_reussite:
-  - null
+  - Les voiles sont réglées par rapport au cap et en permanence si le vent tourne
   05_evaluation:
-  - null
+  - Les équipiers surveillent leur voile
+  - Les réglages sont fait en regardant la voile
   06_consignes:
-  - null
+  - Le moniteur prend la barre et se met à une allure portante
+  - Toujours regarder sa voile
+  - Chercher en permanence le bon réglage
+  - Echanger les postes
   07_securite:
-  - null
+  - Déplacements sous le vent de la bôme
   08_didac:
     moins:
-    - null
+    - Garder la même position par rapport au vent
     plus:
-    - null
+    - Varier fréquemment l'allure
   09_meteo:
     moins:
-    - null
+    - Coffre ou mouillage à l'arrière
     plus:
     - Réduire la voilure (ris)
 tags: []

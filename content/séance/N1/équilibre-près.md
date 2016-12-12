@@ -41,5 +41,5 @@ seance:
     - Réduire la voilure (ris)
     - Se contenter de tester les différentes positions entre axe et au vent (pas sous le vent)
 tags: [Près]
-title: équilibres
+title: Equilibre au près
 ---

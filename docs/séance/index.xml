@@ -6,15 +6,24 @@
     <description>Recent content in Séance-rsses on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 07 Dec 2016 17:14:52 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2016 17:32:17 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>équilibres</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibres-pr%C3%A8s/</link>
+      <title>Equilibre au grand largue</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-grand-largue/</link>
+      <pubDate>Mon, 12 Dec 2016 17:32:17 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-grand-largue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equilibre au près</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-pr%C3%A8s/</link>
       <pubDate>Wed, 07 Dec 2016 17:14:52 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibres-pr%C3%A8s/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-pr%C3%A8s/</guid>
       <description></description>
     </item>
     
@@ -132,15 +141,6 @@
       <pubDate>Tue, 29 Nov 2016 12:06:20 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9part/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>périmètre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre/</link>
-      <pubDate>Mon, 28 Nov 2016 18:09:31 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre/</guid>
       <description></description>
     </item>
     

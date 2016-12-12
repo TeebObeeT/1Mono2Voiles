@@ -130,7 +130,7 @@ planning:
   jour_04:
     00_nom: Mardi
     01_matin:
-    - séance/N1/équilibres près
+    - séance/N1/équilibre près
     - séance/N1/grand largue
     - séance/N1/virements
     - topo/N1/équilibres
