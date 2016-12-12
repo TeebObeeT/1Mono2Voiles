@@ -1,5 +1,4 @@
 ---
-draft: true
 author: Teebo
 categories: [Conduite]
 date: 2016-12-07T17:14:52+01:00

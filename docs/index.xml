@@ -6,8 +6,17 @@
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 06 Dec 2016 15:09:59 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 17:14:52 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>équilibres</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibres-pr%C3%A8s/</link>
+      <pubDate>Wed, 07 Dec 2016 17:14:52 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibres-pr%C3%A8s/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>météo</title>
@@ -1172,27 +1181,6 @@ Si un doute sur le dépassement, ne pas hésiter à prévenir le moniteur&lt;/p&
 &lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
 
 &lt;p&gt;Le bateau est arrêté, la GV faseye, il faut repartir sous GV seule rapidement, tout ranger, hisser le foc&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>1ère semaine 29102016</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/R%C3%A9alis%C3%A9Semaine1Terre-29102016/</link>
-      <pubDate>Thu, 01 Dec 2016 11:20:49 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/R%C3%A9alis%C3%A9Semaine1Terre-29102016/</guid>
-      <description>&lt;p&gt;Semaine réalisée en &amp;ldquo;improvisation&amp;rdquo; en fonction de la météo et sur &lt;a href=&#34;https://teebobeet.github.io/1Mono2Voiles/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelSemaine1Terre-29102016/&#34; title=&#34;Prévisionnel&#34;&gt;cette base&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stagiaires:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Alain&lt;/li&gt;
-&lt;li&gt;Marc&lt;/li&gt;
-&lt;li&gt;Antoine&lt;/li&gt;
-&lt;li&gt;Gaëtan&lt;/li&gt;
-&lt;li&gt;Charles-Pierre (Sharp)&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
   </channel>
