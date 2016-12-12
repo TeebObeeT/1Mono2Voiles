@@ -133,9 +133,9 @@ planning:
     - séance/N1/équilibre près
     - séance/N1/grand largue
     - séance/N1/virements
-    - topo/N1/équilibres
+    - séance/N1/équilibre grand largue
     02_aprèsmidi:
-    - séance/N1/équilibres grand largue
+    - topo/N1/équilibres
     - séance/N1/barre attachée
     - séance/N1/près
     - séance/N1/empannages
