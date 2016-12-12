@@ -130,12 +130,13 @@ planning:
   jour_04:
     00_nom: Mardi
     01_matin:
-    - topo/N1/équilibres
-    - séance/N1/équilibres
-    - séance/N1/barre attachée
-    - séance/N1/virements
-    02_aprèsmidi:
+    - séance/N1/équilibres près
     - séance/N1/grand largue
+    - séance/N1/virements
+    - topo/N1/équilibres
+    02_aprèsmidi:
+    - séance/N1/équilibres grand largue
+    - séance/N1/barre attachée
     - séance/N1/près
     - séance/N1/empannages
     03_soir:
