@@ -142,13 +142,16 @@ planning:
     03_soir:
     - Bilan de mi-stage
     04_conduite:
-    - Sentir le bateau et les conséquences de la répartition des masses au près
-    - Se positionner correctement sur le bateau au près
+    - Sentir le bateau et les conséquences de la répartition des masses
+    - Se positionner correctement sur le bateau
     - Réglage des voiles aux allures portantes
-    - Sentir le bateau et les conséquences de la répartition des masses au GL
-    - Se positionner correctement sur le bateau au GL
+    - Compréhension de la dynamique aéro-hydro
+    - Se positionner correctement sur le navire
     05_manoeuvre:
-    - null
+    - 1M1.1 Utiliser la barre pour changer d’amure
+    - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
+    - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
+    - 1S1.2 Savoir utiliser les winches en sécurité
     06_navigation:
     - null
     07_sécurité:

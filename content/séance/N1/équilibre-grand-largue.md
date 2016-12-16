@@ -41,6 +41,6 @@ seance:
     plus:
     - Réduire la voilure (ris)
     - Affaler la GV préalablement
-tags: [Portant]
+tags: [Portant, Equilibre]
 title: Equilibre au grand largue
 ---

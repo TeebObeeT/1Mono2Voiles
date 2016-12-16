@@ -1,5 +1,4 @@
 ---
-draft: true 
 title: Empannage
 date: 2016-11-15T14:22:25+01:00
 categories: [Manoeuvre]
@@ -11,28 +10,35 @@ postes:
 author: Teebo
 seance:
  00_prereq:
-  - 1C1.6 Distinguer les allures portantes,
-  - Chronologie de l'empannage
-  - 1C1.2 Utiliser la barre pour se diriger
+  - Premiers empannages
  01_orga:
-  - null
- 02_but:
+  - Long bord de grand largue
+  - Chrono
+ 02_but: Enchainer 5 empannages en moins d'1 minute
  03_objectifs:
  - 1M1.1 Utiliser la barre pour changer d’amure
+ - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
+ - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
  04_reussite:
-  - null
+  - Sans que la bôme soit passée sauvagement, enchainer les empannages sans départ au lofe
  05_evaluation:
-  - null
+  - Communication
+  - Bôme toujours dans l'axe avant l'empannage
+  - Cap ne varie pas de plus de 50° au total
  06_consignes:
-  - null
+  - Annoncer ses manoeuvres
+  - Se mettre au GL
+  - Respecter la chronologie
+  - Respecter un bon placement des masses
+  - Enchainer 5 empannages maitrisés en moins d'une minute
+  - Tourner aux postes
  07_securite:
   - Personne dans le trajet du palan
   - Personne debout dans le cockpit
   - Déplacements sous le vent
  08_didac:
   plus:
-  - Manoeuvre effectuée en moins de 10s
-  - Chronométrer les 3 empannanges et comparer
+  - Empanner en restant au VA (sans changer de cap)
   moins:
   - Le moniteur gère la GV au palan avec un équipier à l'écoute
  09_meteo:
@@ -40,5 +46,5 @@ seance:
   - Réduire la voilure (ris)
   moins:
   - Ancre ou coffre à l'arrière du bateau
+  - Spi en cerf volant
 ---
-TODOOOOOOOOOO

@@ -1,38 +1,59 @@
 ---
-draft: true
 author: Teebo
-categories: []
+categories: [Manoeuvre]
 date: 2016-12-07T17:16:52+01:00
 niveaux:
 - Niveau-1
 postes:
-- null
+- Barre
+- Foc
 seance:
   00_prereq:
-  - null
+  - Premiers virements
   01_orga:
-  - null
-  02_but: null
+  - Speedo? Ou GPS vitesse
+  - Papier crayon
+  - Compas (route ou relèvement)
+  02_but: Faire une série de virements (5) sans sortir à plus de 60° et sans passer sous une vitesse donnée (fonction de la météo)
   03_objectifs:
-  - null
+  - 1M1.1 Utiliser la barre pour changer d’amure
+  - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
+  - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
+  - 1S1.2 Savoir utiliser les winches en sécurité
   04_reussite:
-  - null
+  - L'équipage a enchainé les 5 virements sans s'écarter à plus de 60° de l'axe du vent
+  - Il n'y a pas eu de refus à virer
+  - La vitesse n'est pas passé sous les x noeuds
   05_evaluation:
-  - null
+  - La communication est faite correctement avant chaque virement
+  - La chronologie est respectée
+  - Les déplacements sont effectués de manière intelligente pour ne pas gêner la manoeuvre
   06_consignes:
-  - null
+  - Relever la direction du vent
+  - Se mettre au près
+  - Relver le cap
+  - Prendre de la vitesse
+  - Virer de bord en respectant la chrono
+  - Relever le cap et la vitesse
+  - Reprendre suffisament de vitesse
+  - Recommencer 5 fois
+  - Tourner aux postes
   07_securite:
-  - null
+  - Déplacements au vent de la bôme
   08_didac:
     moins:
-    - null
+    - Diminuer la vitesse minimum
+    - Augmenter l'angle par rapport au vent
     plus:
-    - null
+    - Augmenter la vitesse minimum
+    - Temps maxi entre 2 virements
   09_meteo:
     moins:
-    - null
+    - Virements bascules
+    - Equilibre du bateau en général
     plus:
     - Réduire la voilure (ris)
-tags: []
+    - Tout le monde repasse au vent après le virement
+tags: [Changement amure, Près]
 title: virements
 ---
