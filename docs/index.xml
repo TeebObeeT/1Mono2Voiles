@@ -6,8 +6,17 @@
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 12 Dec 2016 17:32:17 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2016 17:55:23 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>près</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s/</link>
+      <pubDate>Mon, 12 Dec 2016 17:55:23 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Equilibre au grand largue</title>
@@ -841,65 +850,6 @@ Petites explications sur le phénomène et brêve prise en main du calcul de mar
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</description>
-    </item>
-    
-    <item>
-      <title>cape</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/cape/</link>
-      <pubDate>Thu, 01 Dec 2016 15:18:12 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/cape/</guid>
-      <description>&lt;p&gt;La mise à la cape est une façon agréable de faire une pause sur l&amp;rsquo;eau, que ce soit pour résoudre des problèmes techniques, pour faire un petit débrief ou pour manger.&lt;/p&gt;
-
-&lt;p&gt;Elle peut se faire très rapidement et sert également de premier réflexe en cas d&amp;rsquo;homme ou d&amp;rsquo;objet à la mer.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;préparation&#34;&gt;Préparation&lt;/h2&gt;
-
-&lt;p&gt;Pas de préparation nécessaire, si ce n&amp;rsquo;est être réglé pour le travers ou le près&lt;/p&gt;
-
-&lt;h2 id=&#34;exécution&#34;&gt;Exécution&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Mise à la cape!&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Effectue un virement de bord, plus lent que d&amp;rsquo;habitude pour casser la vitesse&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GV&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Choque la GV après le virement&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Barre droite le temps que le bateau s&amp;rsquo;arrête presque&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Barre à fond sous le vent (en direction de la bôme)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
-
-&lt;p&gt;Peu de rangements à faire, pour repartir, border la voile et passer le foc, ou par petit temps, changer la barre de côté, empanner de manière contrôlée et repartir&amp;hellip;&lt;/p&gt;</description>
     </item>
     
   </channel>
