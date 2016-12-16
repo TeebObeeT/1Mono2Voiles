@@ -18,9 +18,11 @@ seance:
   03_objectifs:
   - 1C1.1 Gonfler la voile pour avance
   04_reussite:
-  - null
+  - Le bateau avance sans que le barreur ai d'effort à faire
   05_evaluation:
-  - null
+  - Dialogue dans l'équipage
+  - La répartition des masses est correcte
+  - Les voiles sont limites de faseyement
   06_consignes:
   - Se mettre au près
   - Le barreur barre avec un doigt
