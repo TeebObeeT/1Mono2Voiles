@@ -59,42 +59,61 @@ On recherche en permanence la limite de faseyement et l'on surveille les penons!
 
 # Ajustages
 
-## Le creux
+## Ecoulement laminaire
 
-## Le vrillage
+### Le creux
 
-## Le braquage
+#### Taille
+
+Le creux idéal est de l'ordre de 14% de la longueur de la corde *(~de la bôme)*
+
+Plus le creux est grand, plus il génère de la puissance mais aussi de la trainée, et plus l'angle d'incidence de la voile avec le vent s'ouvre, empêchant de remontre plus au vent. Inversement, une voile moins creusée donnera moins de puissance mais permettra de remonter plus au vent.
+
+-- SCHEMA --
+
+La taille du creux se régle essentiellement :
+
+* GV : Bosse d'empointure
+* Foc : Position du chariot
+
+#### Position
+
+La position du creux considérée comme idéale est vers le 1/3 avant de la voile *(profil d'une aile d'avion)*. La position du creux jouera sur la stabilité du bateau *(a-t-il tendance à lofer ou à abattre?)* en changeant le point d'application de la force vélique. 
+
+Elle jouera aussi sur l'angle d'incidence, trop en avant et il sera difficile de remonter au vent.
+
+La position du creux se régle essentiellement :
+
+- GV : Cuningham / drisse
+- Foc : Drisse / pataras
+
+### Le vrillage
+
+Le vrillage est la forme de la voile vue par en bas. Si l'angle d'incidence est constant, la situation est idéale et la voile n'a pas de vrillage. Les penons se comportent alors tous de la même façon sur la hauteur de la voile.
+
+Il est parfois utile de chercher le vrillage pour diminuer la puissance quand le bateau a trop de gîte et que l'on ne veut ou ne peut pas prendre un ris.
+
+Le vrillage se règle essentiellement :
+
+* GV :  Nerf de chute, Ecoute + chariot, hale-bas
+* Foc : Nerf de chute, Ecoute + chariot.
+
+## Ecoulements perturbés
 
 
 
-## Voile d'avant
 
-| Acteur | Type |  +   |  -   |
-| :----: | :--: | :--: | :--: |
-|        |      |      |      |
-|        |      |      |      |
-|        |      |      |      |
-|        |      |      |      |
-
-
-
-## Grand voile
-
-| Acteur | Type |  +   |  -   |
-| :----: | :--: | :--: | :--: |
-|        |      |      |      |
-|        |      |      |      |
-|        |      |      |      |
-|        |      |      |      |
-|        |      |      |      |
-|        |      |      |      |
-|        |      |      |      |
 
 # Types de réglages/ajustages
 
-## Finesse
-
 ## Puissance
 
-## Cap
+Utile pour passer la vague ou par petit temps, le réglage sert aussi à la relance quand on a perdu de la vitesse.
 
+Il faut creuser les voiles et reculer légèrement le creux.
+
+## Finesse / Cap
+
+Une fois le bateau lancé, le réglage de finesse permettra de gagner plus au vent en améliorant le confort à bord...a condition de garder suffisament de puissance pour passer le clapot.
+
+Il faut aplatir la voile et avancer le creux.
