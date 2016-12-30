@@ -168,7 +168,7 @@ planning:
     00_nom: Mercredi
     01_matin:
     - topo/N1/réglages ajustages
-    - séance/N1/réglages
+    - séance/N1/ajustages à terre
     - séance/N1/quick stop
     - topo/N1/météo
     02_aprèsmidi:
@@ -179,7 +179,7 @@ planning:
     03_soir:
     - topo/N1/cadre
     04_conduite:
-    - null
+    - Ajuster sa voile à la météo et à l'allure
     05_manoeuvre:
     - null
     06_navigation:

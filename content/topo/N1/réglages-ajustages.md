@@ -1,6 +1,5 @@
 ---
 author: Teebo
-draft: true
 categories: []
 date: 2016-12-19T15:18:19+01:00
 niveaux:
@@ -28,7 +27,7 @@ L'eau est ~800 fois plus dense que l'air, son impact sur la marche du bateau est
 
 ### Réglage
 
-Le réglage d'une voile, plus précisément d'un plan de voilure, se fait en ouvrant ou fermant ce plan par rapport au vent apparent. 
+Le réglage d'une voile, plus précisément d'un plan de voilure, se fait en ouvrant ou fermant ce plan par rapport au vent apparent.
 
 
 
@@ -42,7 +41,9 @@ La prise de ris est considéré comme un ajustage.
 
 # Réglages
 
-On considère un angle de 10° à 20° comme étant le bon réglage pour un écoulement laminaire.
+On considère un angle d'incidence entre le vent et la voile de 10° à 20° comme étant le bon réglage pour un écoulement laminaire.
+
+---SCHEMA---
 
 En dessous: Trop bordé, écoulements perturbés, dérive
 
@@ -78,9 +79,7 @@ La taille du creux se régle essentiellement :
 
 #### Position
 
-La position du creux considérée comme idéale est vers le 1/3 avant de la voile *(profil d'une aile d'avion)*. La position du creux jouera sur la stabilité du bateau *(a-t-il tendance à lofer ou à abattre?)* en changeant le point d'application de la force vélique. 
-
-Elle jouera aussi sur l'angle d'incidence, trop en avant et il sera difficile de remonter au vent.
+La position du creux considérée comme idéale est vers le 1/3 avant de la voile *(profil d'une aile d'avion)*. La position du creux jouera sur la stabilité du bateau *(a-t-il tendance à lofer ou à abattre?)* en changeant le point d'application de la force vélique.
 
 La position du creux se régle essentiellement :
 
@@ -95,12 +94,16 @@ Il est parfois utile de chercher le vrillage pour diminuer la puissance quand le
 
 Le vrillage se règle essentiellement :
 
-* GV :  Nerf de chute, Ecoute + chariot, hale-bas
-* Foc : Nerf de chute, Ecoute + chariot.
+* GV :  Ecoute + chariot, hale-bas
+* Foc : Ecoute + chariot.
 
 ## Ecoulements perturbés
 
+Dans ce cas, on cherche la traînée et non plus la portance, il faut creuser la voile, minimiser le vrillage.
 
+Sur la GV: choquer le cunnigham, la bordure et border le hale-bas (réduction du vrillage)
+
+Sur le foc: On avance le chariot, mais dans ce cas la voile se creuse trop au point de se replier sur elle-même. Résultat: ce n'est pas la voile adaptée...
 
 
 

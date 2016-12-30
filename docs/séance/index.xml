@@ -6,8 +6,17 @@
     <description>Recent content in Séance-rsses on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 12 Dec 2016 17:55:23 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2016 11:24:52 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ajustages à terre</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages-%C3%A0-terre/</link>
+      <pubDate>Fri, 30 Dec 2016 11:24:52 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages-%C3%A0-terre/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>près</title>
@@ -132,15 +141,6 @@
       <pubDate>Tue, 29 Nov 2016 15:05:18 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-pr%C3%A8s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>arrêt</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/arr%C3%AAt/</link>
-      <pubDate>Tue, 29 Nov 2016 13:06:57 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/arr%C3%AAt/</guid>
       <description></description>
     </item>
     
