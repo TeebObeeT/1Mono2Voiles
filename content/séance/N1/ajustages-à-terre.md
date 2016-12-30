@@ -1,6 +1,6 @@
 ---
 author: Teebo
-categories: [Conduites]
+categories: [Conduite]
 date: 2016-12-30T11:24:52+01:00
 niveaux:
 - Niveau-1
