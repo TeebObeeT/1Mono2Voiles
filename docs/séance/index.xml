@@ -6,8 +6,26 @@
     <description>Recent content in Séance-rsses on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 30 Dec 2016 11:24:52 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 13:34:47 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>gréer le spi</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9er-le-spi/</link>
+      <pubDate>Thu, 05 Jan 2017 13:34:47 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9er-le-spi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quick stop</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop/</link>
+      <pubDate>Thu, 05 Jan 2017 11:26:34 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ajustages à terre</title>
@@ -123,24 +141,6 @@
       <pubDate>Tue, 29 Nov 2016 15:05:51 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/mouillage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>initiation au grand largue</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue/</link>
-      <pubDate>Tue, 29 Nov 2016 15:05:36 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>initiation au près</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-pr%C3%A8s/</link>
-      <pubDate>Tue, 29 Nov 2016 15:05:18 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-pr%C3%A8s/</guid>
       <description></description>
     </item>
     

@@ -105,7 +105,7 @@ planning:
     - séance/N1/cape
     - séance/N1/premiers empannages
     03_soir:
-    - chrono/cape
+    - chrono/N1/cape
     - topo/marées
     04_conduite:
     - 1C1.6 Différencier les allures de près des allures portantes
@@ -141,6 +141,7 @@ planning:
     - séance/N1/empannages
     03_soir:
     - Bilan de mi-stage
+    - chrono/quick stop
     04_conduite:
     - Sentir le bateau et les conséquences de la répartition des masses
     - Se positionner correctement sur le bateau
@@ -172,20 +173,21 @@ planning:
     - séance/N1/quick stop
     - topo/N1/météo
     02_aprèsmidi:
-    - chrono/N1/hissagge de spi
+    - chrono/hissagge de spi
     - séance/N1/gréer le spi
-    - séance/N1/hissage-affalage de spi
+    - séance/N1/hissage affalage de spi
     - séance/N1/ajustages
     03_soir:
     - topo/N1/cadre
     04_conduite:
     - Ajuster sa voile à la météo et à l'allure
     05_manoeuvre:
-    - null
+    - Quick-Stop
+    - Prise de coffre
     06_navigation:
     - null
     07_sécurité:
-    - null
+    - Quick-Stop sans moteur
     08_technologie:
     - null
     09_viemaritime:
