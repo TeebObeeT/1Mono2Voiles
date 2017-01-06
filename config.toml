@@ -6,6 +6,7 @@ metaDataFormat=  "yaml"
 publishdir= "docs"
 DefaultContentLanguage=  "fr"
 uglyURLs=true
+
 [author]
 	name = "Teebo"
 

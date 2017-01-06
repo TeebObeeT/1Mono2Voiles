@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/topo/n1/privil%C3%A8ges.html</loc>
+    <lastmod>2017-01-06T15:13:07+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi.html</loc>
     <lastmod>2017-01-06T14:43:43+01:00</lastmod>
   </url>
@@ -254,7 +259,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/</loc>
-    <lastmod>2017-01-06T14:43:43+01:00</lastmod>
+    <lastmod>2017-01-06T15:13:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -349,13 +354,13 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/categories/navigation.html</loc>
-    <lastmod>2016-12-06T15:09:59+01:00</lastmod>
+    <lastmod>2017-01-06T15:13:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1.html</loc>
-    <lastmod>2017-01-06T14:43:43+01:00</lastmod>
+    <lastmod>2017-01-06T15:13:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -424,14 +429,14 @@
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/tags/spi.html</loc>
-    <lastmod>2017-01-06T14:43:43+01:00</lastmod>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/postes/spi.html</loc>
+    <lastmod>2016-12-01T15:19:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/postes/spi.html</loc>
-    <lastmod>2016-12-01T15:19:14+01:00</lastmod>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/tags/spi.html</loc>
+    <lastmod>2017-01-06T14:43:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -443,7 +448,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/categories/s%C3%A9curit%C3%A9.html</loc>
-    <lastmod>2017-01-05T11:26:34+01:00</lastmod>
+    <lastmod>2017-01-06T15:13:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -460,7 +465,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/topo.html</loc>
-    <lastmod>2016-12-19T15:18:19+01:00</lastmod>
+    <lastmod>2017-01-06T15:13:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
