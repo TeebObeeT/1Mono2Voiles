@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/categories/conduite/index.xml</link>
-    <description>Recent content on 1 Mono 2 Voiles</description>
+    <title>Conduite on 1 Mono 2 Voiles</title>
+    <link>https://teebobeet.github.io/1Mono2Voiles/categories/conduite.xml</link>
+    <description>Recent content in Conduite on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/conduite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/conduite.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ajustages à terre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages-%C3%A0-terre/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages-%C3%A0-terre.html</link>
       <pubDate>Fri, 30 Dec 2016 11:24:52 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages-%C3%A0-terre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages-%C3%A0-terre.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>réglages ajustages</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/r%C3%A9glages-ajustages/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/r%C3%A9glages-ajustages.html</link>
       <pubDate>Mon, 19 Dec 2016 15:18:19 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/r%C3%A9glages-ajustages/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/r%C3%A9glages-ajustages.html</guid>
       <description>&lt;p&gt;Différences entre réglages et ajustages ainsi que les premières pistes pour optimiser ses voiles&amp;hellip;On parlera ici du cas de la navigation en finesse.&lt;/p&gt;
 
 &lt;p&gt;Il est également important de faire les réglages et les ajustages avec le même objectif (puissance ou cap ou compromis, mais pas certains ajustages en puissance et d&amp;rsquo;autres en cap), de &lt;strong&gt;garder une cohérence&lt;/strong&gt;&lt;/p&gt;
@@ -141,37 +141,37 @@
     
     <item>
       <title>près</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s.html</link>
       <pubDate>Mon, 12 Dec 2016 17:55:23 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>barre attachée</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/barre-attach%C3%A9e/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/barre-attach%C3%A9e.html</link>
       <pubDate>Wed, 07 Dec 2016 17:16:41 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/barre-attach%C3%A9e/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/barre-attach%C3%A9e.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equilibre au près</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-pr%C3%A8s/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-pr%C3%A8s.html</link>
       <pubDate>Wed, 07 Dec 2016 17:14:52 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-pr%C3%A8s/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-pr%C3%A8s.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equilibres</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres.html</link>
       <pubDate>Mon, 05 Dec 2016 16:11:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres.html</guid>
       <description>&lt;p&gt;Il s&amp;rsquo;agit ici d&amp;rsquo;une introduction aux équilibres hydro/aéro qui font que le bateau avance, gîte, ne se retourne pas,&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -249,28 +249,28 @@
     
     <item>
       <title>vent arrière</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re.html</link>
       <pubDate>Sun, 04 Dec 2016 10:35:16 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>repères</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rep%C3%A8res/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rep%C3%A8res.html</link>
       <pubDate>Sun, 04 Dec 2016 09:47:46 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rep%C3%A8res/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rep%C3%A8res.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>allures</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures.html</link>
       <pubDate>Tue, 29 Nov 2016 18:14:05 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures.html</guid>
       <description>&lt;p&gt;Présentation initiale sur les grandes familles d&amp;rsquo;allures et leurs particularités, avec introduction sur pourquoi le bateau avance et les différences entre écoulements laminaires et perturbés
 &lt;/p&gt;
 
@@ -507,37 +507,37 @@
     
     <item>
       <title>initiation au grand largue</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue.html</link>
       <pubDate>Tue, 29 Nov 2016 15:05:36 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>initiation au près</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-pr%C3%A8s/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-pr%C3%A8s.html</link>
       <pubDate>Tue, 29 Nov 2016 15:05:18 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-pr%C3%A8s/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-pr%C3%A8s.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>allures</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/allures/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/allures.html</link>
       <pubDate>Tue, 29 Nov 2016 13:06:39 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/allures/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/allures.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>grand largue</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/grand-largue/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/grand-largue.html</link>
       <pubDate>Tue, 29 Nov 2016 11:10:07 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/grand-largue/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/grand-largue.html</guid>
       <description></description>
     </item>
     

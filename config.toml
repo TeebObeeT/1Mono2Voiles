@@ -5,7 +5,7 @@ languageCode = "fr-fr"
 metaDataFormat=  "yaml"
 publishdir= "docs"
 DefaultContentLanguage=  "fr"
-
+uglyURLs=true
 [author]
 	name = "Teebo"
 
@@ -14,7 +14,7 @@ DefaultContentLanguage=  "fr"
   sidebartagline = "Fiches pour l'enseignement de la voile aux Glénans en tant que bénévole"
   author = "Teebo"
   categoriescss = "/css/categories.css"
-  
+
 [taxonomies]
   tag = "tags"
   categorie = "categories"

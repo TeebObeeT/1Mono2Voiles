@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/categories/navigation/index.xml</link>
-    <description>Recent content on 1 Mono 2 Voiles</description>
+    <title>Navigation on 1 Mono 2 Voiles</title>
+    <link>https://teebobeet.github.io/1Mono2Voiles/categories/navigation.xml</link>
+    <description>Recent content in Navigation on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/navigation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/navigation.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</link>
       <pubDate>Tue, 06 Dec 2016 15:09:59 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</guid>
       <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
 Egalement une explication générique sur les anticyclones/dépressions et effets de site.&lt;/p&gt;
 
@@ -347,10 +347,10 @@ Egalement une explication générique sur les anticyclones/dépressions et effet
     
     <item>
       <title>périmètre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre.html</link>
       <pubDate>Mon, 28 Nov 2016 18:09:31 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre.html</guid>
       <description></description>
     </item>
     
