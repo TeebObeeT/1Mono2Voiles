@@ -6,8 +6,17 @@
     <description>Recent content in Séance-rsses on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 05 Jan 2017 13:34:47 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jan 2017 16:19:25 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ajustages</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages/</link>
+      <pubDate>Sun, 08 Jan 2017 16:19:25 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>gréer le spi</title>
@@ -132,15 +141,6 @@
       <pubDate>Tue, 29 Nov 2016 15:06:04 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/premiers-virements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mouillage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/mouillage/</link>
-      <pubDate>Tue, 29 Nov 2016 15:05:51 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/mouillage/</guid>
       <description></description>
     </item>
     
