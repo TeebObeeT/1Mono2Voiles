@@ -189,7 +189,7 @@ planning:
     07_sécurité:
     - Quick-Stop sans moteur
     08_technologie:
-    - null
+    - Gréer un spi
     09_viemaritime:
     - null
     10_environnement:
@@ -209,9 +209,9 @@ planning:
     03_soir:
     - null
     04_conduite:
-    - null
+    - 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
     05_manoeuvre:
-    - null
+    - 1M4.1 Participer aux manœuvres d’entrée et de sortie de port
     06_navigation:
     - null
     07_sécurité:
