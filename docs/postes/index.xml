@@ -9,6 +9,15 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>promenade</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade/</link>
+      <pubDate>Tue, 10 Jan 2017 09:04:51 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>gréer le spi</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9er-le-spi/</link>
       <pubDate>Thu, 05 Jan 2017 13:34:47 +0100</pubDate>

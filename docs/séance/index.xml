@@ -6,8 +6,17 @@
     <description>Recent content in Séance-rsses on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 09 Jan 2017 13:58:50 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2017 09:04:51 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>promenade</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade/</link>
+      <pubDate>Tue, 10 Jan 2017 09:04:51 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>évaluation</title>
@@ -132,15 +141,6 @@
       <pubDate>Mon, 05 Dec 2016 11:46:24 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/changement-de-focs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vent arrière</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</link>
-      <pubDate>Sun, 04 Dec 2016 10:35:16 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</guid>
       <description></description>
     </item>
     

@@ -39,6 +39,7 @@ planning:
     09_viemaritime:
     - 1V1.2 Organiser le rangement de ses effets personnels
     - 1V1.3 Exprimer ses attentes
+    - 1V1.1 S’équiper avec le matériel proposé
     10_environnement:
     - null
     11_administratif:
@@ -173,7 +174,7 @@ planning:
     - séance/N1/quick stop
     - topo/N1/météo
     02_aprèsmidi:
-    - chrono/hissagge de spi
+    - chrono/N1/hissage de spi
     - séance/N1/gréer le spi
     - séance/N1/hissage affalage de spi
     - séance/N1/ajustages
@@ -210,10 +211,12 @@ planning:
     - null
     04_conduite:
     - 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
+    - 2C1.6 Suivre un cap ou un alignement
     05_manoeuvre:
     - 1M4.1 Participer aux manœuvres d’entrée et de sortie de port
     06_navigation:
-    - null
+    - 1N4.1 Connaître les balisages latéral et cardinal
+    - 3N1.4 Mettre en relation le paysage rencontré avec la carte marine
     07_sécurité:
     - null
     08_technologie:
@@ -261,7 +264,3 @@ semaine: stage 1 semaine à terre
 tags: []
 title: Prévisionnel stage à terre 1 semaine
 ---
-
-
-1C1.5
-1V1.1
