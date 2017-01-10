@@ -2,27 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/categories/navigation/index.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/categories/navigation.xml</link>
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/navigation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/navigation.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>promenade</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade.html</link>
       <pubDate>Tue, 10 Jan 2017 09:04:51 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade.html</guid>
       <description></description>
     </item>
     
     <item>
+      <title>privilèges</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/privil%C3%A8ges.html</link>
+      <pubDate>Fri, 06 Jan 2017 15:13:07 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/privil%C3%A8ges.html</guid>
+      <description>&lt;p&gt;Quelques informations basiques mais essentielles à savoir avant de partir en mer&amp;hellip;
+&lt;/p&gt;
+
+&lt;h1 id=&#34;notions-générales&#34;&gt;Notions générales&lt;/h1&gt;
+
+&lt;h2 id=&#34;ripam&#34;&gt;RIPAM&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Le &amp;ldquo;code de la route de la mer&amp;rdquo; est défini par le RIPAM (&lt;strong&gt;R&lt;/strong&gt;èglement &lt;strong&gt;I&lt;/strong&gt;nternational pour  &lt;strong&gt;P&lt;/strong&gt;révenir des &lt;strong&gt;A&lt;/strong&gt;bordages en &lt;strong&gt;M&lt;/strong&gt;er)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;privilèges&#34;&gt;Privilèges&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Il ne contient pas de priorités mais des privilèges, il est interdit d&amp;rsquo;être idiot, on doit tous tout faire pour éviter les abordages&lt;/li&gt;
+&lt;li&gt;En dernier recours le navire dit « privilégié » a le devoir d&amp;rsquo;éviter la collision par tous les moyens qui lui sont possibles, si le navire « non privilégié » n&amp;rsquo;applique pas les règles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;règles-applicables-à-tous&#34;&gt;Règles applicables à tous&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Veille permanente&lt;/li&gt;
+&lt;li&gt;Vitesse adaptée&lt;/li&gt;
+&lt;li&gt;Evaluation du risque d&amp;rsquo;abordage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;règles-dîtes-de-barre-simplifiées&#34;&gt;Règles dîtes &amp;ldquo;de barre&amp;rdquo; &lt;strong&gt;simplifiées&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&#34;entre-voiliers-et-autres-usagers&#34;&gt;Entre voiliers et autres usagers&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Les voiliers de plaisance navigant à la voile sont privilégiés par rapport aux plaisanciers à moteur&lt;/li&gt;
+&lt;li&gt;Un voilier navigant au moteur est considéré comme un bateau moteur&lt;/li&gt;
+&lt;li&gt;Un voilier navigant au moteur et à la voile est considéré comme un bateau moteur&lt;/li&gt;
+&lt;li&gt;Les bateaux &amp;ldquo;travaillant&amp;rdquo; sont privilégiés par rapport à un voilier (pêcheurs, cargo, ferry, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Un bateau au mouillage/échoué/à l&amp;rsquo;arrêt est privilégié sur un voilier en mouvement&lt;/li&gt;
+&lt;li&gt;Un bateau rattrapé quel qu&amp;rsquo;il soit est privilégié sur le bateau rattrapant&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;entre-voiliers&#34;&gt;Entre voiliers&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Le voilier qui est tribord amure (recevant donc le vent par le tribord) est privilégié sur le voilier babord amure. (La GV est déterminante en cas de VA)&lt;/li&gt;
+&lt;li&gt;Le voilier sous le vent est privilégié sur le voilier au vent (celui qui remonte le plus au vent est privilégié. Logique par rapport à la position du barreur)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;En dernier recours le navire dit « privilégié » a le devoir d&amp;rsquo;éviter la collision par tous les moyens qui lui sont possibles, si le navire « non privilégié » n&amp;rsquo;applique pas les règles&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</link>
       <pubDate>Tue, 06 Dec 2016 15:09:59 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</guid>
       <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
 Egalement une explication générique sur les anticyclones/dépressions et effets de site.&lt;/p&gt;
 
@@ -356,10 +415,10 @@ Egalement une explication générique sur les anticyclones/dépressions et effet
     
     <item>
       <title>périmètre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre.html</link>
       <pubDate>Mon, 28 Nov 2016 18:09:31 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre.html</guid>
       <description></description>
     </item>
     

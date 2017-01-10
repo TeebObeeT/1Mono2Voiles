@@ -2,54 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/categories/manoeuvre/index.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/categories/manoeuvre.xml</link>
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/manoeuvre/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/manoeuvre.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>évaluation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</link>
       <pubDate>Mon, 09 Jan 2017 13:58:50 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>prise de coffre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre.html</link>
       <pubDate>Mon, 09 Jan 2017 11:21:00 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>banane</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</link>
       <pubDate>Mon, 09 Jan 2017 11:06:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hissage affalage de spi</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi.html</link>
+      <pubDate>Fri, 06 Jan 2017 14:43:43 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>quick stop</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop.html</link>
       <pubDate>Thu, 05 Jan 2017 11:26:34 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>quick stop</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop.html</link>
       <pubDate>Wed, 04 Jan 2017 20:46:49 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop.html</guid>
       <description>&lt;p&gt;La méthode quick stop, officiellement recommandée par l’ISAF, la Fédération Internationale de la Voile pour récupérer un homme à la mer est une méthode que tous les équipiers doivent connaître. Elle permet d&amp;rsquo;utiliser le moteur tout en gardant l&amp;rsquo;appui des voiles.
 &lt;/p&gt;
 
@@ -162,28 +171,28 @@
     
     <item>
       <title>virements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/virements/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/virements.html</link>
       <pubDate>Wed, 07 Dec 2016 17:16:52 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/virements/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/virements.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>barre attachée</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/barre-attach%C3%A9e/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/barre-attach%C3%A9e.html</link>
       <pubDate>Wed, 07 Dec 2016 17:16:41 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/barre-attach%C3%A9e/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/barre-attach%C3%A9e.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equilibres</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres.html</link>
       <pubDate>Mon, 05 Dec 2016 16:11:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres.html</guid>
       <description>&lt;p&gt;Il s&amp;rsquo;agit ici d&amp;rsquo;une introduction aux équilibres hydro/aéro qui font que le bateau avance, gîte, ne se retourne pas,&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -261,37 +270,37 @@
     
     <item>
       <title>Mise à la cape</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/cape/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/cape.html</link>
       <pubDate>Mon, 05 Dec 2016 12:54:56 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/cape/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/cape.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>changement de focs</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/changement-de-focs/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/changement-de-focs.html</link>
       <pubDate>Mon, 05 Dec 2016 11:46:24 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/changement-de-focs/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/changement-de-focs.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>rof</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rof/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rof.html</link>
       <pubDate>Sun, 04 Dec 2016 10:15:07 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rof/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rof.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>hissage de spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi.html</link>
       <pubDate>Thu, 01 Dec 2016 15:18:46 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi.html</guid>
       <description>&lt;p&gt;Chronologie de l&amp;rsquo;hissage de spi simple, sans tangon. Valable sur parcours très court ou pour la découverte des débutants.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -413,10 +422,10 @@
     
     <item>
       <title>cape</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/cape/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/cape.html</link>
       <pubDate>Thu, 01 Dec 2016 15:18:12 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/cape/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/cape.html</guid>
       <description>&lt;p&gt;La mise à la cape est une façon agréable de faire une pause sur l&amp;rsquo;eau, que ce soit pour résoudre des problèmes techniques, pour faire un petit débrief ou pour manger.&lt;/p&gt;
 
 &lt;p&gt;Elle peut se faire très rapidement et sert également de premier réflexe en cas d&amp;rsquo;homme ou d&amp;rsquo;objet à la mer.&lt;/p&gt;
@@ -472,10 +481,10 @@
     
     <item>
       <title>empannage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage.html</link>
       <pubDate>Thu, 01 Dec 2016 15:18:01 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage.html</guid>
       <description>&lt;p&gt;L&amp;rsquo;empannage est une manoeuvre standard sans grande difficulté mais avec des risques, il est donc important de bien le maîtrisé pour naviguer en sécurité.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -605,116 +614,6 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</description>
-    </item>
-    
-    <item>
-      <title>virement</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/virement/</link>
-      <pubDate>Tue, 29 Nov 2016 17:59:42 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/virement/</guid>
-      <description>&lt;p&gt;Le virement de bord réussi permet de passer d&amp;rsquo;une amure à l&amp;rsquo;autre tout en gagnant au vent. Il permet, bien maîtrisé, de remonter efficacement au vent en toute situation.
-Il s&amp;rsquo;agit ici de la première approche, ce virement simplifié ne conviendra pas par grosse houle ou mer formée.
-Comme dans toute manoeuvre, la communication est primordiale!
-&lt;/p&gt;
-
-&lt;h1 id=&#34;virement-de-bord&#34;&gt;Virement de bord&lt;/h1&gt;
-
-&lt;h2 id=&#34;préparation&#34;&gt;Préparation&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Parés à virer?&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Vérifier que l&amp;rsquo;ecoute bien lovée et prête à filer&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Vérifier que la contre-écoute reprise légèrement et tournée dans le bon sens autour du winch&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;exécution&#34;&gt;Exécution&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Pousse la barre en grand&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;Quand le foc dévente&lt;/em&gt;, le choquer en grand&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;Quand le foc est dans l&amp;rsquo;axe du bateau&lt;/em&gt;, le border jusqu&amp;rsquo;aux haubans&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;Quand le foc est gonflé, mettre la barre droite&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Tous&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Changement de côté (contre gîte ou gîte en fonction du vent)&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Lover l&amp;rsquo;écoute pour qu&amp;rsquo;elle soit prête à filer&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Préparer la contre écoute&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&#34;remarques&#34;&gt;Remarques&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Après le virement, c&amp;rsquo;est avant le virement!&lt;/strong&gt; On reprépare toujours le prochain virement&lt;/li&gt;
-&lt;li&gt;Le &lt;strong&gt;barreur&lt;/strong&gt; peut &lt;strong&gt;changer de côté avant ou après le virement&lt;/strong&gt;, ou pendant si il est à l&amp;rsquo;aise, mais sans compromettre la manoeuvre&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
   </channel>

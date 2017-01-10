@@ -2,27 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/postes/n1/index.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/postes/n1.xml</link>
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/n1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/n1.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hissage affalage de spi</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi.html</link>
+      <pubDate>Fri, 06 Jan 2017 14:43:43 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>changement de focs</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/changement-de-focs/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/changement-de-focs.html</link>
       <pubDate>Mon, 05 Dec 2016 11:46:24 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/changement-de-focs/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/changement-de-focs.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>empannage sous spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage-sous-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage-sous-spi.html</link>
       <pubDate>Thu, 01 Dec 2016 15:19:14 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage-sous-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage-sous-spi.html</guid>
       <description>&lt;p&gt;L&amp;rsquo;empannage sous spi tangonné peut paraître difficile, ce n&amp;rsquo;est pas le cas. C&amp;rsquo;est une opération longue qui devient difficile si on doit l&amp;rsquo;effectuer rapidement et mal préparée.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -171,10 +180,10 @@
     
     <item>
       <title>hissage de spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi.html</link>
       <pubDate>Thu, 01 Dec 2016 15:18:46 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi.html</guid>
       <description>&lt;p&gt;Chronologie de l&amp;rsquo;hissage de spi simple, sans tangon. Valable sur parcours très court ou pour la découverte des débutants.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -296,10 +305,10 @@
     
     <item>
       <title>prise de ris</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/prise-de-ris/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/prise-de-ris.html</link>
       <pubDate>Tue, 29 Nov 2016 13:52:24 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/prise-de-ris/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/prise-de-ris.html</guid>
       <description>&lt;p&gt;La prise de ris est une manoeuvre de sécurité indispensable et qui doit pouvoir être fait rapidement et dans le calme&amp;hellip;Mais il faut bien annoncer haut et fort ce que l&amp;rsquo;on a fait pour que l&amp;rsquo;équipage se synchronize.
 &lt;/p&gt;
 
@@ -555,19 +564,19 @@
     
     <item>
       <title>Prise de ris</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-ris/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-ris.html</link>
       <pubDate>Tue, 29 Nov 2016 13:06:49 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-ris/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-ris.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Déplacements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9placements/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9placements.html</link>
       <pubDate>Mon, 28 Nov 2016 17:33:58 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9placements/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9placements.html</guid>
       <description></description>
     </item>
     

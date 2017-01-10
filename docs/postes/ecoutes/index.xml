@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/postes/ecoutes/index.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/postes/ecoutes.xml</link>
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/ecoutes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/ecoutes.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>arrêt</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/arr%C3%AAt/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/arr%C3%AAt.html</link>
       <pubDate>Tue, 29 Nov 2016 13:06:57 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/arr%C3%AAt/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/arr%C3%AAt.html</guid>
       <description></description>
     </item>
     
