@@ -231,7 +231,7 @@ planning:
     00_nom: Vendredi
     01_matin:
     - chrono/N1/empannage sous spi
-    - séance/N1/manipulation tangon
+    - séance/N1/manipulation de tangon
     - séance/N1/empannage sous spi
     02_aprèsmidi:
     - Rangement base

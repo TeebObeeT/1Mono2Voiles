@@ -1,6 +1,6 @@
 ---
 author: Teebo
-categories: []
+categories: [Manoeuvre]
 date: 2016-12-01T15:19:14+01:00
 niveaux:
 - Niveau-1
