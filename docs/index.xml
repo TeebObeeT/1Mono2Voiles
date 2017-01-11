@@ -6,8 +6,63 @@
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 10 Jan 2017 16:48:43 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2017 12:33:05 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>cadre</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/cadre/</link>
+      <pubDate>Wed, 11 Jan 2017 12:33:05 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/cadre/</guid>
+      <description>&lt;p&gt;Aperçu de la notion de cadre, indispensable en régate mais avant tout très utile aussi pour savoir arriver où l&amp;rsquo;on veut dans un délai raisonnable.
+&lt;/p&gt;
+
+&lt;h1 id=&#34;objectif-au-vent&#34;&gt;Objectif au vent&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ligne droite possible?&lt;/li&gt;
+&lt;li&gt;Sinon, tirer des bords&lt;/li&gt;
+&lt;li&gt;Que se passe-t-il si on dépasse le compromis idéal (plus abattu)&lt;/li&gt;
+&lt;li&gt;Si le vent devient défavorable (il refuse) ?&lt;/li&gt;
+&lt;li&gt;Si le vent devient favorable (il adonne) ?&lt;/li&gt;
+&lt;li&gt;Quand doit on virer de bord au plus tard&lt;/li&gt;
+&lt;li&gt;Avantages et inconvénients de 1 virements vs plusieurs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;objectif-sous-le-vent&#34;&gt;Objectif sous le vent&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ligne droite toujours possible&lt;/li&gt;
+&lt;li&gt;Compromis cap/vitesse implique souvent de faire du grand largue
+
+&lt;ul&gt;
+&lt;li&gt;Plus de sécurité&lt;/li&gt;
+&lt;li&gt;Plus de confort&lt;/li&gt;
+&lt;li&gt;Plus de vitesse&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;mdash;SCHEMA&amp;mdash;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rappel des vecteurs vents vitesse/réel/apparent&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Il faut tirer des bords de GL&lt;/li&gt;
+&lt;li&gt;Quand doit on empanner ?&lt;/li&gt;
+&lt;li&gt;Avantages et inconvénients de 1 empannage vs plusieurs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;application-sur-une-banane-régate&#34;&gt;Application sur une banane (régate)&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dessiner le cadre&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Donner les repères par rapport aux bouées&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Penser à l&amp;rsquo;envoi de spi&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>manipulation de tangon</title>
@@ -343,128 +398,6 @@
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages-%C3%A0-terre/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>réglages ajustages</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/r%C3%A9glages-ajustages/</link>
-      <pubDate>Mon, 19 Dec 2016 15:18:19 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/r%C3%A9glages-ajustages/</guid>
-      <description>&lt;p&gt;Différences entre réglages et ajustages ainsi que les premières pistes pour optimiser ses voiles&amp;hellip;On parlera ici du cas de la navigation en finesse.&lt;/p&gt;
-
-&lt;p&gt;Il est également important de faire les réglages et les ajustages avec le même objectif (puissance ou cap ou compromis, mais pas certains ajustages en puissance et d&amp;rsquo;autres en cap), de &lt;strong&gt;garder une cohérence&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-
-&lt;h2 id=&#34;avant-le-réglages&#34;&gt;Avant le réglages&lt;/h2&gt;
-
-&lt;p&gt;L&amp;rsquo;eau est ~800 fois plus dense que l&amp;rsquo;air, son impact sur la marche du bateau est très important. En premier lieu, il est bon de vérifier:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Le carénage (avant de partir)&lt;/li&gt;
-&lt;li&gt;L&amp;rsquo;équilibre (matossage, équipiers) latéral et longitudinal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;différences-entre-réglage-et-ajustage&#34;&gt;Différences entre réglage et ajustage&lt;/h2&gt;
-
-&lt;h3 id=&#34;réglage&#34;&gt;Réglage&lt;/h3&gt;
-
-&lt;p&gt;Le réglage d&amp;rsquo;une voile, plus précisément d&amp;rsquo;un plan de voilure, se fait en ouvrant ou fermant ce plan par rapport au vent apparent.&lt;/p&gt;
-
-&lt;h3 id=&#34;ajustage&#34;&gt;Ajustage&lt;/h3&gt;
-
-&lt;p&gt;L&amp;rsquo;ajustage est l&amp;rsquo;ensemble des actions sur la forme de la voile, et non la position de la voile. En gros il s&amp;rsquo;agit d&amp;rsquo;agir sur la position et la taille du creux de la voile, ainsi que sur le vrillage de la voile.&lt;/p&gt;
-
-&lt;p&gt;La prise de ris est considéré comme un ajustage.&lt;/p&gt;
-
-&lt;h1 id=&#34;réglages&#34;&gt;Réglages&lt;/h1&gt;
-
-&lt;p&gt;On considère un angle d&amp;rsquo;incidence entre le vent et la voile de 10° à 20° comme étant le bon réglage pour un écoulement laminaire.&lt;/p&gt;
-
-&lt;p&gt;&amp;mdash;SCHEMA&amp;mdash;&lt;/p&gt;
-
-&lt;p&gt;En dessous: Trop bordé, écoulements perturbés, dérive&lt;/p&gt;
-
-&lt;p&gt;Au dessus: Voile faseye&lt;/p&gt;
-
-&lt;p&gt;On règle les voiles de l&amp;rsquo;avant vers l&amp;rsquo;arrière:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Foc: Essentiellement force propulsive&lt;/li&gt;
-&lt;li&gt;GV: Essentiellement gouvernail et équilibre&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;On recherche en permanence la limite de faseyement et l&amp;rsquo;on surveille les penons!&lt;/p&gt;
-
-&lt;h1 id=&#34;ajustages&#34;&gt;Ajustages&lt;/h1&gt;
-
-&lt;h2 id=&#34;ecoulement-laminaire&#34;&gt;Ecoulement laminaire&lt;/h2&gt;
-
-&lt;h3 id=&#34;le-creux&#34;&gt;Le creux&lt;/h3&gt;
-
-&lt;h4 id=&#34;taille&#34;&gt;Taille&lt;/h4&gt;
-
-&lt;p&gt;Le creux idéal est de l&amp;rsquo;ordre de 14% de la longueur de la corde &lt;em&gt;(~de la bôme)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Plus le creux est grand, plus il génère de la puissance mais aussi de la trainée, et plus l&amp;rsquo;angle d&amp;rsquo;incidence de la voile avec le vent s&amp;rsquo;ouvre, empêchant de remontre plus au vent. Inversement, une voile moins creusée donnera moins de puissance mais permettra de remonter plus au vent.&lt;/p&gt;
-
-&lt;p&gt;&amp;ndash; SCHEMA &amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;La taille du creux se régle essentiellement :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;GV : Bosse d&amp;rsquo;empointure&lt;/li&gt;
-&lt;li&gt;Foc : Position du chariot&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;position&#34;&gt;Position&lt;/h4&gt;
-
-&lt;p&gt;La position du creux considérée comme idéale est vers le &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; avant de la voile &lt;em&gt;(profil d&amp;rsquo;une aile d&amp;rsquo;avion)&lt;/em&gt;. La position du creux jouera sur la stabilité du bateau &lt;em&gt;(a-t-il tendance à lofer ou à abattre?)&lt;/em&gt; en changeant le point d&amp;rsquo;application de la force vélique.&lt;/p&gt;
-
-&lt;p&gt;La position du creux se régle essentiellement :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;GV : Cuningham / drisse&lt;/li&gt;
-&lt;li&gt;Foc : Drisse / pataras&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;le-vrillage&#34;&gt;Le vrillage&lt;/h3&gt;
-
-&lt;p&gt;Le vrillage est la forme de la voile vue par en bas. Si l&amp;rsquo;angle d&amp;rsquo;incidence est constant, la situation est idéale et la voile n&amp;rsquo;a pas de vrillage. Les penons se comportent alors tous de la même façon sur la hauteur de la voile.&lt;/p&gt;
-
-&lt;p&gt;Il est parfois utile de chercher le vrillage pour diminuer la puissance quand le bateau a trop de gîte et que l&amp;rsquo;on ne veut ou ne peut pas prendre un ris.&lt;/p&gt;
-
-&lt;p&gt;Le vrillage se règle essentiellement :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;GV :  Ecoute + chariot, hale-bas&lt;/li&gt;
-&lt;li&gt;Foc : Ecoute + chariot.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;ecoulements-perturbés&#34;&gt;Ecoulements perturbés&lt;/h2&gt;
-
-&lt;p&gt;Dans ce cas, on cherche la traînée et non plus la portance, il faut creuser la voile, minimiser le vrillage.&lt;/p&gt;
-
-&lt;p&gt;Sur la GV: choquer le cunnigham, la bordure et border le hale-bas (réduction du vrillage)&lt;/p&gt;
-
-&lt;p&gt;Sur le foc: On avance le chariot, mais dans ce cas la voile se creuse trop au point de se replier sur elle-même. Résultat: ce n&amp;rsquo;est pas la voile adaptée&amp;hellip;&lt;/p&gt;
-
-&lt;h1 id=&#34;types-de-réglages-ajustages&#34;&gt;Types de réglages/ajustages&lt;/h1&gt;
-
-&lt;h2 id=&#34;puissance&#34;&gt;Puissance&lt;/h2&gt;
-
-&lt;p&gt;Utile pour passer la vague ou par petit temps, le réglage sert aussi à la relance quand on a perdu de la vitesse.&lt;/p&gt;
-
-&lt;p&gt;Il faut creuser les voiles et reculer légèrement le creux.&lt;/p&gt;
-
-&lt;h2 id=&#34;finesse-cap&#34;&gt;Finesse / Cap&lt;/h2&gt;
-
-&lt;p&gt;Une fois le bateau lancé, le réglage de finesse permettra de gagner plus au vent en améliorant le confort à bord&amp;hellip;a condition de garder suffisament de puissance pour passer le clapot.&lt;/p&gt;
-
-&lt;p&gt;Il faut aplatir la voile et avancer le creux.&lt;/p&gt;</description>
     </item>
     
   </channel>
