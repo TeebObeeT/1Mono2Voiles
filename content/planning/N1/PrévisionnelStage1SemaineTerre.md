@@ -19,22 +19,20 @@ planning:
     - séance/N1/périmètre
     - Matelotage
     04_conduite:
-    - 1C2.1 Gréer, hisser et affaler le foc et la grand-voile
-    - 1C2.2 Gréer les écoutes et les bosses
+    - 1C2.1, 1C2.2 Gréer, hisser et affaler
     05_manoeuvre:
     - null
     06_navigation:
-    - 1N1.1 Se situer approximativement sur une carte en faisant le lien avec le paysage
-    - 1N1.2 Connaître les principes d’une carte marine et les principaux symboles
+    - 1N1.1 Liaison carte/paysage
+    - 1N1.2 Principes d’une carte marine
     07_sécurité:
     - 1S1.1 Rester attentif aux conseils de sécurité
     - 1S1.3 Se déplacer en équilibre sur tout le navire
     08_technologie:
     - 1T1.1 Faire deux nœuds marins
-    - 1T1.2 Connaître la bonne utilisation des équipements nautiques et de vie à bord
-    - 1T2.1 Connaître les principaux points du navire à vérifier avant une navigation
-    - 1T3.1 Plier les voiles et ranger les équipements après utilisation
-    - 1T3.2 Maintenir le navire propre et rangé
+    - 1T1.2 Utilisation des équipements nautiques
+    - 1T2.1 Points du navire à vérifier
+    - 1T3.1,2 Ranger, plier
     - 1T4.1 Participer aux réparations simples avec le moniteur
     09_viemaritime:
     - 1V1.2 Organiser le rangement de ses effets personnels
@@ -64,21 +62,14 @@ planning:
     - chrono/N1/virement
     - topo/N1/allures
     04_conduite:
-    - 1C1.1 Gonfler la voile pour avancer
-    - 1C1.2 Utiliser la barre pour se diriger
-    - 1C1.3 Utiliser la voile pour ralentir
-    - 1C1.4 Utiliser la barre pour ralentir
+    - 1C1.1,2,3,4 Utilisation voile/barre pour avancer et ralentir
     - 1C1.6 Différencier les allures de près des allures portantes
-    - 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée
-    - 3C1.3 Se représenter les trajectoires à suivre et les allures à prendre pour rejoindre un point donné du plan d’eau
+    - 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée    
     05_manoeuvre:
-    - 1M3.1 Se préparer au départ à la voile ou au moteur
-    - 1M4.1 Participer aux manœuvres d’entrée et de sortie de port
-    - 1M2.1 Identifier les dispositifs de réduction de voilure
-    - 1M3.2 Préparer la manœuvre de mouillage
-    - 1M1.1 Utiliser la barre pour changer d’amure
-    - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
-    - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
+    - 1M3.1, 1M4.1 Départ de port
+    - 1M2.1 Réduction de voilure
+    - 1M3.2 Mouillage
+    - 1M1.1,2,3 Virements
     06_navigation:
     - null
     07_sécurité:
@@ -110,9 +101,10 @@ planning:
     - chrono/N1/cape
     - topo/marées
     04_conduite:
-    - 1C1.6 Différencier les allures de près des allures portantes
+    - 1C1.6 Différencier près/portant
     - Distinction au vent / sous le vent
-    - Sentir le bateau au vent arrière et observer la chute de la GV
+    - Sentir le bateau au portant
+    - 3C1.3 Visualiser la trajectoire pour rejoindre un point
     05_manoeuvre:
     - 1M1.1 Utiliser la barre pour changer d’amure
     - 1M2.1 Identifier les dispositifs de réduction de voilure
@@ -146,14 +138,12 @@ planning:
     - Bilan de mi-stage
     - chrono/quick stop
     04_conduite:
-    - 1C1.1 Gonfler la voile pour avance
+    - 1C1.1 Gonfler la voile pour avancer
     - Se positionner correctement sur le bateau
     - 2C2.1 Identifier et expérimenter les différents réglages disponibles
-    - 4C2.1 Connaître les principes de l’aérodynamique et de l’hydrodynamique impliqués dans la propulsion et l’équilibre des navires à voiles
+    - 3C2.3, 4C2.1 Aéro/hydro
     05_manoeuvre:
-    - 1M1.1 Utiliser la barre pour changer d’amure
-    - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
-    - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
+    - 1M1.1,2,3 Virements et Empannages
     06_navigation:
     - null
     07_sécurité:
@@ -181,10 +171,9 @@ planning:
     03_soir:
     - topo/N1/cadre
     04_conduite:
-    - 4C2.2 Adapter les réglages de profils selon l’allure et les conditions de vent et de mer
+    - 4C2.2 Ajustages
     05_manoeuvre:
-    - 2M2.2 Gréer et dégréer un spinnaker
-    - 2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible
+    - 2M2.2,3 Découverte du spi
     06_navigation:
     - null
     07_sécurité:
