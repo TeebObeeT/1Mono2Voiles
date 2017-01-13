@@ -15,7 +15,7 @@ seance:
   - Sinon le moniteur "simule" le vent tournant en changeant de direction
   02_but: Garder le bateau régler sans toucher à la barre
   03_objectifs:
-  - Réglage des voiles aux allures portantes
+  - 2C2.1 Identifier et expérimenter les différents réglages disponibles
   04_reussite:
   - Les voiles sont réglées par rapport au cap et en permanence si le vent tourne
   05_evaluation:

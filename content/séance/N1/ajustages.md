@@ -15,7 +15,7 @@ seance:
   - De quoi écrire
   02_but: Appliquer les différents ajustages sur les allures de finesse et observer les résultats
   03_objectifs:
-  - Observer les différences sur le comportement du bateau entre réglages de vitesse et de puissance
+  - 4C2.2 Adapter les réglages de profils selon l’allure et les conditions de vent et de mer
   04_reussite:
   - Le bateau est réglé une fois en puissance, une fois en vitesse et les écarts de vitesse sont
   05_evaluation:

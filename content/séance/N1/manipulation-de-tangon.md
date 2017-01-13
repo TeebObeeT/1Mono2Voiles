@@ -16,7 +16,7 @@ seance:
   - Chrono
   02_but: Transférer le tangon de babord vers tribord
   03_objectifs:
-  - Préparation à l'empannage sous spi
+  - 3M2.3 Réaliser les manœuvres relatives au spinnaker
   04_reussite:
   - Le tangon est passé d'un bord à l'autre sans efforts
   05_evaluation:

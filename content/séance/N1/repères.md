@@ -15,7 +15,7 @@ seance:
   02_but: Trouver des repères sur l'eau et le bateau pour déterminer son allure et sa position par rapport à un objet
   03_objectifs:
   - 1C1.6 Différencier les allures de près des allures portantes
-  - Distinction au vent / sous le vent
+  - 3C1.3 Se représenter les trajectoires à suivre et les allures à prendre pour rejoindre un point donné du plan d’eau
   04_reussite:
   - L'équipage est capable à tout moment de dire à quelle allure le bateau est
   - L'équipage peut anticiper l'allure à laquelle on sera si on pointe l'objet

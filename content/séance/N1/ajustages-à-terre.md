@@ -16,7 +16,7 @@ seance:
   - Bouts aux points de la voile
   02_but: Regrouper l'eau dans un creux plus ou moins creusé à 30% de la voile
   03_objectifs:
-  - Ajuster sa voile à la météo et à l'allure
+  - 4C2.2 Adapter les réglages de profils selon l’allure et les conditions de vent et de mer
   04_reussite:
   - On arrive à positionner le creux à 30% de la voile
   - On arrive à aplatir et creuser la voile

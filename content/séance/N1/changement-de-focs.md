@@ -15,7 +15,7 @@ seance:
   - Chrono
   02_but: Changer la voile d'avant pour l'adapter aux conditions météo
   03_objectifs:
-  - 1M2.1  Identifier les dispositifs de réduction de voilure
+  - 1M2.1 Identifier les dispositifs de réduction de voilure
   04_reussite:
   - La nouvelle voile d'avant est changée et hissée correctement (écoutes, points)
   - L'ancienne voile d'avant est pliée dans son sac, prête à resservir

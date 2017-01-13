@@ -14,8 +14,7 @@ seance:
   - Zone dégagée
   02_but: Faire effectuer un 360° en bloquant la barre
   03_objectifs:
-  - Compression de la dynamique aéro-hydro
-  - Se positionner correctement sur le navire
+  - 4C2.1 Connaître les principes de l’aérodynamique et de l’hydrodynamique impliqués dans la propulsion et l’équilibre des navires à voiles
   04_reussite:
   - Le bateau a tourné autour d'un point fixe (imaginaire) en faisant un virement et un empannage
   - Les voiles sont réglées correctement en permanence

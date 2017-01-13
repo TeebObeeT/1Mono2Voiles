@@ -14,8 +14,7 @@ seance:
   - Prévoir un long bord de GL
   02_but: Hisser le spi, le gonfler, et l'affaler
   03_objectifs:
-  - Manipulation du spi sans tangon
-  - Hissage et affalage efficaces
+  - 2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible
   04_reussite:
   - Le spi est envoyé et se gonfle directement
   - Le spi est sec d'eau de mer quand on l'affale

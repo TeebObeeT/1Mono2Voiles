@@ -66,14 +66,15 @@ planning:
     04_conduite:
     - 1C1.1 Gonfler la voile pour avancer
     - 1C1.2 Utiliser la barre pour se diriger
-    - 1C1.3  Utiliser la voile pour ralentir
-    - 1C1.4  Utiliser la barre pour ralentir
+    - 1C1.3 Utiliser la voile pour ralentir
+    - 1C1.4 Utiliser la barre pour ralentir
     - 1C1.6 Différencier les allures de près des allures portantes
-    - 2C1.4  Ajuster la trajectoire à une ouverture de voile donnée
+    - 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée
+    - 3C1.3 Se représenter les trajectoires à suivre et les allures à prendre pour rejoindre un point donné du plan d’eau
     05_manoeuvre:
     - 1M3.1 Se préparer au départ à la voile ou au moteur
     - 1M4.1 Participer aux manœuvres d’entrée et de sortie de port
-    - 1M2.1  Identifier les dispositifs de réduction de voilure
+    - 1M2.1 Identifier les dispositifs de réduction de voilure
     - 1M3.2 Préparer la manœuvre de mouillage
     - 1M1.1 Utiliser la barre pour changer d’amure
     - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
@@ -113,7 +114,8 @@ planning:
     - Distinction au vent / sous le vent
     - Sentir le bateau au vent arrière et observer la chute de la GV
     05_manoeuvre:
-    - null
+    - 1M1.1 Utiliser la barre pour changer d’amure
+    - 1M2.1 Identifier les dispositifs de réduction de voilure
     06_navigation:
     - null
     07_sécurité:
@@ -144,20 +146,18 @@ planning:
     - Bilan de mi-stage
     - chrono/quick stop
     04_conduite:
-    - Sentir le bateau et les conséquences de la répartition des masses
+    - 1C1.1 Gonfler la voile pour avance
     - Se positionner correctement sur le bateau
-    - Réglage des voiles aux allures portantes
-    - Compréhension de la dynamique aéro-hydro
-    - Se positionner correctement sur le navire
+    - 2C2.1 Identifier et expérimenter les différents réglages disponibles
+    - 4C2.1 Connaître les principes de l’aérodynamique et de l’hydrodynamique impliqués dans la propulsion et l’équilibre des navires à voiles
     05_manoeuvre:
     - 1M1.1 Utiliser la barre pour changer d’amure
     - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
     - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
-    - 1S1.2 Savoir utiliser les winches en sécurité
     06_navigation:
     - null
     07_sécurité:
-    - null
+    - 1S1.2 Savoir utiliser les winches en sécurité
     08_technologie:
     - null
     09_viemaritime:
@@ -181,10 +181,10 @@ planning:
     03_soir:
     - topo/N1/cadre
     04_conduite:
-    - Ajuster sa voile à la météo et à l'allure
+    - 4C2.2 Adapter les réglages de profils selon l’allure et les conditions de vent et de mer
     05_manoeuvre:
-    - Quick-Stop
-    - Prise de coffre
+    - 2M2.2 Gréer et dégréer un spinnaker
+    - 2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible
     06_navigation:
     - null
     07_sécurité:
@@ -244,7 +244,7 @@ planning:
     04_conduite:
     - null
     05_manoeuvre:
-    - null
+    - 3M2.3 Réaliser les manœuvres relatives au spinnaker
     06_navigation:
     - null
     07_sécurité:

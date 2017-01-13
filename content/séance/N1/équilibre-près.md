@@ -14,7 +14,6 @@ seance:
   - Papier crayon
   02_but: Déterminer expérimentalement la meilleure position sur le bateau au près
   03_objectifs:
-  - Sentir le bateau et les conséquences de la répartition des masses au près
   - Se positionner correctement sur le bateau au près
   04_reussite:
   - On a identifié un placement sur le bateau qui permet d'avancer le plus vite sans autre changement de réglages
