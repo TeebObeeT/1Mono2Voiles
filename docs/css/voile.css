@@ -36,8 +36,11 @@ body {
         display: block;
     }
     h1,h2,h3,h4 {
-        margin-top:0;
-		margin-bottom:0;
+          margin-top:0;
+		      margin-bottom:0;
+          border-bottom: 0px solid white;
+          padding-bottom:0.3em;
+          padding-top:0.3em;
     }
     #toc {
         background:#42ABF4;
@@ -96,6 +99,19 @@ body {
         width:15%;
         left:85%;
         height:100%;
+    }
+    #content h1{
+      color: #333;
+      display:block;
+      padding-bottom:0.6em;
+      border-bottom: 1px solid #CCC;
+
+    }
+    #content h2{
+      color: #222;
+      display:block;
+      padding-bottom:0.3em;
+      border-bottom: 1px solid #DDD;
     }
 	nav.nav{
 		padding:0.4rem;
@@ -218,6 +234,21 @@ Global post Look and feel
     font-size:1.2rem;
     line-height:1.5rem;
 }
+#content table {
+  width:100%;
+	border-collapse: collapse;
+}
+#content table td {
+  border: 1px solid #C8C8C8;
+  padding: 0.25em;
+}
+#content table tr:nth-child(even) {
+    background-color: #E8E8E8;
+}
+#content table tr:nth-child(odd) {
+    background-color: #F8F8F8;
+}
+
 
 
 /*----------------------------------------------------
@@ -300,10 +331,11 @@ td.desc {
 /*----------------------------------------------------
 Headers Look and feel
 ----------------------------------------------------*/
-.post-title {
+#content .post-header .post-title {
     color: #CC071E;
     border-bottom: 2px solid #CC071E;
     margin-bottom:1rem;
+    padding-bottom:0.18em;
 }
 .post-header h1 {
     margin-bottom:0.5em;
