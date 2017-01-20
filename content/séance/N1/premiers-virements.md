@@ -29,16 +29,14 @@ seance:
   - Le bateau ne s'arrête pas
   - Le cockpit est rangé après chaque virement
   06_consignes:
-  - Démonstration du moniteur aux différents postes
-  - <b>Foc</b> - Etre toujours prêt au prochain virement
+  - Démonstration du moniteur
+  - <b>Foc</b> - Toujours prêt
   - <b>Barre</b> - "Parés à virer?" - <b>equipage</b> - "Parés!"
   - <b>Barre</b> - Coup de barre franc en direction du vent
-  - <b>Foc</b> - Quand le foc se dévente, choquer l'ancienne écoute en grand
-  - <b>Foc</b> - Reprendre le mou de la future écoute
+  - <b>Foc</b> - Quand le foc se dévente, choquer l'ancienne écoute en grand, reprendre le mou de la future écoute
   - <b>Foc</b> - Quand le foc est dans l'axe du bateau, border la nouvelle écoute à fond
   - <b>Barre</b> - Barre droite
-  - Chacun doit trouver le moment qui lui va le mieux pour changer de côté
-  - Tourner aux différents postes tous les 3 virements  
+  - Tourner tous les 3 virements  
   - Le reste de l'équipage note les impressions et les sensations
   07_securite:
   - Déplacements à l'avant se font au vent
