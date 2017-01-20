@@ -41,6 +41,6 @@ seance:
     - Envoyer le spi
     plus:
     - Ne pas envoyer de voile du tout
-tags: [Changement amure]
+tags: [Changement amure, Spi]
 title: manipulation de tangon
 ---

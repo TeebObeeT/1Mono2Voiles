@@ -42,6 +42,6 @@ seance:
     - GV bordée pour gonfler le spi
     plus:
     - Faire l'exercice avec le génois tangonné
-tags: [Changement amure, Portant]
+tags: [Changement amure, Portant, Spi]
 title: empannage sous spi
 ---
