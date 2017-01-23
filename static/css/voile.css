@@ -116,6 +116,7 @@ body {
 	nav.nav{
 		padding:0.4rem;
 	}
+
 }
  /*----------------------------------------------------
 Sidebar content look and feel
@@ -298,10 +299,10 @@ Seance and planning Look and feel
 	line-height: 1.2rem;
 }
 .planning table {
-    border-collapse: collapse;
+  border-collapse: collapse;
 	border: 1px solid #FEFEFE;
-    width:100%;
-    font-size: 0.9rem;
+  width:100%;
+  font-size: 0.9rem;
 }
 
 .planning td, .planning th {
@@ -316,15 +317,29 @@ td.discret {
     padding:0;
     margin:0;
 }
-th.title, th.title a {
-    text-align: left;
-    border-right: none;
+
+#content h1.title !important{
+  margin:0;
+  padding:0;
+  border-bottom: none;
+}
+
+h1.title a{
     color: #3F7AB2;
     text-decoration: none;
+    display:inline-block;
+    width:75%
+}
+h1.title p{
+    color: #3F7AB2;
+    font-size: 1.1rem;
+    text-align: right;
+    width:25%;
+    display: inline-block;
 }
 
 td.desc {
-    border-left: none;
+    border: none;
     text-align: right;
 }
 

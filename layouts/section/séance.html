@@ -4,14 +4,14 @@
     <div id="layout">
         <div id="content">
             {{ range .Data.Pages }}
-            <div class="seance">
-                <table><tr><th class="title"><h1><a href={{ .RelPermalink }}>{{ .Title | humanize }}</a></h1></th><td class="desc">{{ .Section | humanize }} {{range .Params.niveaux}}{{.}}{{end}}</td></tr>
-                <tr><td class="discret" colspan=2>{{ .Render "table"}}</td></tr>
-                <tr><td colspan=2>{{ .Content }}</td></tr></table>
-            </div>
-            <br/>
-            {{end}}
+              <div class="seance">
+                <h1 class="title"><a href={{ .RelPermalink }}>{{ .Title | humanize }}</a><p>{{ .Section | humanize }} {{range .Params.niveaux}}{{.}}{{end}}</p></h1>
 
+                {{ .Render "table"}}
+
+              </div>
+              <br/>
+            {{end}}
         {{ partial "footer.html" . }}
         </div>
     </div>
