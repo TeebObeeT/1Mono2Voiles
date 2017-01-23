@@ -3,6 +3,7 @@
 {{partial "sidebar.html" . }}
     <div id="layout">
         <div id="content">
+
             {{ range .Data.Pages }}
               <div class="seance">
                 <h1 class="title"><a href={{ .RelPermalink }}>{{ .Title | humanize }}</a><p>{{ .Section | humanize }} {{range .Params.niveaux}}{{.}}{{end}}</p></h1>
@@ -10,7 +11,7 @@
                 {{ .Render "table"}}
 
               </div>
-              <br/>
+              <br class="pageend"/>
             {{end}}
         {{ partial "footer.html" . }}
         </div>

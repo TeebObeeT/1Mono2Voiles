@@ -318,10 +318,13 @@ td.discret {
     margin:0;
 }
 
-#content h1.title !important{
+#content h1.title {
   margin:0;
   padding:0;
   border-bottom: none;
+  border-top: 1px solid #3F7AB2;
+  border-left: 1px solid #3F7AB2;
+  border-right: 1px solid #3F7AB2;
 }
 
 h1.title a{

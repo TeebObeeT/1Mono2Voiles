@@ -14,6 +14,14 @@ hr,
 /*----------------------------------------------------
 Global post Look and feel
  ----------------------------------------------------*/
+ @page
+ {
+     size: auto;   /* auto is the initial value */
+     /* this affects the margin in the printer settings */
+     margin: 15mm 8mm 20mm 8mm;
+ }
+
+
 #content {
     width:100%;
     font-family:georgia;
@@ -42,7 +50,7 @@ body {
 /*----------------------------------------------------
 Seance and planning Look and feel
  ----------------------------------------------------*/
-.seance {
+br.pageend {
     page-break-after: always;
 }
 .seance table{
@@ -116,6 +124,24 @@ td.desc {
 }
 .planning li {
     list-style:none;
+}
+
+#content h1.title {
+  margin:0;
+  padding:0;
+  }
+
+h1.title a{
+    color: black;
+    text-decoration: none;
+    display:inline-block;
+    width:75%
+}
+h1.title p{
+    font-size: 1.1rem;
+    text-align: right;
+    width:25%;
+    display: inline-block;
 }
 
 /*----------------------------------------------------
