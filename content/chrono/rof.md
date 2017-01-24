@@ -14,7 +14,7 @@ postes:
 - Piano
 - Foc
 tags: []
-title: Récupération d'Objet Flottant
+title: Récupération d'objet flottant
 previsionnels:
   - Stage Terre N1
 ---

@@ -252,4 +252,6 @@ prevision: true
 semaine: stage 1 semaine à terre
 tags: []
 title: Prévisionnel stage à terre 1 semaine
+previsionnels:
+  - Stage Terre N1
 ---
