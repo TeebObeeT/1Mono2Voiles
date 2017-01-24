@@ -40,4 +40,6 @@ seance:
     - null
 tags: []
 title: Rangement
+previsionnels:
+  - Stage Terre N1
 ---

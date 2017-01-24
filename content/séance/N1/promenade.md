@@ -45,4 +45,6 @@ seance:
     - Ne pas s'éloigner trop
 tags: []
 title: promenade
+previsionnels:
+  - Stage Terre N1
 ---

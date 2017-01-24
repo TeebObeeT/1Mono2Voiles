@@ -45,4 +45,6 @@ seance:
     -
 tags: [Spi, Gréer]
 title: gréer le spi
+previsionnels:
+  - Stage Terre N1
 ---

@@ -6,6 +6,8 @@ niveaux:
 - Niveau-1
 tags: [Changement amure, Près, Portant]
 title: cadre
+previsionnels:
+  - Stage Terre N1
 ---
 Aperçu de la notion de cadre, indispensable en régate mais avant tout très utile aussi pour savoir arriver où l'on veut dans un délai raisonnable.
 <!--more-->

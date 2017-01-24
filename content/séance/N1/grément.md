@@ -48,4 +48,6 @@ tags:
   - Gréer
 title: Grément
 published: true
+previsionnels:
+  - Stage Terre N1
 ---

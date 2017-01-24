@@ -6,6 +6,8 @@ niveaux:
 - Niveau-1
 tags: []
 title: météo
+previsionnels:
+  - Stage Terre N1
 ---
 Présentation générale du bulletin météo et décomposition des informations présentées.
 Egalement une explication générique sur les anticyclones/dépressions et effets de site.
@@ -56,7 +58,7 @@ Notifications, significations.
 ### Pression et humidité atmosphérique
 La pression atmosphérique est la pression exercée par une colonne d'air au niveau de la mer par une température de 15°C. La pression normale est d'environ 1013,25hPa, arrondie à 1015hPa dans le monde anglo-saxon.
 
-La pression dépend de la température de l'air ainsi que son humidité (*pour un volume donné, celui de notre colonne d'air*). 
+La pression dépend de la température de l'air ainsi que son humidité (*pour un volume donné, celui de notre colonne d'air*).
 
 Plus l'air est chaud, plus il peut contenir de l'eau (*ex: Chaleur tropicale et froid polaire*)
 

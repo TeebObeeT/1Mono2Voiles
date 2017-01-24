@@ -45,4 +45,6 @@ seance:
     - Equipage à la contre-gîte
 tags: [Près]
 title: initiation au près
+previsionnels:
+  - Stage Terre N1
 ---

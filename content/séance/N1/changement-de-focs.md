@@ -47,4 +47,6 @@ seance:
     - Prendre foc 2 et tourmentin pour alterner
 tags: [Gréer, Près]
 title: changement de focs
+previsionnels:
+  - Stage Terre N1
 ---

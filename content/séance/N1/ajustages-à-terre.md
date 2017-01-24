@@ -43,4 +43,6 @@ seance:
     - Se mettre à l'intérieur avec une voile normale
 tags: [Réglages]
 title: Ajustages à terre
+previsionnels:
+  - Stage Terre N1
 ---

@@ -6,6 +6,8 @@ niveaux:
 - Niveau-1
 tags: []
 title: réglages ajustages
+previsionnels:
+  - Stage Terre N1
 ---
 Différences entre réglages et ajustages ainsi que les premières pistes pour optimiser ses voiles...On parlera ici du cas de la navigation en finesse.
 

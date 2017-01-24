@@ -47,4 +47,6 @@ seance:
     - Réduire la voilure (ris)
 tags: [Près, Changement amure, Portant]
 title: banane
+previsionnels:
+  - Stage Terre N1
 ---

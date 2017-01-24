@@ -42,4 +42,6 @@ seance:
     - Affaler la GV préalablement
 tags: [Portant, Equilibre]
 title: Equilibre au grand largue
+previsionnels:
+  - Stage Terre N1
 ---

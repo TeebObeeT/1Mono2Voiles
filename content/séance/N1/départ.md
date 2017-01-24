@@ -48,4 +48,6 @@ seance:
     - Prévoir sécurité (remorquage présent)
 tags: []
 title: départ
+previsionnels:
+  - Stage Terre N1
 ---

@@ -43,4 +43,6 @@ seance:
     - Travailler sur le ris 2 ou 3
 tags: []
 title: Prise de ris
+previsionnels:
+  - Stage Terre N1
 ---

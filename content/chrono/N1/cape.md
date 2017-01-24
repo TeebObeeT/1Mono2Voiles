@@ -9,6 +9,8 @@ postes:
 - GV
 tags: [Changement amure, ]
 title: cape
+previsionnels:
+  - Stage Terre N1
 ---
 La mise à la cape est une façon agréable de faire une pause sur l'eau, que ce soit pour résoudre des problèmes techniques, pour faire un petit débrief ou pour manger.
 

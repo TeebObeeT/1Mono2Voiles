@@ -37,4 +37,6 @@ seance:
     - Réduire la voilure (ris)
 tags: []
 title: périmètre
+previsionnels:
+  - Stage Terre N1
 ---

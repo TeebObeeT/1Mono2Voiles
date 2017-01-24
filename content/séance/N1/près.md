@@ -43,4 +43,6 @@ seance:
     - Réduire la voilure (ris)
 tags: [Près]
 title: près
+previsionnels:
+  - Stage Terre N1
 ---

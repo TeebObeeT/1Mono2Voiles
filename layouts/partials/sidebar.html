@@ -1,15 +1,15 @@
 <div id="sidebar">
-	<div class="header">		
+	<div class="header">
 		<h1 class="brand-title"><a href="{{ .Site.BaseURL }}">{{ if .Site.Params.sidebartitle }}{{ .Site.Params.sidebartitle }}{{else}}Home{{ end }}</a></h1>
 		{{ if .Site.Params.sidebartagline }}<h2 class="brand-tagline">{{ .Site.Params.sidebartagline }}</h2>{{ end }}
 
-	<nav class="nav">		
+	<nav class="nav">
 		  <ul class="nav-list">
 			{{ range $k, $v := .Site.Sections }}
 				<li class="nav-item"><span class="nav-item-separator">/</span><a href="{{ $k | absURL}}">{{ $k  | pluralize }}</a></li>
 			{{ end }}
 			</ul>
-          
+
 		  <hr/>
           <ul class="nav-list">
                 {{ range $key, $value := .Site.Taxonomies.niveaux }}
@@ -33,11 +33,19 @@
         </span>
         <hr/>
         <span class="tags-list">
+
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.postes }}
               <a href='{{ "/postes/" | relURL}}{{ $taxonomyname | urlize }}'>{{ $taxonomyname | humanize }}</a>
             {{ end }}
             <a href='{{ "/postes/" | relURL }}'>...</a>
         </span>
-    </nav>	
+				<hr/>
+				<span class="nav-list">
+                {{ range $key, $value := .Site.Taxonomies.previsionnels }}
+							<li class="nav-item"><span class="nav-item-separator"></span><a class='post-category post-category-previsionnel' href='{{ "/previsionnels/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></li>
+						{{ end }}
+						<a href='{{ "/previsionnels/" | relURL }}'>...</a>
+				</span>
+    </nav>
 	</div>
 </div>

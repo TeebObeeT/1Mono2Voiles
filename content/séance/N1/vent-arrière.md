@@ -44,4 +44,6 @@ seance:
     - Réduire la voilure (ris)
 tags: []
 title: vent arrière
+previsionnels:
+  - Stage Terre N1
 ---

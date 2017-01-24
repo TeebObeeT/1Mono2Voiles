@@ -47,4 +47,6 @@ seance:
     - Réduire la voilure (ris)
 tags: []
 title: initiation au grand largue
+previsionnels:
+  - Stage Terre N1
 ---

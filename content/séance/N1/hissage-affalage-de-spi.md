@@ -50,4 +50,6 @@ seance:
     - Réduire la voilure (ris)
 tags: [Spi]
 title: hissage affalage de spi
+previsionnels:
+  - Stage Terre N1
 ---

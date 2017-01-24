@@ -8,6 +8,8 @@ postes:
 - Barre
 - GV
 author: Teebo
+previsionnels:
+  - Stage Terre N1
 seance:
  00_prereq:
   - 1C1.6 Distinguer les allures portantes,

@@ -6,6 +6,8 @@ niveaux:
 - Niveau-1
 tags: []
 title: privilèges
+previsionnels:
+  - Stage Terre N1
 ---
 Quelques informations basiques mais essentielles à savoir avant de partir en mer...
 <!--more-->

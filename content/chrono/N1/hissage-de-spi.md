@@ -11,6 +11,8 @@ postes:
 - Foc
 tags: [Gréer]
 title: hissage de spi
+previsionnels:
+  - Stage Terre N1
 ---
 Chronologie de l'hissage de spi simple, sans tangon. Valable sur parcours très court ou pour la découverte des débutants.
 

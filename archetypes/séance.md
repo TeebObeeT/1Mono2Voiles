@@ -31,4 +31,6 @@ seance:
   - Réduire la voilure (ris)
   moins:
   -
+  previsionnels:
+    - 
 ---

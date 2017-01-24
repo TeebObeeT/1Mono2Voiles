@@ -44,4 +44,6 @@ seance:
     - Faire l'exercice avec le génois tangonné
 tags: [Changement amure, Portant, Spi]
 title: empannage sous spi
+previsionnels:
+  - Stage Terre N1
 ---

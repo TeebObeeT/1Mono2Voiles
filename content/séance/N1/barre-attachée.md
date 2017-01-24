@@ -48,4 +48,6 @@ seance:
     - Le moniteur reste à proximité de la GV
 tags: [Changement amure, Près, Portant, Equilibre]
 title: barre attachée
+previsionnels:
+  - Stage Terre N1
 ---

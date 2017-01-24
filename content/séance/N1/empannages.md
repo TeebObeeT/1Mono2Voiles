@@ -4,6 +4,8 @@ date: 2016-11-15T14:22:25+01:00
 categories: [Manoeuvre]
 niveaux: [Niveau-1]
 tags: [Changement amure,Portant]
+previsionnels:
+  - Stage Terre N1
 postes:
 - Barre
 - GV

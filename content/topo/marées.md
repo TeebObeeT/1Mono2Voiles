@@ -7,6 +7,8 @@ niveaux:
 - Niveau-2
 tags: []
 title: Marées
+previsionnels:
+  - Stage Terre N1
 ---
 Les marées sont présentes partout, en Manche, en Méditérannée, et même dans mon café!
 Petites explications sur le phénomène et brêve prise en main du calcul de marée.

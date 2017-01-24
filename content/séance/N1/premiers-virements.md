@@ -54,4 +54,6 @@ seance:
     - Réduire la voilure (ris)
 tags: [Changement amure, Près]
 title: premiers virements
+previsionnels:
+  - Stage Terre N1
 ---

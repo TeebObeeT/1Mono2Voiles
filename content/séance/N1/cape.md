@@ -42,4 +42,6 @@ seance:
     - Réduire la voilure (ris)
 tags: [Près]
 title: Mise à la cape
+previsionnels:
+  - Stage Terre N1
 ---

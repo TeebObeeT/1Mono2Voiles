@@ -19,5 +19,8 @@ a.post-category-niveau-5{
 }
 span.post-niveaux a.post-category-section{
 	background-color: transparent;
-    color:#CC071E;   
+    color:#CC071E;
+}
+a.post-category-previsionnel{
+	background-color: #C3D1EB;
 }

@@ -46,4 +46,6 @@ seance:
     - Réduire la voilure (ris)
 tags: []
 title: arrêt
+previsionnels:
+  - Stage Terre N1
 ---

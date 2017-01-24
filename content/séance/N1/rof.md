@@ -40,4 +40,6 @@ seance:
     - Réduire la voilure (ris)
 tags: []
 title: rof
+previsionnels:
+  - Stage Terre N1
 ---

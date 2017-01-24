@@ -56,4 +56,6 @@ seance:
     - Tout le monde repasse au vent après le virement
 tags: [Changement amure, Près]
 title: virements
+previsionnels:
+  - Stage Terre N1
 ---

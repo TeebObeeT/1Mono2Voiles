@@ -6,6 +6,8 @@ niveaux:
 - Niveau-1
 tags: []
 title: navigation
+previsionnels:
+  - Stage Terre N1
 ---
 
 Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navigations
@@ -50,6 +52,6 @@ Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navi
 ## Savoir où l'on va
 
 * Trouver un cap
-* Corriger un cap 
+* Corriger un cap
   * Déclinaison
   * Dérive (attention à la direction du vent)

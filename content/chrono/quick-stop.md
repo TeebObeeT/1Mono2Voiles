@@ -11,6 +11,8 @@ postes:
 - Barre
 tags: []
 title: quick stop
+previsionnels:
+  - Stage Terre N1
 ---
 La méthode quick stop, officiellement recommandée par l’ISAF, la Fédération Internationale de la Voile pour récupérer un homme à la mer est une méthode que tous les équipiers doivent connaître. Elle permet d'utiliser le moteur tout en gardant l'appui des voiles.
 <!--more-->

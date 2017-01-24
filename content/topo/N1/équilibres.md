@@ -6,6 +6,8 @@ niveaux:
 - Niveau-1
 tags: [Equilibre]
 title: Equilibres
+previsionnels:
+  - Stage Terre N1
 ---
 Il s'agit ici d'une introduction aux équilibres hydro/aéro qui font que le bateau avance, gîte, ne se retourne pas,...
 

@@ -43,4 +43,6 @@ seance:
     - Ne pas envoyer de voile du tout
 tags: [Changement amure, Spi]
 title: manipulation de tangon
+previsionnels:
+  - Stage Terre N1
 ---

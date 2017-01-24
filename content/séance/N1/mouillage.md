@@ -47,4 +47,6 @@ seance:
     - null
 tags: [Mouillage]
 title: mouillage
+previsionnels:
+  - Stage Terre N1
 ---

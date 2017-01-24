@@ -6,6 +6,8 @@ niveaux:
 - Niveau-1
 tags: []
 title: allures
+previsionnels:
+  - Stage Terre N1
 ---
 Présentation initiale sur les grandes familles d'allures et leurs particularités, avec introduction sur pourquoi le bateau avance et les différences entre écoulements laminaires et perturbés
 <!--more-->

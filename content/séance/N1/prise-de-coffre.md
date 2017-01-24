@@ -48,4 +48,6 @@ seance:
     - Réduire la voilure (ris)
 tags: [Mouillage]
 title: prise de coffre
+previsionnels:
+  - Stage Terre N1
 ---

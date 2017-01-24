@@ -43,4 +43,6 @@ seance:
     - Réduire la voilure (ris)
 tags: []
 title: Déplacements
+previsionnels:
+  - Stage Terre N1
 ---

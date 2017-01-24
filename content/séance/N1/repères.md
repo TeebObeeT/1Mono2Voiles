@@ -47,4 +47,6 @@ seance:
     - Réduire la voilure (ris)
 tags: [Allures]
 title: repères
+previsionnels:
+  - Stage Terre N1
 ---

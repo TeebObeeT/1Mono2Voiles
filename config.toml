@@ -21,3 +21,4 @@ uglyURLs=false
   categorie = "categories"
   poste = "postes"
   niveau = "niveaux"
+	previsionnel = "previsionnels"
