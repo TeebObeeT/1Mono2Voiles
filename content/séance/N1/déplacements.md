@@ -42,7 +42,7 @@ seance:
     - Allure travers
     - Réduire la voilure (ris)
 tags: []
-title: Déplacements
+title: déplacements
 previsionnels:
   - Stage Terre N1
 ---

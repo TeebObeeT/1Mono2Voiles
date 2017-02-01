@@ -40,7 +40,7 @@ seance:
     - Réduire la voilure (ris)
     - Se contenter de tester les différentes positions entre axe et au vent (pas sous le vent)
 tags: [Près, Equilibre]
-title: Equilibre au près
+title: equilibre au près
 previsionnels:
   - Stage Terre N1
 ---

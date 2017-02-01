@@ -46,7 +46,7 @@ seance:
       - Hisser le tourmentin en voile d'avant
 tags:
   - Gréer
-title: Grément
+title: grément
 published: true
 previsionnels:
   - Stage Terre N1

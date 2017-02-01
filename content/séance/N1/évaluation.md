@@ -48,7 +48,7 @@ seance:
     plus:
     - Réduire la voilure (ris)
 tags: []
-title: Evaluation
+title: evaluation
 previsionnels:
   - Stage Terre N1
 ---

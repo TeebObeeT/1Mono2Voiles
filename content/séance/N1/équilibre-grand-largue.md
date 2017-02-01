@@ -41,7 +41,7 @@ seance:
     - Réduire la voilure (ris)
     - Affaler la GV préalablement
 tags: [Portant, Equilibre]
-title: Equilibre au grand largue
+title: equilibre au grand largue
 previsionnels:
   - Stage Terre N1
 ---

@@ -37,7 +37,7 @@ seance:
     plus:
     - null
 tags: []
-title: Inventaire
+title: inventaire
 previsionnels:
   - Stage Terre N1
 ---
