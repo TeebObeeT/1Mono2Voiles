@@ -10,44 +10,6 @@
 	</div>
 		{{partial "categories.html" . }}
 	<div>
-    <!--<table style="width:29cm; height:20cm">
-		<tr>
-			<th></th>
-			<th class="dark">Matin</th>
-			<th class="dark">Après-midi</th>
-			<th class="dark">Soir</th>
-			<th class="light">Conduite</th>
-			<th class="light">Manoeuvre</th>
-			<th class="light">Navigation</th>
-			<th class="light">Sécurité</th>
-			<th class="light">Technologie</th>
-			<th class="light">Vie Maritime</th>
-			<th class="light">Environnement</th>
-			<th class="light">Administratif</th>
-		</tr>
-		{{ range $valeurs := sort .Params.planning }}
-			<tr>
-				{{ range $k,$v := sort $valeurs}}
-					{{if eq $k 0 }}
-						<th class="dark">{{ $v }}</th>
-					{{else if lt $k 4}}
-						<td class="dark">
-                            {{range $v}}
-                                <li>{{.}}</li>
-                            {{end}}
-						</td>
-                    {{else}}
-                    	<td class="light">
-                            {{range $v}}
-                                <li>{{.}}</li>
-                            {{end}}
-						</td>
-					{{end}}
-				{{end}}
-			</tr>
-		{{end}}
-	</table>
-	-->
 
 	{{ $valeurs_majeures := (dict "01_matin" "Matin" "02_aprèsmidi" "Après-midi" "03_soir" "Soir") }}
     {{ $valeurs_mineures := (dict "04_conduite" "Conduite" "05_manoeuvre" "Manoeuvre" "06_navigation" "Navigation" "07_sécurité" "Sécurité" "08_technologie" "Technologie" "09_viemaritime" "Vie maritime" "10_environnement" "Environnement" "11_administratif" "Administratif" ) }}

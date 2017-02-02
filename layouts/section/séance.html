@@ -4,7 +4,7 @@
     <div id="layout">
         <div id="content">
 
-            {{ range .Data.Pages}}
+            {{ range .Data.Pages.ByTitle}}
               <div class="seance">
                 <h1 class="title"><a href={{ .RelPermalink }}>{{ .Title | humanize }}</a><p>{{ .Section | humanize }} {{range .Params.niveaux}}{{.}}{{end}}</p></h1>
 
