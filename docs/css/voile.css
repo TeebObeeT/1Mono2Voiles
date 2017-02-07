@@ -84,6 +84,11 @@ body {
 		width:15%;
 		padding-top:2rem;
     }
+    #apropos {
+      position:fixed;
+      bottom:0;
+      left:0;
+    }
 	#content {
         left: 15%;
         position:absolute;
@@ -176,6 +181,10 @@ ul.nav-list {
 
 .tags-list, .tags-list a {
 	color:#FEFEFE;
+}
+
+#apropos {
+  color: white;
 }
 
 /*----------------------------------------------------
@@ -566,11 +575,11 @@ background-color:rgba(63, 122, 178, 0.4);
   div#categories {
 
   }
-  div#qui {
+  div#about {
     background-color: rgba(63, 122, 178, 0.9);
     color: white;
   }
-  div#qui img {
+  div#about img {
     max-width: 6rem;
     max-height: 6rem;
     vertical-align: middle;
