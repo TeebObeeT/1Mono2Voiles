@@ -476,3 +476,102 @@ Numbering titles for topos
   .topo h6:before {counter-increment: h6; content: counter(h1) "."  counter(h2) "." counter(h3) "." counter(h4) "." counter(h5) "." counter(h6) ". "}
 
   h1#title:before,h1.nocount:before,h2.nocount:before, h3.nocount:before, h4.nocount:before, h5.nocount:before, h6.nocount:before { content: ""; counter-increment: none }
+
+
+  /*----------------------------------------------------
+  Index page specifics
+  ----------------------------------------------------*/
+  body.index {
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    top:0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family:arial;
+  }
+  .index h1 {
+    font-size: 2.8rem;
+    margin-top:0;
+    padding-top:2rem;
+  }
+  .index h2 {
+    font-size: 2rem;
+  }
+  .index h3 {
+    font-size: 1.8rem;
+  }
+  .index h4 {
+    font-size: 1.6rem;
+  }
+  .index p {
+    font-size: 1.4rem;
+    text-transform: none;
+  }
+  .index a {
+    text-decoration: none;
+  }
+  div.index {
+    padding:0;
+    margin:0;
+    text-align: center;
+    text-transform:uppercase;
+    font-size: 2rem;
+    min-height: 20rem;
+  }
+  div#quoi {
+    background-color: rgba(63, 122, 178, 0.9);
+    padding-bottom: 2rem;
+    color:white;
+    }
+  div#quoi h1, div#quoi h2 {
+    padding-bottom:0;
+    margin-bottom: 0;
+  }
+  div#sections {
+    display: inline-flex;
+    width: 100%;
+    }
+  span.index {
+    font-size: 1.5rem;
+    flex:1;
+    min-height: 20rem;
+  }
+  span#séance {
+    background-color: rgba(255, 255, 255, 0.4)
+  }
+  span#chrono {
+    background-color: rgba(255, 255, 255, 0.4)
+  }
+  span#topo {
+    background-color:rgba(63, 122, 178, 0.4);
+  }
+  span#planning {
+background-color:rgba(63, 122, 178, 0.4);
+  }
+  div#niveaux .post-category,  div#categories .post-category {
+    font-size: 2rem !important;
+    text-decoration: none;
+  }
+  div#niveaux, div#categories {
+    padding-top:2rem;
+    padding-bottom: 2rem;
+
+  }
+  div#niveaux {
+    background-color: rgba(255, 255, 255, 0.6)
+  }
+  div#categories {
+
+  }
+  div#qui {
+    background-color: rgba(63, 122, 178, 0.9);
+    color: white;
+  }
+  div#qui img {
+    max-width: 6rem;
+    max-height: 6rem;
+    vertical-align: middle;
+  }

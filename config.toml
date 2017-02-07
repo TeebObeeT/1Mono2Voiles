@@ -15,6 +15,7 @@ uglyURLs=false
   sidebartagline = "Fiches pour l'enseignement de la voile aux Glénans en tant que bénévole"
   author = "Teebo"
   categoriescss = "/css/categories.css"
+	CopyrightHTML= "Copyright &#xA9; 2017 teebo.eu. All Rights Reserved."
 
 [taxonomies]
   tag = "tags"
