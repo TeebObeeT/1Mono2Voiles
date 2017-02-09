@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Près on 1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/tags/pr%C3%A8s.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/tags/pr%C3%A8s/index.xml</link>
     <description>Recent content in Près on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/tags/pr%C3%A8s.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/tags/pr%C3%A8s/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>cadre</title>
