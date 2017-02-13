@@ -20,7 +20,7 @@
 <div class="index" id="niveaux">
   <h1>Niveaux FFV</h1>
   {{ range $key, $value := .Site.Taxonomies.niveaux }}
-    <a class='post-category post-category-{{ replaceRE "[éèê]" "e" $key | urlize }}' href='{{ "/categories/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a>
+    <a class='post-category post-category-{{ replaceRE "[éèê]" "e" $key | urlize }}' href='{{ "/niveaux/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a>
   {{ end }}
 </div>
 
