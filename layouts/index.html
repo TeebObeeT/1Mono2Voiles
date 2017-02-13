@@ -8,9 +8,11 @@
 <div class='index' id='sections'>
   {{ range $k, $v := .Site.Sections }}
     <span class="index" id="{{$k}}">
+      <a href="{{ $k | absURL}}"><img src='./img/index/{{$k}}.svg' alt='{{$k}}'></a>
       <h2>
         <a href="{{ $k | absURL}}">{{$v.Count}} {{ $k  | pluralize }}</a>
       </h2>
+
     </span>
   {{ end }}
 </div>
@@ -30,17 +32,18 @@
 </div>
 
 
-  <div class="index" id="about">
-<h1>A propos de l'auteur et du site</h1>
-<h2>Auteur: Teebo</h2>
-<p id="presentation">Passioné de voile depuis toujours, membres des glénans depuis une éternité, moniteur depuis peu...</p>
-<a id='github' href='https://github.com/TeebObeeT'><img src='{{.Site.BaseURL}}/img/index/github.png' alt='GitHub'/></a>
-<a id='contact' href='mailto:teebo{arrobase}teebo{.}eu?subject=[1Mono2Voiles]'><img src='{{.Site.BaseURL}}/img/index/email.png' alt= 'Contact'/></a>
-<h2>Site:</h2>
-<p id='hugo'>Réalisé aisément grâce à <a href="https://gohugo.io/"><img src='{{.Site.BaseURL}}/img/index/hugo.png' alt='HUGO'></a></p>
-<p id='copyright'>{{ with .Site.Params.CopyrightHTML }}{{ . | safeHTML }}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved.{{end}}</p>
-
-  </div>
+<div class="index" id="about">
+  <h1>A propos de l'auteur et du site</h1>
+  <h2>Auteur: Teebo</h2>
+  <p id="presentation">Passioné de voile depuis toujours, membres des glénans depuis une éternité, moniteur depuis peu...</p>
+  <a id='github' href='https://github.com/TeebObeeT'><img src='{{.Site.BaseURL}}/img/index/github.png' alt='GitHub'/></a>
+  <a id='contact' href='mailto:teebo{arrobase}teebo{.}eu?subject=[1Mono2Voiles]'><img src='{{.Site.BaseURL}}/img/index/email.png' alt= 'Contact'/></a>
+  <h2>Site:</h2>
+  <p id='hugo'>Réalisé aisément grâce à <a href="https://gohugo.io/"><img src='{{.Site.BaseURL}}/img/index/hugo.png' alt='HUGO'></a></p>
+  <p id='copyright'>{{ with .Site.Params.CopyrightHTML }}{{ . | safeHTML }}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved.{{end}}</p>
+  <p id='copyright'>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></p>
+  <!-- <p id='copyright'>Icons made by <a href="http://www.flaticon.com/authors/zlatko-najdenovski" title="Zlatko Najdenovski">Zlatko Najdenovski</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></p> -->
+</div>
 
 
   {{ partial "bodyend.html" . }}
