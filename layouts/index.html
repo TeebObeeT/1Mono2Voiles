@@ -24,6 +24,13 @@
   {{ end }}
 </div>
 
+<div class="index" id="previsionnels">
+  <span><h1><img src='./img/index/planning.svg' alt='Prévisionnels complets'/></h1></span>
+  {{ range $key, $value := .Site.Taxonomies.previsionnels }}
+    <span><h2><a class='previsionnel' href='{{ "/previsionnels/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></h2><img src='./img/index/séance.svg' alt='{{$key}}'></span>
+  {{ end }}
+</div>
+
 <div class="index" id="categories">
   <h1>Catégories de compétences FFV</h1>
 {{ range $key, $value := .Site.Taxonomies.categories }}

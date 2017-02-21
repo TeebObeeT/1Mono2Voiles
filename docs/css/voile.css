@@ -583,7 +583,7 @@ Numbering titles for topos
   }
 
   div#categories {
-    background-color: rgba(255, 255, 255, 0.6)
+    /*background-color: rgba(255, 255, 255, 0.6)*/
   }
   div#about {
     background-color: rgba(63, 122, 178, 0.9);
@@ -593,4 +593,31 @@ Numbering titles for topos
     max-width: 6rem;
     max-height: 6rem;
     vertical-align: middle;
+  }
+
+  div#previsionnels {
+    background-color: rgba(255, 255, 255, 0.4);
+    display: inline-flex;
+    width: 100%;
+  }
+  div#previsionnels span
+  {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 1.5rem;
+    flex:1;
+    min-height: 20rem;
+  }
+  div#previsionnels img {
+    width: 10rem;
+    height:10rem;
+    margin:2.5rem;
+  }
+  div#previsionnels a {
+        color:  rgba(77, 77, 77, 0.4)
+  }
+  div#previsionnels > span:nth-child(1) {
+    flex:0.4;
+  }
+  div#previsionnels > span:nth-child(even) {
+    background-color: rgba(89,175,255, 0.3)
   }
