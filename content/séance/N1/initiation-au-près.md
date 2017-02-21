@@ -47,4 +47,5 @@ tags: [Près]
 title: initiation au près
 previsionnels:
   - Stage Terre N1
+  - Stage Terre N1 3J
 ---

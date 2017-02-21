@@ -9,6 +9,7 @@ tags: []
 title: sécurité à terre
 previsionnels:
   - Stage Terre N1
+  - Stage Terre N1 3J
 ---
 Lors d'un stage à terre, la sécurité est maximum, mais pour bien en profiter, il est important de connaître quelques règles de base...
 <!--more-->

@@ -17,6 +17,7 @@ tags: []
 title: récupération d'objet flottant
 previsionnels:
   - Stage Terre N1
+  - Stage Terre N1 3J
 ---
 Cette manoeuvre est importante, peut servir à récupérer casquettes, lunettes, et tout ce qui flotte, mais elle peut aussi permettre de prendre un coffre.
 

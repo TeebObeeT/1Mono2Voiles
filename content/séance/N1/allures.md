@@ -51,4 +51,5 @@ tags: [Portant, Près]
 title: allures
 previsionnels:
   - Stage Terre N1
+  - Stage Terre N1 3J
 ---

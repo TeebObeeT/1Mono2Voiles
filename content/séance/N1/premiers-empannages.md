@@ -10,6 +10,7 @@ postes:
 author: Teebo
 previsionnels:
   - Stage Terre N1
+  - Stage Terre N1 3J
 seance:
  00_prereq:
   - 1C1.6 Distinguer les allures portantes,

@@ -49,4 +49,5 @@ tags: []
 title: initiation au grand largue
 previsionnels:
   - Stage Terre N1
+  - Stage Terre N1 3J
 ---

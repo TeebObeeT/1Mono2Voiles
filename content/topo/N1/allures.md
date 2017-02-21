@@ -8,6 +8,7 @@ tags: []
 title: allures
 previsionnels:
   - Stage Terre N1
+  - Stage Terre N1 3J
 ---
 Présentation initiale sur les grandes familles d'allures et leurs particularités, avec introduction sur pourquoi le bateau avance et les différences entre écoulements laminaires et perturbés
 <!--more-->

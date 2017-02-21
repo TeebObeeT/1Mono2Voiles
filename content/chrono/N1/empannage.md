@@ -12,6 +12,7 @@ tags: [Changement amure, Portant]
 title: empannage
 previsionnels:
   - Stage Terre N1
+  - Stage Terre N1 3J
 ---
 L'empannage est une manoeuvre standard sans grande difficulté mais avec des risques, il est donc important de bien le maîtrisé pour naviguer en sécurité.
 

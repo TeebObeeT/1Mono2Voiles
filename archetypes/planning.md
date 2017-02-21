@@ -5,7 +5,7 @@ author: Teebo
 prevision: true
 semaine: stage 1 semaine à terre
 previsionnels:
-  - 
+  -
 planning:
     jour_01: &id001
       00_nom: Samedi

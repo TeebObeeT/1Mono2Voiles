@@ -44,4 +44,5 @@ tags: [Près]
 title: mise à la cape
 previsionnels:
   - Stage Terre N1
+  - Stage Terre N1 3J
 ---
