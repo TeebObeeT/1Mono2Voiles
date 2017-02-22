@@ -151,10 +151,11 @@ Sidebar content look and feel
 
 ul#sections{
   display: inline-flex;
+  width:100%;
 }
 li.nav-item a img {
-  width: 2rem;
-  height: 2rem;
+  width: 3rem;
+  height: 3rem;
 }
 #séance {
   background-color: rgba(89,175,255, 0.8);
