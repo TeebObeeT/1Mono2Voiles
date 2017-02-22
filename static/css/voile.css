@@ -153,8 +153,8 @@ ul#sections{
   display: inline-flex;
 }
 li.nav-item a img {
-  min-width: 5rem;
-  min-height: 5rem;
+  width: 5rem;
+  height: 5rem;
 }
 #séance {
   background-color: rgba(89,175,255, 0.8);
