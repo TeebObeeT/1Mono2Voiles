@@ -194,6 +194,7 @@ Semaine réalisée en "improvisation" en fonction de la météo et sur [cette ba
 <!--more-->
 
 **Stagiaires:**
+
 * Alain
 * Marc
 * Antoine
