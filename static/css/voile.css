@@ -154,9 +154,9 @@ ul#sections{
   width:100%;
 }
 li.nav-item a img {
-  width: 2.5rem;
-  height: 2.5rem;
-  margin: 1rem;
+  width: 2rem;
+  height: 2rem;
+  margin: 0.5rem;
 }
 ul#sections li {
   flex:1;
