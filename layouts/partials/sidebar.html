@@ -11,7 +11,14 @@
 			</ul>
 
 		  <hr/>
-          <ul class="nav-list">
+			<ul class="nav-list">
+					{{ range $key, $value := .Site.Taxonomies.previsionnels }}
+						<li class="nav-item"><span class="nav-item-separator"></span><a class='post-category post-category-previsionnel' href='{{ "/previsionnels/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></li>
+					{{ end }}
+					<a href='{{ "/previsionnels/" | relURL }}'>...</a>
+			</ul>
+			<hr/>
+			     <ul class="nav-list">
                 {{ range $key, $value := .Site.Taxonomies.niveaux }}
                     <li class="nav-item"><span class="nav-item-separator"></span><a class='post-category post-category-{{ replaceRE "[éèê]" "e" $key | urlize }}' href='{{ "/niveaux/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></li>
                 {{ end }}
@@ -31,7 +38,8 @@
             {{ end }}
             <a href='{{ "/tags/" | relURL }}'>...</a>
         </span>
-        <hr/>
+				<hr/>
+
         <span class="tags-list">
 
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.postes }}
@@ -39,13 +47,7 @@
             {{ end }}
             <a href='{{ "/postes/" | relURL }}'>...</a>
         </span>
-				<hr/>
-				<span class="nav-list">
-                {{ range $key, $value := .Site.Taxonomies.previsionnels }}
-							<li class="nav-item"><span class="nav-item-separator"></span><a class='post-category post-category-previsionnel' href='{{ "/previsionnels/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></li>
-						{{ end }}
-						<a href='{{ "/previsionnels/" | relURL }}'>...</a>
-				</span>
+
     </nav>
 	</div>
 	<a href='{{ .Site.BaseURL }}#about' id='apropos'>A propos de ce site</a>
