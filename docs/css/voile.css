@@ -82,12 +82,12 @@ body {
         left:0;
         height: 100%;
 		width:15%;
-		padding-top:2rem;
+		padding-top:0rem;
     }
     #apropos {
-      position:fixed;
-      bottom:0;
-      left:0;
+      position: absolute;
+      bottom: 2rem;
+      left:0.5rem;
     }
 	#content {
         left: 15%;
@@ -126,10 +126,17 @@ body {
  /*----------------------------------------------------
 Sidebar content look and feel
  ----------------------------------------------------*/
-#sidebar, #sidebar a {
+#sidebar{
 	font-family: Arial;
 	text-align: center;
 	text-decoration:none;
+  height:100%;
+  margin:0;
+  padding:0;
+  top:0;
+}
+#sidebar div.header {
+  background-color: #3F7AB2;
 }
 #sidebar h1 a {
 	color:#FEFEFE;
@@ -149,17 +156,22 @@ Sidebar content look and feel
 	list-style:none;
 }
 
-ul#sections{
+ul#sections, ul#niveaux{
   display: inline-flex;
   width:100%;
 }
-li.nav-item a img {
+li.nav-item {
+  height:3rem;
+}
+li.nav-item a img, ul#previsionnels img {
   max-width: 2rem;
   max-height: 2rem;
   margin: 0.5rem;
 }
-ul#sections li {
+ul#sections li, ul#niveaux li {
   flex:1;
+  padding:0;
+  margin:0;
 }
 
 li#séance {
@@ -174,18 +186,49 @@ li#topo {
 li#planning {
   background-color:rgba(165, 206, 57, 0.8);
 }
+
+ul#previsionnels li a{
+  width:100%;
+  height:100%;
+  color: white;
+  display: block;
+  margin:0;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  }
+/*ul#previsionnels > li:nth-child(odd) {
+  background-color: rgba(165, 206, 57, 0.8);
+}
+ul#previsionnels > li:nth-child(even) {
+  background-color: rgba(179,157,62, 0.8);
+}*/
+ul#previsionnels > li:nth-child(odd) {
+  background-color:rgba(89,175,255, 0.6);
+}
+ul#previsionnels > li:nth-child(even) {
+  background-color:rgba(77, 77, 77, 0.6);
+}
+
 .nav-item a {
     background: transparent;
-    color: #FEFEFE;
-    margin-top: 1rem;
+    color: black ;
     letter-spacing: 0.05rem;
     text-transform: uppercase;
-    font-size: 1rem;
+    font-size: 1.3rem;
     text-decoration: none;
-    margin-right: 0.1rem;
-    line-height: 1.5rem;
-	font-weight: 400;
+	  font-weight: 500;
+    margin: 0.5rem;
 }
+#sidebar h3 {
+  padding-bottom:0;
+  padding-top:1rem;
+  margin:0;
+  color:white;
+}
+ul#niveaux a {
+  display: block;
+}
+
 ul.nav-list {
 	margin:0;
 	padding:0;
@@ -195,20 +238,12 @@ ul.nav-list {
 .nav-item a:focus {
     text-decoration: none;
 }
-.nav-item-separator {
-	font-weight: 600;
-	font-family: Arial ;
-	color: #CC071E;
-	letter-spacing: -0.15rem;
-	margin-right: 0.4rem;
-	font-size: 1.6rem
-}
 
 .tags-list, .tags-list a {
 	color:#FEFEFE;
 }
 
-#apropos {
+#apropos a {
   color: white;
 }
 
@@ -486,7 +521,7 @@ img.bullet {
 }
 
 
-.print { display:none}
+.print { display:none !important;visibility:hidden;}
 
 
 /*----------------------------------------------------

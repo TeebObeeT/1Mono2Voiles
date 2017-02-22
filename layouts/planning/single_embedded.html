@@ -1,0 +1,65 @@
+<div class="planning">
+
+	<div class="post-header">
+		<h1 id="title" class="post-title"><a href={{ .RelPermalink }}>{{ .Title | humanize}}</a>{{partial "niveaux.html" . }}</h1>
+
+	</div>
+		{{partial "categories.html" . }}
+	<div>
+
+	{{ $valeurs_majeures := (dict "01_matin" "Matin" "02_aprèsmidi" "Après-midi" "03_soir" "Soir") }}
+    {{ $valeurs_mineures := (dict "04_conduite" "Conduite" "05_manoeuvre" "Manoeuvre" "06_navigation" "Navigation" "07_sécurité" "Sécurité" "08_technologie" "Technologie" "09_viemaritime" "Vie maritime" "10_environnement" "Environnement" "11_administratif" "Administratif" ) }}
+
+	<table>
+		<tr>
+			<th></th>
+			{{range sort .Params.planning}}
+				<th class="dark">{{index . "00_nom"}}</th>
+			{{end}}
+		</tr>
+		{{range $clef,$label := $valeurs_majeures}}
+		<tr>
+			<th class="dark">{{$label}}</th>
+			{{range sort $.Params.planning}}
+				<td class="dark">
+					{{range index . $clef}}
+						{{if . }}
+							<li>
+									{{if findRE "/" .}}
+									  {{$titre := replace . "/" " "}}
+										{{$titre := replaceRE "^(.*)( N[1-6] )(.*)" "$1 $3" $titre}}
+										{{$titre := replaceRE "^séance" "S " $titre}}
+										{{$titre := replaceRE "^chrono" "C " $titre}}
+										{{$titre := replaceRE "^topo" "T " $titre}}
+										<a href='{{ . | urlize | relURL  }}'>{{ $titre }}</a>
+
+									{{else}}
+										{{.}}
+									{{end}}
+							</li>
+						{{end}}
+					{{end}}
+				</td>
+			{{end}}
+		</tr>
+		{{end}}
+		{{range $clef,$label := $valeurs_mineures}}
+		<tr>
+			<th class="light">{{$label}}</th>
+			{{range sort $.Params.planning}}
+				<td class="light">
+					{{range index . $clef}}
+						<li>{{.}}</li>
+					{{end}}
+				</td>
+			{{end}}
+		</tr>
+		{{end}}
+    </table>
+
+	{{ .Content }}
+
+	{{ partial "closingLine.html" . }}
+
+ </div>
+</div>

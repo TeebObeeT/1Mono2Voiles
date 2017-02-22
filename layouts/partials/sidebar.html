@@ -6,36 +6,43 @@
 	<nav class="nav">
 		  <ul class="nav-list" id="sections">
 			{{ range $k, $v := .Site.Sections }}
-				<li class="nav-item" id="{{$k}}"><a href="{{ $k | absURL}}"><img src="./img/index/{{$k}}.svg" alt="{{ $k  | pluralize }}"/></a></li>
+				<li class="nav-item" id="{{$k}}"><a href="{{ $k | absURL}}"><img src="{{ $.Site.BaseURL }}/img/index/{{$k}}.svg" alt="{{ $k  | pluralize }}"/></a></li>
 			{{ end }}
 			</ul>
+			<h3>Niveaux FFV</h3>
+     	<ul class="nav-list" id="niveaux">
+        {{ range $key, $value := .Site.Taxonomies.niveaux }}
+            <li class="nav-item post-category post-category-{{ $key | urlize }}"><a href='{{ "/niveaux/" | relURL }}{{ $key | urlize }}'>{{ replaceRE "niveau-" "" $key  }}</a></li>
+        {{ end }}
+      </ul>
 
-			<hr/>
-			     <ul class="nav-list">
-                {{ range $key, $value := .Site.Taxonomies.niveaux }}
-                    <li class="nav-item"><span class="nav-item-separator"></span><a class='post-category post-category-{{ replaceRE "[éèê]" "e" $key | urlize }}' href='{{ "/niveaux/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></li>
-                {{ end }}
-            </ul>
-						<hr/>
-						<ul class="nav-list">
-								{{ range $key, $value := .Site.Taxonomies.previsionnels }}
-									<li class="nav-item"><span class="nav-item-separator"></span><a class='post-category post-category-previsionnel' href='{{ "/previsionnels/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></li>
-								{{ end }}
-						</ul>
-          <hr/>
-          <ul class="nav-list">
-                {{ range $key, $value := .Site.Taxonomies.categories }}
-                    <li class="nav-item"><span class="nav-item-separator"></span><a class='post-category post-category-{{ replaceRE "[éèê]" "e" $key | urlize }}' href='{{ "/categories/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></li>
-                {{ end }}
-            </ul>
-            <hr/>
+			<ul class="nav-list" id="previsionnels">
+					<h3><img src="{{ .Site.BaseURL }}/img/index/planning.svg" alt="Prévisionnels"/></h3>
+					{{ range $key, $value := .Site.Taxonomies.previsionnels }}
+						<li class="nav-item"><a href='{{ "/previsionnels/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></li>
+					{{ end }}
+			</ul>
+			<br/>
+			<h3>Catégories de compétences FFV</h3>
+      <ul class="nav-list" id="previsionnels">
+            {{ range $key, $value := .Site.Taxonomies.categories }}
+                <li class="nav-item"><a href='{{ "/categories/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></li>
+            {{ end }}
+      </ul>
+
+				<br/>
+				<br/>
+				<hr/>
+        <br/>
+
         <span class="tags-list">
             {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.tags }}
               <a href='{{ "/tags/" | relURL}}{{ $taxonomyname | urlize }}'>{{ $taxonomyname | humanize }}</a>
             {{ end }}
             <a href='{{ "/tags/" | relURL }}'>...</a>
         </span>
-				<hr/>
+				<br/>
+				<br/>
 
         <span class="tags-list">
 
@@ -46,6 +53,5 @@
         </span>
 
     </nav>
-	</div>
-	<a href='{{ .Site.BaseURL }}#about' id='apropos'>A propos de ce site</a>
+	<span id='apropos'><a href='{{ .Site.BaseURL }}#about' class="screen">A propos de ce site</a></span>
 </div>

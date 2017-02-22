@@ -11,9 +11,12 @@
                       <div class="screen">
                         <div class="post-header">
                           <h1 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title | humanize}}</a>{{partial "niveaux.html" . }}</h1>
-                        </div>{{ .Render "short" }}
+                        </div>
+                        {{ .Render "short" }}
                       </div>
-                      <div class="print">{{.Render "single"}}</div>
+                      <div class="print">
+                        {{ .Render "single_embedded" }}
+                      </div>
                       {{ partial "closingLine.html" . }}
                   </section>
               {{ end }}

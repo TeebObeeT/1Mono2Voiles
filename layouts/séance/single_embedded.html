@@ -1,0 +1,15 @@
+<div class="seance">
+
+	<div class="post-header">
+		<h1 id="title" class="post-title"><a href={{ .RelPermalink }}>{{ .Title | humanize}}</a>{{partial "niveaux.html" . }}</h1>
+
+	</div>
+		{{partial "categories.html" . }}
+	<div>
+    {{ .Render "table"}}
+	{{ .Content }}
+
+	{{ partial "closingLine.html" . }}
+ </div>
+
+</div>
