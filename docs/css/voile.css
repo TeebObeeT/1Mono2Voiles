@@ -119,7 +119,7 @@ body {
       border-bottom: 1px solid #DDD;
     }
 	nav.nav{
-		padding:0.4rem;
+		padding:0rem;
 	}
 
 }
@@ -149,6 +149,30 @@ Sidebar content look and feel
 	list-style:none;
 }
 
+div#menu{
+  background-color: rgba(255,255,255, 0.8);
+  width:100%;
+  margin:0;
+  padding:0;
+}
+li#séance {
+  background-color: rgba(89,175,255, 0.8);
+  width:100%;
+  padding:0;
+  margin:0;
+}
+li#chrono {
+  background-color: rgba(77, 77, 77, 0.8);
+  width:100%;
+}
+li#topo {
+  background-color:rgba(179,157,62, 0.8);
+  width:100%;
+}
+li#planning {
+  background-color:rgba(165, 206, 57, 0.8);
+  width:100%;
+}
 .nav-item a {
     background: transparent;
     color: #FEFEFE;

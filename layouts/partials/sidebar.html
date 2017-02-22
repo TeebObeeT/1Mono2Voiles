@@ -2,11 +2,11 @@
 	<div class="header">
 		<h1 class="brand-title"><a href="{{ .Site.BaseURL }}">{{ if .Site.Params.sidebartitle }}{{ .Site.Params.sidebartitle }}{{else}}Home{{ end }}</a></h1>
 		{{ if .Site.Params.sidebartagline }}<h2 class="brand-tagline">{{ .Site.Params.sidebartagline }}</h2>{{ end }}
-
+	</div>
 	<nav class="nav">
 		  <ul class="nav-list">
 			{{ range $k, $v := .Site.Sections }}
-				<li class="nav-item"><span class="nav-item-separator">/</span><a href="{{ $k | absURL}}">{{ $k  | pluralize }}</a></li>
+				<li class="nav-item" id="{{$k}}"><a href="{{ $k | absURL}}"><img src="./img/index/chrono.svg" alt="{{ $k  | pluralize }}"/></a></li>
 			{{ end }}
 			</ul>
 
