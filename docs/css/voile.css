@@ -149,29 +149,20 @@ Sidebar content look and feel
 	list-style:none;
 }
 
-div#menu{
-  background-color: rgba(255,255,255, 0.8);
-  width:100%;
-  margin:0;
-  padding:0;
+ul#sections{
+  display: inline-flex;
 }
-li#séance {
+#séance {
   background-color: rgba(89,175,255, 0.8);
-  width:100%;
-  padding:0;
-  margin:0;
 }
-li#chrono {
+#chrono {
   background-color: rgba(77, 77, 77, 0.8);
-  width:100%;
 }
-li#topo {
+#topo {
   background-color:rgba(179,157,62, 0.8);
-  width:100%;
 }
-li#planning {
+#planning {
   background-color:rgba(165, 206, 57, 0.8);
-  width:100%;
 }
 .nav-item a {
     background: transparent;
@@ -581,7 +572,7 @@ Numbering titles for topos
     margin: 2.5rem;
   }
 
-  span#séance {
+  /*span#séance {
     background-color: rgba(89,175,255, 0.6)
   }
   span#chrono {
@@ -592,7 +583,7 @@ Numbering titles for topos
   }
   span#planning {
     background-color:rgba(165, 206, 57, 0.6);
-  }
+  }*/
   div#niveaux .post-category,  div#categories .post-category {
     font-size: 2rem !important;
     text-decoration: none;
