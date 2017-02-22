@@ -156,7 +156,7 @@ ul#sections{
 li.nav-item a img {
   width: 3rem;
   height: 3rem;
-  padding:1.5rem;
+  margin:1.5rem;
 }
 #séance {
   background-color: rgba(89,175,255, 0.8);
