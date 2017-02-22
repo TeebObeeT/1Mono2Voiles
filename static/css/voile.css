@@ -162,16 +162,16 @@ ul#sections li {
   flex:1;
 }
 
-#séance {
+li#séance {
   background-color: rgba(89,175,255, 0.8);
 }
-#chrono {
+li#chrono {
   background-color: rgba(77, 77, 77, 0.8);
 }
-#topo {
+li#topo {
   background-color:rgba(179,157,62, 0.8);
 }
-#planning {
+li#planning {
   background-color:rgba(165, 206, 57, 0.8);
 }
 .nav-item a {
@@ -582,7 +582,7 @@ Numbering titles for topos
     margin: 2.5rem;
   }
 
-  /*span#séance {
+  span#séance {
     background-color: rgba(89,175,255, 0.6)
   }
   span#chrono {
@@ -593,7 +593,7 @@ Numbering titles for topos
   }
   span#planning {
     background-color:rgba(165, 206, 57, 0.6);
-  }*/
+  }
   div#niveaux .post-category,  div#categories .post-category {
     font-size: 2rem !important;
     text-decoration: none;
