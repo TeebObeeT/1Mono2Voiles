@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/planning/n2/Pr%C3%A9visionnelStage1SemaineEmbarqu%C3%A9.html</loc>
+    <lastmod>2017-03-02T16:58:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelStage3JoursTerre.html</loc>
     <lastmod>2017-02-21T17:34:07+01:00</lastmod>
   </url>
@@ -309,7 +314,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/</loc>
-    <lastmod>2017-02-21T17:34:07+01:00</lastmod>
+    <lastmod>2017-03-02T16:58:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -416,7 +421,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-2</loc>
-    <lastmod>2017-01-04T20:46:49+01:00</lastmod>
+    <lastmod>2017-03-02T16:58:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -451,7 +456,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/planning</loc>
-    <lastmod>2017-02-21T17:34:07+01:00</lastmod>
+    <lastmod>2017-03-02T16:58:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -484,14 +489,20 @@
   </url>
   
   <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/tags/spi</loc>
+    <lastmod>2017-01-10T16:48:43+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/spi</loc>
     <lastmod>2016-12-01T15:19:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/tags/spi</loc>
-    <lastmod>2017-01-10T16:48:43+01:00</lastmod>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/previsionnels/stage-embarqu%C3%A9-n2</loc>
+    <lastmod>2017-03-02T16:58:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
