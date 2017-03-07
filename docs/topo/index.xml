@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topo-rsses on 1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/topo/index.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/topo.xml</link>
     <description>Recent content in Topo-rsses on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 07 Mar 2017 11:24:02 +0100</lastBuildDate>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/topo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/topo.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>prise de météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o.html</link>
       <pubDate>Tue, 07 Mar 2017 11:24:02 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o.html</guid>
       <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
 &lt;/p&gt;
 
@@ -284,10 +284,10 @@
     
     <item>
       <title>documents</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/documents/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/documents.html</link>
       <pubDate>Tue, 07 Mar 2017 11:15:32 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/documents/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/documents.html</guid>
       <description>&lt;p&gt;Liste des documents obligatoires et recommandés en fonction de la navigation
 &lt;/p&gt;
 
@@ -346,10 +346,10 @@
     
     <item>
       <title>amarrage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</link>
       <pubDate>Tue, 07 Mar 2017 11:02:18 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</guid>
       <description>&lt;p&gt;Comment bien amarrer un bateau selon la configuration du port.
 &lt;/p&gt;
 
@@ -397,10 +397,10 @@
     
     <item>
       <title>déplacements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</link>
       <pubDate>Tue, 07 Mar 2017 10:07:39 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</guid>
       <description>&lt;p&gt;Comment doit on se (dé)placer sur un bateau dans les différentes situations et pourquoi.
 L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro hydro
 &lt;/p&gt;
@@ -438,10 +438,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>cadre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/cadre/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/cadre.html</link>
       <pubDate>Wed, 11 Jan 2017 12:33:05 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/cadre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/cadre.html</guid>
       <description>&lt;p&gt;Aperçu de la notion de cadre, indispensable en régate mais avant tout très utile aussi pour savoir arriver où l&amp;rsquo;on veut dans un délai raisonnable.
 &lt;/p&gt;
 
@@ -493,10 +493,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>navigation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation.html</link>
       <pubDate>Sun, 08 Jan 2017 14:36:04 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation.html</guid>
       <description>&lt;p&gt;Introduction rapide à la carte marine, aux amers ainsi qu&amp;rsquo;aux principes de navigations&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -555,10 +555,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>privilèges</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</link>
       <pubDate>Fri, 06 Jan 2017 15:13:07 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</guid>
       <description>&lt;p&gt;Quelques informations basiques mais essentielles à savoir avant de partir en mer&amp;hellip;
 &lt;/p&gt;
 
@@ -621,10 +621,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>réglages ajustages</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/r%C3%A9glages-ajustages/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/r%C3%A9glages-ajustages.html</link>
       <pubDate>Mon, 19 Dec 2016 15:18:19 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/r%C3%A9glages-ajustages/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/r%C3%A9glages-ajustages.html</guid>
       <description>&lt;p&gt;Différences entre réglages et ajustages ainsi que les premières pistes pour optimiser ses voiles&amp;hellip;On parlera ici du cas de la navigation en finesse.&lt;/p&gt;
 
 &lt;p&gt;Il est également important de faire les réglages et les ajustages avec le même objectif (puissance ou cap ou compromis, mais pas certains ajustages en puissance et d&amp;rsquo;autres en cap), de &lt;strong&gt;garder une cohérence&lt;/strong&gt;&lt;/p&gt;
@@ -743,10 +743,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</link>
       <pubDate>Tue, 06 Dec 2016 15:09:59 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</guid>
       <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
 Egalement une explication générique sur les anticyclones/dépressions et effets de site.&lt;/p&gt;
 
@@ -1080,10 +1080,10 @@ Egalement une explication générique sur les anticyclones/dépressions et effet
     
     <item>
       <title>equilibres</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres.html</link>
       <pubDate>Mon, 05 Dec 2016 16:11:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres.html</guid>
       <description>&lt;p&gt;Il s&amp;rsquo;agit ici d&amp;rsquo;une introduction aux équilibres hydro/aéro qui font que le bateau avance, gîte, ne se retourne pas,&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -1161,10 +1161,10 @@ Egalement une explication générique sur les anticyclones/dépressions et effet
     
     <item>
       <title>marées</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es.html</link>
       <pubDate>Mon, 05 Dec 2016 13:14:11 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es.html</guid>
       <description>&lt;p&gt;Les marées sont présentes partout, en Manche, en Méditérannée, et même dans mon café!
 Petites explications sur le phénomène et brêve prise en main du calcul de marée.&lt;/p&gt;
 
@@ -1219,10 +1219,10 @@ Petites explications sur le phénomène et brêve prise en main du calcul de mar
     
     <item>
       <title>sécurité à terre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre.html</link>
       <pubDate>Thu, 01 Dec 2016 13:12:27 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre.html</guid>
       <description>&lt;p&gt;Lors d&amp;rsquo;un stage à terre, la sécurité est maximum, mais pour bien en profiter, il est important de connaître quelques règles de base&amp;hellip;
 &lt;/p&gt;
 
@@ -1276,10 +1276,10 @@ Si un doute sur le dépassement, ne pas hésiter à prévenir le moniteur&lt;/p&
     
     <item>
       <title>allures</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures.html</link>
       <pubDate>Tue, 29 Nov 2016 18:14:05 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures.html</guid>
       <description>&lt;p&gt;Présentation initiale sur les grandes familles d&amp;rsquo;allures et leurs particularités, avec introduction sur pourquoi le bateau avance et les différences entre écoulements laminaires et perturbés
 &lt;/p&gt;
 
