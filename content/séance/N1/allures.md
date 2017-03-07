@@ -13,7 +13,7 @@ seance:
   - null
   01_orga:
   - Papiers + crayon pour l'équipage
-  02_but: Aller dans différentes direction et trouver un réglage pour les voiles
+  02_but: Aller dans différentes directions et trouver un réglage pour les voiles
   03_objectifs:
   - 1C1.1 Gonfler la voile pour avancer
   - 1C1.2 Utiliser la barre pour se diriger

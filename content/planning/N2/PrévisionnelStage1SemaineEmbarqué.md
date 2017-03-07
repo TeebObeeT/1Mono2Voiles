@@ -49,29 +49,41 @@ planning:
     - séance/N2/départ habitable
     - séance/N2/liaison carte paysage
     - séance/N2/calcul de cap
-    - séance/N2/prise de quai
-    - topo/N1/privilèges
+    - séance/N2/arrêt surface
+    - topo/privilèges
     - topo/déplacements
     02_aprèsmidi:
     - chrono/prise de ris
-    - séance/N2/ris
-    - séance/N2/arrêt
+    - séance/prise de ris
+    - séance/arrêt
     - séance/N2/allures
-    - séance/N2/virements
+    - chrono/virement
+    - séance/virements
     03_soir:
     - topo/amarrage
     - topo/documents
     - topo/prise de météo
     04_conduite:
-    - Suivre un cap
+    - 2C1.1 Adapter l’ouverture de la voile à l’allure
+    - 2C1.6 Suivre un cap ou un alignement
+    - 2C1.9 S’arrêter à partir de différentes allures
+    - 2C3.2 Maintenir le navire en arrêt surface
     05_manoeuvre:
+    - 2M1.1 Virer de bord et empanner sans s’arrêter
+    - 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
     - 2M3.1 Situer sa zone de départ
     - 2M4.1 Appareiller et accoster une place de port
+    - 2M4.2 Amarrer efficacement le navire
     06_navigation:
-    - 3N1.4 Mettre en relation le paysage rencontré avec la carte marine
+    - 2N1.3 Connaître et utiliser les documents nautiques du bord
+    - 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
+    - 2N4.1 Connaître les principales règles de route pour éviter les abordages
+    - 2N4.2 Identifier les routes de collision
+    - 2N4.3 Connaître l’usage des marques à arborer
     - Utilisation de la règle de Cras
+    - 3N1.4 Mettre en relation le paysage rencontré avec la carte marine
     07_sécurité:
-    - null
+    - 2S1.2 Se déplacer et agir en limitant les risques
     08_technologie:
     - null
     09_viemaritime:
@@ -260,29 +272,29 @@ title: Prévisionnel stage embarqué 1 semaine
 * 2C1.3 Choquer ou border la voile pour compenser un déséquilibre
 * 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée
 * 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
-* 2C1.6 Suivre un cap ou un alignement
+* X 2C1.6 Suivre un cap ou un alignement
 * 2C1.7 Identifier son allure de navigation
 * 2C1.8 Ralentir à toutes les allures en utilisant la barre ou l’ouverture des voiles
-* 2C1.9 S’arrêter à partir de différentes allures
+* X 2C1.9 S’arrêter à partir de différentes allures
 * 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage
 * 2C3.1 Réguler la vitesse
-* 2C3.2 Maintenir le navire en arrêt surface
+* X 2C3.2 Maintenir le navire en arrêt surface
 
 # Manoeuvre
-* 2M1.1 Virer de bord et empanner sans s’arrêter
-* 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
+* X 2M1.1 Virer de bord et empanner sans s’arrêter
+* X  2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
 * 2M2.2 Gréer et dégréer un spinnaker
 * 2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible
 * X 2M3.1 Situer sa zone de départ
 * 2M3.2 Appareiller ou quitter un mouillage ou un coffre au moteur
 * X 2M4.1 Appareiller et accoster une place de port
-* 2M4.2 Amarrer efficacement le navire
+* X 2M4.2 Amarrer efficacement le navire
 
 # Navigation
 * X 2N1.1 Repérer les dangers éventuels sur le parcours proposé
 * 2N1.2 Participer à l’élaboration d’une route
-* 2N1.3 Connaître et utiliser les documents nautiques du bord
-* 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
+* X 2N1.3 Connaître et utiliser les documents nautiques du bord
+* X 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
 * 2N2.1 Évaluer la force du vent et l’état de la mer
 * 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
 * 2N2.3 Reconnaître les signes de dégradation du temps à court terme
@@ -296,7 +308,7 @@ title: Prévisionnel stage embarqué 1 semaine
 
 # Sécurité
 * X 2S1.1 Connaître les risques de l’activité
-* 2S1.2 Se déplacer et agir en limitant les risques
+* X 2S1.2 Se déplacer et agir en limitant les risques
 * 2S2.1 Se regrouper
 * 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
 * 2S3.1 Signaler ses difficultés
@@ -335,3 +347,7 @@ title: Prévisionnel stage embarqué 1 semaine
 * 2E4.2 Connaître la réglementation concernant la pêche à pied
 
 # Administratif
+
+# Autre
+* Séeance environnement sur Marseillan?
+* MTO jour 3

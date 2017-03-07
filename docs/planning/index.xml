@@ -25,26 +25,26 @@
 &lt;li&gt;2C1.3 Choquer ou border la voile pour compenser un déséquilibre&lt;/li&gt;
 &lt;li&gt;2C1.4 Ajuster la trajectoire à une ouverture de voile donnée&lt;/li&gt;
 &lt;li&gt;2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent&lt;/li&gt;
-&lt;li&gt;2C1.6 Suivre un cap ou un alignement&lt;/li&gt;
+&lt;li&gt;X 2C1.6 Suivre un cap ou un alignement&lt;/li&gt;
 &lt;li&gt;2C1.7 Identifier son allure de navigation&lt;/li&gt;
 &lt;li&gt;2C1.8 Ralentir à toutes les allures en utilisant la barre ou l’ouverture des voiles&lt;/li&gt;
-&lt;li&gt;2C1.9 S’arrêter à partir de différentes allures&lt;/li&gt;
+&lt;li&gt;X 2C1.9 S’arrêter à partir de différentes allures&lt;/li&gt;
 &lt;li&gt;2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage&lt;/li&gt;
 &lt;li&gt;2C3.1 Réguler la vitesse&lt;/li&gt;
-&lt;li&gt;2C3.2 Maintenir le navire en arrêt surface&lt;/li&gt;
+&lt;li&gt;X 2C3.2 Maintenir le navire en arrêt surface&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;manoeuvre&#34;&gt;Manoeuvre&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2M1.1 Virer de bord et empanner sans s’arrêter&lt;/li&gt;
-&lt;li&gt;2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)&lt;/li&gt;
+&lt;li&gt;X 2M1.1 Virer de bord et empanner sans s’arrêter&lt;/li&gt;
+&lt;li&gt;X  2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)&lt;/li&gt;
 &lt;li&gt;2M2.2 Gréer et dégréer un spinnaker&lt;/li&gt;
 &lt;li&gt;2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible&lt;/li&gt;
 &lt;li&gt;X 2M3.1 Situer sa zone de départ&lt;/li&gt;
 &lt;li&gt;2M3.2 Appareiller ou quitter un mouillage ou un coffre au moteur&lt;/li&gt;
 &lt;li&gt;X 2M4.1 Appareiller et accoster une place de port&lt;/li&gt;
-&lt;li&gt;2M4.2 Amarrer efficacement le navire&lt;/li&gt;
+&lt;li&gt;X 2M4.2 Amarrer efficacement le navire&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;navigation&#34;&gt;Navigation&lt;/h1&gt;
@@ -52,8 +52,8 @@
 &lt;ul&gt;
 &lt;li&gt;X 2N1.1 Repérer les dangers éventuels sur le parcours proposé&lt;/li&gt;
 &lt;li&gt;2N1.2 Participer à l’élaboration d’une route&lt;/li&gt;
-&lt;li&gt;2N1.3 Connaître et utiliser les documents nautiques du bord&lt;/li&gt;
-&lt;li&gt;2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte&lt;/li&gt;
+&lt;li&gt;X 2N1.3 Connaître et utiliser les documents nautiques du bord&lt;/li&gt;
+&lt;li&gt;X 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte&lt;/li&gt;
 &lt;li&gt;2N2.1 Évaluer la force du vent et l’état de la mer&lt;/li&gt;
 &lt;li&gt;2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation&lt;/li&gt;
 &lt;li&gt;2N2.3 Reconnaître les signes de dégradation du temps à court terme&lt;/li&gt;
@@ -70,7 +70,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;X 2S1.1 Connaître les risques de l’activité&lt;/li&gt;
-&lt;li&gt;2S1.2 Se déplacer et agir en limitant les risques&lt;/li&gt;
+&lt;li&gt;X 2S1.2 Se déplacer et agir en limitant les risques&lt;/li&gt;
 &lt;li&gt;2S2.1 Se regrouper&lt;/li&gt;
 &lt;li&gt;2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées&lt;/li&gt;
 &lt;li&gt;2S3.1 Signaler ses difficultés&lt;/li&gt;
@@ -118,7 +118,14 @@
 &lt;li&gt;2E4.2 Connaître la réglementation concernant la pêche à pied&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;administratif&#34;&gt;Administratif&lt;/h1&gt;</description>
+&lt;h1 id=&#34;administratif&#34;&gt;Administratif&lt;/h1&gt;
+
+&lt;h1 id=&#34;autre&#34;&gt;Autre&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Séeance environnement sur Marseillan?&lt;/li&gt;
+&lt;li&gt;MTO jour 3&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>

@@ -4,6 +4,7 @@ categories: [Manoeuvre]
 date: 2016-12-07T17:16:52+01:00
 niveaux:
 - Niveau-1
+- Niveau-2
 postes:
 - Barre
 - Foc
@@ -20,6 +21,7 @@ seance:
   - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
   - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
   - 1S1.2 Savoir utiliser les winches en sécurité
+  - 2M1.1 Virer de bord et empanner sans s’arrêter
   04_reussite:
   - L'équipage a enchainé les 5 virements sans s'écarter à plus de 60° de l'axe du vent
   - Il n'y a pas eu de refus à virer
@@ -46,6 +48,7 @@ seance:
     - Augmenter l'angle par rapport au vent
     plus:
     - Augmenter la vitesse minimum
+    - Diminuer l'angle
     - Temps maxi entre 2 virements
   09_meteo:
     moins:
@@ -58,4 +61,5 @@ tags: [Changement amure, Près]
 title: virements
 previsionnels:
   - Stage Terre N1
+  - stage embarqué N2
 ---

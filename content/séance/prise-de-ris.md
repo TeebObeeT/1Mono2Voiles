@@ -4,6 +4,7 @@ categories: [Manoeuvre]
 date: 2016-11-29T13:06:49+01:00
 niveaux:
 - Niveau-1
+- Niveau-2
 postes:
 - Piano
 - N1
@@ -17,6 +18,7 @@ seance:
   02_but: Adapter la voilure à la météo
   03_objectifs:
   - 1M2.1 Identifier les dispositifs de réduction de voilure
+  - 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
   04_reussite:
   - Le bateau garde un minimum de vitesse pendant la manoeuvre
   - La voile garde le point d'écoute sur la bôme une fois l'opération finie
@@ -46,4 +48,5 @@ title: prise de ris
 previsionnels:
   - Stage Terre N1
   - Stage Terre N1 3J
+  - stage embarqué N2
 ---

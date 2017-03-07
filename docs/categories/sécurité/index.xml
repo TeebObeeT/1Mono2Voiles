@@ -9,6 +9,47 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/s%C3%A9curit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>déplacements</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</link>
+      <pubDate>Tue, 07 Mar 2017 10:07:39 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</guid>
+      <description>&lt;p&gt;Comment doit on se (dé)placer sur un bateau dans les différentes situations et pourquoi.
+L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro hydro
+&lt;/p&gt;
+
+&lt;h1 id=&#34;règle-générale&#34;&gt;Règle générale&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Identifier le danger prépondérant&lt;/li&gt;
+&lt;li&gt;Ne pas se retrouver sur le trajet d&amp;rsquo;un élément du bateau susceptible de bouger rapidement&lt;/li&gt;
+&lt;li&gt;Garder une main pour soi en déplacement&lt;/li&gt;
+&lt;li&gt;Ne jamais hésiter à s&amp;rsquo;attacher, même sans consigne spécifique&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;près&#34;&gt;Près&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Risque principal? GV choquée (volontairement ou non)&lt;/li&gt;
+&lt;li&gt;Trajet au vent (partie haute du bateau, en plus c&amp;rsquo;est plus simple)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;portant&#34;&gt;Portant&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Risque principal? Empannage sauvage&lt;/li&gt;
+&lt;li&gt;Trajet sous le vent (se glisser sous la bôme, pas facile)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;sous-spi&#34;&gt;Sous spi&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Risque principal? Tangon&lt;/li&gt;
+&lt;li&gt;Toujours au vent du tangon&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>evaluation</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</link>
       <pubDate>Mon, 09 Jan 2017 13:58:50 +0100</pubDate>
@@ -19,10 +60,10 @@
     
     <item>
       <title>privilèges</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/privil%C3%A8ges/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</link>
       <pubDate>Fri, 06 Jan 2017 15:13:07 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/privil%C3%A8ges/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</guid>
       <description>&lt;p&gt;Quelques informations basiques mais essentielles à savoir avant de partir en mer&amp;hellip;
 &lt;/p&gt;
 
@@ -47,6 +88,13 @@
 &lt;li&gt;Veille permanente&lt;/li&gt;
 &lt;li&gt;Vitesse adaptée&lt;/li&gt;
 &lt;li&gt;Evaluation du risque d&amp;rsquo;abordage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;identification-de-jour-pour-nos-bateaux&#34;&gt;Identification de jour pour nos bateaux&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Moteur: cone pointe en bas&lt;/li&gt;
+&lt;li&gt;Boule: Mouillage&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;règles-dîtes-de-barre-simplifiées&#34;&gt;Règles dîtes &amp;ldquo;de barre&amp;rdquo; &lt;strong&gt;simplifiées&lt;/strong&gt;&lt;/h1&gt;

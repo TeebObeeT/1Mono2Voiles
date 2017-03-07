@@ -15,7 +15,7 @@ seance:
   02_but: Calculer le cap à suivre
   03_objectifs:
   - Utilisation de la règle de Cras
-  - Suivre un cap
+  - 2C1.6 Suivre un cap ou un alignement
   04_reussite:
   - Le point visé est atteint
   05_evaluation:

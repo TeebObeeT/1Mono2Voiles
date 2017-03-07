@@ -50,6 +50,6 @@ seance:
     - Partir sur appui dynamique
 previsionnels:
 - stage embarqué N2
-tags: []
+tags: [Port]
 title: départ habitable
 ---

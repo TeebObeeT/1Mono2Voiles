@@ -50,16 +50,16 @@ planning:
     01_matin:
     - séance/N1/départ
     - séance/N1/allures
-    - séance/N1/arrêt
+    - séance/arrêt
     - séance/N1/initiation au près
     02_aprèsmidi:
     - chrono/prise de ris
-    - séance/N1/prise de ris
+    - séance/prise de ris
     - séance/N1/initiation au grand largue
     - séance/N1/mouillage
     - séance/N1/premiers virements
     03_soir:
-    - chrono/N1/virement
+    - chrono/virement
     - topo/N1/allures
     04_conduite:
     - 1C1.1,2,3,4 Utilisation voile/barre pour avancer et ralentir
@@ -127,7 +127,7 @@ planning:
     01_matin:
     - séance/N1/équilibre près
     - séance/N1/grand largue
-    - séance/N1/virements
+    - séance/virements
     - séance/N1/équilibre grand largue
     02_aprèsmidi:
     - topo/N1/équilibres
@@ -189,7 +189,7 @@ planning:
   jour_06:
     00_nom: Jeudi
     01_matin:
-    - topo/N1/privilèges
+    - topo/privilèges
     - séance/N1/banane
     - séance/N1/évaluation
     - séance/N1/prise de coffre

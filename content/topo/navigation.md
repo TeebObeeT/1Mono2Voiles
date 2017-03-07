@@ -49,7 +49,7 @@ Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navi
 ## Principe 1: Savoir où l'on est
 
 * Faire le point
-* Plus important de savoir où l'on est pas (cailloux, côte, ...)
+* Plus important de savoir où l'on n'est pas (cailloux, côte, ...)
 
 ## Savoir où l'on va
 

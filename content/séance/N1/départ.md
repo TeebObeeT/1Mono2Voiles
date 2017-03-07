@@ -46,7 +46,7 @@ seance:
     - null
     plus:
     - Prévoir sécurité (remorquage présent)
-tags: []
+tags: [Port]
 title: départ
 previsionnels:
   - Stage Terre N1

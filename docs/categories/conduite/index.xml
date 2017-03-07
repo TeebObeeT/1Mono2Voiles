@@ -9,6 +9,24 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/conduite/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>allures</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures/</link>
+      <pubDate>Tue, 07 Mar 2017 10:42:09 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arrêt surface</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface/</link>
+      <pubDate>Tue, 07 Mar 2017 09:54:57 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cadre</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/cadre/</link>
       <pubDate>Wed, 11 Jan 2017 12:33:05 +0100</pubDate>
@@ -353,255 +371,6 @@
       <pubDate>Sun, 04 Dec 2016 09:47:46 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rep%C3%A8res/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>allures</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures/</link>
-      <pubDate>Tue, 29 Nov 2016 18:14:05 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/allures/</guid>
-      <description>&lt;p&gt;Présentation initiale sur les grandes familles d&amp;rsquo;allures et leurs particularités, avec introduction sur pourquoi le bateau avance et les différences entre écoulements laminaires et perturbés
-&lt;/p&gt;
-
-&lt;h1 id=&#34;différents-vents&#34;&gt;Différents vents&lt;/h1&gt;
-
-&lt;h2 id=&#34;définitions&#34;&gt;Définitions&lt;/h2&gt;
-
-&lt;p&gt;Le &lt;strong&gt;vent réel&lt;/strong&gt; est le vent que ressent une personne assise sur la plage ou que l&amp;rsquo;on ressent quand le bateau est à l&amp;rsquo;arrêt.&lt;/p&gt;
-
-&lt;p&gt;Le &lt;strong&gt;vent vitesse&lt;/strong&gt; est le vent ressenti lorsque par une journée sans vent, on se fait tracter pour sortir, ou bien, celui que l&amp;rsquo;on ressent à vélo quand il n&amp;rsquo;y a pas de vent.&lt;/p&gt;
-
-&lt;p&gt;Le &lt;strong&gt;vent apparent&lt;/strong&gt; est celui que l&amp;rsquo;équipage et le bateau ressentent lorsque celui-ci avance. Il est la somme vectorielle &lt;em&gt;(Chasles pour les collégiens)&lt;/em&gt; des deux autres.&lt;/p&gt;
-
-&lt;p&gt;&amp;mdash;&lt;strong&gt;SCHEMA&lt;/strong&gt;&amp;mdash;&lt;/p&gt;
-
-&lt;p&gt;On dit que le vent apparent (idem pour le vent réel) &lt;strong&gt;adonne&lt;/strong&gt; quand sans changer de cap, le bateau abat et s&amp;rsquo;éloigne donc du vent.&lt;/p&gt;
-
-&lt;p&gt;Quand sans changer de cap, le bateau lofe et se rapproche donc du vent, on dit que celui-ci &lt;strong&gt;refuse&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;influence-de-la-vitesse-sur-le-vent-apparent&#34;&gt;Influence de la vitesse sur le vent apparent&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Plus le bateau va aller vite &lt;em&gt;par rapport au vent réel&lt;/em&gt; et plus le vent apparent sera influencé par le vent vitesse, donc dans l&amp;rsquo;axe du bateau.&lt;em&gt;Le vent apparent va donc refuser&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;les-familles-d-allures&#34;&gt;Les familles d&amp;rsquo;allures&lt;/h1&gt;
-
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Les &lt;strong&gt;allures&lt;/strong&gt; sont définies par rapport au &lt;strong&gt;vent réel&lt;/strong&gt;! (surtout en salle)&lt;/li&gt;
-&lt;li&gt;Les &lt;strong&gt;réglages&lt;/strong&gt; sont font par rapport au &lt;strong&gt;vent apparent&lt;/strong&gt;! (toujours sur l&amp;rsquo;eau)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&amp;mdash;&lt;strong&gt;SCHEMA&lt;/strong&gt;&amp;mdash;&lt;/p&gt;
-
-&lt;h2 id=&#34;vent-arrière-si-déjà-abordé&#34;&gt;Vent Arrière (si déjà abordé)&lt;/h2&gt;
-
-&lt;h3 id=&#34;comment-le-remarque-t-on&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
-
-&lt;h4 id=&#34;visuel&#34;&gt;Visuel&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Le génois se dégonfle et n&amp;rsquo;arrive pas à rester derrière la GV.
-&amp;mdash;&lt;strong&gt;SCHEMA&lt;/strong&gt;&amp;mdash;&lt;/li&gt;
-&lt;li&gt;Le bateau va dans l&amp;rsquo;axe des rides sur l&amp;rsquo;eau.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;auditif&#34;&gt;Auditif&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Disparition du bruit du vent.&lt;/li&gt;
-&lt;li&gt;Bruit d&amp;rsquo;écoulement d&amp;rsquo;eau très lent.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;kinéstéthique&#34;&gt;Kinéstéthique&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bateau parfaitement à plat.&lt;/li&gt;
-&lt;li&gt;Aucun effort sur le safran.&lt;/li&gt;
-&lt;li&gt;Sensation de calme absolu.&lt;/li&gt;
-&lt;li&gt;Bateau &amp;ldquo;bouchon&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pourquoi-on-avance&#34;&gt;Pourquoi on avance&lt;/h3&gt;
-
-&lt;p&gt;Le vent nous pousse, il y a des tourbillons qui se créés autour de la voile.&lt;/p&gt;
-
-&lt;h3 id=&#34;qu-est-ce-qui-se-passe-si&#34;&gt;&lt;em&gt;Qu&amp;rsquo;est ce qui se passe si&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;le vent réel augmente?&lt;/em&gt; Le vent apparent augmente, on peut donc accélérer.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on accélère?&lt;/em&gt; Le vent apparent ralenti, on risque de ralentir.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on ralenti?&lt;/em&gt; Le vent apparent augmente.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;le vent réel diminue?&lt;/em&gt; Le vent apparent diminue, on risque de ralentir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;portant&#34;&gt;Portant&lt;/h2&gt;
-
-&lt;h3 id=&#34;comment-le-remarque-t-on-1&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
-
-&lt;h4 id=&#34;visuel-1&#34;&gt;Visuel&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Les voiles sont choquées en grand.&lt;/li&gt;
-&lt;li&gt;Les voiles sont gonflées.&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Les rides sur l&amp;rsquo;eau sont presque dans l&amp;rsquo;axe du bateau.&lt;/p&gt;
-
-&lt;h4 id=&#34;auditif-1&#34;&gt;Auditif&lt;/h4&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Bruit d&amp;rsquo;écoulement d&amp;rsquo;eau.&lt;/p&gt;
-
-&lt;h4 id=&#34;kinéstéthique-1&#34;&gt;Kinéstéthique&lt;/h4&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sensation de calme.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Légère gîte.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Le bateau est stable et &amp;ldquo;appuyé&amp;rdquo; &lt;em&gt;(si il y a du vent)&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pourquoi-on-avance-1&#34;&gt;Pourquoi on avance&lt;/h3&gt;
-
-&lt;p&gt;Le vent nous pousse, il y a des tourbillons qui se créés autour de la voile.&lt;/p&gt;
-
-&lt;h3 id=&#34;qu-est-ce-qui-se-passe-si-1&#34;&gt;&lt;em&gt;Qu&amp;rsquo;est ce qui se passe si&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;le vent réel augmente?&lt;/em&gt; Le vent apparent augmente et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on accélère?&lt;/em&gt; Le vent apparent ralenti et refuse.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on ralenti?&lt;/em&gt; Le vent apparent augmente et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;le vent réel diminue?&lt;/em&gt; Le vent apparent diminue et refuse.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;travers&#34;&gt;Travers&lt;/h2&gt;
-
-&lt;h3 id=&#34;comment-le-remarque-t-on-2&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
-
-&lt;h4 id=&#34;visuel-2&#34;&gt;Visuel&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Les ridules de l&amp;rsquo;eau sont perpendiculaires au bateau.&lt;/li&gt;
-&lt;li&gt;Les voiles faseyent si choquées.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;auditif-2&#34;&gt;Auditif&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Le bruit du vent réapparait.&lt;/li&gt;
-&lt;li&gt;Le bruit de l&amp;rsquo;eau s&amp;rsquo;atténue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;kinéstéthique-2&#34;&gt;Kinéstéthique&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Le bateau prend de la gîte.&lt;/li&gt;
-&lt;li&gt;On sent le vent derrière soit quand positionné au vent.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pourquoi-on-avance-2&#34;&gt;Pourquoi on avance&lt;/h3&gt;
-
-&lt;p&gt;Les voiles se comportent comme des ailes d&amp;rsquo;avion.
-&amp;mdash;&lt;strong&gt;SCHEMA&lt;/strong&gt;&amp;mdash;&lt;/p&gt;
-
-&lt;h3 id=&#34;qu-est-ce-qui-se-passe-si-2&#34;&gt;&lt;em&gt;Qu&amp;rsquo;est ce qui se passe si&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;le vent réel augmente?&lt;/em&gt; Le vent apparent augmente et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on accélère?&lt;/em&gt; Le vent apparent augmente et refuse.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on ralenti?&lt;/em&gt; Le vent apparent diminue  et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;le vent réel diminue?&lt;/em&gt; Le vent apparent diminue et refuse.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;près&#34;&gt;Près&lt;/h2&gt;
-
-&lt;h3 id=&#34;comment-le-remarque-t-on-3&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
-
-&lt;h4 id=&#34;visuel-3&#34;&gt;Visuel&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gîte.&lt;/li&gt;
-&lt;li&gt;Voiles bordées à fond.&lt;/li&gt;
-&lt;li&gt;Penons voile d&amp;rsquo;avant bordés.&lt;/li&gt;
-&lt;li&gt;Ridule de la mer par le travers avant du bateau.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;auditif-3&#34;&gt;Auditif&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vent très présent.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;kinéstéthique-3&#34;&gt;Kinéstéthique&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gîte.&lt;/li&gt;
-&lt;li&gt;Barre plus dure.&lt;/li&gt;
-&lt;li&gt;Les écoutes tirent fort si on les a en main.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pourquoi-on-avance-3&#34;&gt;Pourquoi on avance&lt;/h3&gt;
-
-&lt;p&gt;Les voiles se comportent comme des ailes d&amp;rsquo;avion.&lt;/p&gt;
-
-&lt;h3 id=&#34;qu-est-ce-qui-se-passe-si-3&#34;&gt;&lt;em&gt;Qu&amp;rsquo;est ce qui se passe si&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;le vent réel augmente?&lt;/em&gt; Le vent apparent augmente et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on accélère?&lt;/em&gt; Le vent apparent augmente et refuse.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on ralenti?&lt;/em&gt; Le vent apparent diminue  et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;le vent réel diminue?&lt;/em&gt; Le vent apparent diminue et refuse.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bout-au-vent&#34;&gt;Bout au vent&lt;/h2&gt;
-
-&lt;h3 id=&#34;comment-le-remarque-t-on-4&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
-
-&lt;h4 id=&#34;visuel-4&#34;&gt;Visuel&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Voiles faseyent.&lt;/li&gt;
-&lt;li&gt;Voiles dans l&amp;rsquo;axe du bateau.&lt;/li&gt;
-&lt;li&gt;Ridules sur l&amp;rsquo;eau dans l&amp;rsquo;axe du bateau.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;auditif-4&#34;&gt;Auditif&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bruit des voiles.&lt;/li&gt;
-&lt;li&gt;Absence de bruits d&amp;rsquo;eau.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;kinéstéthique-4&#34;&gt;Kinéstéthique&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bateau à plat.&lt;/li&gt;
-&lt;li&gt;Barre molle et sans effet.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pourquoi-on-avance-4&#34;&gt;Pourquoi on avance&lt;/h3&gt;
-
-&lt;p&gt;Facile, on recule parce que le vent nous pousse!&lt;/p&gt;
-
-&lt;h3 id=&#34;qu-est-ce-qui-se-passe-si-4&#34;&gt;&lt;em&gt;Qu&amp;rsquo;est ce qui se passe si&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;le vent réel augmente?&lt;/em&gt; Le vent apparent augmente.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on accélère?&lt;/em&gt; Le vent apparent augmente, on vient de mettre le moteur.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on ralenti?&lt;/em&gt; On recule, vous dis-je!&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;le vent réel diminue?&lt;/em&gt; Le vent apparent diminue.&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>initiation au grand largue</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue/</link>
-      <pubDate>Tue, 29 Nov 2016 15:05:36 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/initiation-au-grand-largue/</guid>
       <description></description>
     </item>
     

@@ -16,11 +16,11 @@ planning:
     02_aprèsmidi:
     - séance/N1/départ
     - séance/N1/allures
-    - séance/N1/arrêt
+    - séance/arrêt
     - séance/N1/initiation au près
     03_soir:
     - séance/N1/périmètre
-    - chrono/N1/virement
+    - chrono/virement
     - Matelotage
     04_conduite:
     - 1C1.1 Gonfler la voile pour avancer
@@ -62,7 +62,7 @@ planning:
     00_nom: Dimanche
     01_matin:
     - chrono/prise de ris
-    - séance/N1/prise de ris
+    - séance/prise de ris
     - séance/N1/initiation au grand largue
     - séance/N1/mouillage
     - séance/N1/premiers virements

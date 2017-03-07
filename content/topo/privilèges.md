@@ -4,10 +4,12 @@ categories: [Navigation, Sécurité]
 date: 2017-01-06T15:13:07+01:00
 niveaux:
 - Niveau-1
+- Niveau-2
 tags: []
 title: privilèges
 previsionnels:
   - Stage Terre N1
+  - stage embarqué N2
 ---
 Quelques informations basiques mais essentielles à savoir avant de partir en mer...
 <!--more-->
@@ -23,6 +25,11 @@ Quelques informations basiques mais essentielles à savoir avant de partir en me
 * Veille permanente
 * Vitesse adaptée
 * Evaluation du risque d'abordage
+
+# Identification de jour pour nos bateaux
+* Moteur: cone pointe en bas
+* Boule: Mouillage
+
 
 # Règles dîtes "de barre" __simplifiées__
 ## Entre voiliers et autres usagers
