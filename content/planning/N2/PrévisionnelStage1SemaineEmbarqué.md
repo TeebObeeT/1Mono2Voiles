@@ -1,6 +1,6 @@
 ---
 author: Teebo
-date: 2017-03-0* 2T16:58:48+01:00
+date: 2017-03-02T16:58:48+01:00
 niveaux:
 - Niveau-2
 planning:
@@ -20,20 +20,22 @@ planning:
     - RDV ponts
     03_soir:
     - Bilan début de stage
-    - topo/N1/navigation
+    - topo/navigation
     - rappels matelotage
     04_conduite:
     - null
     05_manoeuvre:
     - null
     06_navigation:
-    - null
+    - 2N1.1 Repérer les dangers éventuels sur le parcours proposé
     07_sécurité:
-    - null
+    - 2S1.1 Connaître les risques de l’activité
     08_technologie:
-    - null
+    - 2T1.1 Réaliser aisément les nœuds marins courants
+    - 2T2.1 Faire un inventaire quantitatif
+    - 2T2.2 Participer à la vérification des équipements
     09_viemaritime:
-    - null
+    - 2V2.2 Prendre en compte les contraintes dans l’élaboration des menus
     10_environnement:
     - null
     11_administratif:
@@ -58,14 +60,16 @@ planning:
     - séance/N2/virements
     03_soir:
     - topo/amarrage
-    - topo/livre de bord
+    - topo/documents
     - topo/prise de météo
     04_conduite:
-    - null
+    - Suivre un cap
     05_manoeuvre:
-    - null
+    - 2M3.1 Situer sa zone de départ
+    - 2M4.1 Appareiller et accoster une place de port
     06_navigation:
-    - null
+    - 3N1.4 Mettre en relation le paysage rencontré avec la carte marine
+    - Utilisation de la règle de Cras
     07_sécurité:
     - null
     08_technologie:
@@ -269,13 +273,13 @@ title: Prévisionnel stage embarqué 1 semaine
 * 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
 * 2M2.2 Gréer et dégréer un spinnaker
 * 2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible
-* 2M3.1 Situer sa zone de départ
+* X 2M3.1 Situer sa zone de départ
 * 2M3.2 Appareiller ou quitter un mouillage ou un coffre au moteur
-* 2M4.1 Appareiller et accoster une place de port
+* X 2M4.1 Appareiller et accoster une place de port
 * 2M4.2 Amarrer efficacement le navire
 
 # Navigation
-* 2N1.1 Repérer les dangers éventuels sur le parcours proposé
+* X 2N1.1 Repérer les dangers éventuels sur le parcours proposé
 * 2N1.2 Participer à l’élaboration d’une route
 * 2N1.3 Connaître et utiliser les documents nautiques du bord
 * 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
@@ -291,7 +295,7 @@ title: Prévisionnel stage embarqué 1 semaine
 * 2N4.3 Connaître l’usage des marques à arborer
 
 # Sécurité
-* 2S1.1 Connaître les risques de l’activité
+* X 2S1.1 Connaître les risques de l’activité
 * 2S1.2 Se déplacer et agir en limitant les risques
 * 2S2.1 Se regrouper
 * 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
@@ -299,11 +303,11 @@ title: Prévisionnel stage embarqué 1 semaine
 * 2S3.2 Connaître l’utilisation de la VHF, du canal de sécurité et les numéros de téléphone dédiés aux secours maritimes
 
 # Technologie
-* 2T1.1 Réaliser aisément les nœuds marins courants
+* X 2T1.1 Réaliser aisément les nœuds marins courants
 * 2T1.2 Lover et ranger les cordages
 * 2T1.3 Utiliser les équipements nautiques et de vie à bord
-* 2T2.1 Faire un inventaire quantitatif
-* 2T2.2 Participer à la vérification des équipements
+* X 2T2.1 Faire un inventaire quantitatif
+* X 2T2.2 Participer à la vérification des équipements
 * 2T3.1 Réaliser la maintenance des cordages et des voiles
 * 2T3.2 Réaliser la maintenance de l’accastillage avec le moniteur
 * 2T4.1 Participer aux réparations simples
@@ -313,7 +317,7 @@ title: Prévisionnel stage embarqué 1 semaine
 * 2V1.1 S’habiller en fonction des conditions de navigation présentes ou prévues
 * 2V1.2 Maintenir ses affaires personnelles rangées durant la navigation
 * 2V2.1 Maintenir le navire rangé
-* 2V2.2 Prendre en compte les contraintes dans l’élaboration des menus
+* X 2V2.2 Prendre en compte les contraintes dans l’élaboration des menus
 * 2V2.3 Connaître les impératifs de la gestion de l’eau et de l’énergie
 * 2V3.1 Adopter collectivement une attitude discrète, conforme aux usages
 * 2V3.2 Connaître les termes usuels du vocabulaire marin

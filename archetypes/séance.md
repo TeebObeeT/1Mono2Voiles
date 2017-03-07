@@ -1,7 +1,7 @@
 ---
 author: Teebo
 categories: []
-niveaux: [Niveau-1]
+niveaux: [Niveau-2]
 tags: []
 postes:
 -
@@ -31,6 +31,6 @@ seance:
   - Réduire la voilure (ris)
   moins:
   -
-  previsionnels:
-    - 
+previsionnels:
+- stage embarqué N2
 ---

@@ -194,7 +194,7 @@ planning:
     - séance/N1/évaluation
     - séance/N1/prise de coffre
     02_aprèsmidi:
-    - topo/N1/navigation
+    - topo/navigation
     - séance/N1/promenade
     03_soir:
     - null

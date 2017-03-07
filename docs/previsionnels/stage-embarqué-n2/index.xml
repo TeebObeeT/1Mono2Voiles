@@ -9,9 +9,36 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/previsionnels/stage-embarqu%C3%A9-n2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>calcul de cap</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap/</link>
+      <pubDate>Mon, 06 Mar 2017 13:38:34 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>liaison carte paysage</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage/</link>
+      <pubDate>Mon, 06 Mar 2017 13:20:40 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>départ habitable</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable/</link>
+      <pubDate>Mon, 06 Mar 2017 12:46:09 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prévisionnel stage embarqué 1 semaine</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/planning/n2/Pr%C3%A9visionnelStage1SemaineEmbarqu%C3%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Mar 2017 16:58:48 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n2/Pr%C3%A9visionnelStage1SemaineEmbarqu%C3%A9/</guid>
       <description>&lt;p&gt;&lt;/p&gt;
@@ -40,16 +67,16 @@
 &lt;li&gt;2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)&lt;/li&gt;
 &lt;li&gt;2M2.2 Gréer et dégréer un spinnaker&lt;/li&gt;
 &lt;li&gt;2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible&lt;/li&gt;
-&lt;li&gt;2M3.1 Situer sa zone de départ&lt;/li&gt;
+&lt;li&gt;X 2M3.1 Situer sa zone de départ&lt;/li&gt;
 &lt;li&gt;2M3.2 Appareiller ou quitter un mouillage ou un coffre au moteur&lt;/li&gt;
-&lt;li&gt;2M4.1 Appareiller et accoster une place de port&lt;/li&gt;
+&lt;li&gt;X 2M4.1 Appareiller et accoster une place de port&lt;/li&gt;
 &lt;li&gt;2M4.2 Amarrer efficacement le navire&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;navigation&#34;&gt;Navigation&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2N1.1 Repérer les dangers éventuels sur le parcours proposé&lt;/li&gt;
+&lt;li&gt;X 2N1.1 Repérer les dangers éventuels sur le parcours proposé&lt;/li&gt;
 &lt;li&gt;2N1.2 Participer à l’élaboration d’une route&lt;/li&gt;
 &lt;li&gt;2N1.3 Connaître et utiliser les documents nautiques du bord&lt;/li&gt;
 &lt;li&gt;2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte&lt;/li&gt;
@@ -68,7 +95,7 @@
 &lt;h1 id=&#34;sécurité&#34;&gt;Sécurité&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2S1.1 Connaître les risques de l’activité&lt;/li&gt;
+&lt;li&gt;X 2S1.1 Connaître les risques de l’activité&lt;/li&gt;
 &lt;li&gt;2S1.2 Se déplacer et agir en limitant les risques&lt;/li&gt;
 &lt;li&gt;2S2.1 Se regrouper&lt;/li&gt;
 &lt;li&gt;2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées&lt;/li&gt;
@@ -79,11 +106,11 @@
 &lt;h1 id=&#34;technologie&#34;&gt;Technologie&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2T1.1 Réaliser aisément les nœuds marins courants&lt;/li&gt;
+&lt;li&gt;X 2T1.1 Réaliser aisément les nœuds marins courants&lt;/li&gt;
 &lt;li&gt;2T1.2 Lover et ranger les cordages&lt;/li&gt;
 &lt;li&gt;2T1.3 Utiliser les équipements nautiques et de vie à bord&lt;/li&gt;
-&lt;li&gt;2T2.1 Faire un inventaire quantitatif&lt;/li&gt;
-&lt;li&gt;2T2.2 Participer à la vérification des équipements&lt;/li&gt;
+&lt;li&gt;X 2T2.1 Faire un inventaire quantitatif&lt;/li&gt;
+&lt;li&gt;X 2T2.2 Participer à la vérification des équipements&lt;/li&gt;
 &lt;li&gt;2T3.1 Réaliser la maintenance des cordages et des voiles&lt;/li&gt;
 &lt;li&gt;2T3.2 Réaliser la maintenance de l’accastillage avec le moniteur&lt;/li&gt;
 &lt;li&gt;2T4.1 Participer aux réparations simples&lt;/li&gt;
@@ -96,7 +123,7 @@
 &lt;li&gt;2V1.1 S’habiller en fonction des conditions de navigation présentes ou prévues&lt;/li&gt;
 &lt;li&gt;2V1.2 Maintenir ses affaires personnelles rangées durant la navigation&lt;/li&gt;
 &lt;li&gt;2V2.1 Maintenir le navire rangé&lt;/li&gt;
-&lt;li&gt;2V2.2 Prendre en compte les contraintes dans l’élaboration des menus&lt;/li&gt;
+&lt;li&gt;X 2V2.2 Prendre en compte les contraintes dans l’élaboration des menus&lt;/li&gt;
 &lt;li&gt;2V2.3 Connaître les impératifs de la gestion de l’eau et de l’énergie&lt;/li&gt;
 &lt;li&gt;2V3.1 Adopter collectivement une attitude discrète, conforme aux usages&lt;/li&gt;
 &lt;li&gt;2V3.2 Connaître les termes usuels du vocabulaire marin&lt;/li&gt;
@@ -118,6 +145,68 @@
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;administratif&#34;&gt;Administratif&lt;/h1&gt;</description>
+    </item>
+    
+    <item>
+      <title>navigation</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</link>
+      <pubDate>Sun, 08 Jan 2017 14:36:04 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</guid>
+      <description>&lt;p&gt;Introduction rapide à la carte marine, aux amers ainsi qu&amp;rsquo;aux principes de navigations&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;la-carte-marine&#34;&gt;La carte marine&lt;/h1&gt;
+
+&lt;h2 id=&#34;couleurs-et-significations&#34;&gt;Couleurs et significations&lt;/h2&gt;
+
+&lt;h2 id=&#34;lignes-isobates-et-utilité&#34;&gt;Lignes isobates et utilité&lt;/h2&gt;
+
+&lt;h3 id=&#34;utilisation-en-méditérranée&#34;&gt;Utilisation en méditérranée&lt;/h3&gt;
+
+&lt;h3 id=&#34;utilisation-en-manche-atlantique&#34;&gt;Utilisation en manche/atlantique&lt;/h3&gt;
+
+&lt;h1 id=&#34;amers&#34;&gt;Amers&lt;/h1&gt;
+
+&lt;h2 id=&#34;naturels&#34;&gt;Naturels&lt;/h2&gt;
+
+&lt;h2 id=&#34;construits&#34;&gt;Construits&lt;/h2&gt;
+
+&lt;h2 id=&#34;de-navigation&#34;&gt;De navigation&lt;/h2&gt;
+
+&lt;h3 id=&#34;cardinaux&#34;&gt;Cardinaux&lt;/h3&gt;
+
+&lt;h3 id=&#34;de-chenaux&#34;&gt;De chenaux&lt;/h3&gt;
+
+&lt;h3 id=&#34;autres&#34;&gt;Autres&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eau saine&lt;/li&gt;
+&lt;li&gt;Marque spéciale&lt;/li&gt;
+&lt;li&gt;Danger isolé&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;navigation&#34;&gt;Navigation&lt;/h1&gt;
+
+&lt;h2 id=&#34;principe-1-savoir-où-l-on-est&#34;&gt;Principe 1: Savoir où l&amp;rsquo;on est&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Faire le point&lt;/li&gt;
+&lt;li&gt;Plus important de savoir où l&amp;rsquo;on est pas (cailloux, côte, &amp;hellip;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;savoir-où-l-on-va&#34;&gt;Savoir où l&amp;rsquo;on va&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Trouver un cap&lt;/li&gt;
+&lt;li&gt;Corriger un cap
+
+&lt;ul&gt;
+&lt;li&gt;Déclinaison&lt;/li&gt;
+&lt;li&gt;Dérive (attention à la direction du vent)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>
