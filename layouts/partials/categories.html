@@ -1,7 +1,7 @@
 {{ $cat := isset .Params "categories" }}{{ $pos := isset .Params "postes" }}{{ $test := or $cat $pos }}{{ if $test}}
 <div class="post-categories">
         {{ range .Params.categories }}
-        <a class='post-category post-category-{{ replaceRE "[éèê]" "e" . | urlize }}' href='{{ "categories/" | relURL }}{{ . | urlize }}'>{{ . }}</a>
+        <a class='post-category post-category-{{ replaceRE "[éèê]" "e" . | urlize }}' href='{{ "niveaux/" | relURL }}{{ . | urlize }}'>{{ . }}</a>
         {{ end }}
         {{ range .Params.postes }}
         <a class='post-postes' href='{{ "postes/" | relURL }}{{ . | urlize }}'>{{ . }}</a>
