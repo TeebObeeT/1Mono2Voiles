@@ -25,7 +25,7 @@
 </div>
 
 <div class="index" id="previsionnels">
-  <span><h1><img src='./img/index/planning.svg' alt='Prévisionnels complets'/></h1></span>
+  <span><h1><a href='{{ "/previsionnels/" | relURL }}'><img src='./img/index/planning.svg' alt='Prévisionnels complets'/></a></h1></span>
   {{ range $key, $value := .Site.Taxonomies.previsionnels }}
     <span><h2><a class='previsionnel' href='{{ "/previsionnels/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}<img src='./img/index/séance.svg' alt='{{$key}}'></a></h2></span>
   {{ end }}

@@ -17,7 +17,7 @@
       </ul>
 
 			<ul class="nav-list" id="previsionnels">
-					<h3><img src="{{ .Site.BaseURL }}/img/index/planning.svg" alt="Prévisionnels"/></h3>
+					<h3><a href='{{ "/previsionnels/" | relURL }}'><img src="{{ .Site.BaseURL }}/img/index/planning.svg" alt="Prévisionnels"/></a></h3>
 					{{ range $key, $value := .Site.Taxonomies.previsionnels }}
 						<li class="nav-item"><a href='{{ "/previsionnels/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></li>
 					{{ end }}
