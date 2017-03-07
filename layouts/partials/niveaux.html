@@ -1,6 +1,6 @@
 <span class="post-niveaux">
         <a class='post-category post-category-section' href='{{ "" | relURL }}{{ .Section | urlize }}'>{{ .Section | humanize }}</a>
-        {{ range .Params.niveaux }}	
-        <a class='post-category post-category-{{ replaceRE "[éèê]" "e" . | urlize }}' href='{{ "categories/" | relURL }}{{ . | urlize }}'>{{ . }}</a>
+        {{ range .Params.niveaux }}
+        <a class='post-category post-category-{{ replaceRE "[éèê]" "e" . | urlize }}' href='{{ "niveaux/" | relURL }}{{ . | urlize }}'>{{ . }}</a>
         {{ end }}
 </span>

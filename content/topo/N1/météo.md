@@ -106,7 +106,7 @@ Exprimé en beaufort, attention aux rafales
 ### Mer
 Voir l'échelle Douglas
 ### Houle
-Origine de la houle au large, selon zone annonciatrice du vent à venir
+Origine de la houle au large, selon zone, annonciatrice du vent à venir
 ### Temps
 Bulletin "traditionnel"
 ### Visibilité
