@@ -35,6 +35,7 @@ seance:
   07_securite:
   - Ne pas mettre les mains sur la chaîne quand elle file
   - Chaussures fermées !
+  - Gants pour remonter la chaîne
   08_didac:
     moins:
     - null

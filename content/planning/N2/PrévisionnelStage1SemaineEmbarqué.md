@@ -96,9 +96,9 @@ planning:
     00_nom: Lundi
     01_matin:
     - chrono/mouillage
-    - chrono/N2/hissage de spi
+    - chrono/hissage de spi
     - séance/empannage
-    - séance/N2/grément de spi
+    - séance/N2/gréer le spi
     - séance/N2/envoi de spi
     - séance/N2/réglage de spi
     - séance/N2/mouillage
@@ -113,9 +113,11 @@ planning:
     - topo/allures
     - Présentation des documents et équipements du bord
     04_conduite:
-    - null
+    - 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage
     05_manoeuvre:
-    - null
+    - 2M2.2 Gréer et dégréer un spinnaker
+    - 2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible
+    - 2M3.2 Appareiller ou quitter un mouillage ou un coffre au moteur
     06_navigation:
     - null
     07_sécurité:
@@ -282,11 +284,11 @@ title: Prévisionnel stage embarqué 1 semaine
 
 # Manoeuvre
 * X 2M1.1 Virer de bord et empanner sans s’arrêter
-* X  2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
-* 2M2.2 Gréer et dégréer un spinnaker
+* X 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
+* X 2M2.2 Gréer et dégréer un spinnaker
 * 2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible
 * X 2M3.1 Situer sa zone de départ
-* 2M3.2 Appareiller ou quitter un mouillage ou un coffre au moteur
+* X 2M3.2 Appareiller ou quitter un mouillage ou un coffre au moteur
 * X 2M4.1 Appareiller et accoster une place de port
 * X 2M4.2 Amarrer efficacement le navire
 

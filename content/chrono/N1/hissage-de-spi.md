@@ -9,7 +9,7 @@ postes:
 - N1
 - Barre
 - Foc
-tags: [Gréer]
+tags: [Gréer, Spi]
 title: hissage de spi
 previsionnels:
   - Stage Terre N1
@@ -21,7 +21,7 @@ Chronologie de l'hissage de spi simple, sans tangon. Valable sur parcours très 
 ## Préparation
  |
 ------|-------
-**Numéro 1** | S'assure que le spi est correctement gréer, les écoutes et la drisse passant bien à l'extérieur (attention à l'étai pour la drisse!)
+**Numéro 1** | S'assure que le spi est correctement gréer, les écoutes et la drisse passant bien à l'extérieur _(attention à l'étai pour la drisse!)_
 **Numéro 1** | Attache les 3 points aux points du spi et ouvre le sac
 **Barre** | Se met grand largue
 

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 Mono 2 Voiles</title>
+    <title>Port on 1 Mono 2 Voiles</title>
     <link>https://teebobeet.github.io/1Mono2Voiles/tags/port/index.xml</link>
-    <description>Recent content on 1 Mono 2 Voiles</description>
+    <description>Recent content in Port on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/tags/port/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>amarrage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</link>
       <pubDate>Tue, 07 Mar 2017 11:02:18 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</guid>
       <description>&lt;p&gt;Comment bien amarrer un bateau selon la configuration du port.
 &lt;/p&gt;
 
@@ -61,28 +61,28 @@
     
     <item>
       <title>arrêt surface</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface.html</link>
       <pubDate>Tue, 07 Mar 2017 09:54:57 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>départ habitable</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable.html</link>
       <pubDate>Mon, 06 Mar 2017 12:46:09 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>départ</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9part/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9part.html</link>
       <pubDate>Tue, 29 Nov 2016 12:06:20 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9part/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9part.html</guid>
       <description></description>
     </item>
     

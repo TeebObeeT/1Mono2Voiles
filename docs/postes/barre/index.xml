@@ -1,73 +1,356 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 Mono 2 Voiles</title>
+    <title>Barre on 1 Mono 2 Voiles</title>
     <link>https://teebobeet.github.io/1Mono2Voiles/postes/barre/index.xml</link>
-    <description>Recent content on 1 Mono 2 Voiles</description>
+    <description>Recent content in Barre on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/barre/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>réglage de spi</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-de-spi.html</link>
+      <pubDate>Thu, 09 Mar 2017 10:23:52 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-de-spi.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hissage de spi</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/hissage-de-spi.html</link>
+      <pubDate>Thu, 09 Mar 2017 10:01:17 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/hissage-de-spi.html</guid>
+      <description>&lt;p&gt;Chronologie pour un envoi de spi avec tangon
+&lt;/p&gt;
+
+&lt;h2 id=&#34;préparation&#34;&gt;Préparation&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;S&amp;rsquo;assure que le spi est correctement gréer, les écoutes et la drisse passant bien à l&amp;rsquo;extérieur &lt;em&gt;(attention à l&amp;rsquo;étai pour la drisse!)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Attache les 3 points aux points du spi et ouvre le sac&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Hisse le tangon&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Bras&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Préréglage du bras &lt;em&gt;(presque perpendiculaire à l&amp;rsquo;axe du bateau)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Reprend le hale-bas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Se met grand largue&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;exécution&#34;&gt;Exécution&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Chef de bord&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Parés à hisser?&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Parés!&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Hisse au pied de mât: &amp;ldquo;Ca hisse!&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Reprend le mou de la drisse au fur et à mesure&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Quand la drisse bloque de manière sèche : &amp;ldquo;En tête&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Borde le spi&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Reprend le mou et blogue bien le taquet&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Lofe un peu pour gonfler le spi&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Affale le foc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Bien ranger la drisse pour pouvoir la laisser filer rapidement&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;S&amp;rsquo;assurer que les écoutes de spi peuvent filer rapidement&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Bien ranger les écoutes de foc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+    <item>
+      <title>mouillage</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/mouillage.html</link>
+      <pubDate>Thu, 09 Mar 2017 09:44:22 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/mouillage.html</guid>
+      <description>&lt;p&gt;Comment s&amp;rsquo;y prendre pour faire un mouillage réussi
+&lt;/p&gt;
+
+&lt;h1 id=&#34;arrivée&#34;&gt;Arrivée&lt;/h1&gt;
+
+&lt;h2 id=&#34;préparation&#34;&gt;Préparation&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Chef de bord&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Décision sur le lieu&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Prépare la longueur de chaine &lt;em&gt;(3x la hauteur d&amp;rsquo;eau max)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Réduction de la voilure&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Mise en marche du moteur &lt;em&gt;(facultatif)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;exécution&#34;&gt;Exécution&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;S&amp;rsquo;approcher du mouillage à une allure proche du vent debout&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Bateau face au vent jusqu&amp;rsquo;à l&amp;rsquo;arrêt&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Laisser filer la chaîne en controlant avec le pied&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Marche arrière GV ou moteur &lt;em&gt;(facultatif)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Vérifier zone d&amp;rsquo;évitement&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Pendre un gisement et surveiller&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;départ&#34;&gt;Départ&lt;/h1&gt;
+
+&lt;h2 id=&#34;préparation-1&#34;&gt;Préparation&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Mise en marche du moteur&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Hissage GV&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;exécution-1&#34;&gt;Exécution&lt;/h2&gt;
+
+&lt;p&gt;|
+&amp;mdash;&amp;mdash;|&amp;mdash;&amp;mdash;-
+&lt;strong&gt;Numéro 1&lt;/strong&gt; |Hisse la chaine &lt;em&gt;(&amp;lsquo;A pic!&amp;rsquo;)&lt;/em&gt;
+&lt;strong&gt;Barre&lt;/strong&gt; |Aide doucement avec le moteur &lt;em&gt;(facultatif)&lt;/em&gt;
+&lt;strong&gt;Equipage&lt;/strong&gt; |Borde la GV
+&lt;strong&gt;Barre&lt;/strong&gt; |Abat et dégage la zone&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>allures</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures.html</link>
       <pubDate>Tue, 07 Mar 2017 10:42:09 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>empannage sous spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage-sous-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage-sous-spi.html</link>
       <pubDate>Tue, 10 Jan 2017 15:25:57 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage-sous-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage-sous-spi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>evaluation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</link>
       <pubDate>Mon, 09 Jan 2017 13:58:50 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>prise de coffre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre.html</link>
       <pubDate>Mon, 09 Jan 2017 11:21:00 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>banane</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</link>
       <pubDate>Mon, 09 Jan 2017 11:06:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>quick stop</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop.html</link>
       <pubDate>Thu, 05 Jan 2017 11:26:34 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>quick stop</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop.html</link>
       <pubDate>Wed, 04 Jan 2017 20:46:49 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop.html</guid>
       <description>&lt;p&gt;La méthode quick stop, officiellement recommandée par l’ISAF, la Fédération Internationale de la Voile pour récupérer un homme à la mer est une méthode que tous les équipiers doivent connaître. Elle permet d&amp;rsquo;utiliser le moteur tout en gardant l&amp;rsquo;appui des voiles.
 &lt;/p&gt;
 
@@ -180,333 +463,47 @@
     
     <item>
       <title>equilibre au grand largue</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-grand-largue/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-grand-largue.html</link>
       <pubDate>Mon, 12 Dec 2016 17:32:17 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-grand-largue/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-grand-largue.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>virements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/virements/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/virements.html</link>
       <pubDate>Wed, 07 Dec 2016 17:16:52 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/virements/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/virements.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>equilibre au près</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-pr%C3%A8s/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-pr%C3%A8s.html</link>
       <pubDate>Wed, 07 Dec 2016 17:14:52 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-pr%C3%A8s/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9quilibre-pr%C3%A8s.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>mise à la cape</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/cape/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/cape.html</link>
       <pubDate>Mon, 05 Dec 2016 12:54:56 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/cape/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/cape.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>vent arrière</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re.html</link>
       <pubDate>Sun, 04 Dec 2016 10:35:16 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re.html</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>rof</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rof/</link>
-      <pubDate>Sun, 04 Dec 2016 10:15:07 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rof/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>empannage sous spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage-sous-spi/</link>
-      <pubDate>Thu, 01 Dec 2016 15:19:14 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage-sous-spi/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;empannage sous spi tangonné peut paraître difficile, ce n&amp;rsquo;est pas le cas. C&amp;rsquo;est une opération longue qui devient difficile si on doit l&amp;rsquo;effectuer rapidement et mal préparée.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Attention&lt;/strong&gt;: Le numéro 1 toujours au vent du tangon&lt;/p&gt;
-
-&lt;h2 id=&#34;préparation&#34;&gt;Préparation&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Parés à empanner?&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Se met grand largue&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Spi+Bras&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Prépare les bras et écoutes, les 2 barbers sont pris au max&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GV&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Met le chariot au centre&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Se met au niveau du tangon&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Parés!&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;exécution&#34;&gt;Exécution&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Choque du hale-bas de tangon&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Ouvre le croc du bras&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Bras&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Choque le barber pour faire sortir le bras du croc&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Décroché!&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Décloche le tangon du mât: &amp;ldquo;Décloché&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Sur &lt;strong&gt;&lt;em&gt;demande&lt;/em&gt;&lt;/strong&gt; du numéro 1 peut relâcher un peu de balancine&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Croche le tangon au nouveau bras: &amp;ldquo;Croché!&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Cloche le tangon au mât: &amp;ldquo;Cloché!&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Rerègle la hauteur du tangon&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre + GV&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Empannage &amp;ldquo;classique&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Ranger balancine et hale-bas&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Spi&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Règle son barber et son écoute&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Piano + Bras&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Règlent le bras&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Changer de côté si nécessaire&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</description>
-    </item>
-    
-    <item>
-      <title>hissage de spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi/</link>
-      <pubDate>Thu, 01 Dec 2016 15:18:46 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi/</guid>
-      <description>&lt;p&gt;Chronologie de l&amp;rsquo;hissage de spi simple, sans tangon. Valable sur parcours très court ou pour la découverte des débutants.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;préparation&#34;&gt;Préparation&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;S&amp;rsquo;assure que le spi est correctement gréer, les écoutes et la drisse passant bien à l&amp;rsquo;extérieur (attention à l&amp;rsquo;étai pour la drisse!)&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Attache les 3 points aux points du spi et ouvre le sac&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Se met grand largue&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;exécution&#34;&gt;Exécution&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Chef de bord&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Parés à hisser?&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Parés!&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Hisse au pied de mât: &amp;ldquo;Ca hisse!&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Reprend le mou de la drisse au fur et à mesure&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Quand la drisse bloque de manière sèche : &amp;ldquo;En tête&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Borde le spi&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Reprend le mou et blogue bien le taquet&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Lofe un peu pour gonfler le spi&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Affale le foc&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Bien ranger la drisse pour pouvoir la laisser filer rapidement&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;S&amp;rsquo;assurer que les écoutes de spi peuvent filer rapidement&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Bien ranger les écoutes de foc&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</description>
     </item>
     
   </channel>

@@ -1,73 +1,212 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 Mono 2 Voiles</title>
+    <title>Foc on 1 Mono 2 Voiles</title>
     <link>https://teebobeet.github.io/1Mono2Voiles/postes/foc/index.xml</link>
-    <description>Recent content on 1 Mono 2 Voiles</description>
+    <description>Recent content in Foc on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/foc/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>hissage de spi</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/hissage-de-spi.html</link>
+      <pubDate>Thu, 09 Mar 2017 10:01:17 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/hissage-de-spi.html</guid>
+      <description>&lt;p&gt;Chronologie pour un envoi de spi avec tangon
+&lt;/p&gt;
+
+&lt;h2 id=&#34;préparation&#34;&gt;Préparation&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;S&amp;rsquo;assure que le spi est correctement gréer, les écoutes et la drisse passant bien à l&amp;rsquo;extérieur &lt;em&gt;(attention à l&amp;rsquo;étai pour la drisse!)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Attache les 3 points aux points du spi et ouvre le sac&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Hisse le tangon&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Bras&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Préréglage du bras &lt;em&gt;(presque perpendiculaire à l&amp;rsquo;axe du bateau)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Reprend le hale-bas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Se met grand largue&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;exécution&#34;&gt;Exécution&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Chef de bord&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Parés à hisser?&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Parés!&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Hisse au pied de mât: &amp;ldquo;Ca hisse!&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Reprend le mou de la drisse au fur et à mesure&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Quand la drisse bloque de manière sèche : &amp;ldquo;En tête&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Borde le spi&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Reprend le mou et blogue bien le taquet&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Lofe un peu pour gonfler le spi&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Affale le foc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Bien ranger la drisse pour pouvoir la laisser filer rapidement&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;S&amp;rsquo;assurer que les écoutes de spi peuvent filer rapidement&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Bien ranger les écoutes de foc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+    <item>
       <title>allures</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures.html</link>
       <pubDate>Tue, 07 Mar 2017 10:42:09 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>evaluation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</link>
       <pubDate>Mon, 09 Jan 2017 13:58:50 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>banane</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</link>
       <pubDate>Mon, 09 Jan 2017 11:06:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>ajustages</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages.html</link>
       <pubDate>Sun, 08 Jan 2017 16:19:25 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>près</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s.html</link>
       <pubDate>Mon, 12 Dec 2016 17:55:23 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>virements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/virements/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/virements.html</link>
       <pubDate>Wed, 07 Dec 2016 17:16:52 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/virements/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/virements.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>hissage de spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi.html</link>
       <pubDate>Thu, 01 Dec 2016 15:18:46 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/hissage-de-spi.html</guid>
       <description>&lt;p&gt;Chronologie de l&amp;rsquo;hissage de spi simple, sans tangon. Valable sur parcours très court ou pour la découverte des débutants.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -85,7 +224,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;S&amp;rsquo;assure que le spi est correctement gréer, les écoutes et la drisse passant bien à l&amp;rsquo;extérieur (attention à l&amp;rsquo;étai pour la drisse!)&lt;/td&gt;
+&lt;td&gt;S&amp;rsquo;assure que le spi est correctement gréer, les écoutes et la drisse passant bien à l&amp;rsquo;extérieur &lt;em&gt;(attention à l&amp;rsquo;étai pour la drisse!)&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -189,10 +328,10 @@
     
     <item>
       <title>empannage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage.html</link>
       <pubDate>Thu, 01 Dec 2016 15:18:01 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage.html</guid>
       <description>&lt;p&gt;L&amp;rsquo;empannage est une manoeuvre standard sans grande difficulté mais avec des risques, il est donc important de bien le maîtriser pour naviguer en sécurité.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -326,10 +465,10 @@
     
     <item>
       <title>récupération d&#39;objet flottant</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/rof/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/rof.html</link>
       <pubDate>Thu, 01 Dec 2016 11:37:18 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/rof/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/rof.html</guid>
       <description>&lt;p&gt;Cette manoeuvre est importante, peut servir à récupérer casquettes, lunettes, et tout ce qui flotte, mais elle peut aussi permettre de prendre un coffre.&lt;/p&gt;
 
 &lt;p&gt;De plus elle est un très bon exercice pour avoir des bons repères sur le plan d&amp;rsquo;eau et une bonne compréhension globale de la marche de son bateau.&lt;/p&gt;
@@ -440,10 +579,10 @@
     
     <item>
       <title>virement</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/virement/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/virement.html</link>
       <pubDate>Tue, 29 Nov 2016 17:59:42 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/virement/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/virement.html</guid>
       <description>&lt;p&gt;Le virement de bord réussi permet de passer d&amp;rsquo;une amure à l&amp;rsquo;autre tout en gagnant au vent. Il permet, bien maîtrisé, de remonter efficacement au vent en toute situation.
 Il s&amp;rsquo;agit ici de la première approche, ce virement simplifié ne conviendra pas par grosse houle ou mer formée.
 Comme dans toute manoeuvre, la communication est primordiale!
@@ -550,28 +689,28 @@ Comme dans toute manoeuvre, la communication est primordiale!
     
     <item>
       <title>premiers virements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/premiers-virements/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/premiers-virements.html</link>
       <pubDate>Tue, 29 Nov 2016 15:06:04 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/premiers-virements/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/premiers-virements.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>allures</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/allures/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/allures.html</link>
       <pubDate>Tue, 29 Nov 2016 13:06:39 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/allures/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/allures.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>grand largue</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/grand-largue/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/grand-largue.html</link>
       <pubDate>Tue, 29 Nov 2016 11:10:07 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/grand-largue/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/grand-largue.html</guid>
       <description></description>
     </item>
     

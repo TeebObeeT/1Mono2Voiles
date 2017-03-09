@@ -6,6 +6,7 @@ niveaux:
 - Niveau-1
 postes:
 - N1
+- Piano
 seance:
   00_prereq:
   - Gréer le spi
