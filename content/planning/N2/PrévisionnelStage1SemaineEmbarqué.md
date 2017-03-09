@@ -97,11 +97,11 @@ planning:
     01_matin:
     - chrono/mouillage
     - chrono/hissage de spi
-    - séance/empannage
+    - séance/empannages
     - séance/N2/gréer le spi
     - séance/N2/envoi de spi
     - séance/N2/réglage de spi
-    - séance/N2/mouillage
+    - séance/mouillage
     02_aprèsmidi:
     - chrono/rof
     - séance/N2/rof

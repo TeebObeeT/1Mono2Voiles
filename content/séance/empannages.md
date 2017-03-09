@@ -1,11 +1,14 @@
 ---
-title: empannage
+title: empannages
 date: 2016-11-15T14:22:25+01:00
 categories: [Manoeuvre]
-niveaux: [Niveau-1]
+niveaux:
+- Niveau-1
+- Niveau-2
 tags: [Changement amure,Portant]
 previsionnels:
   - Stage Terre N1
+  - stage embarqué N2
 postes:
 - Barre
 - GV
@@ -21,6 +24,7 @@ seance:
  - 1M1.1 Utiliser la barre pour changer d’amure
  - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
  - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
+ - 2M1.1 Virer de bord et empanner sans s’arrêter
  04_reussite:
   - Sans que la bôme soit passée sauvagement, enchainer les empannages sans départ au lofe
  05_evaluation:
