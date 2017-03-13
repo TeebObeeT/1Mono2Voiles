@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/categories/manoeuvre/index.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/categories/manoeuvre.xml</link>
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/manoeuvre/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/manoeuvre.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>mouillage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/mouillage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/mouillage.html</link>
       <pubDate>Thu, 09 Mar 2017 10:36:24 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/mouillage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/mouillage.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>envoi de spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/envoi-de-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/envoi-de-spi.html</link>
       <pubDate>Thu, 09 Mar 2017 10:15:06 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/envoi-de-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/envoi-de-spi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>gréer le spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/gr%C3%A9er-le-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/gr%C3%A9er-le-spi.html</link>
       <pubDate>Thu, 09 Mar 2017 10:09:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/gr%C3%A9er-le-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/gr%C3%A9er-le-spi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>hissage de spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/hissage-de-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/hissage-de-spi.html</link>
       <pubDate>Thu, 09 Mar 2017 10:01:17 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/hissage-de-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/hissage-de-spi.html</guid>
       <description>&lt;p&gt;Chronologie pour un envoi de spi avec tangon
 &lt;/p&gt;
 
@@ -176,10 +176,10 @@
     
     <item>
       <title>mouillage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/mouillage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/mouillage.html</link>
       <pubDate>Thu, 09 Mar 2017 09:44:22 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/mouillage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/mouillage.html</guid>
       <description>&lt;p&gt;Comment s&amp;rsquo;y prendre pour faire un mouillage réussi
 &lt;/p&gt;
 
@@ -311,10 +311,10 @@
     
     <item>
       <title>amarrage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</link>
       <pubDate>Tue, 07 Mar 2017 11:02:18 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</guid>
       <description>&lt;p&gt;Comment bien amarrer un bateau selon la configuration du port.
 &lt;/p&gt;
 
@@ -362,82 +362,82 @@
     
     <item>
       <title>départ habitable</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable.html</link>
       <pubDate>Mon, 06 Mar 2017 12:46:09 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>manipulation de tangon</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/manipulation-de-tangon/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/manipulation-de-tangon.html</link>
       <pubDate>Tue, 10 Jan 2017 16:48:43 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/manipulation-de-tangon/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/manipulation-de-tangon.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>empannage sous spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage-sous-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage-sous-spi.html</link>
       <pubDate>Tue, 10 Jan 2017 15:25:57 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage-sous-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage-sous-spi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>evaluation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</link>
       <pubDate>Mon, 09 Jan 2017 13:58:50 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>prise de coffre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre.html</link>
       <pubDate>Mon, 09 Jan 2017 11:21:00 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>banane</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</link>
       <pubDate>Mon, 09 Jan 2017 11:06:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>hissage affalage de spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi.html</link>
       <pubDate>Fri, 06 Jan 2017 14:43:43 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>gréer le spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9er-le-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9er-le-spi.html</link>
       <pubDate>Thu, 05 Jan 2017 13:34:47 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9er-le-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9er-le-spi.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>quick stop</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop.html</link>
       <pubDate>Thu, 05 Jan 2017 11:26:34 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop.html</guid>
       <description></description>
     </item>
     

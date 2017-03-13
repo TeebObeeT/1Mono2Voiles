@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/categories/navigation/index.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/categories/navigation.xml</link>
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/navigation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/navigation.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o.html</link>
       <pubDate>Mon, 13 Mar 2017 14:20:30 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o.html</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;météorolgie-générale&#34;&gt;Météorolgie générale&lt;/h1&gt;
@@ -106,28 +106,28 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
     
     <item>
       <title>Calcul de route</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route.html</link>
       <pubDate>Mon, 13 Mar 2017 13:37:33 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>point rapide</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point-rapide/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point-rapide.html</link>
       <pubDate>Mon, 13 Mar 2017 13:22:30 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point-rapide/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point-rapide.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>prise de météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o.html</link>
       <pubDate>Tue, 07 Mar 2017 11:24:02 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o.html</guid>
       <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
 &lt;/p&gt;
 
@@ -397,37 +397,37 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
     
     <item>
       <title>calcul de cap</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap.html</link>
       <pubDate>Mon, 06 Mar 2017 13:38:34 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>liaison carte paysage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage.html</link>
       <pubDate>Mon, 06 Mar 2017 13:20:40 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>promenade</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade.html</link>
       <pubDate>Tue, 10 Jan 2017 09:04:51 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>privilèges</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</link>
       <pubDate>Fri, 06 Jan 2017 15:13:07 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</guid>
       <description>&lt;p&gt;Quelques informations basiques mais essentielles à savoir avant de partir en mer&amp;hellip;
 &lt;/p&gt;
 
@@ -490,10 +490,10 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
     
     <item>
       <title>météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</link>
       <pubDate>Tue, 06 Dec 2016 15:09:59 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</guid>
       <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
 Egalement une explication générique sur les anticyclones/dépressions et effets de site.&lt;/p&gt;
 
@@ -827,10 +827,10 @@ Egalement une explication générique sur les anticyclones/dépressions et effet
     
     <item>
       <title>périmètre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre.html</link>
       <pubDate>Mon, 28 Nov 2016 18:09:31 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/p%C3%A9rim%C3%A8tre.html</guid>
       <description></description>
     </item>
     
