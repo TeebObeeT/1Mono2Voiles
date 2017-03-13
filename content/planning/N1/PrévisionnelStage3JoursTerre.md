@@ -70,9 +70,9 @@ planning:
     - topo/sécurité à terre
     - chrono/rof
     - séance/N1/repères
-    - séance/N1/rof
+    - séance/rof
     03_soir:
-    - topo/N1/allures
+    - topo/allures
     - chrono/cape
     04_conduite:
     - 1C1.6 Différencier les allures de près des allures portantes

@@ -17,6 +17,7 @@ seance:
   02_but: Récupérer notre seau
   03_objectifs:
   - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
+  - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
   04_reussite:
   - Le gaffeur récupère le seau à vitesse réduite (sans effort pour le tenir)
   05_evaluation:
@@ -43,4 +44,5 @@ title: rof
 previsionnels:
   - Stage Terre N1
   - Stage Terre N1 3J
+  - stage embarqué N2
 ---

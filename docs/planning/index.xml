@@ -20,8 +20,8 @@
 &lt;h1 id=&#34;conduite&#34;&gt;Conduite&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2C1.1 Adapter l’ouverture de la voile à l’allure&lt;/li&gt;
-&lt;li&gt;2C1.2 Conserver une trajectoire fixe&lt;/li&gt;
+&lt;li&gt;X 2C1.1 Adapter l’ouverture de la voile à l’allure&lt;/li&gt;
+&lt;li&gt;X 2C1.2 Conserver une trajectoire fixe&lt;/li&gt;
 &lt;li&gt;2C1.3 Choquer ou border la voile pour compenser un déséquilibre&lt;/li&gt;
 &lt;li&gt;2C1.4 Ajuster la trajectoire à une ouverture de voile donnée&lt;/li&gt;
 &lt;li&gt;2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent&lt;/li&gt;
@@ -51,13 +51,13 @@
 
 &lt;ul&gt;
 &lt;li&gt;X 2N1.1 Repérer les dangers éventuels sur le parcours proposé&lt;/li&gt;
-&lt;li&gt;2N1.2 Participer à l’élaboration d’une route&lt;/li&gt;
+&lt;li&gt;X 2N1.2 Participer à l’élaboration d’une route&lt;/li&gt;
 &lt;li&gt;X 2N1.3 Connaître et utiliser les documents nautiques du bord&lt;/li&gt;
 &lt;li&gt;X 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte&lt;/li&gt;
-&lt;li&gt;2N2.1 Évaluer la force du vent et l’état de la mer&lt;/li&gt;
-&lt;li&gt;2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation&lt;/li&gt;
-&lt;li&gt;2N2.3 Reconnaître les signes de dégradation du temps à court terme&lt;/li&gt;
-&lt;li&gt;2N2.4 Connaître et observer les phénomènes locaux&lt;/li&gt;
+&lt;li&gt;X 2N2.1 Évaluer la force du vent et l’état de la mer&lt;/li&gt;
+&lt;li&gt;X 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation&lt;/li&gt;
+&lt;li&gt;X 2N2.3 Reconnaître les signes de dégradation du temps à court terme&lt;/li&gt;
+&lt;li&gt;X 2N2.4 Connaître et observer les phénomènes locaux&lt;/li&gt;
 &lt;li&gt;2N3.1 Connaître la dynamique des marées ou les éventuels mouvements d’eau en plans d’eau intérieurs&lt;/li&gt;
 &lt;li&gt;2N3.2 Constituer le référentiel de marées adapté au programme de navigation&lt;/li&gt;
 &lt;li&gt;2N3.3 Indiquer à tout moment la hauteur d’eau théorique&lt;/li&gt;
@@ -72,7 +72,7 @@
 &lt;li&gt;X 2S1.1 Connaître les risques de l’activité&lt;/li&gt;
 &lt;li&gt;X 2S1.2 Se déplacer et agir en limitant les risques&lt;/li&gt;
 &lt;li&gt;2S2.1 Se regrouper&lt;/li&gt;
-&lt;li&gt;2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées&lt;/li&gt;
+&lt;li&gt;X 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées&lt;/li&gt;
 &lt;li&gt;2S3.1 Signaler ses difficultés&lt;/li&gt;
 &lt;li&gt;2S3.2 Connaître l’utilisation de la VHF, du canal de sécurité et les numéros de téléphone dédiés aux secours maritimes&lt;/li&gt;
 &lt;/ul&gt;
@@ -82,7 +82,7 @@
 &lt;ul&gt;
 &lt;li&gt;X 2T1.1 Réaliser aisément les nœuds marins courants&lt;/li&gt;
 &lt;li&gt;2T1.2 Lover et ranger les cordages&lt;/li&gt;
-&lt;li&gt;2T1.3 Utiliser les équipements nautiques et de vie à bord&lt;/li&gt;
+&lt;li&gt;X 2T1.3 Utiliser les équipements nautiques et de vie à bord&lt;/li&gt;
 &lt;li&gt;X 2T2.1 Faire un inventaire quantitatif&lt;/li&gt;
 &lt;li&gt;X 2T2.2 Participer à la vérification des équipements&lt;/li&gt;
 &lt;li&gt;2T3.1 Réaliser la maintenance des cordages et des voiles&lt;/li&gt;
@@ -123,8 +123,7 @@
 &lt;h1 id=&#34;autre&#34;&gt;Autre&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Séeance environnement sur Marseillan?&lt;/li&gt;
-&lt;li&gt;MTO jour 3&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Séeance environnement sur Marseillan?&lt;/em&gt; Planning topo/site&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     

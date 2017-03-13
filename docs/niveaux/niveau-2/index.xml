@@ -9,6 +9,138 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>météo</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o/</link>
+      <pubDate>Mon, 13 Mar 2017 14:20:30 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;météorolgie-générale&#34;&gt;Météorolgie générale&lt;/h1&gt;
+
+&lt;h2 id=&#34;pression-et-humidité-atmosphérique&#34;&gt;Pression et humidité atmosphérique&lt;/h2&gt;
+
+&lt;p&gt;La pression atmosphérique est la pression exercée par une colonne d&amp;rsquo;air au niveau de la mer par une température de 15°C. La pression normale est d&amp;rsquo;environ 1013,25hPa, arrondie à 1015hPa dans le monde anglo-saxon.&lt;/p&gt;
+
+&lt;p&gt;La pression dépend de la température de l&amp;rsquo;air ainsi que son humidité (&lt;em&gt;pour un volume donné, celui de notre colonne d&amp;rsquo;air&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Plus l&amp;rsquo;air est chaud, plus il peut contenir de l&amp;rsquo;eau (&lt;em&gt;ex: Chaleur tropicale et froid polaire&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;Quand l&amp;rsquo;air se refroidit la vapeur condense et forme des gouttelettes d&amp;rsquo;eau liquide : on dit que le seuil de la saturation augmente avec la température.  (*ex rosée, condensation dans la salle de bain en hiver)&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;humidité &lt;strong&gt;relative&lt;/strong&gt; d&amp;rsquo;une masse d&amp;rsquo;air varie donc avec la température de l&amp;rsquo;air. Lorsque la température augmente, en journée, l&amp;rsquo;humidité relative diminue, alors que le contenu en eau de la masse d&amp;rsquo;air - l&amp;rsquo;humidité absolue - reste inchangé. &lt;/p&gt;
+
+&lt;p&gt;De même la pression dépend de la température:&lt;/p&gt;
+
+&lt;p&gt;​       PV=nRT&lt;/p&gt;
+
+&lt;p&gt;P: &lt;em&gt;Pression&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;V: &lt;em&gt;Volume&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;n: &lt;em&gt;Quantité d&amp;rsquo;air (moles)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;R: &lt;em&gt;Constante d&amp;rsquo;Avogadro&lt;/em&gt; ou &lt;em&gt;Constante universelle des gaz parfaits&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Du coup, à volume constant (&lt;em&gt;notre colonne d&amp;rsquo;air&lt;/em&gt;), et pour la même quantité d&amp;rsquo;air, la pression dépend de la température. Plus il fait chaud, plus la pression augmente.&lt;/p&gt;
+
+&lt;h2 id=&#34;anticyclone&#34;&gt;Anticyclone&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/topos/anticyclonedepression.bmp&#34; alt=&#34;Anticyclone et dépression&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Un anticyclone est une masse d&amp;rsquo;air froid et sec qui descend de la troposphère et qui agit comme un &amp;ldquo;compresseur&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Un anticyclone tourne en sens horaire et les vents s&amp;rsquo;en écartent.&lt;/p&gt;
+
+&lt;h2 id=&#34;dépression&#34;&gt;Dépression&lt;/h2&gt;
+
+&lt;p&gt;Une dépression est une masse d&amp;rsquo;air chaude et humide en surface terrestre, qui du coup va monter (&lt;em&gt;moins dense/moins lourd que l&amp;rsquo;air froid du dessus&lt;/em&gt;) et se refroidir =&amp;gt; Condensation. C&amp;rsquo;est une sorte d&amp;rsquo;aspirateur à air.&lt;/p&gt;
+
+&lt;p&gt;Une dépression tourne en sens anti-horaire et les vents rentrent.&lt;/p&gt;
+
+&lt;h2 id=&#34;création-du-vent-géostrophique&#34;&gt;Création du vent géostrophique&lt;/h2&gt;
+
+&lt;p&gt;Le vent géostrophique est le vent qui se crée dans l&amp;rsquo;atmosphère sans prendre en compte les frottements dûs au sol et à la géographie. Il est celui que l&amp;rsquo;on peut prédire en regardant juste les cartes des anticyclones et dépressions&lt;/p&gt;
+
+&lt;h1 id=&#34;effets-de-site&#34;&gt;Effets de site&lt;/h1&gt;
+
+&lt;h2 id=&#34;thermique&#34;&gt;Thermique&lt;/h2&gt;
+
+&lt;p&gt;Durant le jour, près des côtes d’un lac ou de la mer, le soleil réchauffe plus rapidement le sol que l’eau. L’air prend donc plus d’expansion sur terre et s’élève créant une pression plus basse que sur le plan d’eau. Une fois encore cette différence de pression se crée sur une distance très faible et ne peut être contrebalancée par les forces de Coriolis. Une brise de mer (lac) s’établit donc. La même chose se produit la nuit mais en direction inverse, la brise de terre&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/topos/thermique.bmp&#34; alt=&#34;Thermique&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;venturi&#34;&gt;Venturi&lt;/h2&gt;
+
+&lt;p&gt;Le vent est dirigé par les obstacles, il suivra une vallée, il longera une côte en falaises,&amp;hellip;De plus, il se renforcera, en quelque sorte, &lt;em&gt;il y a moins de place pour faire passer l&amp;rsquo;air, il faut donc le faire passer plus vite.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;les-dangers&#34;&gt;Les dangers&lt;/h1&gt;
+
+&lt;h2 id=&#34;orages&#34;&gt;Orages&lt;/h2&gt;
+
+&lt;p&gt;Un &lt;strong&gt;orage&lt;/strong&gt; (dérivé à l&amp;rsquo;aide du suffixe &lt;em&gt;age&lt;/em&gt; de l&amp;rsquo;ancien français &lt;em&gt;ore&lt;/em&gt;, signifiant &amp;ldquo;vent&amp;rdquo;) est une perturbation atmosphérique d&amp;rsquo;origine convective (&lt;em&gt;mouvements verticaux dans un fluide&lt;/em&gt;) associée à un type de nuage particulier : le cumulonimbus. Ce dernier est à forte extension verticale, il engendre des pluies fortes à diluviennes, des décharges électriques de foudre accompagnées de tonnerre. Dans des cas extrêmes, l&amp;rsquo;orage peut produire des chutes de grêle, des vents très violents et, rarement, des tornades.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/topos/orage.bmp&#34; alt=&#34;Orage&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;variations-barométriques&#34;&gt;Variations barométriques&lt;/h2&gt;
+
+&lt;p&gt;Plus la variation de pression se fait vite, et plus le vent qui cherchera à équilibrer ce déséquilibre de pression sera violent, on surveille toujours et on note toutes les heures la valeur de la pression mesurée par le baromètre de bord.&lt;/p&gt;
+
+&lt;h2 id=&#34;le-grain&#34;&gt;Le grain&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/topos/grain.jpg&#34; alt=&#34;Grain&#34; /&gt;
+Sous un grain les vents sont plus violents (25% à 50%) et changent de direction.
+Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centre tandis que le grain sec l&amp;rsquo;aspire&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;SCHEMA&amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;Si on ne peut l&amp;rsquo;éviter, il vaut mieux prévoir, s&amp;rsquo;habiller et diminuer la toile.&lt;/p&gt;
+
+&lt;h2 id=&#34;lecture-des-nuages&#34;&gt;Lecture des nuages&lt;/h2&gt;
+
+&lt;p&gt;Le niveau d&amp;rsquo;altitude des nuages est un phénomène lié à la pression atmosphérique. Plus les nuages sont bas, plus la pression est basse. Si les nuages descendent, le temps va se dégrader, si les nuages montent, il va s&amp;rsquo;améliorer.&lt;/p&gt;
+
+&lt;p&gt;Si les nuages descendent ou montent très vite, il y a une grosse variation barométrique, signe de danger potentiel.
+&lt;img src=&#34;../../img/topos/nuages.png&#34; alt=&#34;Nuages&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Réglage des voiles</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-voiles/</link>
+      <pubDate>Mon, 13 Mar 2017 13:58:54 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-voiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suivre un cap</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/cap/</link>
+      <pubDate>Mon, 13 Mar 2017 13:48:52 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/cap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcul de route</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route/</link>
+      <pubDate>Mon, 13 Mar 2017 13:37:33 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>point rapide</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point-rapide/</link>
+      <pubDate>Mon, 13 Mar 2017 13:22:30 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point-rapide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mouillage</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/mouillage/</link>
       <pubDate>Thu, 09 Mar 2017 10:36:24 +0100</pubDate>
@@ -710,83 +842,6 @@
       <pubDate>Tue, 07 Mar 2017 10:42:09 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>déplacements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</link>
-      <pubDate>Tue, 07 Mar 2017 10:07:39 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</guid>
-      <description>&lt;p&gt;Comment doit on se (dé)placer sur un bateau dans les différentes situations et pourquoi.
-L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro hydro
-&lt;/p&gt;
-
-&lt;h1 id=&#34;règle-générale&#34;&gt;Règle générale&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Identifier le danger prépondérant&lt;/li&gt;
-&lt;li&gt;Ne pas se retrouver sur le trajet d&amp;rsquo;un élément du bateau susceptible de bouger rapidement&lt;/li&gt;
-&lt;li&gt;Garder une main pour soi en déplacement&lt;/li&gt;
-&lt;li&gt;Ne jamais hésiter à s&amp;rsquo;attacher, même sans consigne spécifique&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;près&#34;&gt;Près&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Risque principal? GV choquée (volontairement ou non)&lt;/li&gt;
-&lt;li&gt;Trajet au vent (partie haute du bateau, en plus c&amp;rsquo;est plus simple)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;portant&#34;&gt;Portant&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Risque principal? Empannage sauvage&lt;/li&gt;
-&lt;li&gt;Trajet sous le vent (se glisser sous la bôme, pas facile)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;sous-spi&#34;&gt;Sous spi&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Risque principal? Tangon&lt;/li&gt;
-&lt;li&gt;Toujours au vent du tangon&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>arrêt surface</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface/</link>
-      <pubDate>Tue, 07 Mar 2017 09:54:57 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>calcul de cap</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap/</link>
-      <pubDate>Mon, 06 Mar 2017 13:38:34 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>liaison carte paysage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage/</link>
-      <pubDate>Mon, 06 Mar 2017 13:20:40 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>départ habitable</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable/</link>
-      <pubDate>Mon, 06 Mar 2017 12:46:09 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable/</guid>
       <description></description>
     </item>
     

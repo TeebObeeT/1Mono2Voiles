@@ -60,7 +60,7 @@ planning:
     - séance/N1/premiers virements
     03_soir:
     - chrono/virement
-    - topo/N1/allures
+    - topo/allures
     04_conduite:
     - 1C1.1,2,3,4 Utilisation voile/barre pour avancer et ralentir
     - 1C1.6 Différencier les allures de près des allures portantes
@@ -90,7 +90,7 @@ planning:
     - topo/sécurité à terre
     - chrono/rof
     - séance/N1/repères
-    - séance/N1/rof
+    - séance/rof
     02_aprèsmidi:
     - chrono/N1/empannage
     - séance/N1/vent arrière
