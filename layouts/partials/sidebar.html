@@ -24,7 +24,7 @@
 			</ul>
 			<br/>
 			<h3>Catégories de compétences FFV</h3>
-      <ul class="nav-list" id="previsionnels">
+      <ul class="nav-list" id="catégories">
             {{ range $key, $value := .Site.Taxonomies.categories }}
                 <li class="nav-item"><a href='{{ "/categories/" | relURL }}{{ $key | urlize }}'>{{ $key | humanize }}</a></li>
             {{ end }}

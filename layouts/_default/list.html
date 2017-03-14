@@ -1,38 +1,40 @@
 {{ partial "header.html" . }}
 <body>
-  <div id="toc">
-    <h3><a href="#">{{ .Title | humanize }}</a></h3>
-    <span>Table des matières </span>
-    <nav id="TableOfContents">
-      <ul>
-        {{ range .Data.Pages.GroupBy "Section" }}
-        <li><a href="#{{.Key | urlize}}">{{ .Key| humanize}}</a>
-          <ul>
-            {{ range .Pages.ByTitle }}
-              <li>
-                <a href="{{ .RelPermalink }}">{{ .Title | humanize}}</a>
-              </li>
-            {{ end }}
-          </ul>
-        </li>
-      {{ end }}
-    </ul>
-  </nav>
-</div>
 
       <div id="layout">
         {{ partial "sidebar.html" . }}
+
+        <div id="toc">
+          <h3><a href="#">{{ .Title | humanize }}</a></h3>
+          <span>Table des matières </span>
+          <nav id="TableOfContents">
+            <ul>
+              {{ range .Data.Pages.GroupBy "Section" }}
+              <li><a href="#{{.Key}}-section">{{ .Key| humanize}}</a>
+                <ul>
+                  {{ range .Pages.ByTitle }}
+                  <li>
+                    <a href="#{{.RelPermalink | urlize}}">{{ .Title | humanize}}</a>
+                  </li>
+                  {{ end }}
+                </ul>
+              </li>
+              {{ end }}
+            </ul>
+          </nav>
+        </div>
+
         <div id="content">
           <div class="posts">
             {{ range .Data.Pages.GroupBy "Section" }}
-            <h1 class=screen id="{{.Key | urlize}}">
+            <h1 class=screen id="{{.Key}}-section">
               {{ .Key| humanize}}
             </h1>
               {{ range .Pages.ByTitle }}
                   <section  class="post">
                       <div class="screen">
                         <div class="post-header">
-                          <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title | humanize}}</a>{{partial "niveaux.html" . }}</h2>
+                          <h1 class="post-title" id="{{.RelPermalink | urlize}}"><a href="{{ .RelPermalink }}">{{ .Title | humanize}}</a>{{partial "niveaux.html" . }}</h1>
                         </div>
                         {{ .Render "short" }}
                       </div>
