@@ -162,8 +162,8 @@ planning:
     04_conduite:
     - 3C2.3 Régler le volume des voiles en statique (halebas, cunningham, bordure, lattes)
     05_manoeuvre:
-    - 2M4.1 Appareiller et accoster une place de port
     - 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
+    - 2M4.1 Appareiller et accoster une place de port
     06_navigation:
     - null
     07_sécurité:
