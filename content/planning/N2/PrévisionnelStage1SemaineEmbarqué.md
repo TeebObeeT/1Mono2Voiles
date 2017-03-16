@@ -123,6 +123,7 @@ planning:
     - 2C1.7 Identifier son allure de navigation
     - 2C1.8 Ralentir à toutes les allures en utilisant la barre ou l’ouverture des voiles
     - 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage
+    - 2C3.1 Réguler la vitesse
     05_manoeuvre:
     - 2M2.2 Gréer et dégréer un spinnaker
     - 2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible
@@ -300,7 +301,7 @@ title: Prévisionnel stage embarqué 1 semaine
 * X 2C1.8 Ralentir à toutes les allures en utilisant la barre ou l’ouverture des voiles
 * X 2C1.9 S’arrêter à partir de différentes allures
 * **2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage**
-* **2C3.1 Réguler la vitesse**
+* X 2C3.1 Réguler la vitesse
 * X 2C3.2 Maintenir le navire en arrêt surface
 
 # Manoeuvre

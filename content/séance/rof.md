@@ -18,6 +18,7 @@ seance:
   03_objectifs:
   - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
   - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
+  - 2C3.1 Réguler la vitesse
   04_reussite:
   - Le gaffeur récupère le seau à vitesse réduite (sans effort pour le tenir)
   05_evaluation:
