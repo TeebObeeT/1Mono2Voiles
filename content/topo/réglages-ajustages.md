@@ -4,10 +4,12 @@ categories: [Conduite]
 date: 2016-12-19T15:18:19+01:00
 niveaux:
 - Niveau-1
+- Niveau-2
 tags: []
 title: réglages ajustages
 previsionnels:
   - Stage Terre N1
+  - stage embarqué N2
 ---
 Différences entre réglages et ajustages ainsi que les premières pistes pour optimiser ses voiles...On parlera ici du cas de la navigation en finesse.
 
@@ -70,7 +72,7 @@ On recherche en permanence la limite de faseyement et l'on surveille les penons!
 
 Le creux idéal est de l'ordre de 14% de la longueur de la corde *(~de la bôme)*
 
-Plus le creux est grand, plus il génère de la puissance mais aussi de la trainée, et plus l'angle d'incidence de la voile avec le vent s'ouvre, empêchant de remontre plus au vent. Inversement, une voile moins creusée donnera moins de puissance mais permettra de remonter plus au vent.
+Plus le creux est grand, plus il génère de la puissance mais aussi de la trainée, et plus l'angle d'incidence de la voile avec le vent s'ouvre, empêchant de remonter plus au vent. Inversement, une voile moins creusée donnera moins de puissance mais permettra de remonter plus au vent.
 
 -- SCHEMA --
 

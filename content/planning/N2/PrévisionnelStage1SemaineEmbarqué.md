@@ -152,18 +152,18 @@ planning:
     - séance/N2/quick stop
     02_aprèsmidi:
     - topo/réglages ajustages
-    - séance/réglages GV près
-    - séance/réglages GV portant
-    - séance/N2/cape
-    - séance/N2/cape courante
+    - séance/ajustages près
+    - séance/ajustages portant
+    - séance/cape
     - séance/N2/changement VA
     03_soir:
     - Bilan mi-stage
     - Entretien et vérif bateau
     04_conduite:
-    - null
+    - 3C2.3 Régler le volume des voiles en statique (halebas, cunningham, bordure, lattes)
     05_manoeuvre:
     - 2M4.1 Appareiller et accoster une place de port
+    - 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
     06_navigation:
     - null
     07_sécurité:

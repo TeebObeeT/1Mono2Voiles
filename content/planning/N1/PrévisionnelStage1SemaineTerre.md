@@ -95,7 +95,7 @@ planning:
     - chrono/N1/empannage
     - séance/N1/vent arrière
     - séance/N1/changement de focs
-    - séance/N1/cape
+    - séance/cape
     - séance/N1/premiers empannages
     03_soir:
     - chrono/N1/cape
@@ -159,7 +159,7 @@ planning:
   jour_05:
     00_nom: Mercredi
     01_matin:
-    - topo/N1/réglages ajustages
+    - topo/réglages ajustages
     - séance/N1/ajustages à terre
     - séance/N1/quick stop
     - topo/N1/météo

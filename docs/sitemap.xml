@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/changement-VA.html</loc>
+    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/ajustages-portant.html</loc>
+    <lastmod>2017-03-16T10:07:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/ajustages-pr%C3%A8s.html</loc>
+    <lastmod>2017-03-16T09:52:53+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/quick-stop.html</loc>
     <lastmod>2017-03-15T16:41:17+01:00</lastmod>
   </url>
@@ -202,7 +217,7 @@
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/topo/n1/r%C3%A9glages-ajustages.html</loc>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/topo/r%C3%A9glages-ajustages.html</loc>
     <lastmod>2016-12-19T15:18:19+01:00</lastmod>
   </url>
   
@@ -247,7 +262,7 @@
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/cape.html</loc>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/cape.html</loc>
     <lastmod>2016-12-05T12:54:56+01:00</lastmod>
   </url>
   
@@ -429,7 +444,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/</loc>
-    <lastmod>2017-03-15T16:41:17+01:00</lastmod>
+    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -470,7 +485,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/categories/conduite</loc>
-    <lastmod>2017-03-13T13:58:54+01:00</lastmod>
+    <lastmod>2017-03-16T10:07:52+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -506,7 +521,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/foc</loc>
-    <lastmod>2017-03-13T13:58:54+01:00</lastmod>
+    <lastmod>2017-03-16T09:52:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -518,13 +533,13 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/gv</loc>
-    <lastmod>2017-03-13T13:58:54+01:00</lastmod>
+    <lastmod>2017-03-16T10:07:52+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/categories/manoeuvre</loc>
-    <lastmod>2017-03-15T16:35:38+01:00</lastmod>
+    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -536,7 +551,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/n1</loc>
-    <lastmod>2017-03-09T10:15:06+01:00</lastmod>
+    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -560,7 +575,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-2</loc>
-    <lastmod>2017-03-15T16:41:17+01:00</lastmod>
+    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -629,13 +644,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/tags/r%C3%A9glages</loc>
-    <lastmod>2017-03-13T13:58:54+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/postes/spi</loc>
-    <lastmod>2016-12-01T15:19:14+01:00</lastmod>
+    <lastmod>2017-03-16T10:07:52+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -646,8 +655,14 @@
   </url>
   
   <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/postes/spi</loc>
+    <lastmod>2016-12-01T15:19:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/previsionnels/stage-embarqu%C3%A9-n2</loc>
-    <lastmod>2017-03-15T16:41:17+01:00</lastmod>
+    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -665,7 +680,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance</loc>
-    <lastmod>2017-03-15T16:41:17+01:00</lastmod>
+    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   

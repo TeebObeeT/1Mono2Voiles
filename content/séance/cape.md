@@ -4,6 +4,7 @@ categories: [Manoeuvre]
 date: 2016-12-05T12:54:56+01:00
 niveaux:
 - Niveau-1
+- Niveau-2
 postes:
 - Barre
 seance:
@@ -45,4 +46,5 @@ title: mise à la cape
 previsionnels:
   - Stage Terre N1
   - Stage Terre N1 3J
+  - stage embarqué N2
 ---
