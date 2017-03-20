@@ -4,10 +4,12 @@ categories: [Manoeuvre, Conduite]
 date: 2016-12-05T16:11:55+01:00
 niveaux:
 - Niveau-1
+- Niveau-2
 tags: [Equilibre]
 title: equilibres
 previsionnels:
   - Stage Terre N1
+  - stage embarqué N2
 ---
 Il s'agit ici d'une introduction aux équilibres hydro/aéro qui font que le bateau avance, gîte, ne se retourne pas,...
 
@@ -57,7 +59,7 @@ Archimède et le poids forment le couple de redressement
 
 Autre conséquence, la trainée hydro se décale d'un côté tandis que la composante propulsive se décale de l'autre => Couple de lofe
 
-Pour compenser, redresser le bateau e, bougeant le CdG
+Pour compenser, redresser le bateau en bougeant le CdG
 
 ## Cas de gîte extrême
 

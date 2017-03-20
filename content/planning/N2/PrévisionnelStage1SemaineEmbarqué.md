@@ -1,4 +1,4 @@
----
+ ---
 author: Teebo
 date: 2017-03-02T16:58:48+01:00
 niveaux:
@@ -167,6 +167,7 @@ planning:
     06_navigation:
     - null
     07_sécurité:
+    - 2S2.1 Se regrouper
     - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
     - 2S3.1 Signaler ses difficultés
     - 2S3.2 Connaître l’utilisation de la VHF, du canal de sécurité et les numéros de téléphone dédiés aux secours maritimes
@@ -187,27 +188,28 @@ planning:
     00_nom: Mercredi
     01_matin:
     - topo/équilibres
-    - séance/N2/360
-    - séance/N2/virements optimisés
-    - séance/N2/empannages optimisés
-    -
-    -
+    - séance/barre attachée
+    - séance/N2/point
+    - séance/garder allure
+    - séance/surpuissance
     02_aprèsmidi:
     - chrono/empannage sous spi
     - séance/N2/conduite sous spi
     - séance/N2/empannage sous spi
     - séance/N2/affalage spi en urgence
-    - séance/N2/point
     - séance/N2/estime
+    - séance/N2/virements relance
     03_soir:
     - topo/marées
-    - topo/estime
+    - topo/cadre
     04_conduite:
-    - null
+    - 2C1.3 Choquer ou border la voile pour compenser un déséquilibre
+    - 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée
+    - 4C2.1 Connaître les principes de l’aérodynamique et de l’hydrodynamique impliqués dans la propulsion et l’équilibre des navires à voiles
     05_manoeuvre:
     - null
     06_navigation:
-    - null
+    - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
     07_sécurité:
     - null
     08_technologie:
@@ -221,14 +223,13 @@ planning:
   jour_06:
     00_nom: Jeudi
     01_matin:
+    - topo/estime
     - séance/préparation navigation
     - séance/suivi de navigation
-    -
-    -
-    -
+    - séance/gagner vent
+    - séance/descendre vent
     02_aprèsmidi:
-    -
-    - chrono/parcours évaluatif
+    - chrono/N2/parcours évaluatif
     - séance/N2/parcours evaluatif
     - topo/sécurité de nuit
     - topo/navigation de nuit
@@ -293,8 +294,8 @@ title: Prévisionnel stage embarqué 1 semaine
 # Conduite
 * X 2C1.1 Adapter l’ouverture de la voile à l’allure
 * X 2C1.2 Conserver une trajectoire fixe
-* **2C1.3 Choquer ou border la voile pour compenser un déséquilibre**
-* **2C1.4 Ajuster la trajectoire à une ouverture de voile donnée**
+* 2C1.3 Choquer ou border la voile pour compenser un déséquilibre
+* 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée
 * **2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent**
 * X 2C1.6 Suivre un cap ou un alignement
 * X 2C1.7 Identifier son allure de navigation
@@ -333,7 +334,7 @@ title: Prévisionnel stage embarqué 1 semaine
 # Sécurité
 * X 2S1.1 Connaître les risques de l’activité
 * X 2S1.2 Se déplacer et agir en limitant les risques
-* **2S2.1 Se regrouper**
+* 2S2.1 Se regrouper
 * X 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
 * X 2S3.1 Signaler ses difficultés
 * X 2S3.2 Connaître l’utilisation de la VHF, du canal de sécurité et les numéros de téléphone dédiés aux secours maritimes

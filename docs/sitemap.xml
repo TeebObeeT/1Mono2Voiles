@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/surpuissance.html</loc>
+    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/garder-allure.html</loc>
+    <lastmod>2017-03-17T11:58:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point.html</loc>
+    <lastmod>2017-03-17T11:41:37+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/changement-VA.html</loc>
     <lastmod>2017-03-16T10:17:11+01:00</lastmod>
   </url>
@@ -237,7 +252,7 @@
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/barre-attach%C3%A9e.html</loc>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/barre-attach%C3%A9e.html</loc>
     <lastmod>2016-12-07T17:16:41+01:00</lastmod>
   </url>
   
@@ -252,7 +267,7 @@
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/topo/n1/%C3%A9quilibres.html</loc>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/topo/%C3%A9quilibres.html</loc>
     <lastmod>2016-12-05T16:11:55+01:00</lastmod>
   </url>
   
@@ -444,7 +459,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/</loc>
-    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
+    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -456,7 +471,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/barre</loc>
-    <lastmod>2017-03-15T16:35:38+01:00</lastmod>
+    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -485,7 +500,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/categories/conduite</loc>
-    <lastmod>2017-03-16T10:07:52+01:00</lastmod>
+    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -533,7 +548,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/gv</loc>
-    <lastmod>2017-03-16T10:07:52+01:00</lastmod>
+    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -557,13 +572,13 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/navigateur</loc>
-    <lastmod>2017-03-13T13:37:33+01:00</lastmod>
+    <lastmod>2017-03-17T11:41:37+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/categories/navigation</loc>
-    <lastmod>2017-03-13T14:20:30+01:00</lastmod>
+    <lastmod>2017-03-17T11:41:37+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -575,7 +590,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-2</loc>
-    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
+    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -638,7 +653,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/tags/pr%C3%A8s</loc>
-    <lastmod>2017-01-11T12:33:05+01:00</lastmod>
+    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -662,7 +677,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/previsionnels/stage-embarqu%C3%A9-n2</loc>
-    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
+    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -680,7 +695,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance</loc>
-    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
+    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   

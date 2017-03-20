@@ -4,6 +4,7 @@ categories: [Conduite, Manoeuvre]
 date: 2016-12-07T17:16:41+01:00
 niveaux:
 - Niveau-1
+- Niveau-2
 postes:
 - null
 seance:
@@ -50,4 +51,5 @@ tags: [Changement amure, Près, Portant, Equilibre]
 title: barre attachée
 previsionnels:
   - Stage Terre N1
+  - stage embarqué N2
 ---

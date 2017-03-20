@@ -16,6 +16,7 @@ seance:
   02_but: Arrêter le bateau à la cape
   03_objectifs:
   - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
+  - 2S2.1 Se regrouper
   04_reussite:
   - Le bateau est arrêté, foc à contre
   05_evaluation:
