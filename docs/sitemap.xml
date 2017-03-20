@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/relance.html</loc>
+    <lastmod>2017-03-20T14:17:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/estime.html</loc>
+    <lastmod>2017-03-20T14:04:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/affalage-spi-en-urgence.html</loc>
+    <lastmod>2017-03-20T10:55:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/conduite-sous-spi.html</loc>
+    <lastmod>2017-03-20T10:45:23+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/surpuissance.html</loc>
     <lastmod>2017-03-17T12:05:15+01:00</lastmod>
   </url>
@@ -157,7 +177,7 @@
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/topo/n1/cadre.html</loc>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/topo/cadre.html</loc>
     <lastmod>2017-01-11T12:33:05+01:00</lastmod>
   </url>
   
@@ -167,7 +187,7 @@
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage-sous-spi.html</loc>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi.html</loc>
     <lastmod>2017-01-10T15:25:57+01:00</lastmod>
   </url>
   
@@ -302,7 +322,7 @@
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage-sous-spi.html</loc>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/chrono/empannage-sous-spi.html</loc>
     <lastmod>2016-12-01T15:19:14+01:00</lastmod>
   </url>
   
@@ -459,7 +479,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/</loc>
-    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
+    <lastmod>2017-03-20T14:17:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -471,13 +491,13 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/barre</loc>
-    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
+    <lastmod>2017-03-20T14:17:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/bras</loc>
-    <lastmod>2017-03-09T10:23:52+01:00</lastmod>
+    <lastmod>2016-12-01T15:19:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -488,7 +508,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/tags/changement-amure</loc>
-    <lastmod>2017-01-11T12:33:05+01:00</lastmod>
+    <lastmod>2017-03-20T14:17:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -500,7 +520,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/categories/conduite</loc>
-    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
+    <lastmod>2017-03-20T10:45:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -548,13 +568,13 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/gv</loc>
-    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
+    <lastmod>2017-03-20T14:17:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/categories/manoeuvre</loc>
-    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
+    <lastmod>2017-03-20T14:17:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -566,19 +586,19 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/n1</loc>
-    <lastmod>2017-03-16T10:17:11+01:00</lastmod>
+    <lastmod>2017-03-20T10:55:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/navigateur</loc>
-    <lastmod>2017-03-17T11:41:37+01:00</lastmod>
+    <lastmod>2017-03-20T14:04:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/categories/navigation</loc>
-    <lastmod>2017-03-17T11:41:37+01:00</lastmod>
+    <lastmod>2017-03-20T14:04:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -590,7 +610,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-2</loc>
-    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
+    <lastmod>2017-03-20T14:17:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -619,7 +639,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/piano</loc>
-    <lastmod>2017-03-09T10:15:06+01:00</lastmod>
+    <lastmod>2017-03-20T10:55:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -637,7 +657,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/tags/portant</loc>
-    <lastmod>2017-01-11T12:33:05+01:00</lastmod>
+    <lastmod>2017-03-20T10:55:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -653,7 +673,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/tags/pr%C3%A8s</loc>
-    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
+    <lastmod>2017-03-20T14:17:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -664,20 +684,20 @@
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/tags/spi</loc>
-    <lastmod>2017-03-09T10:23:52+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/postes/spi</loc>
     <lastmod>2016-12-01T15:19:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/tags/spi</loc>
+    <lastmod>2017-03-20T10:55:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/previsionnels/stage-embarqu%C3%A9-n2</loc>
-    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
+    <lastmod>2017-03-20T14:17:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -695,13 +715,13 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance</loc>
-    <lastmod>2017-03-17T12:05:15+01:00</lastmod>
+    <lastmod>2017-03-20T14:17:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/categories/s%C3%A9curit%C3%A9</loc>
-    <lastmod>2017-03-15T16:41:17+01:00</lastmod>
+    <lastmod>2017-03-20T10:55:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   

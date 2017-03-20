@@ -4,10 +4,12 @@ categories: [Conduite]
 date: 2017-01-11T12:33:05+01:00
 niveaux:
 - Niveau-1
+- Niveau-2
 tags: [Changement amure, Près, Portant]
 title: cadre
 previsionnels:
   - Stage Terre N1
+  - stage embarqué N2
 ---
 Aperçu de la notion de cadre, indispensable en régate mais avant tout très utile aussi pour savoir arriver où l'on veut dans un délai raisonnable.
 <!--more-->
@@ -41,3 +43,9 @@ Aperçu de la notion de cadre, indispensable en régate mais avant tout très ut
 * Donner les repères par rapport aux bouées
 
 * Penser à l'envoi de spi
+
+# Application en croisière
+* Se réserver un couloir pour ne pas partir trop loin si le vent tourne
+* Penser aux sautes de vents probables dûes au relief
+* Anticiper en fonction de la météo
+* Penser aux marées/courants

@@ -9,6 +9,15 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/manoeuvre/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>relance</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/relance.html</link>
+      <pubDate>Mon, 20 Mar 2017 14:17:43 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/relance.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>changement VA</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/changement-VA.html</link>
       <pubDate>Thu, 16 Mar 2017 10:17:11 +0100</pubDate>
@@ -436,10 +445,10 @@
     
     <item>
       <title>empannage sous spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage-sous-spi.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi.html</link>
       <pubDate>Tue, 10 Jan 2017 15:25:57 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/empannage-sous-spi.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi.html</guid>
       <description></description>
     </item>
     
@@ -458,15 +467,6 @@
       <pubDate>Mon, 09 Jan 2017 11:21:00 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>banane</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</link>
-      <pubDate>Mon, 09 Jan 2017 11:06:55 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</guid>
       <description></description>
     </item>
     

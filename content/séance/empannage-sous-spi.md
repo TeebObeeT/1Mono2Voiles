@@ -4,6 +4,7 @@ categories: [Manoeuvre]
 date: 2017-01-10T15:25:57+01:00
 niveaux:
 - Niveau-1
+- Niveau-2
 postes:
 - Barre
 - Piano
@@ -46,4 +47,5 @@ tags: [Changement amure, Portant, Spi]
 title: empannage sous spi
 previsionnels:
   - Stage Terre N1
+  - stage embarqué N2
 ---

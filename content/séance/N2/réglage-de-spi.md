@@ -5,9 +5,7 @@ date: 2017-03-09T10:23:52+01:00
 niveaux:
 - Niveau-2
 postes:
-- Bras
 - Ecoute
-- Barre
 previsionnels:
 - stage embarqué N2
 seance:
@@ -20,17 +18,15 @@ seance:
   03_objectifs:
   - 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage
   04_reussite:
-  - Pendant 2 minutes, le spi reste gonflé avec une légère larme
+  - Pendant 5 minutes, le spi reste gonflé avec une légère larme
   05_evaluation:
-  - La barre est conduite sans acoups
-  - Jamais vent arrière
+  - L'équipier à l'écoute de spi est toujours à surveiller sa larme
   06_consignes:
   - Se mettre au GL
   - Le bras est réglé pour GL
   - Avec l'écoute, chercher la larme
-  - Une fois celle-ci obtenu, le barreur doit agir pour la garder **sans acoups**
-  - Loffer si elle disparait
-  - Abattre si elle grossit
+  - Si elle disparait, choquer un peu jusqu'à réaparition
+  - Si elle grossit trop, border jusqu'à sa disparition
   07_securite:
   - Déplacement vers l'avant sous le vent
   - Personne debout dans le cockpit
@@ -39,11 +35,12 @@ seance:
     moins:
     - Le moniteur préviens de ce qui va se passer (larme va dispairaitre, ...)
     plus:
-    - Essayer à d'autres allures
+    - Essayer à d'autres allures (réglage bras!)
   09_meteo:
     moins:
     - Effectuer l'opération au largue
     - GV dans l'axe
+    - Marche arrière / mouillage à cul
     plus:
     - null
 tags: [Spi]

@@ -187,31 +187,37 @@ planning:
   jour_05:
     00_nom: Mercredi
     01_matin:
-    - topo/équilibres
-    - séance/barre attachée
-    - séance/N2/point
-    - séance/garder allure
-    - séance/surpuissance
+      - topo/équilibres
+      - séance/barre attachée
+      - séance/N2/point
+      - séance/garder allure
+      - séance/surpuissance
     02_aprèsmidi:
-    - chrono/empannage sous spi
-    - séance/N2/conduite sous spi
-    - séance/N2/empannage sous spi
-    - séance/N2/affalage spi en urgence
-    - séance/N2/estime
-    - séance/N2/virements relance
+      - chrono/empannage sous spi
+      - séance/N2/conduite sous spi
+      - séance/empannage sous spi
+      - séance/N2/affalage spi en urgence
+      - séance/N2/estime
+      - séance/N2/relance
     03_soir:
-    - topo/marées
-    - topo/cadre
+      - topo/marées
+      - topo/cadre
     04_conduite:
     - 2C1.3 Choquer ou border la voile pour compenser un déséquilibre
     - 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée
+    - 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
     - 4C2.1 Connaître les principes de l’aérodynamique et de l’hydrodynamique impliqués dans la propulsion et l’équilibre des navires à voiles
     05_manoeuvre:
-    - null
+    - 2M1.1 Virer de bord et empanner sans s’arrêter
+    - 3M2.3 Réaliser les manœuvres relatives au spinnaker
     06_navigation:
     - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
+    - 2N3.1 Connaître la dynamique des marées ou les éventuels mouvements d’eau en plans d’eau intérieurs
+    - 2N3.2 Constituer le référentiel de marées adapté au programme de navigation
+    - 2N3.3 Indiquer à tout moment la hauteur d’eau théorique
+    - 3N1.6 Entretenir son positionnement sans visibilité ou éloigné de la côte
     07_sécurité:
-    - null
+    - 3S2.1 Maitriser les manœuvres courantes de sécurité (homme à la mer, départs et arrivées dans des conditions difficiles, arrêt rapide)
     08_technologie:
     - null
     09_viemaritime:
@@ -255,7 +261,7 @@ planning:
     00_nom: Vendredi
     01_matin:
     - séance/rof
-    - séance/quick-stop
+    - séance/quick stop
     - rangement des affaires
     02_aprèsmidi:
     - nettoyage bateau
@@ -294,9 +300,9 @@ title: Prévisionnel stage embarqué 1 semaine
 # Conduite
 * X 2C1.1 Adapter l’ouverture de la voile à l’allure
 * X 2C1.2 Conserver une trajectoire fixe
-* 2C1.3 Choquer ou border la voile pour compenser un déséquilibre
-* 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée
-* **2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent**
+* X 2C1.3 Choquer ou border la voile pour compenser un déséquilibre
+* X 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée
+* X 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
 * X 2C1.6 Suivre un cap ou un alignement
 * X 2C1.7 Identifier son allure de navigation
 * X 2C1.8 Ralentir à toutes les allures en utilisant la barre ou l’ouverture des voiles
@@ -324,9 +330,9 @@ title: Prévisionnel stage embarqué 1 semaine
 * X 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
 * X 2N2.3 Reconnaître les signes de dégradation du temps à court terme
 * X 2N2.4 Connaître et observer les phénomènes locaux
-* **2N3.1 Connaître la dynamique des marées ou les éventuels mouvements d’eau en plans d’eau intérieurs**
-* **2N3.2 Constituer le référentiel de marées adapté au programme de navigation**
-* **2N3.3 Indiquer à tout moment la hauteur d’eau théorique**
+* X 2N3.1 Connaître la dynamique des marées ou les éventuels mouvements d’eau en plans d’eau intérieurs
+* X 2N3.2 Constituer le référentiel de marées adapté au programme de navigation
+* X 2N3.3 Indiquer à tout moment la hauteur d’eau théorique
 * X 2N4.1 Connaître les principales règles de route pour éviter les abordages
 * X 2N4.2 Identifier les routes de collision
 * X 2N4.3 Connaître l’usage des marques à arborer

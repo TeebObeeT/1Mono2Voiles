@@ -169,7 +169,7 @@ planning:
     - séance/N1/hissage affalage de spi
     - séance/N1/ajustages
     03_soir:
-    - topo/N1/cadre
+    - topo/cadre
     04_conduite:
     - 4C2.2 Ajustages
     05_manoeuvre:
@@ -219,9 +219,9 @@ planning:
   jour_07:
     00_nom: Vendredi
     01_matin:
-    - chrono/N1/empannage sous spi
+    - chrono/empannage sous spi
     - séance/N1/manipulation de tangon
-    - séance/N1/empannage sous spi
+    - séance/empannage sous spi
     02_aprèsmidi:
     - Rangement base
     - Nettoyage bateau
