@@ -206,6 +206,7 @@ planning:
     - 2C1.3 Choquer ou border la voile pour compenser un déséquilibre
     - 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée
     - 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
+    - 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage
     - 4C2.1 Connaître les principes de l’aérodynamique et de l’hydrodynamique impliqués dans la propulsion et l’équilibre des navires à voiles
     05_manoeuvre:
     - 2M1.1 Virer de bord et empanner sans s’arrêter
@@ -229,24 +230,28 @@ planning:
   jour_06:
     00_nom: Jeudi
     01_matin:
-    - topo/estime
-    - séance/préparation navigation
-    - séance/suivi de navigation
-    - séance/gagner vent
-    - séance/descendre vent
+      - topo/estime
+      - séance/préparation navigation
+      - séance/suivi de navigation
+      - séance/gagner vent
+      - séance/descendre vent
     02_aprèsmidi:
-    - chrono/N2/parcours évaluatif
-    - séance/N2/parcours evaluatif
-    - topo/sécurité de nuit
-    - topo/navigation de nuit
+      - chrono/N2/parcours évaluatif
+      - séance/N2/parcours evaluatif
+      - topo/sécurité de nuit
+      - topo/navigation de nuit
     03_soir:
-    - séance/navigation tardive
+      - séance/navigation tardive
     04_conduite:
-    - null
+    - 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
     05_manoeuvre:
     - null
     06_navigation:
-    - null
+    - 2N1.1 Repérer les dangers éventuels sur le parcours proposé
+    - 2N1.2 Participer à l’élaboration d’une route
+    - 2N1.3 Connaître et utiliser les documents nautiques du bord
+    - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
+    - 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
     07_sécurité:
     - null
     08_technologie:
@@ -307,7 +312,7 @@ title: Prévisionnel stage embarqué 1 semaine
 * X 2C1.7 Identifier son allure de navigation
 * X 2C1.8 Ralentir à toutes les allures en utilisant la barre ou l’ouverture des voiles
 * X 2C1.9 S’arrêter à partir de différentes allures
-* **2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage**
+* X 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage
 * X 2C3.1 Réguler la vitesse
 * X 2C3.2 Maintenir le navire en arrêt surface
 

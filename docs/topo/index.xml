@@ -1,20 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topos on 1 Mono 2 Voiles</title>
+    <title>Topo-rsses on 1 Mono 2 Voiles</title>
     <link>https://teebobeet.github.io/1Mono2Voiles/topo/index.xml</link>
-    <description>Recent content in Topos on 1 Mono 2 Voiles</description>
+    <description>Recent content in Topo-rsses on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 15 Mar 2017 16:27:54 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2017 12:03:02 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/topo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>estime</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/estime/</link>
+      <pubDate>Tue, 21 Mar 2017 12:03:02 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/estime/</guid>
+      <description>&lt;p&gt;Comment se positionner pendant une navigation sans amers ni GPS ?
+&lt;/p&gt;
+
+&lt;h1 id=&#34;estime&#34;&gt;Estime&lt;/h1&gt;
+
+&lt;h2 id=&#34;savoir-où-l-on-est&#34;&gt;Savoir où l&amp;rsquo;on est&lt;/h2&gt;
+
+&lt;p&gt;Faire le point avec précision tant que l&amp;rsquo;on peut&lt;/p&gt;
+
+&lt;h2 id=&#34;savoir-comment-l-on-se-déplace-sur-l-eau&#34;&gt;Savoir comment l&amp;rsquo;on se déplace sur l&amp;rsquo;eau&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cap (vrai)
+
+&lt;ol&gt;
+&lt;li&gt;Cap compas&lt;/li&gt;
+&lt;li&gt;Déviation (table de déviation spécifique au compas)&lt;/li&gt;
+&lt;li&gt;Déclinaison (visible sur la carte)&lt;/li&gt;
+&lt;li&gt;Dérive (en fonction de l&amp;rsquo;allure)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Distance parcourue (loch)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;savoir-comment-l-eau-se-déplace&#34;&gt;Savoir comment l&amp;rsquo;eau se déplace&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Courants (livre)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;construction&#34;&gt;Construction&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Construction vectorielle entre le déplacement du bateau et celui de l&amp;rsquo;eau, heure par heure &lt;em&gt;(par exemple)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;ndash; SCHEMA &amp;ndash;&lt;/p&gt;
+
+&lt;h1 id=&#34;estime-prédictive&#34;&gt;Estime prédictive&lt;/h1&gt;
+
+&lt;p&gt;Si l&amp;rsquo;on fait cela, on &amp;ldquo;subit&amp;rdquo; les courants&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution:&lt;/strong&gt; Appliquer les vecteurs courants au point d&amp;rsquo;arrivée souhaité
+&amp;ndash; SCHEMA &amp;ndash;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>accostage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/accostage.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/accostage/</link>
       <pubDate>Wed, 15 Mar 2017 16:27:54 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/accostage.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/accostage/</guid>
       <description>&lt;p&gt;Comment réaliser un accostage sur les différents types de places disponibles en fonction du vent.
 &lt;/p&gt;
 
@@ -49,10 +100,10 @@
     
     <item>
       <title>météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o/</link>
       <pubDate>Mon, 13 Mar 2017 14:20:30 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o/</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;météorolgie-générale&#34;&gt;Météorolgie générale&lt;/h1&gt;
@@ -145,10 +196,10 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
     
     <item>
       <title>prise de météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o/</link>
       <pubDate>Tue, 07 Mar 2017 11:24:02 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o/</guid>
       <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
 &lt;/p&gt;
 
@@ -418,10 +469,10 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
     
     <item>
       <title>documents</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/documents.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/documents/</link>
       <pubDate>Tue, 07 Mar 2017 11:15:32 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/documents.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/documents/</guid>
       <description>&lt;p&gt;Liste des documents obligatoires et recommandés en fonction de la navigation
 &lt;/p&gt;
 
@@ -480,10 +531,10 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
     
     <item>
       <title>amarrage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage/</link>
       <pubDate>Tue, 07 Mar 2017 11:02:18 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage/</guid>
       <description>&lt;p&gt;Comment bien amarrer un bateau selon la configuration du port.
 &lt;/p&gt;
 
@@ -531,10 +582,10 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
     
     <item>
       <title>déplacements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</link>
       <pubDate>Tue, 07 Mar 2017 10:07:39 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</guid>
       <description>&lt;p&gt;Comment doit on se (dé)placer sur un bateau dans les différentes situations et pourquoi.
 L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro hydro
 &lt;/p&gt;
@@ -572,10 +623,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>cadre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/cadre.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/cadre/</link>
       <pubDate>Wed, 11 Jan 2017 12:33:05 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/cadre.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/cadre/</guid>
       <description>&lt;p&gt;Aperçu de la notion de cadre, indispensable en régate mais avant tout très utile aussi pour savoir arriver où l&amp;rsquo;on veut dans un délai raisonnable.
 &lt;/p&gt;
 
@@ -636,10 +687,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>navigation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</link>
       <pubDate>Sun, 08 Jan 2017 14:36:04 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</guid>
       <description>&lt;p&gt;Introduction rapide à la carte marine, aux amers ainsi qu&amp;rsquo;aux principes de navigations&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -698,10 +749,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>privilèges</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</link>
       <pubDate>Fri, 06 Jan 2017 15:13:07 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</guid>
       <description>&lt;p&gt;Quelques informations basiques mais essentielles à savoir avant de partir en mer&amp;hellip;
 &lt;/p&gt;
 
@@ -764,10 +815,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>réglages ajustages</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/r%C3%A9glages-ajustages.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/r%C3%A9glages-ajustages/</link>
       <pubDate>Mon, 19 Dec 2016 15:18:19 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/r%C3%A9glages-ajustages.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/r%C3%A9glages-ajustages/</guid>
       <description>&lt;p&gt;Différences entre réglages et ajustages ainsi que les premières pistes pour optimiser ses voiles&amp;hellip;On parlera ici du cas de la navigation en finesse.&lt;/p&gt;
 
 &lt;p&gt;Il est également important de faire les réglages et les ajustages avec le même objectif (puissance ou cap ou compromis, mais pas certains ajustages en puissance et d&amp;rsquo;autres en cap), de &lt;strong&gt;garder une cohérence&lt;/strong&gt;&lt;/p&gt;
@@ -886,10 +937,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</link>
       <pubDate>Tue, 06 Dec 2016 15:09:59 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</guid>
       <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
 Egalement une explication générique sur les anticyclones/dépressions et effets de site.&lt;/p&gt;
 
@@ -1223,10 +1274,10 @@ Egalement une explication générique sur les anticyclones/dépressions et effet
     
     <item>
       <title>equilibres</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/%C3%A9quilibres.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/%C3%A9quilibres/</link>
       <pubDate>Mon, 05 Dec 2016 16:11:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/%C3%A9quilibres.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/%C3%A9quilibres/</guid>
       <description>&lt;p&gt;Il s&amp;rsquo;agit ici d&amp;rsquo;une introduction aux équilibres hydro/aéro qui font que le bateau avance, gîte, ne se retourne pas,&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -1304,10 +1355,10 @@ Egalement une explication générique sur les anticyclones/dépressions et effet
     
     <item>
       <title>marées</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es/</link>
       <pubDate>Mon, 05 Dec 2016 13:14:11 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es/</guid>
       <description>&lt;p&gt;Les marées sont présentes partout, en Manche, en Méditérannée, et même dans mon café!
 Petites explications sur le phénomène et brêve prise en main du calcul de marée.&lt;/p&gt;
 
@@ -1362,10 +1413,10 @@ Petites explications sur le phénomène et brêve prise en main du calcul de mar
     
     <item>
       <title>sécurité à terre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre/</link>
       <pubDate>Thu, 01 Dec 2016 13:12:27 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre/</guid>
       <description>&lt;p&gt;Lors d&amp;rsquo;un stage à terre, la sécurité est maximum, mais pour bien en profiter, il est important de connaître quelques règles de base&amp;hellip;
 &lt;/p&gt;
 
@@ -1415,248 +1466,6 @@ Si un doute sur le dépassement, ne pas hésiter à prévenir le moniteur&lt;/p&
 &lt;li&gt;Corne de brume&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;</description>
-    </item>
-    
-    <item>
-      <title>allures</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/allures.html</link>
-      <pubDate>Tue, 29 Nov 2016 18:14:05 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/allures.html</guid>
-      <description>&lt;p&gt;Présentation initiale sur les grandes familles d&amp;rsquo;allures et leurs particularités, avec introduction sur pourquoi le bateau avance et les différences entre écoulements laminaires et perturbés
-&lt;/p&gt;
-
-&lt;h1 id=&#34;différents-vents&#34;&gt;Différents vents&lt;/h1&gt;
-
-&lt;h2 id=&#34;définitions&#34;&gt;Définitions&lt;/h2&gt;
-
-&lt;p&gt;Le &lt;strong&gt;vent réel&lt;/strong&gt; est le vent que ressent une personne assise sur la plage ou que l&amp;rsquo;on ressent quand le bateau est à l&amp;rsquo;arrêt.&lt;/p&gt;
-
-&lt;p&gt;Le &lt;strong&gt;vent vitesse&lt;/strong&gt; est le vent ressenti lorsque par une journée sans vent, on se fait tracter pour sortir, ou bien, celui que l&amp;rsquo;on ressent à vélo quand il n&amp;rsquo;y a pas de vent.&lt;/p&gt;
-
-&lt;p&gt;Le &lt;strong&gt;vent apparent&lt;/strong&gt; est celui que l&amp;rsquo;équipage et le bateau ressentent lorsque celui-ci avance. Il est la somme vectorielle &lt;em&gt;(Chasles pour les collégiens)&lt;/em&gt; des deux autres.&lt;/p&gt;
-
-&lt;p&gt;&amp;mdash;&lt;strong&gt;SCHEMA&lt;/strong&gt;&amp;mdash;&lt;/p&gt;
-
-&lt;p&gt;On dit que le vent apparent (idem pour le vent réel) &lt;strong&gt;adonne&lt;/strong&gt; quand sans changer de cap, le bateau abat et s&amp;rsquo;éloigne donc du vent.&lt;/p&gt;
-
-&lt;p&gt;Quand sans changer de cap, le bateau lofe et se rapproche donc du vent, on dit que celui-ci &lt;strong&gt;refuse&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;influence-de-la-vitesse-sur-le-vent-apparent&#34;&gt;Influence de la vitesse sur le vent apparent&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Plus le bateau va aller vite &lt;em&gt;par rapport au vent réel&lt;/em&gt; et plus le vent apparent sera influencé par le vent vitesse, donc dans l&amp;rsquo;axe du bateau.&lt;em&gt;Le vent apparent va donc refuser&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;les-familles-d-allures&#34;&gt;Les familles d&amp;rsquo;allures&lt;/h1&gt;
-
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Les &lt;strong&gt;allures&lt;/strong&gt; sont définies par rapport au &lt;strong&gt;vent réel&lt;/strong&gt;! (surtout en salle)&lt;/li&gt;
-&lt;li&gt;Les &lt;strong&gt;réglages&lt;/strong&gt; sont font par rapport au &lt;strong&gt;vent apparent&lt;/strong&gt;! (toujours sur l&amp;rsquo;eau)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&amp;mdash;&lt;strong&gt;SCHEMA&lt;/strong&gt;&amp;mdash;&lt;/p&gt;
-
-&lt;h2 id=&#34;vent-arrière-si-déjà-abordé&#34;&gt;Vent Arrière (si déjà abordé)&lt;/h2&gt;
-
-&lt;h3 id=&#34;comment-le-remarque-t-on&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
-
-&lt;h4 id=&#34;visuel&#34;&gt;Visuel&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Le génois se dégonfle et n&amp;rsquo;arrive pas à rester derrière la GV.
-&amp;mdash;&lt;strong&gt;SCHEMA&lt;/strong&gt;&amp;mdash;&lt;/li&gt;
-&lt;li&gt;Le bateau va dans l&amp;rsquo;axe des rides sur l&amp;rsquo;eau.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;auditif&#34;&gt;Auditif&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Disparition du bruit du vent.&lt;/li&gt;
-&lt;li&gt;Bruit d&amp;rsquo;écoulement d&amp;rsquo;eau très lent.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;kinéstéthique&#34;&gt;Kinéstéthique&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bateau parfaitement à plat.&lt;/li&gt;
-&lt;li&gt;Aucun effort sur le safran.&lt;/li&gt;
-&lt;li&gt;Sensation de calme absolu.&lt;/li&gt;
-&lt;li&gt;Bateau &amp;ldquo;bouchon&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pourquoi-on-avance&#34;&gt;Pourquoi on avance&lt;/h3&gt;
-
-&lt;p&gt;Le vent nous pousse, il y a des tourbillons qui se créés autour de la voile.&lt;/p&gt;
-
-&lt;h3 id=&#34;qu-est-ce-qui-se-passe-si&#34;&gt;&lt;em&gt;Qu&amp;rsquo;est ce qui se passe si&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;le vent réel augmente?&lt;/em&gt; Le vent apparent augmente, on peut donc accélérer.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on accélère?&lt;/em&gt; Le vent apparent ralenti, on risque de ralentir.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on ralenti?&lt;/em&gt; Le vent apparent augmente.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;le vent réel diminue?&lt;/em&gt; Le vent apparent diminue, on risque de ralentir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;portant&#34;&gt;Portant&lt;/h2&gt;
-
-&lt;h3 id=&#34;comment-le-remarque-t-on-1&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
-
-&lt;h4 id=&#34;visuel-1&#34;&gt;Visuel&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Les voiles sont choquées en grand.&lt;/li&gt;
-&lt;li&gt;Les voiles sont gonflées.&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Les rides sur l&amp;rsquo;eau sont presque dans l&amp;rsquo;axe du bateau.&lt;/p&gt;
-
-&lt;h4 id=&#34;auditif-1&#34;&gt;Auditif&lt;/h4&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Bruit d&amp;rsquo;écoulement d&amp;rsquo;eau.&lt;/p&gt;
-
-&lt;h4 id=&#34;kinéstéthique-1&#34;&gt;Kinéstéthique&lt;/h4&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sensation de calme.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Légère gîte.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Le bateau est stable et &amp;ldquo;appuyé&amp;rdquo; &lt;em&gt;(si il y a du vent)&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pourquoi-on-avance-1&#34;&gt;Pourquoi on avance&lt;/h3&gt;
-
-&lt;p&gt;Le vent nous pousse, il y a des tourbillons qui se créés autour de la voile.&lt;/p&gt;
-
-&lt;h3 id=&#34;qu-est-ce-qui-se-passe-si-1&#34;&gt;&lt;em&gt;Qu&amp;rsquo;est ce qui se passe si&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;le vent réel augmente?&lt;/em&gt; Le vent apparent augmente et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on accélère?&lt;/em&gt; Le vent apparent ralenti et refuse.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on ralenti?&lt;/em&gt; Le vent apparent augmente et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;le vent réel diminue?&lt;/em&gt; Le vent apparent diminue et refuse.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;travers&#34;&gt;Travers&lt;/h2&gt;
-
-&lt;h3 id=&#34;comment-le-remarque-t-on-2&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
-
-&lt;h4 id=&#34;visuel-2&#34;&gt;Visuel&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Les ridules de l&amp;rsquo;eau sont perpendiculaires au bateau.&lt;/li&gt;
-&lt;li&gt;Les voiles faseyent si choquées.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;auditif-2&#34;&gt;Auditif&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Le bruit du vent réapparait.&lt;/li&gt;
-&lt;li&gt;Le bruit de l&amp;rsquo;eau s&amp;rsquo;atténue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;kinéstéthique-2&#34;&gt;Kinéstéthique&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Le bateau prend de la gîte.&lt;/li&gt;
-&lt;li&gt;On sent le vent derrière soit quand positionné au vent.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pourquoi-on-avance-2&#34;&gt;Pourquoi on avance&lt;/h3&gt;
-
-&lt;p&gt;Les voiles se comportent comme des ailes d&amp;rsquo;avion.
-&amp;mdash;&lt;strong&gt;SCHEMA&lt;/strong&gt;&amp;mdash;&lt;/p&gt;
-
-&lt;h3 id=&#34;qu-est-ce-qui-se-passe-si-2&#34;&gt;&lt;em&gt;Qu&amp;rsquo;est ce qui se passe si&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;le vent réel augmente?&lt;/em&gt; Le vent apparent augmente et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on accélère?&lt;/em&gt; Le vent apparent augmente et refuse.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on ralenti?&lt;/em&gt; Le vent apparent diminue  et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;le vent réel diminue?&lt;/em&gt; Le vent apparent diminue et refuse.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;près&#34;&gt;Près&lt;/h2&gt;
-
-&lt;h3 id=&#34;comment-le-remarque-t-on-3&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
-
-&lt;h4 id=&#34;visuel-3&#34;&gt;Visuel&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gîte.&lt;/li&gt;
-&lt;li&gt;Voiles bordées à fond.&lt;/li&gt;
-&lt;li&gt;Penons voile d&amp;rsquo;avant bordés.&lt;/li&gt;
-&lt;li&gt;Ridule de la mer par le travers avant du bateau.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;auditif-3&#34;&gt;Auditif&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vent très présent.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;kinéstéthique-3&#34;&gt;Kinéstéthique&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gîte.&lt;/li&gt;
-&lt;li&gt;Barre plus dure.&lt;/li&gt;
-&lt;li&gt;Les écoutes tirent fort si on les a en main.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pourquoi-on-avance-3&#34;&gt;Pourquoi on avance&lt;/h3&gt;
-
-&lt;p&gt;Les voiles se comportent comme des ailes d&amp;rsquo;avion.&lt;/p&gt;
-
-&lt;h3 id=&#34;qu-est-ce-qui-se-passe-si-3&#34;&gt;&lt;em&gt;Qu&amp;rsquo;est ce qui se passe si&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;le vent réel augmente?&lt;/em&gt; Le vent apparent augmente et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on accélère?&lt;/em&gt; Le vent apparent augmente et refuse.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on ralenti?&lt;/em&gt; Le vent apparent diminue  et adonne.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;le vent réel diminue?&lt;/em&gt; Le vent apparent diminue et refuse.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;bout-au-vent&#34;&gt;Bout au vent&lt;/h2&gt;
-
-&lt;h3 id=&#34;comment-le-remarque-t-on-4&#34;&gt;Comment le remarque-t-on&lt;/h3&gt;
-
-&lt;h4 id=&#34;visuel-4&#34;&gt;Visuel&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Voiles faseyent.&lt;/li&gt;
-&lt;li&gt;Voiles dans l&amp;rsquo;axe du bateau.&lt;/li&gt;
-&lt;li&gt;Ridules sur l&amp;rsquo;eau dans l&amp;rsquo;axe du bateau.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;auditif-4&#34;&gt;Auditif&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bruit des voiles.&lt;/li&gt;
-&lt;li&gt;Absence de bruits d&amp;rsquo;eau.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;kinéstéthique-4&#34;&gt;Kinéstéthique&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bateau à plat.&lt;/li&gt;
-&lt;li&gt;Barre molle et sans effet.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;pourquoi-on-avance-4&#34;&gt;Pourquoi on avance&lt;/h3&gt;
-
-&lt;p&gt;Facile, on recule parce que le vent nous pousse!&lt;/p&gt;
-
-&lt;h3 id=&#34;qu-est-ce-qui-se-passe-si-4&#34;&gt;&lt;em&gt;Qu&amp;rsquo;est ce qui se passe si&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;le vent réel augmente?&lt;/em&gt; Le vent apparent augmente.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on accélère?&lt;/em&gt; Le vent apparent augmente, on vient de mettre le moteur.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;on ralenti?&lt;/em&gt; On recule, vous dis-je!&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;le vent réel diminue?&lt;/em&gt; Le vent apparent diminue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;rajouter-les-allures-intermédiaires&#34;&gt;Rajouter les allures intermédiaires&lt;/h1&gt;</description>
     </item>
     
   </channel>

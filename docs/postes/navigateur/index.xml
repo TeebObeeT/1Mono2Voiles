@@ -1,64 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Navigateur on 1 Mono 2 Voiles</title>
+    <title>1 Mono 2 Voiles</title>
     <link>https://teebobeet.github.io/1Mono2Voiles/postes/navigateur/index.xml</link>
-    <description>Recent content in Navigateur on 1 Mono 2 Voiles</description>
+    <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/navigateur/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>suivi de navigation</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/suivi-de-navigation/</link>
+      <pubDate>Tue, 21 Mar 2017 14:44:41 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/suivi-de-navigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>préparation navigation</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A9paration-navigation/</link>
+      <pubDate>Tue, 21 Mar 2017 14:36:37 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A9paration-navigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>estime</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/estime.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/estime/</link>
       <pubDate>Mon, 20 Mar 2017 14:04:43 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/estime.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/estime/</guid>
       <description></description>
     </item>
     
     <item>
       <title>point</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point/</link>
       <pubDate>Fri, 17 Mar 2017 11:41:37 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calcul de route</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route/</link>
       <pubDate>Mon, 13 Mar 2017 13:37:33 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route/</guid>
       <description></description>
     </item>
     
     <item>
       <title>point rapide</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point-rapide.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point-rapide/</link>
       <pubDate>Mon, 13 Mar 2017 13:22:30 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point-rapide.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point-rapide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>calcul de cap</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap/</link>
       <pubDate>Mon, 06 Mar 2017 13:38:34 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>liaison carte paysage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage/</link>
       <pubDate>Mon, 06 Mar 2017 13:20:40 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage/</guid>
       <description></description>
     </item>
     
