@@ -47,7 +47,7 @@ seance:
     - Envoi de spi
     plus:
     - Réduire la voilure (ris)
-tags: []
+tags: [Evaluation]
 title: evaluation
 previsionnels:
   - Stage Terre N1

@@ -1,118 +1,127 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 Mono 2 Voiles</title>
+    <title>Gv on 1 Mono 2 Voiles</title>
     <link>https://teebobeet.github.io/1Mono2Voiles/postes/gv/index.xml</link>
-    <description>Recent content on 1 Mono 2 Voiles</description>
+    <description>Recent content in Gv on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/gv/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>parcours évaluatif</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/parcours-%C3%A9valuatif.html</link>
+      <pubDate>Wed, 22 Mar 2017 11:09:14 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/parcours-%C3%A9valuatif.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>relance</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/relance/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/relance.html</link>
       <pubDate>Mon, 20 Mar 2017 14:17:43 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/relance/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/relance.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>surpuissance</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/surpuissance/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/surpuissance.html</link>
       <pubDate>Fri, 17 Mar 2017 12:05:15 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/surpuissance/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/surpuissance.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>ajustages portant</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/ajustages-portant/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/ajustages-portant.html</link>
       <pubDate>Thu, 16 Mar 2017 10:07:52 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/ajustages-portant/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/ajustages-portant.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>ajustages près</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/ajustages-pr%C3%A8s/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/ajustages-pr%C3%A8s.html</link>
       <pubDate>Thu, 16 Mar 2017 09:52:53 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/ajustages-pr%C3%A8s/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/ajustages-pr%C3%A8s.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Réglage des voiles</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-voiles/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-voiles.html</link>
       <pubDate>Mon, 13 Mar 2017 13:58:54 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-voiles/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-voiles.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>allures</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures.html</link>
       <pubDate>Tue, 07 Mar 2017 10:42:09 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>evaluation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</link>
       <pubDate>Mon, 09 Jan 2017 13:58:50 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>banane</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</link>
       <pubDate>Mon, 09 Jan 2017 11:06:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>ajustages</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages.html</link>
       <pubDate>Sun, 08 Jan 2017 16:19:25 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>près</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s.html</link>
       <pubDate>Mon, 12 Dec 2016 17:55:23 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/pr%C3%A8s.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>vent arrière</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re.html</link>
       <pubDate>Sun, 04 Dec 2016 10:35:16 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/vent-arri%C3%A8re.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>empannage sous spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/empannage-sous-spi/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/empannage-sous-spi.html</link>
       <pubDate>Thu, 01 Dec 2016 15:19:14 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/empannage-sous-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/empannage-sous-spi.html</guid>
       <description>&lt;p&gt;L&amp;rsquo;empannage sous spi tangonné peut paraître difficile, ce n&amp;rsquo;est pas le cas. C&amp;rsquo;est une opération longue qui devient difficile si on doit l&amp;rsquo;effectuer rapidement et mal préparée.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -261,10 +270,10 @@
     
     <item>
       <title>cape</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/cape/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/cape.html</link>
       <pubDate>Thu, 01 Dec 2016 15:18:12 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/cape/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/cape.html</guid>
       <description>&lt;p&gt;La mise à la cape est une façon agréable de faire une pause sur l&amp;rsquo;eau, que ce soit pour résoudre des problèmes techniques, pour faire un petit débrief ou pour manger.&lt;/p&gt;
 
 &lt;p&gt;Elle peut se faire très rapidement et sert également de premier réflexe en cas d&amp;rsquo;homme ou d&amp;rsquo;objet à la mer.&lt;/p&gt;
@@ -320,10 +329,10 @@
     
     <item>
       <title>empannage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage.html</link>
       <pubDate>Thu, 01 Dec 2016 15:18:01 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage.html</guid>
       <description>&lt;p&gt;L&amp;rsquo;empannage est une manoeuvre standard sans grande difficulté mais avec des risques, il est donc important de bien le maîtriser pour naviguer en sécurité.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -453,120 +462,6 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</description>
-    </item>
-    
-    <item>
-      <title>récupération d&#39;objet flottant</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/rof/</link>
-      <pubDate>Thu, 01 Dec 2016 11:37:18 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/rof/</guid>
-      <description>&lt;p&gt;Cette manoeuvre est importante, peut servir à récupérer casquettes, lunettes, et tout ce qui flotte, mais elle peut aussi permettre de prendre un coffre.&lt;/p&gt;
-
-&lt;p&gt;De plus elle est un très bon exercice pour avoir des bons repères sur le plan d&amp;rsquo;eau et une bonne compréhension globale de la marche de son bateau.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Encore une fois, la communication est essentielle, c&amp;rsquo;est le barreur (ou chef de bord) qui donne le rythme.&lt;/p&gt;
-
-&lt;h2 id=&#34;préparation&#34;&gt;Préparation&lt;/h2&gt;
-
-&lt;p&gt;Cette manoeuvre ne se prépare pas, c&amp;rsquo;est aussi pour ça qu&amp;rsquo;il est important que le bateau soit toujours près à manoeuvrer!&lt;/p&gt;
-
-&lt;p&gt;Dès que l&amp;rsquo;objet tombe/est repéré, un pointeur le montre en permanence au barreur &lt;em&gt;(idéalement dans la descente, peu faire piano et/ou récuparateur par la suite)&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;exécution&#34;&gt;Exécution&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Un(e) xxx à la mer&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Prépare la drisse de foc pour pouvoir l&amp;rsquo;affaler vite&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;J&amp;rsquo;abats jusqu&amp;rsquo;au GL!&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GV+Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Choque les voiles&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;em&gt;Quelques longueurs (3 à 6) de bateau après être passé sous le vent de l&amp;rsquo;objet&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Je lofe&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GV+Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Borde les voiles&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;On vire&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Passe le foc&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Pointe l&amp;rsquo;objet pour passer légèrement au vent, vérifie qu&amp;rsquo;on avance en pointant&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Fait choquer la GV en grand pour vérifier qu&amp;rsquo;on peut s&amp;rsquo;arrêter*&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Fait affaler le foc&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Affale le foc&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Fait réguler la vitesse avec la GV pour arriver à l&amp;rsquo;arrêt sur l&amp;rsquo;objet (idéalement au vent pour que le bateau reste &amp;ldquo;scotché&amp;rdquo; dessus)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;* Si la GV porte, abattre en grand et repartir GL pendant 1 ou 2s et repointer&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Attention&lt;/strong&gt;&lt;/em&gt; : Le barreur ne doit en aucun cas empanner pendant ce moment de tension pour ne pas risquer le sur accident.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Attention&lt;/strong&gt;&lt;/em&gt; : C&amp;rsquo;est aussi vrai une fois que le bateau est quasi arrêté à côté de l&amp;rsquo;objet, le seul soucis du barreur à ce moment doit être de maintenir la GV faseyante&lt;/p&gt;
-
-&lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
-
-&lt;p&gt;Le bateau est arrêté, la GV faseye, il faut repartir sous GV seule rapidement, tout ranger, hisser le foc&amp;hellip;&lt;/p&gt;</description>
     </item>
     
   </channel>

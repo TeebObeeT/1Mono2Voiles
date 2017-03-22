@@ -1,20 +1,119 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topo-rsses on 1 Mono 2 Voiles</title>
+    <title>Topos on 1 Mono 2 Voiles</title>
     <link>https://teebobeet.github.io/1Mono2Voiles/topo/index.xml</link>
-    <description>Recent content in Topo-rsses on 1 Mono 2 Voiles</description>
+    <description>Recent content in Topos on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 21 Mar 2017 12:03:02 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2017 11:17:35 +0100</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/topo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>navigation de nuit</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation-de-nuit.html</link>
+      <pubDate>Wed, 22 Mar 2017 11:17:35 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation-de-nuit.html</guid>
+      <description>&lt;p&gt;Principes de base de la navigation de nuit
+&lt;/p&gt;
+
+&lt;h1 id=&#34;repères-disponibles&#34;&gt;Repères disponibles&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Moins que de jour&lt;/li&gt;
+&lt;li&gt;Visible de plus loin&lt;/li&gt;
+&lt;li&gt;Mieux codifiés
+
+&lt;ul&gt;
+&lt;li&gt;Explication du code en regardant la carte&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Pas toujours visible, plus dur à chercher
+
+&lt;ul&gt;
+&lt;li&gt;Chercher par secteur, se laisser le temps de la période du feu pour chercher&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;principes-de-navigation&#34;&gt;Principes de navigation&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Passer plus loin des dangers quand c&amp;rsquo;est possible&lt;/li&gt;
+&lt;li&gt;Eviter les zones avec des dangers sans feux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;atterissage&#34;&gt;Atterissage&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Moment le plus délicat
+
+&lt;ul&gt;
+&lt;li&gt;feux de la ville gênant la vue&lt;/li&gt;
+&lt;li&gt;risques liés à la proximité du port (casiers, digue,..)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;User et abuser des instructions nautiques
+
+&lt;ul&gt;
+&lt;li&gt;feux à secteur&lt;/li&gt;
+&lt;li&gt;alignement de feux&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Préparer son atterissage à l&amp;rsquo;avance (encore plus important que en temps normal)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;autres-règles-générales&#34;&gt;Autres règles générales&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intérieur du bateau éteint (lampe rouge)&lt;/li&gt;
+&lt;li&gt;Ne pas éblouir ses petits camarades&lt;/li&gt;
+&lt;li&gt;S&amp;rsquo;habiller chaudement&lt;/li&gt;
+&lt;li&gt;Respect des règles de sécurités (très difficile de retrouver un homme à la mer de nuit)&lt;/li&gt;
+&lt;li&gt;Boire chaud avant et ou pendant&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>sécurité de nuit</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-de-nuit.html</link>
+      <pubDate>Wed, 22 Mar 2017 11:17:24 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-de-nuit.html</guid>
+      <description>&lt;p&gt;Les règles essentielles de sécurité pour naviguer de nuit
+&lt;/p&gt;
+
+&lt;h1 id=&#34;sécurité-de-la-personne&#34;&gt;Sécurité de la personne&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lampe étanche sur soi pour si l&amp;rsquo;on tombe à l&amp;rsquo;eau&lt;/li&gt;
+&lt;li&gt;Toujours attaché, même dans le cockpit&lt;/li&gt;
+&lt;li&gt;Bien s&amp;rsquo;habiller (froid + fatigue font baisser la vigilance et augmenter les chances de mal de mer)&lt;/li&gt;
+&lt;li&gt;Déplacements en gardant une main pour soi (pont facilement glissant)&lt;/li&gt;
+&lt;li&gt;Pas d&amp;rsquo;alcool avant ou pendant la navigation de nuit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;sécurité-du-bateau&#34;&gt;Sécurité du bateau&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Préparer sa navigation&lt;/li&gt;
+&lt;li&gt;Observer les feux et signaler les feux mouvants (bateau)&lt;/li&gt;
+&lt;li&gt;Mettre les feux de navigation en marche&lt;/li&gt;
+&lt;li&gt;Surveiller vers l&amp;rsquo;avant les casiers et débris et les signaler avec une lampe au barreur&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;arrivée-au-port&#34;&gt;Arrivée au port&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Penser à se détacher avant la manoeuvre de port&lt;/li&gt;
+&lt;li&gt;Pas de lampe dans les yeux du barreur&lt;/li&gt;
+&lt;li&gt;Pontons glissant - pas de sauts!&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>estime</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/estime/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/estime.html</link>
       <pubDate>Tue, 21 Mar 2017 12:03:02 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/estime/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/estime.html</guid>
       <description>&lt;p&gt;Comment se positionner pendant une navigation sans amers ni GPS ?
 &lt;/p&gt;
 
@@ -62,10 +161,10 @@
     
     <item>
       <title>accostage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/accostage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/accostage.html</link>
       <pubDate>Wed, 15 Mar 2017 16:27:54 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/accostage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/accostage.html</guid>
       <description>&lt;p&gt;Comment réaliser un accostage sur les différents types de places disponibles en fonction du vent.
 &lt;/p&gt;
 
@@ -100,10 +199,10 @@
     
     <item>
       <title>météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o.html</link>
       <pubDate>Mon, 13 Mar 2017 14:20:30 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/m%C3%A9t%C3%A9o.html</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;météorolgie-générale&#34;&gt;Météorolgie générale&lt;/h1&gt;
@@ -196,10 +295,10 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
     
     <item>
       <title>prise de météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o.html</link>
       <pubDate>Tue, 07 Mar 2017 11:24:02 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o.html</guid>
       <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
 &lt;/p&gt;
 
@@ -469,10 +568,10 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
     
     <item>
       <title>documents</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/documents/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/documents.html</link>
       <pubDate>Tue, 07 Mar 2017 11:15:32 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/documents/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/documents.html</guid>
       <description>&lt;p&gt;Liste des documents obligatoires et recommandés en fonction de la navigation
 &lt;/p&gt;
 
@@ -531,10 +630,10 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
     
     <item>
       <title>amarrage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</link>
       <pubDate>Tue, 07 Mar 2017 11:02:18 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</guid>
       <description>&lt;p&gt;Comment bien amarrer un bateau selon la configuration du port.
 &lt;/p&gt;
 
@@ -582,10 +681,10 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
     
     <item>
       <title>déplacements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</link>
       <pubDate>Tue, 07 Mar 2017 10:07:39 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</guid>
       <description>&lt;p&gt;Comment doit on se (dé)placer sur un bateau dans les différentes situations et pourquoi.
 L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro hydro
 &lt;/p&gt;
@@ -623,10 +722,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>cadre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/cadre/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/cadre.html</link>
       <pubDate>Wed, 11 Jan 2017 12:33:05 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/cadre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/cadre.html</guid>
       <description>&lt;p&gt;Aperçu de la notion de cadre, indispensable en régate mais avant tout très utile aussi pour savoir arriver où l&amp;rsquo;on veut dans un délai raisonnable.
 &lt;/p&gt;
 
@@ -687,10 +786,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>navigation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation.html</link>
       <pubDate>Sun, 08 Jan 2017 14:36:04 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation.html</guid>
       <description>&lt;p&gt;Introduction rapide à la carte marine, aux amers ainsi qu&amp;rsquo;aux principes de navigations&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -749,10 +848,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>privilèges</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</link>
       <pubDate>Fri, 06 Jan 2017 15:13:07 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</guid>
       <description>&lt;p&gt;Quelques informations basiques mais essentielles à savoir avant de partir en mer&amp;hellip;
 &lt;/p&gt;
 
@@ -815,10 +914,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>réglages ajustages</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/r%C3%A9glages-ajustages/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/r%C3%A9glages-ajustages.html</link>
       <pubDate>Mon, 19 Dec 2016 15:18:19 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/r%C3%A9glages-ajustages/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/r%C3%A9glages-ajustages.html</guid>
       <description>&lt;p&gt;Différences entre réglages et ajustages ainsi que les premières pistes pour optimiser ses voiles&amp;hellip;On parlera ici du cas de la navigation en finesse.&lt;/p&gt;
 
 &lt;p&gt;Il est également important de faire les réglages et les ajustages avec le même objectif (puissance ou cap ou compromis, mais pas certains ajustages en puissance et d&amp;rsquo;autres en cap), de &lt;strong&gt;garder une cohérence&lt;/strong&gt;&lt;/p&gt;
@@ -937,10 +1036,10 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>météo</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</link>
       <pubDate>Tue, 06 Dec 2016 15:09:59 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/m%C3%A9t%C3%A9o.html</guid>
       <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
 Egalement une explication générique sur les anticyclones/dépressions et effets de site.&lt;/p&gt;
 
@@ -1274,10 +1373,10 @@ Egalement une explication générique sur les anticyclones/dépressions et effet
     
     <item>
       <title>equilibres</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/%C3%A9quilibres/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/%C3%A9quilibres.html</link>
       <pubDate>Mon, 05 Dec 2016 16:11:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/%C3%A9quilibres/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/%C3%A9quilibres.html</guid>
       <description>&lt;p&gt;Il s&amp;rsquo;agit ici d&amp;rsquo;une introduction aux équilibres hydro/aéro qui font que le bateau avance, gîte, ne se retourne pas,&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -1351,121 +1450,6 @@ Egalement une explication générique sur les anticyclones/dépressions et effet
 &lt;p&gt;Le couple anti-enfournement est crée par la différence entre le CdG et le centre de carène. Pour l&amp;rsquo;augmenter il faut reculer le CdG du bateau et le passer le plus à l&amp;rsquo;arrière possible.&lt;/p&gt;
 
 &lt;p&gt;=&amp;gt; Diminution de la surface mouillée&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>marées</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es/</link>
-      <pubDate>Mon, 05 Dec 2016 13:14:11 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/mar%C3%A9es/</guid>
-      <description>&lt;p&gt;Les marées sont présentes partout, en Manche, en Méditérannée, et même dans mon café!
-Petites explications sur le phénomène et brêve prise en main du calcul de marée.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;description-du-phénomène&#34;&gt;Description du phénomène&lt;/h1&gt;
-
-&lt;h2 id=&#34;marées&#34;&gt;Marées&lt;/h2&gt;
-
-&lt;h2 id=&#34;coefficient&#34;&gt;Coefficient&lt;/h2&gt;
-
-&lt;h1 id=&#34;origine-du-phénomène&#34;&gt;Origine du phénomène&lt;/h1&gt;
-
-&lt;h2 id=&#34;lune-cycle-des-heures&#34;&gt;Lune - Cycle des heures&lt;/h2&gt;
-
-&lt;h2 id=&#34;soleil-cycle-des-coefficients&#34;&gt;Soleil - Cycle des coefficients&lt;/h2&gt;
-
-&lt;h3 id=&#34;sizygie-dans-l-axe&#34;&gt;Sizygie : Dans l&amp;rsquo;axe&lt;/h3&gt;
-
-&lt;h3 id=&#34;quadrature-triangle-rectangle&#34;&gt;Quadrature : Triangle rectangle&lt;/h3&gt;
-
-&lt;h2 id=&#34;terre-rotation-coryolis&#34;&gt;Terre : Rotation (Coryolis)&lt;/h2&gt;
-
-&lt;h2 id=&#34;géographie-locale-tous-les-endroits-ne-sont-pas-synchronisés&#34;&gt;Géographie locale - Tous les endroits ne sont pas synchronisés&lt;/h2&gt;
-
-&lt;h1 id=&#34;sources-de-données&#34;&gt;Sources de données&lt;/h1&gt;
-
-&lt;h2 id=&#34;shom-seule-source-officielle&#34;&gt;SHOM - seule source officielle&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Service Hydrographique et Océanographique de la Marine&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Le SHOM utilise la formule harmonique depuis 1991 en remplacement de la formule de Laplace:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../img/topos/harmonique.png&#34; alt=&#34;Formule harmonique&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;L&amp;rsquo;information du SHOM est reprise à plusieurs endroits, mais attention aux apps de téléphones!&lt;/p&gt;
-
-&lt;h2 id=&#34;présentation-des-données&#34;&gt;Présentation des données&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../img/topos/ports.png&#34; alt=&#34;Horaires de marées&#34; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;calcul-de-marée&#34;&gt;Calcul de marée&lt;/h1&gt;
-
-&lt;h2 id=&#34;port-de-référence&#34;&gt;Port de référence&lt;/h2&gt;
-
-&lt;h2 id=&#34;courbe-sinusoidale&#34;&gt;Courbe sinusoidale&lt;/h2&gt;
-
-&lt;h2 id=&#34;droite-des-douzièmes&#34;&gt;Droite des douzièmes&lt;/h2&gt;
-
-&lt;h2 id=&#34;demi-cercle-anglais&#34;&gt;Demi-cercle anglais&lt;/h2&gt;</description>
-    </item>
-    
-    <item>
-      <title>sécurité à terre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre/</link>
-      <pubDate>Thu, 01 Dec 2016 13:12:27 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre/</guid>
-      <description>&lt;p&gt;Lors d&amp;rsquo;un stage à terre, la sécurité est maximum, mais pour bien en profiter, il est important de connaître quelques règles de base&amp;hellip;
-&lt;/p&gt;
-
-&lt;h1 id=&#34;périmètre-de-sécurité&#34;&gt;Périmètre de sécurité&lt;/h1&gt;
-
-&lt;h2 id=&#34;zone-sans-danger-fixe-ou-bien-connus&#34;&gt;Zone sans danger &amp;ldquo;fixe&amp;rdquo; (ou bien connus)&lt;/h2&gt;
-
-&lt;h2 id=&#34;zone-visible-du-quart&#34;&gt;Zone visible du quart&lt;/h2&gt;
-
-&lt;h1 id=&#34;eviter-les-problèmes&#34;&gt;Eviter les problèmes&lt;/h1&gt;
-
-&lt;h2 id=&#34;rester-dans-le-périmètre-de-sécurité&#34;&gt;Rester dans le périmètre de sécurité&lt;/h2&gt;
-
-&lt;p&gt;Présentation des alignements et dangers potentiels de la zone.
-Si un doute sur le dépassement, ne pas hésiter à prévenir le moniteur&lt;/p&gt;
-
-&lt;h2 id=&#34;faire-attention-aux-autres-navires&#34;&gt;Faire attention aux autres navires&lt;/h2&gt;
-
-&lt;p&gt;Beaucoup d&amp;rsquo;autres pratiquants, avec les contraintes liées à leur support &lt;em&gt;(le planchiste n&amp;rsquo;a pas les yeux dans le dos)&lt;/em&gt;
-&amp;ndash;&amp;gt; Veille 360° en permanence, en cas de doute, demander au moniteur&lt;/p&gt;
-
-&lt;h1 id=&#34;si-un-problème-arrive&#34;&gt;Si un problème arrive&amp;hellip;&lt;/h1&gt;
-
-&lt;p&gt;C&amp;rsquo;est au moniteur de le régler, si le moniteur ne peut pas le faire (malaise, HLM, &amp;hellip;), il faut:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Arrêter le bateau en restant en sécurité&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Cape&lt;/li&gt;
-&lt;li&gt;Face au vent&lt;/li&gt;
-&lt;li&gt;Mouillage&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Action immédiate pour améliorer la situation (?)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;En cas d&amp;rsquo;HLM, peut on lui lancer un bout ou la bouée pour avoir un contact physique?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Se signaler rapidement en direction du quart et des autres pratiquants&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Téléphone&lt;/li&gt;
-&lt;li&gt;Gestes&lt;/li&gt;
-&lt;li&gt;Affaler la voile d&amp;rsquo;avant&lt;/li&gt;
-&lt;li&gt;Corne de brume&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;</description>
     </item>
     
   </channel>

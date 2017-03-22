@@ -237,7 +237,7 @@ planning:
       - séance/descendre vent
     02_aprèsmidi:
       - chrono/N2/parcours évaluatif
-      - séance/N2/parcours evaluatif
+      - séance/N2/parcours évaluatif
       - topo/sécurité de nuit
       - topo/navigation de nuit
     03_soir:
@@ -253,7 +253,7 @@ planning:
     - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
     - 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
     07_sécurité:
-    - null
+    - 2S1.2 Se déplacer et agir en limitant les risques
     08_technologie:
     - null
     09_viemaritime:
@@ -345,7 +345,7 @@ title: Prévisionnel stage embarqué 1 semaine
 # Sécurité
 * X 2S1.1 Connaître les risques de l’activité
 * X 2S1.2 Se déplacer et agir en limitant les risques
-* 2S2.1 Se regrouper
+* X 2S2.1 Se regrouper
 * X 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
 * X 2S3.1 Signaler ses difficultés
 * X 2S3.2 Connaître l’utilisation de la VHF, du canal de sécurité et les numéros de téléphone dédiés aux secours maritimes
@@ -356,7 +356,7 @@ title: Prévisionnel stage embarqué 1 semaine
 * X 2T1.3 Utiliser les équipements nautiques et de vie à bord
 * X 2T2.1 Faire un inventaire quantitatif
 * X 2T2.2 Participer à la vérification des équipements
-* X 2T3.1 Réaliser la maintenance des cordages et des voiles**
+* X 2T3.1 Réaliser la maintenance des cordages et des voiles
 * X 2T3.2 Réaliser la maintenance de l’accastillage avec le moniteur
 * X 2T4.1 Participer aux réparations simples
 * X 2T4.2 Connaître les matériaux de construction d’un navire
@@ -366,7 +366,7 @@ title: Prévisionnel stage embarqué 1 semaine
 * X 2V1.2 Maintenir ses affaires personnelles rangées durant la navigation
 * X 2V2.1 Maintenir le navire rangé
 * X 2V2.2 Prendre en compte les contraintes dans l’élaboration des menus
-* 2V2.3 Connaître les impératifs de la gestion de l’eau et de l’énergie
+* X 2V2.3 Connaître les impératifs de la gestion de l’eau et de l’énergie
 * X 2V3.1 Adopter collectivement une attitude discrète, conforme aux usages
 * X 2V3.2 Connaître les termes usuels du vocabulaire marin
 

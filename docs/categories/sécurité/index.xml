@@ -1,37 +1,161 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 Mono 2 Voiles</title>
+    <title>Sécurité on 1 Mono 2 Voiles</title>
     <link>https://teebobeet.github.io/1Mono2Voiles/categories/s%C3%A9curit%C3%A9/index.xml</link>
-    <description>Recent content on 1 Mono 2 Voiles</description>
+    <description>Recent content in Sécurité on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/s%C3%A9curit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>sécurité de nuit</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-de-nuit.html</link>
+      <pubDate>Wed, 22 Mar 2017 11:17:24 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-de-nuit.html</guid>
+      <description>&lt;p&gt;Les règles essentielles de sécurité pour naviguer de nuit
+&lt;/p&gt;
+
+&lt;h1 id=&#34;sécurité-de-la-personne&#34;&gt;Sécurité de la personne&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lampe étanche sur soi pour si l&amp;rsquo;on tombe à l&amp;rsquo;eau&lt;/li&gt;
+&lt;li&gt;Toujours attaché, même dans le cockpit&lt;/li&gt;
+&lt;li&gt;Bien s&amp;rsquo;habiller (froid + fatigue font baisser la vigilance et augmenter les chances de mal de mer)&lt;/li&gt;
+&lt;li&gt;Déplacements en gardant une main pour soi (pont facilement glissant)&lt;/li&gt;
+&lt;li&gt;Pas d&amp;rsquo;alcool avant ou pendant la navigation de nuit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;sécurité-du-bateau&#34;&gt;Sécurité du bateau&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Préparer sa navigation&lt;/li&gt;
+&lt;li&gt;Observer les feux et signaler les feux mouvants (bateau)&lt;/li&gt;
+&lt;li&gt;Mettre les feux de navigation en marche&lt;/li&gt;
+&lt;li&gt;Surveiller vers l&amp;rsquo;avant les casiers et débris et les signaler avec une lampe au barreur&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;arrivée-au-port&#34;&gt;Arrivée au port&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Penser à se détacher avant la manoeuvre de port&lt;/li&gt;
+&lt;li&gt;Pas de lampe dans les yeux du barreur&lt;/li&gt;
+&lt;li&gt;Pontons glissant - pas de sauts!&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>parcours évaluatif</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/parcours-%C3%A9valuatif.html</link>
+      <pubDate>Wed, 22 Mar 2017 11:09:14 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/parcours-%C3%A9valuatif.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parcours évaluatif</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n2/parcours-%C3%A9valuatif.html</link>
+      <pubDate>Wed, 22 Mar 2017 10:40:08 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n2/parcours-%C3%A9valuatif.html</guid>
+      <description>&lt;p&gt;Evaluation des acquis pour la validation du Niveau-2.
+&lt;/p&gt;
+
+&lt;h2 id=&#34;acquis-à-valider&#34;&gt;Acquis à valider&lt;/h2&gt;
+
+&lt;h3 id=&#34;conduite&#34;&gt;Conduite&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[GV+Foc]&lt;/strong&gt; 2C1.1 Adapter l’ouverture de la voile à l’allure&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Barre]&lt;/strong&gt; 2C1.2 Conserver une trajectoire fixe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Barre]&lt;/strong&gt; 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Barre]&lt;/strong&gt; 2C1.6 Suivre un cap ou un alignement&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Barre]&lt;/strong&gt; 2C1.7 Identifier son allure de navigation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Barre + GV + Foc]&lt;/strong&gt; 2C1.9 S’arrêter à partir de différentes allures&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Barre]&lt;/strong&gt; 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Barre + GV + Foc]&lt;/strong&gt; 2C3.1 Réguler la vitesse&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;manoeuvre&#34;&gt;Manoeuvre&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[Barre + Foc]&lt;/strong&gt; 2M1.1 Virer de bord et empanner sans s’arrêter&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[N1]&lt;/strong&gt; 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[N1]&lt;/strong&gt; 2M2.2 Gréer et dégréer un spinnaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[N1 + Piano]&lt;/strong&gt; 2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;navigation&#34;&gt;Navigation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[Nav]&lt;/strong&gt; 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[GV]&lt;/strong&gt; 2N4.1 Connaître les principales règles de route pour éviter les abordages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[GV]&lt;/strong&gt; 2N4.2 Identifier les routes de collision&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;sécurité&#34;&gt;Sécurité&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[Tous]&lt;/strong&gt; 2S1.2 Se déplacer et agir en limitant les risques&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Tous]&lt;/strong&gt; 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Barre]&lt;/strong&gt; 2S3.2 Connaître l’utilisation de la VHF, du canal de sécurité et les numéros de téléphone dédiés aux secours maritimes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Plus un test personnel sur tout autre acquis qui semblerait incertain&lt;/p&gt;
+
+&lt;h2 id=&#34;parcours&#34;&gt;Parcours&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Parcours type &amp;lsquo;banane&amp;rsquo; avec un moins un point visuel au vent&lt;/li&gt;
+&lt;li&gt;Départ sous le vent du repère&lt;/li&gt;
+&lt;li&gt;Préparer le spi&lt;/li&gt;
+&lt;li&gt;Passer le repère&lt;/li&gt;
+&lt;li&gt;Cap pour descendre le vent donné par le moniteur&lt;/li&gt;
+&lt;li&gt;Envoi de spi&lt;/li&gt;
+&lt;li&gt;Affalage de spi&lt;/li&gt;
+&lt;li&gt;Nouveau cap&lt;/li&gt;
+&lt;li&gt;Bob&lt;/li&gt;
+&lt;li&gt;Point&lt;/li&gt;
+&lt;li&gt;Question sécurité&lt;/li&gt;
+&lt;li&gt;Changement&lt;/li&gt;
+&lt;li&gt;Replacement du bateau + rangements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;variations&#34;&gt;Variations&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Les questions de sécurité et navigation peuvent être posées n&amp;rsquo;importe quand&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Bob peut être fait à tout moment&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Changement de parcours sur un autre amer ou utiliser l&amp;rsquo;amer pour la descente et faire une remontée au cap ou à l&amp;rsquo;allure&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>affalage spi en urgence</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/affalage-spi-en-urgence/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/affalage-spi-en-urgence.html</link>
       <pubDate>Mon, 20 Mar 2017 10:55:45 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/affalage-spi-en-urgence/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/affalage-spi-en-urgence.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>quick stop</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/quick-stop/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/quick-stop.html</link>
       <pubDate>Wed, 15 Mar 2017 16:41:17 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/quick-stop/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/quick-stop.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>déplacements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</link>
       <pubDate>Tue, 07 Mar 2017 10:07:39 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</guid>
       <description>&lt;p&gt;Comment doit on se (dé)placer sur un bateau dans les différentes situations et pourquoi.
 L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro hydro
 &lt;/p&gt;
@@ -69,19 +193,19 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>evaluation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</link>
       <pubDate>Mon, 09 Jan 2017 13:58:50 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>privilèges</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</link>
       <pubDate>Fri, 06 Jan 2017 15:13:07 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</guid>
       <description>&lt;p&gt;Quelques informations basiques mais essentielles à savoir avant de partir en mer&amp;hellip;
 &lt;/p&gt;
 
@@ -144,19 +268,19 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>quick stop</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop.html</link>
       <pubDate>Thu, 05 Jan 2017 11:26:34 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>quick stop</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop.html</link>
       <pubDate>Wed, 04 Jan 2017 20:46:49 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/quick-stop.html</guid>
       <description>&lt;p&gt;La méthode quick stop, officiellement recommandée par l’ISAF, la Fédération Internationale de la Voile pour récupérer un homme à la mer est une méthode que tous les équipiers doivent connaître. Elle permet d&amp;rsquo;utiliser le moteur tout en gardant l&amp;rsquo;appui des voiles.
 &lt;/p&gt;
 
@@ -269,19 +393,19 @@ L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro 
     
     <item>
       <title>rof</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rof/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rof.html</link>
       <pubDate>Sun, 04 Dec 2016 10:15:07 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rof/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rof.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>sécurité à terre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre.html</link>
       <pubDate>Thu, 01 Dec 2016 13:12:27 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-%C3%A0-terre.html</guid>
       <description>&lt;p&gt;Lors d&amp;rsquo;un stage à terre, la sécurité est maximum, mais pour bien en profiter, il est important de connaître quelques règles de base&amp;hellip;
 &lt;/p&gt;
 
@@ -335,10 +459,10 @@ Si un doute sur le dépassement, ne pas hésiter à prévenir le moniteur&lt;/p&
     
     <item>
       <title>récupération d&#39;objet flottant</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/rof/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/rof.html</link>
       <pubDate>Thu, 01 Dec 2016 11:37:18 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/rof/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/rof.html</guid>
       <description>&lt;p&gt;Cette manoeuvre est importante, peut servir à récupérer casquettes, lunettes, et tout ce qui flotte, mais elle peut aussi permettre de prendre un coffre.&lt;/p&gt;
 
 &lt;p&gt;De plus elle est un très bon exercice pour avoir des bons repères sur le plan d&amp;rsquo;eau et une bonne compréhension globale de la marche de son bateau.&lt;/p&gt;
@@ -449,19 +573,19 @@ Si un doute sur le dépassement, ne pas hésiter à prévenir le moniteur&lt;/p&
     
     <item>
       <title>départ</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9part/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9part.html</link>
       <pubDate>Tue, 29 Nov 2016 12:06:20 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9part/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9part.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>déplacements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9placements/</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9placements.html</link>
       <pubDate>Mon, 28 Nov 2016 17:33:58 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9placements/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/d%C3%A9placements.html</guid>
       <description></description>
     </item>
     
