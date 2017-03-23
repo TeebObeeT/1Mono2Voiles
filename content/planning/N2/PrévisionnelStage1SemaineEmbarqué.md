@@ -64,7 +64,7 @@ planning:
     - topo/amarrage
     - topo/documents
     - topo/prise de météo
-    - Présentation des équipements du bord
+    - Equipements du bord
     04_conduite:
     - 2C1.1 Ouverture voile
     - 2C1.9 S’arrêter aux différentes allures
@@ -149,7 +149,7 @@ planning:
     - séance/N2/changement VA
     03_soir:
     - Bilan mi-stage
-    - Entretien et vérif bateau
+    - Entretien, vérif
     04_conduite:
     - 3C2.3 Régler le volume des voiles en statique
     05_manoeuvre:
