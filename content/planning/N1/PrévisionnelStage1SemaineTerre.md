@@ -170,6 +170,7 @@ planning:
     - séance/N1/ajustages
     03_soir:
     - topo/cadre
+    - environnement
     04_conduite:
     - 4C2.2 Ajustages
     05_manoeuvre:
