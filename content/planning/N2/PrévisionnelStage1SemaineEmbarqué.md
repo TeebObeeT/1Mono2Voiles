@@ -208,7 +208,7 @@ planning:
     09_viemaritime:
     - null
     10_environnement:
-    - null
+    - 1E*
     11_administratif:
     - null
   jour_06:
