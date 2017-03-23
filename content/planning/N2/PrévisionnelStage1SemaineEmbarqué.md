@@ -27,17 +27,16 @@ planning:
     05_manoeuvre:
     - null
     06_navigation:
-    - 2N1.1 Repérer les dangers éventuels sur le parcours proposé
+    - 2N1.1 Repérer les dangers sur le parcours
     07_sécurité:
     - 2S1.1 Connaître les risques de l’activité
     - 2S3.1 Signaler ses difficultés
     08_technologie:
     - 2T1.1 Réaliser aisément les nœuds marins courants
-    - 2T2.1 Faire un inventaire quantitatif
-    - 2T2.2 Participer à la vérification des équipements
+    - 2T2.1, 2T2.2 Faire un inventaire quantitatif + vérifs
     09_viemaritime:
-    - 2V2.2 Prendre en compte les contraintes dans l’élaboration des menus
-    - 2V2.3 Connaître les impératifs de la gestion de l’eau et de l’énergie
+    - 2V2.2 Menus
+    - 2V2.3 Gestion de l’eau et de l’énergie
     10_environnement:
     - null
     11_administratif:
@@ -67,30 +66,26 @@ planning:
     - topo/prise de météo
     - Présentation des équipements du bord
     04_conduite:
-    - 2C1.1 Adapter l’ouverture de la voile à l’allure
-    - 2C1.9 S’arrêter à partir de différentes allures
-    - 2C3.2 Maintenir le navire en arrêt surface
+    - 2C1.1 Ouverture voile
+    - 2C1.9 S’arrêter aux différentes allures
+    - 2C3.2 Arrêt surface
     05_manoeuvre:
-    - 2M1.1 Virer de bord et empanner sans s’arrêter
-    - 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
+    - 2M1.1 Virer, empanner sans s’arrêter
+    - 2M2.1 Adaptation de la surface
     - 2M3.1 Situer sa zone de départ
-    - 2M4.1 Appareiller et accoster une place de port
-    - 2M4.2 Amarrer efficacement le navire
+    - 2M4.1, 2M4.2 Appareiller et accoster, amarrer
     06_navigation:
-    - 2N1.3 Connaître et utiliser les documents nautiques du bord
-    - 2N2.1 Évaluer la force du vent et l’état de la mer
-    - 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
-    - 2N4.1 Connaître les principales règles de route pour éviter les abordages
-    - 2N4.2 Identifier les routes de collision
-    - 2N4.3 Connaître l’usage des marques à arborer
-    - 3N1.4 Mettre en relation le paysage rencontré avec la carte marine
+    - 2N1.3 Documents nautiques
+    - 2N2.1, 2N2.2 MTO
+    - 2N4.* Réglementation et droit
+    - 3N1.4 Liaison carte/paysage
     07_sécurité:
-    - 2S1.2 Se déplacer et agir en limitant les risques
+    - 2S1.2 Limiter les risques
     08_technologie:
-    - 2T1.3 Utiliser les équipements nautiques et de vie à bord
+    - 2T1.3 Equipements nautiques et de vie à bord
     09_viemaritime:
-    - 2V1.1 S’habiller en fonction des conditions de navigation présentes ou prévues
-    - 2V3.1 Adopter collectivement une attitude discrète, conforme aux usages
+    - 2V1.1 S’habiller
+    - 2V3.1 attitude discrète
     10_environnement:
     - null
     11_administratif:
@@ -117,22 +112,18 @@ planning:
     - topo/météo
     - topo/site
     04_conduite:
-    - 2C1.1 Adapter l’ouverture de la voile à l’allure
-    - 2C1.2 Conserver une trajectoire fixe
-    - 2C1.6 Suivre un cap ou un alignement
-    - 2C1.7 Identifier son allure de navigation
-    - 2C1.8 Ralentir à toutes les allures en utilisant la barre ou l’ouverture des voiles
-    - 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage
+    - 2C1.1, 2C1.2, 2C1.10 Suivre une direction et régler le bateau
+    - 2C1.7 Identifier son allure
+    - 2C1.8 Ralentir à toutes les allures
+    - 2C1.10 Conduire sous spi
     - 2C3.1 Réguler la vitesse
     05_manoeuvre:
-    - 2M2.2 Gréer et dégréer un spinnaker
-    - 2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible
-    - 2M3.2 Appareiller ou quitter un mouillage ou un coffre au moteur
+    - 2M2.2, 2M2.3 Gréer, dégréer, envoyer, affaler le spi
+    - 2M3.2 Mouillage
     06_navigation:
-    - 2N1.2 Participer à l’élaboration d’une route
-    - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
-    - 2N2.3 Reconnaître les signes de dégradation du temps à court terme
-    - 2N2.4 Connaître et observer les phénomènes locaux
+    - 2N1.2 Elaboration d’une route
+    - 2N1.4 Faire un point
+    - 2N2.3, 2N2.4 Le temps qu'il fait
     07_sécurité:
     - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
     08_technologie:
@@ -160,30 +151,26 @@ planning:
     - Bilan mi-stage
     - Entretien et vérif bateau
     04_conduite:
-    - 3C2.3 Régler le volume des voiles en statique (halebas, cunningham, bordure, lattes)
+    - 3C2.3 Régler le volume des voiles en statique
     05_manoeuvre:
-    - 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
+    - 2M2.1 Participer à l’adaptation de la surface
     - 2M4.1 Appareiller et accoster une place de port
     06_navigation:
     - null
     07_sécurité:
     - 2S2.1 Se regrouper
-    - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
-    - 2S3.1 Signaler ses difficultés
-    - 2S3.2 Connaître l’utilisation de la VHF, du canal de sécurité et les numéros de téléphone dédiés aux secours maritimes
+    - 2S2.2 Manœuvres courantes de sécurité
+    - 2S3.1, 2S3.2 Signaler ses difficultés(VHF, Téléphone)
     08_technologie:
     - 2T1.2 Lover et ranger les cordages
-    - 2T3.1 Réaliser la maintenance des cordages et des voiles
-    - 2T3.2 Réaliser la maintenance de l’accastillage avec le moniteur
-    - 2T4.1 Participer aux réparations simples
-    - 2T4.2 Connaître les matériaux de construction d’un navire
+    - 2T3.1, 2T3.2, 2T4.1 Maintenances
     09_viemaritime:
     - 2V2.1 Maintenir le navire rangé
-    - 2V3.2 Connaître les termes usuels du vocabulaire marin
+    - 2V3.2 Vocabulaire marin
     10_environnement:
     - null
     11_administratif:
-    - null
+    - Bilan mi-stage
   jour_05:
     00_nom: Mercredi
     01_matin:
@@ -203,22 +190,19 @@ planning:
       - topo/marées
       - topo/cadre
     04_conduite:
-    - 2C1.3 Choquer ou border la voile pour compenser un déséquilibre
-    - 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée
-    - 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
-    - 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage
-    - 4C2.1 Connaître les principes de l’aérodynamique et de l’hydrodynamique impliqués dans la propulsion et l’équilibre des navires à voiles
+    - 2C1.3 Compenser un déséquilibre
+    - 2C1.4, 2C1.5 Trajectoires
+    - 2C1.10 Conduire sous spi
+    - 4C2.1 Aéro-hydro
     05_manoeuvre:
-    - 2M1.1 Virer de bord et empanner sans s’arrêter
-    - 3M2.3 Réaliser les manœuvres relatives au spinnaker
+    - 2M1.1 Virer, empanner
+    - 3M2.3 Manœuvres de spi
     06_navigation:
-    - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
-    - 2N3.1 Connaître la dynamique des marées ou les éventuels mouvements d’eau en plans d’eau intérieurs
-    - 2N3.2 Constituer le référentiel de marées adapté au programme de navigation
-    - 2N3.3 Indiquer à tout moment la hauteur d’eau théorique
-    - 3N1.6 Entretenir son positionnement sans visibilité ou éloigné de la côte
+    - 2N1.4 Point
+    - 2N3.* Marées et courants
+    - 3N1.6 Estime
     07_sécurité:
-    - 3S2.1 Maitriser les manœuvres courantes de sécurité (homme à la mer, départs et arrivées dans des conditions difficiles, arrêt rapide)
+    - 3S2.1 Manœuvres courantes de sécurité
     08_technologie:
     - null
     09_viemaritime:
@@ -243,17 +227,16 @@ planning:
     03_soir:
       - séance/navigation tardive
     04_conduite:
-    - 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
+    - 2C1.5 trajectoires pour gagner au vent ou sous le vent
     05_manoeuvre:
     - null
     06_navigation:
-    - 2N1.1 Repérer les dangers éventuels sur le parcours proposé
-    - 2N1.2 Participer à l’élaboration d’une route
-    - 2N1.3 Connaître et utiliser les documents nautiques du bord
-    - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
-    - 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
+    - 2N1.1, 2N1.2 Elaboration d’une route
+    - 2N1.3 Documents nautiques
+    - 2N1.4 Point
+    - 2N2.2 Bulletin météorologique
     07_sécurité:
-    - 2S1.2 Se déplacer et agir en limitant les risques
+    - 2S1.2 Limiter les risques
     08_technologie:
     - null
     09_viemaritime:
@@ -265,16 +248,12 @@ planning:
   jour_07:
     00_nom: Vendredi
     01_matin:
-    - séance/rof
-    - séance/quick stop
-    - rangement des affaires
+      - séance/rof
+      - séance/quick stop
+      - rangement des affaires
     02_aprèsmidi:
-    - nettoyage bateau
-    - bilan de fin de stage
-    - bilans individuels
-    - retour cautions
-    - retour cirés
-    - bilan RTQ
+      - nettoyage bateau
+      - administratif
     03_soir:
     - null
     04_conduite:
@@ -292,7 +271,10 @@ planning:
     10_environnement:
     - null
     11_administratif:
-    - null
+    - bilan stage
+    - bilans indiv
+    - retour cirés
+    - bilan RTQ    
 prevision: true
 previsionnels:
 - stage embarqué N2
