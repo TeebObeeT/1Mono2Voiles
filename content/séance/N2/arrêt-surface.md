@@ -8,6 +8,7 @@ postes:
 - null
 previsionnels:
 - stage embarqué N2
+- Groupe embarqué 3j
 seance:
   00_prereq:
   - null

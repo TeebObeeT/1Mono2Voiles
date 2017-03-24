@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Niveau 1 on 1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1/index.xml</link>
-    <description>Recent content in Niveau 1 on 1 Mono 2 Voiles</description>
+    <title>Groupe Embarqué 3j on 1 Mono 2 Voiles</title>
+    <link>https://teebobeet.github.io/1Mono2Voiles/previsionnels/groupe-embarqu%C3%A9-3j/index.xml</link>
+    <description>Recent content in Groupe Embarqué 3j on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/previsionnels/groupe-embarqu%C3%A9-3j/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stage groupe 3j embarqué</title>
@@ -18,138 +18,79 @@
     </item>
     
     <item>
-      <title>Prévisionnel stage à terre 3 jours</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelStage3JoursTerre.html</link>
-      <pubDate>Tue, 21 Feb 2017 17:34:07 +0100</pubDate>
+      <title>déplacements</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</link>
+      <pubDate>Tue, 07 Mar 2017 10:07:39 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelStage3JoursTerre.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cadre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/cadre.html</link>
-      <pubDate>Wed, 11 Jan 2017 12:33:05 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/cadre.html</guid>
-      <description>&lt;p&gt;Aperçu de la notion de cadre, indispensable en régate mais avant tout très utile aussi pour savoir arriver où l&amp;rsquo;on veut dans un délai raisonnable.
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</guid>
+      <description>&lt;p&gt;Comment doit on se (dé)placer sur un bateau dans les différentes situations et pourquoi.
+L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro hydro
 &lt;/p&gt;
 
-&lt;h1 id=&#34;objectif-au-vent&#34;&gt;Objectif au vent&lt;/h1&gt;
+&lt;h1 id=&#34;règle-générale&#34;&gt;Règle générale&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Ligne droite possible?&lt;/li&gt;
-&lt;li&gt;Sinon, tirer des bords&lt;/li&gt;
-&lt;li&gt;Que se passe-t-il si on dépasse le compromis idéal (plus abattu)&lt;/li&gt;
-&lt;li&gt;Si le vent devient défavorable (il refuse) ?&lt;/li&gt;
-&lt;li&gt;Si le vent devient favorable (il adonne) ?&lt;/li&gt;
-&lt;li&gt;Quand doit on virer de bord au plus tard&lt;/li&gt;
-&lt;li&gt;Avantages et inconvénients de 1 virements vs plusieurs&lt;/li&gt;
+&lt;li&gt;Identifier le danger prépondérant&lt;/li&gt;
+&lt;li&gt;Ne pas se retrouver sur le trajet d&amp;rsquo;un élément du bateau susceptible de bouger rapidement&lt;/li&gt;
+&lt;li&gt;Garder une main pour soi en déplacement&lt;/li&gt;
+&lt;li&gt;Ne jamais hésiter à s&amp;rsquo;attacher, même sans consigne spécifique&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;objectif-sous-le-vent&#34;&gt;Objectif sous le vent&lt;/h1&gt;
+&lt;h1 id=&#34;près&#34;&gt;Près&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Ligne droite toujours possible&lt;/li&gt;
-&lt;li&gt;Compromis cap/vitesse implique souvent de faire du grand largue
-
-&lt;ul&gt;
-&lt;li&gt;Plus de sécurité&lt;/li&gt;
-&lt;li&gt;Plus de confort&lt;/li&gt;
-&lt;li&gt;Plus de vitesse&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Risque principal? GV choquée (volontairement ou non)&lt;/li&gt;
+&lt;li&gt;Trajet au vent (partie haute du bateau, en plus c&amp;rsquo;est plus simple)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;mdash;SCHEMA&amp;mdash;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Rappel des vecteurs vents vitesse/réel/apparent&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;portant&#34;&gt;Portant&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Il faut tirer des bords de GL&lt;/li&gt;
-&lt;li&gt;Quand doit on empanner ?&lt;/li&gt;
-&lt;li&gt;Avantages et inconvénients de 1 empannage vs plusieurs&lt;/li&gt;
+&lt;li&gt;Risque principal? Empannage sauvage&lt;/li&gt;
+&lt;li&gt;Trajet sous le vent (se glisser sous la bôme, pas facile)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;application-sur-une-banane-régate&#34;&gt;Application sur une banane (régate)&lt;/h1&gt;
+&lt;h1 id=&#34;sous-spi&#34;&gt;Sous spi&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Dessiner le cadre&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Donner les repères par rapport aux bouées&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Penser à l&amp;rsquo;envoi de spi&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;application-en-croisière&#34;&gt;Application en croisière&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Se réserver un couloir pour ne pas partir trop loin si le vent tourne&lt;/li&gt;
-&lt;li&gt;Penser aux sautes de vents probables dûes au relief&lt;/li&gt;
-&lt;li&gt;Anticiper en fonction de la météo&lt;/li&gt;
-&lt;li&gt;Penser aux marées/courants&lt;/li&gt;
+&lt;li&gt;Risque principal? Tangon&lt;/li&gt;
+&lt;li&gt;Toujours au vent du tangon&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
     <item>
-      <title>manipulation de tangon</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/manipulation-de-tangon.html</link>
-      <pubDate>Tue, 10 Jan 2017 16:48:43 +0100</pubDate>
+      <title>arrêt surface</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface.html</link>
+      <pubDate>Tue, 07 Mar 2017 09:54:57 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/manipulation-de-tangon.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>empannage sous spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi.html</link>
-      <pubDate>Tue, 10 Jan 2017 15:25:57 +0100</pubDate>
+      <title>calcul de cap</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap.html</link>
+      <pubDate>Mon, 06 Mar 2017 13:38:34 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>promenade</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade.html</link>
-      <pubDate>Tue, 10 Jan 2017 09:04:51 +0100</pubDate>
+      <title>liaison carte paysage</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage.html</link>
+      <pubDate>Mon, 06 Mar 2017 13:20:40 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>evaluation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</link>
-      <pubDate>Mon, 09 Jan 2017 13:58:50 +0100</pubDate>
+      <title>départ habitable</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable.html</link>
+      <pubDate>Mon, 06 Mar 2017 12:46:09 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>prise de coffre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre.html</link>
-      <pubDate>Mon, 09 Jan 2017 11:21:00 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>banane</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</link>
-      <pubDate>Mon, 09 Jan 2017 11:06:55 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ajustages</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages.html</link>
-      <pubDate>Sun, 08 Jan 2017 16:19:25 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable.html</guid>
       <description></description>
     </item>
     
@@ -279,33 +220,6 @@
 &lt;ul&gt;
 &lt;li&gt;En dernier recours le navire dit « privilégié » a le devoir d&amp;rsquo;éviter la collision par tous les moyens qui lui sont possibles, si le navire « non privilégié » n&amp;rsquo;applique pas les règles&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>hissage affalage de spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi.html</link>
-      <pubDate>Fri, 06 Jan 2017 14:43:43 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gréer le spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9er-le-spi.html</link>
-      <pubDate>Thu, 05 Jan 2017 13:34:47 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9er-le-spi.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quick stop</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop.html</link>
-      <pubDate>Thu, 05 Jan 2017 11:26:34 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/quick-stop.html</guid>
-      <description></description>
     </item>
     
   </channel>

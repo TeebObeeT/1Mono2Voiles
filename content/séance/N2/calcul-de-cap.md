@@ -42,6 +42,7 @@ seance:
     - Réduction de voilure si nécessaire
 previsionnels:
 - stage embarqué N2
+- Groupe embarqué 3j
 tags: []
 title: calcul de cap
 ---

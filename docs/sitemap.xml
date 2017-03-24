@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/planning/Pr%C3%A9visionnelGroupe3jEmbarqu%C3%A9.html</loc>
+    <lastmod>2017-03-23T17:20:58+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/navigation-tardive.html</loc>
     <lastmod>2017-03-22T11:17:49+01:00</lastmod>
   </url>
@@ -529,7 +534,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/</loc>
-    <lastmod>2017-03-22T11:17:49+01:00</lastmod>
+    <lastmod>2017-03-23T17:20:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -617,6 +622,12 @@
   </url>
   
   <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/previsionnels/groupe-embarqu%C3%A9-3j</loc>
+    <lastmod>2017-03-23T17:20:58+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/tags/gr%C3%A9er</loc>
     <lastmod>2017-03-09T10:09:55+01:00</lastmod>
     <priority>0</priority>
@@ -660,13 +671,13 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1</loc>
-    <lastmod>2017-02-21T17:34:07+01:00</lastmod>
+    <lastmod>2017-03-23T17:20:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-2</loc>
-    <lastmod>2017-03-22T11:17:49+01:00</lastmod>
+    <lastmod>2017-03-23T17:20:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -707,7 +718,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/planning</loc>
-    <lastmod>2017-03-02T16:58:48+01:00</lastmod>
+    <lastmod>2017-03-23T17:20:58+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -746,14 +757,14 @@
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/tags/spi</loc>
-    <lastmod>2017-03-20T10:55:45+01:00</lastmod>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/postes/spi</loc>
+    <lastmod>2017-03-22T11:09:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://teebobeet.github.io/1Mono2Voiles/postes/spi</loc>
-    <lastmod>2017-03-22T11:09:14+01:00</lastmod>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/tags/spi</loc>
+    <lastmod>2017-03-20T10:55:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   

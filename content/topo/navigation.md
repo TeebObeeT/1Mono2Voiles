@@ -1,6 +1,6 @@
 ---
 author: Teebo
-categories: []
+categories: [Navigation]
 date: 2017-01-08T14:36:04+01:00
 niveaux:
 - Niveau-1
@@ -10,6 +10,7 @@ title: navigation
 previsionnels:
   - Stage Terre N1
   - stage embarqué N2
+  - Groupe embarqué 3j
 ---
 
 Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navigations
