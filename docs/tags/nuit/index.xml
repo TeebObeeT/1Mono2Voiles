@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/tags/nuit.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/tags/nuit/index.xml</link>
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/tags/nuit.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/tags/nuit/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>navigation tardive</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/navigation-tardive.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/navigation-tardive/</link>
       <pubDate>Wed, 22 Mar 2017 11:17:49 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/navigation-tardive.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/navigation-tardive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>navigation de nuit</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation-de-nuit.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation-de-nuit/</link>
       <pubDate>Wed, 22 Mar 2017 11:17:35 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation-de-nuit.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation-de-nuit/</guid>
       <description>&lt;p&gt;Principes de base de la navigation de nuit
 &lt;/p&gt;
 
@@ -81,10 +81,10 @@
     
     <item>
       <title>sécurité de nuit</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-de-nuit.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-de-nuit/</link>
       <pubDate>Wed, 22 Mar 2017 11:17:24 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-de-nuit.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-de-nuit/</guid>
       <description>&lt;p&gt;Les règles essentielles de sécurité pour naviguer de nuit
 &lt;/p&gt;
 
