@@ -364,12 +364,36 @@
 
 &lt;h2 id=&#34;exécution-1&#34;&gt;Exécution&lt;/h2&gt;
 
-&lt;p&gt;|
-&amp;mdash;&amp;mdash;|&amp;mdash;&amp;mdash;-
-&lt;strong&gt;Numéro 1&lt;/strong&gt; |Hisse la chaine &lt;em&gt;(&amp;lsquo;A pic!&amp;rsquo;)&lt;/em&gt;
-&lt;strong&gt;Barre&lt;/strong&gt; |Aide doucement avec le moteur &lt;em&gt;(facultatif)&lt;/em&gt;
-&lt;strong&gt;Equipage&lt;/strong&gt; |Borde la GV
-&lt;strong&gt;Barre&lt;/strong&gt; |Abat et dégage la zone&lt;/p&gt;</description>
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Hisse la chaine &lt;em&gt;(&amp;lsquo;A pic!&amp;rsquo;)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Aide doucement avec le moteur &lt;em&gt;(facultatif)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Borde la GV&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Abat et dégage la zone&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
     
     <item>

@@ -14,7 +14,6 @@ previsionnels:
 ---
 
 Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navigations
-
 <!--more-->
 
 # La carte marine

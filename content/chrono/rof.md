@@ -24,11 +24,9 @@ previsionnels:
 Cette manoeuvre est importante, peut servir à récupérer casquettes, lunettes, et tout ce qui flotte, mais elle peut aussi permettre de prendre un coffre.
 
 De plus elle est un très bon exercice pour avoir des bons repères sur le plan d'eau et une bonne compréhension globale de la marche de son bateau.
-
 <!--more-->
 
 Encore une fois, la communication est essentielle, c'est le barreur (ou chef de bord) qui donne le rythme.
-
 
 ## Préparation
 Cette manoeuvre ne se prépare pas, c'est aussi pour ça qu'il est important que le bateau soit toujours près à manoeuvrer!

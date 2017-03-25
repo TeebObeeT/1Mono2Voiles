@@ -47,7 +47,7 @@ Comment s'y prendre pour faire un mouillage réussi
 **Equipage** |Hissage GV
 
 ## Exécution
-|
+ |
 ------|-------
 **Numéro 1** |Hisse la chaine _('A pic!')_
 **Barre** |Aide doucement avec le moteur _(facultatif)_
