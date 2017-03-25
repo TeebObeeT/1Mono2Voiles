@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 Mono 2 Voiles</title>
+    <link>https://teebobeet.github.io/1Mono2Voiles/categories/environnement/index.xml</link>
+    <description>Recent content on 1 Mono 2 Voiles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/environnement/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>environnement à Marseillan</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/environnement-%C3%A0-Marseillan/</link>
+      <pubDate>Sat, 25 Mar 2017 16:21:13 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/environnement-%C3%A0-Marseillan/</guid>
+      <description>&lt;p&gt;Informations de base sur l&amp;rsquo;environnement aux alentour de la base avec les connaissances référencées dans le niveau 1
+&lt;/p&gt;
+
+&lt;h1 id=&#34;oiseaux&#34;&gt;Oiseaux&lt;/h1&gt;
+
+&lt;h2 id=&#34;critères-de-reconnaissance&#34;&gt;Critères de reconnaissance&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Couleurs
+
+&lt;ol&gt;
+&lt;li&gt;Du corps&lt;/li&gt;
+&lt;li&gt;Des pattes&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Taille&lt;/li&gt;
+&lt;li&gt;Pattes et bec
+&lt;a href=&#34;./references/becs et pattes.pdf&#34;&gt;Becs et pattes&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
