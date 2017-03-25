@@ -67,7 +67,7 @@ Informations de base sur l'environnement aux alentour de la base avec les connai
 * Espèce protégée en France (pas touche!)
 
 # Mammifères marins
-Au large de Sète, il est possible d'apercevoir parfois quelques dauphins
+Au large de Sète, il est possible d'apercevoir parfois quelques dauphins.
 
 * [Dauphin bleu et blanc](https://fr.wikipedia.org/wiki/Dauphin_bleu_et_blanc) : La plus commune et la plus largement répartie
   * A vague
