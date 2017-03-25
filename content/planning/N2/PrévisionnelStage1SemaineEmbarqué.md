@@ -267,7 +267,7 @@ planning:
     08_technologie:
     - null
     09_viemaritime:
-    - null
+    - 1V2.1 Participer aux tâches collectives
     10_environnement:
     - null
     11_administratif:

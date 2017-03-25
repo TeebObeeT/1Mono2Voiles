@@ -1,6 +1,6 @@
 ---
 author: Teebo
-categories: []
+categories: [Conduite]
 date: 2016-11-29T13:06:57+01:00
 niveaux:
 - Niveau-1
@@ -53,4 +53,5 @@ previsionnels:
   - Stage Terre N1
   - Stage Terre N1 3J
   - stage embarqué N2
+  - Groupe embarqué 3j
 ---

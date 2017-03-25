@@ -9,6 +9,7 @@ tags: [Changement amure,Portant]
 previsionnels:
   - Stage Terre N1
   - stage embarqué N2
+  - Groupe embarqué 3j
 postes:
 - Barre
 - GV

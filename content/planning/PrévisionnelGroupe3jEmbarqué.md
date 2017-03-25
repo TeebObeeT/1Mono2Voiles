@@ -61,11 +61,13 @@ planning:
       - séance/arrêt
       - séance/N2/allures
       - séance/mouillage
+      - topo/allures
     02_aprèsmidi:
       - chrono/virement
       - séance/virements
-      - chrono/hissage de spi
+      - chrono/N1/empannage
       - séance/empannages
+      - chrono/hissage de spi
       - séance/N2/gréer le spi
       - séance/N2/envoi de spi
       - séance/N2/réglage de spi
@@ -75,15 +77,29 @@ planning:
       - topo/prise de météo
       - Equipements du bord
     04_conduite:
-    - null
+    - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
+    - 1C1.3 Utiliser la voile pour ralentir
+    - 1C1.4 Utiliser la barre pour ralentir
+    - 2C1.1 Adapter l’ouverture de la voile à l’allure
+    - 2C1.9 S’arrêter à partir de différentes allures
+    - 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage
     05_manoeuvre:
-    - null
+    - 1M1.1 Utiliser la barre pour changer d’amure
+    - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
+    - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
+    - 2M1.1 Virer de bord et empanner sans s’arrêter
+    - 1M2.1 Identifier les dispositifs de réduction de voilure
+    - 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
+    - 2M2.3 Participer à l’envoi et à l’affalage du spinnaker par vent faible
+    - 2M3.2 Appareiller ou quitter un mouillage ou un coffre au moteur
+    - 2M4.2 Amarrer efficacement le navire
     06_navigation:
-    - null
+    - 2N2.1 Évaluer la force du vent et l’état de la mer
+    - 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
     07_sécurité:
-    - null
+    - 1S1.2 Savoir utiliser les winches en sécurité
     08_technologie:
-    - null
+    - 2T1.3 Utiliser les équipements nautiques et de vie à bord
     09_viemaritime:
     - null
     10_environnement:
@@ -95,10 +111,9 @@ planning:
     01_matin:
       - chrono/rof
       - séance/rof
-      - séance/N2/point rapide
+      - séance/N2/point
       - séance/N2/calcul route
       - séance/N2/cap
-      - topo/allures
       - séance/N2/réglage voiles
     02_aprèsmidi:
       - nettoyage bateau
@@ -106,17 +121,23 @@ planning:
     03_soir:
     - null
     04_conduite:
-    - null
+    - 2C1.1 Adapter l’ouverture de la voile à l’allure
+    - 2C1.2 Conserver une trajectoire fixe
+    - 2C1.6 Suivre un cap ou un alignement
+    - 2C3.1 Réguler la vitesse
     05_manoeuvre:
     - null
     06_navigation:
-    - null
+    - 2N1.1 Repérer les dangers éventuels sur le parcours proposé
+    - 2N1.2 Participer à l’élaboration d’une route
+    - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
     07_sécurité:
-    - null
+    - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
+    - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
     08_technologie:
     - null
     09_viemaritime:
-    - null
+    - 1V2.1 Participer aux tâches collectives
     10_environnement:
     - null
     11_administratif:

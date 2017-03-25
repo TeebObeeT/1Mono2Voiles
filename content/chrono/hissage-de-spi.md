@@ -11,6 +11,7 @@ postes:
 - Foc
 previsionnels:
 - stage embarqué N2
+- Groupe embarqué 3j
 tags: [Gréer, Spi]
 title: hissage de spi
 ---

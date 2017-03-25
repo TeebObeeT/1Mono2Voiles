@@ -17,6 +17,7 @@ previsionnels:
   - Stage Terre N1
   - Stage Terre N1 3J
   - stage embarqué N2
+  - Groupe embarqué 3j
 ---
 La prise de ris est une manoeuvre de sécurité indispensable et qui doit pouvoir être fait rapidement et dans le calme...Mais il faut bien annoncer haut et fort ce que l'on a fait pour que l'équipage se synchronize.
 <!--more-->

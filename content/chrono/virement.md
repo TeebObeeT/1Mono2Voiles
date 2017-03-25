@@ -14,6 +14,7 @@ previsionnels:
   - Stage Terre N1
   - Stage Terre N1 3J
   - stage embarqué N2
+  - Groupe embarqué 3j
 ---
 Le virement de bord réussi permet de passer d'une amure à l'autre tout en gagnant au vent. Il permet, bien maîtrisé, de remonter efficacement au vent en toute situation.
 Il s'agit ici de la première approche, ce virement simplifié ne conviendra pas par grosse houle ou mer formée.

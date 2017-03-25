@@ -6,6 +6,7 @@ niveaux:
 - Niveau-2
 previsionnels:
 - stage embarqué N2
+- Groupe embarqué 3j
 tags: []
 title: prise de météo
 ---

@@ -9,6 +9,7 @@ postes:
 - Piano
 previsionnels:
 - stage embarqué N2
+- Groupe embarqué 3j
 seance:
   00_prereq:
   - Gréer le spi

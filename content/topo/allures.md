@@ -10,6 +10,7 @@ previsionnels:
   - Stage Terre N1
   - Stage Terre N1 3J
   - stage embarqué N2
+  - Groupe embarqué 3j
 ---
 Présentation initiale sur les grandes familles d'allures et leurs particularités, avec introduction sur pourquoi le bateau avance et les différences entre écoulements laminaires et perturbés
 <!--more-->

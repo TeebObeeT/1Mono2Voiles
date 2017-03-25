@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Groupe Embarqué 3j on 1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/previsionnels/groupe-embarqu%C3%A9-3j/index.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/previsionnels/groupe-embarqu%C3%A9-3j.xml</link>
     <description>Recent content in Groupe Embarqué 3j on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/previsionnels/groupe-embarqu%C3%A9-3j/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/previsionnels/groupe-embarqu%C3%A9-3j.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stage groupe 3j embarqué</title>
@@ -18,208 +18,744 @@
     </item>
     
     <item>
-      <title>déplacements</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</link>
-      <pubDate>Tue, 07 Mar 2017 10:07:39 +0100</pubDate>
+      <title>point</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point.html</link>
+      <pubDate>Fri, 17 Mar 2017 11:41:37 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/d%C3%A9placements.html</guid>
-      <description>&lt;p&gt;Comment doit on se (dé)placer sur un bateau dans les différentes situations et pourquoi.
-L&amp;rsquo;accent est mis ici sur la sécurité, pas sur les équilibres aéro hydro
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/point.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Réglage des voiles</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-voiles.html</link>
+      <pubDate>Mon, 13 Mar 2017 13:58:54 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-voiles.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suivre un cap</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/cap.html</link>
+      <pubDate>Mon, 13 Mar 2017 13:48:52 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/cap.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcul de route</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route.html</link>
+      <pubDate>Mon, 13 Mar 2017 13:37:33 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-route.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mouillage</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/mouillage.html</link>
+      <pubDate>Thu, 09 Mar 2017 10:36:24 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/mouillage.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>réglage de spi</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-de-spi.html</link>
+      <pubDate>Thu, 09 Mar 2017 10:23:52 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/r%C3%A9glage-de-spi.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>envoi de spi</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/envoi-de-spi.html</link>
+      <pubDate>Thu, 09 Mar 2017 10:15:06 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/envoi-de-spi.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gréer le spi</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/gr%C3%A9er-le-spi.html</link>
+      <pubDate>Thu, 09 Mar 2017 10:09:55 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/gr%C3%A9er-le-spi.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hissage de spi</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/hissage-de-spi.html</link>
+      <pubDate>Thu, 09 Mar 2017 10:01:17 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/hissage-de-spi.html</guid>
+      <description>&lt;p&gt;Chronologie pour un envoi de spi avec tangon
 &lt;/p&gt;
 
-&lt;h1 id=&#34;règle-générale&#34;&gt;Règle générale&lt;/h1&gt;
+&lt;h2 id=&#34;préparation&#34;&gt;Préparation&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Identifier le danger prépondérant&lt;/li&gt;
-&lt;li&gt;Ne pas se retrouver sur le trajet d&amp;rsquo;un élément du bateau susceptible de bouger rapidement&lt;/li&gt;
-&lt;li&gt;Garder une main pour soi en déplacement&lt;/li&gt;
-&lt;li&gt;Ne jamais hésiter à s&amp;rsquo;attacher, même sans consigne spécifique&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;h1 id=&#34;près&#34;&gt;Près&lt;/h1&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;S&amp;rsquo;assure que le spi est correctement gréer, les écoutes et la drisse passant bien à l&amp;rsquo;extérieur &lt;em&gt;(attention à l&amp;rsquo;étai pour la drisse!)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Risque principal? GV choquée (volontairement ou non)&lt;/li&gt;
-&lt;li&gt;Trajet au vent (partie haute du bateau, en plus c&amp;rsquo;est plus simple)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Attache les 3 points aux points du spi et ouvre le sac&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;h1 id=&#34;portant&#34;&gt;Portant&lt;/h1&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Hisse le tangon&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Risque principal? Empannage sauvage&lt;/li&gt;
-&lt;li&gt;Trajet sous le vent (se glisser sous la bôme, pas facile)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Bras&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Préréglage du bras &lt;em&gt;(presque perpendiculaire à l&amp;rsquo;axe du bateau)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;h1 id=&#34;sous-spi&#34;&gt;Sous spi&lt;/h1&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Reprend le hale-bas&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Risque principal? Tangon&lt;/li&gt;
-&lt;li&gt;Toujours au vent du tangon&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Se met grand largue&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;exécution&#34;&gt;Exécution&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Chef de bord&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Parés à hisser?&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Parés!&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Hisse au pied de mât: &amp;ldquo;Ca hisse!&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Reprend le mou de la drisse au fur et à mesure&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Quand la drisse bloque de manière sèche : &amp;ldquo;En tête&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Borde le spi&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Reprend le mou et blogue bien le taquet&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Lofe un peu pour gonfler le spi&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Affale le foc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Piano&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Bien ranger la drisse pour pouvoir la laisser filer rapidement&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;S&amp;rsquo;assurer que les écoutes de spi peuvent filer rapidement&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Bien ranger les écoutes de foc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
     
     <item>
-      <title>arrêt surface</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface.html</link>
-      <pubDate>Tue, 07 Mar 2017 09:54:57 +0100</pubDate>
+      <title>mouillage</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/mouillage.html</link>
+      <pubDate>Thu, 09 Mar 2017 09:44:22 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/arr%C3%AAt-surface.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>calcul de cap</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap.html</link>
-      <pubDate>Mon, 06 Mar 2017 13:38:34 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/calcul-de-cap.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>liaison carte paysage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage.html</link>
-      <pubDate>Mon, 06 Mar 2017 13:20:40 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/liaison-carte-paysage.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>départ habitable</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable.html</link>
-      <pubDate>Mon, 06 Mar 2017 12:46:09 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/d%C3%A9part-habitable.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>navigation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation.html</link>
-      <pubDate>Sun, 08 Jan 2017 14:36:04 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation.html</guid>
-      <description>&lt;p&gt;Introduction rapide à la carte marine, aux amers ainsi qu&amp;rsquo;aux principes de navigations&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;la-carte-marine&#34;&gt;La carte marine&lt;/h1&gt;
-
-&lt;h2 id=&#34;couleurs-et-significations&#34;&gt;Couleurs et significations&lt;/h2&gt;
-
-&lt;h2 id=&#34;lignes-isobates-et-utilité&#34;&gt;Lignes isobates et utilité&lt;/h2&gt;
-
-&lt;h3 id=&#34;utilisation-en-méditérranée&#34;&gt;Utilisation en méditérranée&lt;/h3&gt;
-
-&lt;h3 id=&#34;utilisation-en-manche-atlantique&#34;&gt;Utilisation en manche/atlantique&lt;/h3&gt;
-
-&lt;h1 id=&#34;amers&#34;&gt;Amers&lt;/h1&gt;
-
-&lt;h2 id=&#34;naturels&#34;&gt;Naturels&lt;/h2&gt;
-
-&lt;h2 id=&#34;construits&#34;&gt;Construits&lt;/h2&gt;
-
-&lt;h2 id=&#34;de-navigation&#34;&gt;De navigation&lt;/h2&gt;
-
-&lt;h3 id=&#34;cardinaux&#34;&gt;Cardinaux&lt;/h3&gt;
-
-&lt;h3 id=&#34;de-chenaux&#34;&gt;De chenaux&lt;/h3&gt;
-
-&lt;h3 id=&#34;autres&#34;&gt;Autres&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Eau saine&lt;/li&gt;
-&lt;li&gt;Marque spéciale&lt;/li&gt;
-&lt;li&gt;Danger isolé&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;navigation&#34;&gt;Navigation&lt;/h1&gt;
-
-&lt;h2 id=&#34;principe-1-savoir-où-l-on-est&#34;&gt;Principe 1: Savoir où l&amp;rsquo;on est&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Faire le point&lt;/li&gt;
-&lt;li&gt;Plus important de savoir où l&amp;rsquo;on n&amp;rsquo;est pas (cailloux, côte, &amp;hellip;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;savoir-où-l-on-va&#34;&gt;Savoir où l&amp;rsquo;on va&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Trouver un cap&lt;/li&gt;
-&lt;li&gt;Corriger un cap
-
-&lt;ul&gt;
-&lt;li&gt;Déclinaison&lt;/li&gt;
-&lt;li&gt;Dérive (attention à la direction du vent)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>privilèges</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</link>
-      <pubDate>Fri, 06 Jan 2017 15:13:07 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/privil%C3%A8ges.html</guid>
-      <description>&lt;p&gt;Quelques informations basiques mais essentielles à savoir avant de partir en mer&amp;hellip;
+      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/mouillage.html</guid>
+      <description>&lt;p&gt;Comment s&amp;rsquo;y prendre pour faire un mouillage réussi
 &lt;/p&gt;
 
-&lt;h1 id=&#34;notions-générales&#34;&gt;Notions générales&lt;/h1&gt;
+&lt;h1 id=&#34;arrivée&#34;&gt;Arrivée&lt;/h1&gt;
 
-&lt;h2 id=&#34;ripam&#34;&gt;RIPAM&lt;/h2&gt;
+&lt;h2 id=&#34;préparation&#34;&gt;Préparation&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Chef de bord&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Décision sur le lieu&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Prépare la longueur de chaine &lt;em&gt;(3x la hauteur d&amp;rsquo;eau max)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Réduction de la voilure&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Mise en marche du moteur &lt;em&gt;(facultatif)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;exécution&#34;&gt;Exécution&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;S&amp;rsquo;approcher du mouillage à une allure proche du vent debout&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Bateau face au vent jusqu&amp;rsquo;à l&amp;rsquo;arrêt&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Numéro 1&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Laisser filer la chaîne en controlant avec le pied&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Marche arrière GV ou moteur &lt;em&gt;(facultatif)&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Vérifier zone d&amp;rsquo;évitement&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Pendre un gisement et surveiller&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;départ&#34;&gt;Départ&lt;/h1&gt;
+
+&lt;h2 id=&#34;préparation-1&#34;&gt;Préparation&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Mise en marche du moteur&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Hissage GV&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;exécution-1&#34;&gt;Exécution&lt;/h2&gt;
+
+&lt;p&gt;|
+&amp;mdash;&amp;mdash;|&amp;mdash;&amp;mdash;-
+&lt;strong&gt;Numéro 1&lt;/strong&gt; |Hisse la chaine &lt;em&gt;(&amp;lsquo;A pic!&amp;rsquo;)&lt;/em&gt;
+&lt;strong&gt;Barre&lt;/strong&gt; |Aide doucement avec le moteur &lt;em&gt;(facultatif)&lt;/em&gt;
+&lt;strong&gt;Equipage&lt;/strong&gt; |Borde la GV
+&lt;strong&gt;Barre&lt;/strong&gt; |Abat et dégage la zone&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>prise de météo</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o.html</link>
+      <pubDate>Tue, 07 Mar 2017 11:24:02 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/prise-de-m%C3%A9t%C3%A9o.html</guid>
+      <description>&lt;p&gt;Présentation générale du bulletin météo et décomposition des informations présentées.
+&lt;/p&gt;
+
+&lt;h1 id=&#34;bulletin-météo&#34;&gt;Bulletin météo&lt;/h1&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;h3 id=&#34;echelle-beaufort&#34;&gt;Echelle Beaufort&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Force&lt;/th&gt;
+&lt;th&gt;Appellation&lt;/th&gt;
+&lt;th&gt;Vitesse du vent&lt;/th&gt;
+&lt;th&gt;Etat de la mer&lt;/th&gt;
+&lt;th&gt;Effets à terre&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;calme&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1N&lt;/td&gt;
+&lt;td&gt;Mer d&amp;rsquo;huile, miroir&lt;/td&gt;
+&lt;td&gt;La fumée monte droit&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;très légère brise&lt;/td&gt;
+&lt;td&gt;1 à 3N&lt;/td&gt;
+&lt;td&gt;Mer ridée&lt;/td&gt;
+&lt;td&gt;La fumée indique la direction du vent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;légère brise&lt;/td&gt;
+&lt;td&gt;4 à 6N&lt;/td&gt;
+&lt;td&gt;Vaguelettes&lt;/td&gt;
+&lt;td&gt;On sent le vent au visage&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;petite brise&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;7 à 10N&lt;/td&gt;
+&lt;td&gt;Petits moutons&lt;/td&gt;
+&lt;td&gt;Les drapeaux flottent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;jolie brise&lt;/td&gt;
+&lt;td&gt;11 à 16N&lt;/td&gt;
+&lt;td&gt;Nombreux moutons&lt;/td&gt;
+&lt;td&gt;Le sable s&amp;rsquo;envole&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;bonne brise&lt;/td&gt;
+&lt;td&gt;17 à 21N&lt;/td&gt;
+&lt;td&gt;Vagues, embruns&lt;/td&gt;
+&lt;td&gt;Les branches des pins s&amp;rsquo;agitent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;vent frais&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;22 à 27N&lt;/td&gt;
+&lt;td&gt;Lames, crêtes d&amp;rsquo;écume étendues&lt;/td&gt;
+&lt;td&gt;Les fils électriques sifflent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;7&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;grand frais&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;28 à 33N&lt;/td&gt;
+&lt;td&gt;Lames déferlantes&lt;/td&gt;
+&lt;td&gt;On peine à marcher contre le vent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;coup de vent&lt;/td&gt;
+&lt;td&gt;34 à 40N&lt;/td&gt;
+&lt;td&gt;Les crêtes des vagues partent en tourbillon d&amp;rsquo;écume&lt;/td&gt;
+&lt;td&gt;On ne marche plus contre le vent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;fort coup de vent&lt;/td&gt;
+&lt;td&gt;41 à 47N&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;10&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;tempête&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;48 à 55N&lt;/td&gt;
+&lt;td&gt;Les embruns obscurcissent la vue, on ne voit plus rien&lt;/td&gt;
+&lt;td&gt;Les enfants de moins de 12 ans volent&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;violente tempête&lt;/td&gt;
+&lt;td&gt;56 à 63N&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;ouragan&lt;/td&gt;
+&lt;td&gt;64N et plus&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;echelle-douglas&#34;&gt;Echelle Douglas&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Force&lt;/th&gt;
+&lt;th&gt;Descriptif&lt;/th&gt;
+&lt;th&gt;Hauteur en mètres&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;calme&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;ridée&lt;/td&gt;
+&lt;td&gt;0 à 0,1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;belle&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;0,1 à 0,5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;peu agitée&lt;/td&gt;
+&lt;td&gt;0,5 à 1,25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;agitée&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1,25 à 2,5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;forte&lt;/td&gt;
+&lt;td&gt;2,5 à 4&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;très forte&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;4 à 6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;grosse&lt;/td&gt;
+&lt;td&gt;6 à 9&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;très grosse&lt;/td&gt;
+&lt;td&gt;9 à 14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;énorme&lt;/td&gt;
+&lt;td&gt;14 et plus&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;situation-générale-et-évolution&#34;&gt;Situation générale et évolution&lt;/h2&gt;
+
+&lt;h3 id=&#34;bulletin-météorologique-spécial&#34;&gt;Bulletin Météorologique Spécial&lt;/h3&gt;
+
+&lt;p&gt;A partir de force 7.&lt;/p&gt;
+
+&lt;p&gt;Notifications, significations.&lt;/p&gt;
+
+&lt;h2 id=&#34;observations&#34;&gt;Observations&lt;/h2&gt;
+
+&lt;p&gt;Cela permet de situer le point de départ géographique et météorologique des prévisions.&lt;/p&gt;
+
+&lt;h2 id=&#34;prévisions&#34;&gt;Prévisions&lt;/h2&gt;
+
+&lt;h3 id=&#34;vent&#34;&gt;Vent&lt;/h3&gt;
+
+&lt;p&gt;Exprimé en beaufort, attention aux rafales&lt;/p&gt;
+
+&lt;h3 id=&#34;mer&#34;&gt;Mer&lt;/h3&gt;
+
+&lt;p&gt;Voir l&amp;rsquo;échelle Douglas&lt;/p&gt;
+
+&lt;h3 id=&#34;houle&#34;&gt;Houle&lt;/h3&gt;
+
+&lt;p&gt;Origine de la houle au large, selon zone, annonciatrice du vent à venir&lt;/p&gt;
+
+&lt;h3 id=&#34;temps&#34;&gt;Temps&lt;/h3&gt;
+
+&lt;p&gt;Bulletin &amp;ldquo;traditionnel&amp;rdquo;&lt;/p&gt;
+
+&lt;h3 id=&#34;visibilité&#34;&gt;Visibilité&lt;/h3&gt;
+
+&lt;p&gt;Il s&amp;rsquo;agit de visibilité horizontale (&lt;em&gt;pas oblique ou verticale&lt;/em&gt;). C&amp;rsquo;est une visibilité théorique si il y avait assez de lumière (&lt;em&gt;pour la nuit&lt;/em&gt;)&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Qualification&lt;/th&gt;
+&lt;th&gt;Distance (en milles marins)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Bonne&lt;/td&gt;
+&lt;td&gt;supérieure à 5 milles marins&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Médiocre&lt;/td&gt;
+&lt;td&gt;entre 2 et 5 milles marins&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mauvaise&lt;/td&gt;
+&lt;td&gt;entre 0,5 et 2 milles marins&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Brouillard&lt;/td&gt;
+&lt;td&gt;inférieure à 0,5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    
+    <item>
+      <title>documents</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/documents.html</link>
+      <pubDate>Tue, 07 Mar 2017 11:15:32 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/documents.html</guid>
+      <description>&lt;p&gt;Liste des documents obligatoires et recommandés en fonction de la navigation
+&lt;/p&gt;
+
+&lt;p&gt;Les documents marqués d&amp;rsquo;* sont disponibles dans l&amp;rsquo;almanach du marin breton et le bloc marine par exemple.&lt;/p&gt;
+
+&lt;h1 id=&#34;moins-de-2-milles&#34;&gt;Moins de 2 milles&lt;/h1&gt;
+
+&lt;h2 id=&#34;recommandés&#34;&gt;Recommandés&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Le &amp;ldquo;code de la route de la mer&amp;rdquo; est défini par le RIPAM (&lt;strong&gt;R&lt;/strong&gt;èglement &lt;strong&gt;I&lt;/strong&gt;nternational pour  &lt;strong&gt;P&lt;/strong&gt;révenir des &lt;strong&gt;A&lt;/strong&gt;bordages en &lt;strong&gt;M&lt;/strong&gt;er)&lt;/li&gt;
+&lt;li&gt;Carte papier&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;privilèges&#34;&gt;Privilèges&lt;/h2&gt;
+&lt;h1 id=&#34;entre-2-et-6-milles&#34;&gt;Entre 2 et 6 milles&lt;/h1&gt;
+
+&lt;h2 id=&#34;obligatoires&#34;&gt;Obligatoires&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Il ne contient pas de priorités mais des privilèges, il est interdit d&amp;rsquo;être idiot, on doit tous tout faire pour éviter les abordages&lt;/li&gt;
-&lt;li&gt;En dernier recours le navire dit « privilégié » a le devoir d&amp;rsquo;éviter la collision par tous les moyens qui lui sont possibles, si le navire « non privilégié » n&amp;rsquo;applique pas les règles&lt;/li&gt;
+&lt;li&gt;Règlement international pour prévenir les abordages en mer *&lt;/li&gt;
+&lt;li&gt;Cartes papier ou électroniques&lt;/li&gt;
+&lt;li&gt;Document sur le système de balisage&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;règles-applicables-à-tous&#34;&gt;Règles applicables à tous&lt;/h1&gt;
+&lt;h2 id=&#34;recommandés-1&#34;&gt;Recommandés&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Veille permanente&lt;/li&gt;
-&lt;li&gt;Vitesse adaptée&lt;/li&gt;
-&lt;li&gt;Evaluation du risque d&amp;rsquo;abordage&lt;/li&gt;
+&lt;li&gt;Cartes papier&lt;/li&gt;
+&lt;li&gt;Livre des feux*&lt;/li&gt;
+&lt;li&gt;Instructions nautiques*&lt;/li&gt;
+&lt;li&gt;Annuaire des marées*&lt;/li&gt;
+&lt;li&gt;Livre de bord&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;identification-de-jour-pour-nos-bateaux&#34;&gt;Identification de jour pour nos bateaux&lt;/h1&gt;
+&lt;h1 id=&#34;hauturière&#34;&gt;Hauturière&lt;/h1&gt;
+
+&lt;h2 id=&#34;obligatoires-1&#34;&gt;Obligatoires&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Moteur: cone pointe en bas&lt;/li&gt;
-&lt;li&gt;Boule: Mouillage&lt;/li&gt;
+&lt;li&gt;Règlement international pour prévenir les abordages en mer*&lt;/li&gt;
+&lt;li&gt;Cartes papier ou électroniques&lt;/li&gt;
+&lt;li&gt;Document sur le système de balisage&lt;/li&gt;
+&lt;li&gt;Annuaire des marées*&lt;/li&gt;
+&lt;li&gt;Livre des feux*&lt;/li&gt;
+&lt;li&gt;Livre de bord&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;règles-dîtes-de-barre-simplifiées&#34;&gt;Règles dîtes &amp;ldquo;de barre&amp;rdquo; &lt;strong&gt;simplifiées&lt;/strong&gt;&lt;/h1&gt;
-
-&lt;h2 id=&#34;entre-voiliers-et-autres-usagers&#34;&gt;Entre voiliers et autres usagers&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Les voiliers de plaisance navigant à la voile sont privilégiés par rapport aux plaisanciers à moteur&lt;/li&gt;
-&lt;li&gt;Un voilier navigant au moteur est considéré comme un bateau moteur&lt;/li&gt;
-&lt;li&gt;Un voilier navigant au moteur et à la voile est considéré comme un bateau moteur&lt;/li&gt;
-&lt;li&gt;Les bateaux &amp;ldquo;travaillant&amp;rdquo; sont privilégiés par rapport à un voilier (pêcheurs, cargo, ferry, &amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Un bateau au mouillage/échoué/à l&amp;rsquo;arrêt est privilégié sur un voilier en mouvement&lt;/li&gt;
-&lt;li&gt;Un bateau rattrapé quel qu&amp;rsquo;il soit est privilégié sur le bateau rattrapant&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;entre-voiliers&#34;&gt;Entre voiliers&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Le voilier qui est tribord amure (recevant donc le vent par le tribord) est privilégié sur le voilier babord amure. (La GV est déterminante en cas de VA)&lt;/li&gt;
-&lt;li&gt;Le voilier sous le vent est privilégié sur le voilier au vent (celui qui remonte le plus au vent est privilégié. Logique par rapport à la position du barreur)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+&lt;h2 id=&#34;recommandés-2&#34;&gt;Recommandés&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;En dernier recours le navire dit « privilégié » a le devoir d&amp;rsquo;éviter la collision par tous les moyens qui lui sont possibles, si le navire « non privilégié » n&amp;rsquo;applique pas les règles&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;li&gt;Cartes papier&lt;/li&gt;
+&lt;li&gt;Instructions nautiques&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;présentation-du-livre-de-bord-glénans&#34;&gt;Présentation du livre de bord glénans&lt;/h1&gt;</description>
+    </item>
+    
+    <item>
+      <title>amarrage</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</link>
+      <pubDate>Tue, 07 Mar 2017 11:02:18 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/amarrage.html</guid>
+      <description>&lt;p&gt;Comment bien amarrer un bateau selon la configuration du port.
+&lt;/p&gt;
+
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Noter que le vent et le courant n&amp;rsquo;ont qu&amp;rsquo;un intérêt pour déterminer l&amp;rsquo;ordre de placement des amarres&lt;/li&gt;
+&lt;li&gt;Tant que le bateau n&amp;rsquo;est pas amarré à minima, toujours moteur en marche et une personne sur le bateau&lt;/li&gt;
+&lt;li&gt;Penser aux gens sur les quais&lt;/li&gt;
+&lt;li&gt;Penser aux montées / descentes&lt;/li&gt;
+&lt;li&gt;Opération à faire dans le calme, pas d&amp;rsquo;urgence une fois les premières amarres posées&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;vocabulaire&#34;&gt;Vocabulaire&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Amarre&lt;/li&gt;
+&lt;li&gt;(H)aussière&lt;/li&gt;
+&lt;li&gt;Gardes&lt;/li&gt;
+&lt;li&gt;Pointes&lt;/li&gt;
+&lt;li&gt;Pare battage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;configuration-de-port&#34;&gt;Configuration de port&lt;/h1&gt;
+
+&lt;h2 id=&#34;quai&#34;&gt;Quai&lt;/h2&gt;
+
+&lt;h3 id=&#34;flottant&#34;&gt;Flottant&lt;/h3&gt;
+
+&lt;h3 id=&#34;dur&#34;&gt;Dur&lt;/h3&gt;
+
+&lt;h3 id=&#34;a-couple&#34;&gt;A couple&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Politesse&lt;/li&gt;
+&lt;li&gt;Ordre de départ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;catway&#34;&gt;Catway&lt;/h2&gt;
+
+&lt;h2 id=&#34;pendille&#34;&gt;Pendille&lt;/h2&gt;
+
+&lt;h2 id=&#34;duc-d-albe&#34;&gt;Duc d&amp;rsquo;Albe&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>allures</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures.html</link>
+      <pubDate>Tue, 07 Mar 2017 10:42:09 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures.html</guid>
+      <description></description>
     </item>
     
   </channel>

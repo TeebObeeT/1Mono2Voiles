@@ -10,6 +10,7 @@ postes:
 - Equipage
 previsionnels:
 - stage embarqué N2
+- Groupe embarqué 3j
 tags: [Mouillage]
 title: mouillage
 ---

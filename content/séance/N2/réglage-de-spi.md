@@ -8,6 +8,7 @@ postes:
 - Ecoute
 previsionnels:
 - stage embarqué N2
+- Groupe embarqué 3j
 seance:
   00_prereq:
   - Hissage affalage de spi
