@@ -12,10 +12,8 @@ previsionnels:
   - stage embarqué N2
   - Groupe embarqué 3j
 ---
-
 Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navigations
 <!--more-->
-
 # La carte marine
 
 ## Couleurs et significations

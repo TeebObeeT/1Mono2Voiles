@@ -25,7 +25,6 @@ Cette manoeuvre est importante, peut servir à récupérer casquettes, lunettes,
 
 De plus elle est un très bon exercice pour avoir des bons repères sur le plan d'eau et une bonne compréhension globale de la marche de son bateau.
 <!--more-->
-
 Encore une fois, la communication est essentielle, c'est le barreur (ou chef de bord) qui donne le rythme.
 
 ## Préparation
