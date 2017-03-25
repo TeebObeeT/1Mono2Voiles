@@ -68,12 +68,16 @@ Informations de base sur l'environnement aux alentour de la base avec les connai
 
 # Mammifères marins
 Au large de Sète, il est possible d'apercevoir parfois quelques dauphins
+
 * [Dauphin bleu et blanc](https://fr.wikipedia.org/wiki/Dauphin_bleu_et_blanc) : La plus commune et la plus largement répartie
   * A vague
+
 * [Dauphin de Risso](https://fr.wikipedia.org/wiki/Dauphin_de_Risso) : Surtout au niveau du talus continental
   * Scarifié
+
 * [Grand Dauphin](https://fr.wikipedia.org/wiki/Grand_dauphin) : Le plus côtier ; plateau continental, mais surtout vers le Golfe du Lion et la Corse
   * Flipper
+
 * [Dauphin commun à bec court](https://fr.wikipedia.org/wiki/Dauphin_commun_%C3%A0_bec_court) : Probablement « le plus rare des réguliers » ; surtout en Méditerranée plus orientale
   * Grosse tâche blanche sur le ventre
 
