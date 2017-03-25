@@ -17,5 +17,4 @@ Informations de base sur l'environnement aux alentour de la base avec les connai
   1. Du corps
   1. Des pattes
 1. Taille
-1. Pattes et bec
-[Becs et pattes](./references/becs et pattes.pdf)
+1. [Bec et pattes](../../../references/becs et pattes.pdf)
