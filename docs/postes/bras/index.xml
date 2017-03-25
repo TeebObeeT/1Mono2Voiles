@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bras on 1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/postes/bras.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/postes/bras/index.xml</link>
     <description>Recent content in Bras on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/bras.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/bras/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>empannage sous spi</title>
