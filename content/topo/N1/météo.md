@@ -82,7 +82,8 @@ Du coup, à volume constant (*notre colonne d'air*), et pour la même quantité 
 
 ### Anticyclone
 
-![Anticyclone et dépression]({{<siteurl>}}img/topos/anticyclonedepression.bmp)
+{{<img src="img/topos/anticyclonedepression.bmp" alt="Anticyclone et dépression">}}
+
 
 Un anticyclone est une masse d'air froid et sec qui descend de la troposphère et qui agit comme un "compresseur".
 
@@ -123,7 +124,8 @@ Il s'agit de visibilité horizontale (*pas oblique ou verticale*). C'est une vis
 ## Thermique
 Durant le jour, près des côtes d’un lac ou de la mer, le soleil réchauffe plus rapidement le sol que l’eau. L’air prend donc plus d’expansion sur terre et s’élève créant une pression plus basse que sur le plan d’eau. Une fois encore cette différence de pression se crée sur une distance très faible et ne peut être contrebalancée par les forces de Coriolis. Une brise de mer (lac) s’établit donc. La même chose se produit la nuit mais en direction inverse, la brise de terre
 
-![Thermique]({{<siteurl>}}img/topos/thermique.bmp)
+{{<img src="img/topos/thermique.bmp" alt="Thermique">}}
+
 
 ## Venturi
 Le vent est dirigé par les obstacles, il suivra une vallée, il longera une côte en falaises,...De plus, il se renforcera, en quelque sorte, *il y a moins de place pour faire passer l'air, il faut donc le faire passer plus vite.*
@@ -134,4 +136,5 @@ Le vent est dirigé par les obstacles, il suivra une vallée, il longera une cô
 
 Un **orage** (dérivé à l'aide du suffixe *age* de l'ancien français *ore*, signifiant « vent) est une perturbation atmosphérique d'origine convective (*mouvements verticaux dans un fluide*) associée à un type de nuage particulier : le cumulonimbus. Ce dernier est à forte extension verticale, il engendre des pluies fortes à diluviennes, des décharges électriques de foudre accompagnées de tonnerre. Dans des cas extrêmes, l'orage peut produire des chutes de grêle, des vents très violents et, rarement, des tornades.
 
-![Orage]({{<siteurl>}}img/topos/orage.bmp)
+
+{{<img src="img/topos/orage.bmp" alt="Orage">}}
