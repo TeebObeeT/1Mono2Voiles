@@ -103,7 +103,7 @@ planning:
     - chrono/N1/empannage
     - séance/N1/vent arrière
     - séance/N1/changement de focs
-    - séance/cape
+    - séance/N1/cape
     - séance/N1/premiers empannages
     02_aprèsmidi:
     - Rangement base
