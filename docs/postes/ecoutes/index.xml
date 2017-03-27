@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ecoutes on 1 Mono 2 Voiles</title>
+    <title>1 Mono 2 Voiles</title>
     <link>https://teebobeet.github.io/1Mono2Voiles/postes/ecoutes/index.xml</link>
-    <description>Recent content in Ecoutes on 1 Mono 2 Voiles</description>
+    <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/ecoutes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>empannage sous spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi/</link>
       <pubDate>Tue, 10 Jan 2017 15:25:57 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>arrêt</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/arr%C3%AAt.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/arr%C3%AAt/</link>
       <pubDate>Tue, 29 Nov 2016 13:06:57 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/arr%C3%AAt.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/arr%C3%AAt/</guid>
       <description></description>
     </item>
     
