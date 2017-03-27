@@ -33,13 +33,13 @@ Petites explications sur le phénomène et brêve prise en main du calcul de mar
 
 Le SHOM utilise la formule harmonique depuis 1991 en remplacement de la formule de Laplace:
 
-![Formule harmonique]({{< siteurl >}}/img/topos/harmonique.png)
+![Formule harmonique]({{<siteurl>}}img/topos/harmonique.png)
 
 L'information du SHOM est reprise à plusieurs endroits, mais attention aux apps de téléphones!
 
 ## Présentation des données
 
-![Horaires de marées]({{< siteurl >}}/img/topos/ports.png)
+![Horaires de marées]({{<siteurl>}}img/topos/ports.png)
 
 # Calcul de marée
 ## Port de référence

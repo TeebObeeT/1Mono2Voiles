@@ -19,7 +19,7 @@ Informations de base sur l'environnement aux alentour de la base avec les connai
   1. Du corps
   1. Des pattes
 1. Taille
-1. [Bec et pattes]({{< siteurl >}}/references/becs et pattes.pdf)
+1. [Bec et pattes]({{<siteurl>}}references/becs et pattes.pdf)
 
 ## Présents sur l'étang
 ## [Goeland d'Audouin](https://fr.wikipedia.org/wiki/Go%C3%A9land_d%27Audouin) *(en hivernage)*
