@@ -73,7 +73,7 @@ planning:
     - séance/rof
     03_soir:
     - topo/allures
-    - chrono/cape
+    - chrono/N1/cape
     04_conduite:
     - 1C1.6 Différencier les allures de près des allures portantes
     - Distinction au vent / sous le vent
@@ -103,7 +103,7 @@ planning:
     - chrono/N1/empannage
     - séance/N1/vent arrière
     - séance/N1/changement de focs
-    - séance/N1/cape
+    - séance/cape
     - séance/N1/premiers empannages
     02_aprèsmidi:
     - Rangement base
