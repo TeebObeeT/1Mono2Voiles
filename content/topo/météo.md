@@ -80,7 +80,7 @@ Plus la variation de pression se fait vite, et plus le vent qui cherchera à éq
 ## Le grain
 
 
-{{<img src="img/topos/grain.bmp" alt="grain">}}
+{{<img src="img/topos/grain.jpg" alt="Grain">}}
 
 
 Sous un grain les vents sont plus violents (25% à 50%) et changent de direction.
@@ -96,4 +96,4 @@ Le niveau d'altitude des nuages est un phénomène lié à la pression atmosphé
 Si les nuages descendent ou montent très vite, il y a une grosse variation barométrique, signe de danger potentiel.
 
 
-{{<img src="img/topos/nuages.bmp" alt="Nuages">}}
+{{<img src="img/topos/nuages.png" alt="Nuages">}}
