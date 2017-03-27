@@ -43,5 +43,5 @@ seance:
     plus:
     - Réduire la voilure (ris)
 tags: []
-title: Suivre un cap
+title: suivre un cap
 ---

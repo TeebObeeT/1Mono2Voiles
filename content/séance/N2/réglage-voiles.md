@@ -50,5 +50,5 @@ seance:
     plus:
     - Réduire la voilure (ris)
 tags: [Réglages]
-title: Réglage des voiles
+title: réglage des voiles
 ---
