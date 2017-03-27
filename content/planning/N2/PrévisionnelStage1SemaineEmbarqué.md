@@ -146,7 +146,7 @@ planning:
     - séance/ajustages près
     - séance/ajustages portant
     - séance/cape
-    - séance/N2/changement VA
+    - séance/N2/changement va
     03_soir:
     - Bilan mi-stage
     - Entretien, vérif
@@ -249,7 +249,7 @@ planning:
     00_nom: Vendredi
     01_matin:
       - séance/rof
-      - séance/quick stop
+      - séance/N2∕quick stop
       - rangement des affaires
     02_aprèsmidi:
       - nettoyage bateau
