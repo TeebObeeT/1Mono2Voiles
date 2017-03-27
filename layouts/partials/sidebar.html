@@ -9,7 +9,7 @@
 				<li class="nav-item" id="{{$k}}"><a href="{{ $k | absURL}}"><img src="{{ $.Site.BaseURL }}/img/index/{{$k}}.svg" alt="{{ $k  | pluralize }}"/></a></li>
 			{{ end }}
 			</ul>
-			<h3>Niveaux FFV</h3>
+			<h3><a href="{{ .Site.BaseURL }}references/Fiches d'évaluations - Croisière.pdf" target="_blank">Niveaux FFV</a></h3>
      	<ul class="nav-list" id="niveaux">
         {{ range $key, $value := .Site.Taxonomies.niveaux }}
             <li class="nav-item post-category post-category-{{ $key | urlize }}"><a href='{{ "/niveaux/" | relURL }}{{ $key | urlize }}'>{{ replaceRE "niveau-" "" $key  }}</a></li>
