@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 Mono 2 Voiles</title>
+    <link>https://teebobeet.github.io/1Mono2Voiles/previsionnels/index.xml</link>
+    <description>Recent content on 1 Mono 2 Voiles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/previsionnels/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stage1SemaineTerre201704</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Stage1SemaineTerre201704/</link>
+      <pubDate>Wed, 12 Apr 2017 14:45:27 +0200</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Stage1SemaineTerre201704/</guid>
+      <description>&lt;p&gt;Stage en co encadrement avec Lionel&lt;/p&gt;
+
+&lt;p&gt;RTQ: Antoine&lt;/p&gt;
+
+&lt;p&gt;Stagiaires:
+* Louis
+* Jean
+* Vanessa
+* Greg
+* Alice
+* Tim
+* David&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
