@@ -197,7 +197,7 @@ previsionnels:
 - null
 semaine: stage 1 semaine à terre
 tags: []
-title: Stage1SemaineTerre201704
+title: Stage 1 semaine à terre - 2017-04
 ---
 Stage en co encadrement avec Lionel
 
