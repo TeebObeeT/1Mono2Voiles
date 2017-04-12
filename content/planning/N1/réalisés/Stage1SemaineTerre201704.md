@@ -193,8 +193,6 @@ planning:
     11_administratif:
     - null
 prevision: false
-previsionnels:
-- null
 semaine: stage 1 semaine à terre
 tags: []
 title: Stage 1 semaine à terre - 2017-04
