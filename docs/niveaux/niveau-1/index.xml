@@ -18,14 +18,17 @@
 
 &lt;p&gt;RTQ: Antoine&lt;/p&gt;
 
-&lt;p&gt;Stagiaires:
-* Louis
-* Jean
-* Vanessa
-* Greg
-* Alice
-* Tim
-* David&lt;/p&gt;
+&lt;p&gt;Stagiaires:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Louis&lt;/li&gt;
+&lt;li&gt;Jean&lt;/li&gt;
+&lt;li&gt;Vanessa&lt;/li&gt;
+&lt;li&gt;Greg&lt;/li&gt;
+&lt;li&gt;Alice&lt;/li&gt;
+&lt;li&gt;Tim&lt;/li&gt;
+&lt;li&gt;David&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

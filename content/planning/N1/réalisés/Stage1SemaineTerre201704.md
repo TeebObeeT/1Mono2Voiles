@@ -202,6 +202,7 @@ Stage en co encadrement avec Lionel
 RTQ: Antoine
 
 Stagiaires:
+
 * Louis
 * Jean
 * Vanessa
