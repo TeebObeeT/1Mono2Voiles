@@ -9,6 +9,15 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PrévisionnelSemaine1Terre</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelSemaine1Terre.html</link>
+      <pubDate>Fri, 21 Apr 2017 12:10:22 +0200</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelSemaine1Terre.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stage 1 semaine à terre - 2017-04</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Stage1SemaineTerre201704.html</link>
       <pubDate>Wed, 12 Apr 2017 14:45:27 +0200</pubDate>
@@ -457,15 +466,6 @@ Brassens est quant à lui enterré au cimetière du Py, dominant l&amp;rsquo;ét
 &lt;ul&gt;
 &lt;li&gt;En dernier recours le navire dit « privilégié » a le devoir d&amp;rsquo;éviter la collision par tous les moyens qui lui sont possibles, si le navire « non privilégié » n&amp;rsquo;applique pas les règles&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>hissage affalage de spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi.html</link>
-      <pubDate>Fri, 06 Jan 2017 14:43:43 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/hissage-affalage-de-spi.html</guid>
-      <description></description>
     </item>
     
   </channel>

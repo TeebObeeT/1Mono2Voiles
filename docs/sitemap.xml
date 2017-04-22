@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelSemaine1Terre.html</loc>
+    <lastmod>2017-04-21T12:10:22+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Stage1SemaineTerre201704.html</loc>
     <lastmod>2017-04-12T14:45:27+02:00</lastmod>
   </url>
@@ -544,7 +549,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/</loc>
-    <lastmod>2017-04-12T14:45:27+02:00</lastmod>
+    <lastmod>2017-04-21T12:10:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -687,7 +692,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1.html</loc>
-    <lastmod>2017-04-12T14:45:27+02:00</lastmod>
+    <lastmod>2017-04-21T12:10:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -734,7 +739,7 @@
   
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/planning.html</loc>
-    <lastmod>2017-04-12T14:45:27+02:00</lastmod>
+    <lastmod>2017-04-21T12:10:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -769,6 +774,12 @@
   <url>
     <loc>https://teebobeet.github.io/1Mono2Voiles/tags/r%C3%A9glages.html</loc>
     <lastmod>2017-03-16T10:07:52+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teebobeet.github.io/1Mono2Voiles/previsionnels/semi-embarqu%C3%A9-terre-n1.html</loc>
+    <lastmod>2017-04-21T12:10:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   

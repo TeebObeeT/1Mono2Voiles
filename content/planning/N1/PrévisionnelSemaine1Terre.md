@@ -123,8 +123,8 @@ planning:
     05_manoeuvre:
     - null
     06_navigation:
-    1N2.1 Connaître les sources et le contenu essentiel d’un bulletin météorologique
-    1N2.2 Identifier les phénomènes à risques annoncés
+    - 1N2.1 Connaître les sources et le contenu essentiel d’un bulletin météorologique
+    - 1N2.2 Identifier les phénomènes à risques annoncés
     07_sécurité:
     - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
     - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
@@ -179,8 +179,7 @@ planning:
     - 1M2.1 Réduction de voilure
     - 3M2.3 Réaliser les manœuvres relatives au spinnaker
     06_navigation:
-    - 2N3.1 Connaître la dynamique des marées ou les éventuels mouvements d’eau en
-    plans d’eau intérieurs
+    - 2N3.1 Connaître la dynamique des marées ou les éventuels mouvements d’eau en plans d’eau intérieurs
     07_sécurité:
     - null
     08_technologie:
@@ -221,7 +220,7 @@ planning:
     - Bilan mi stage
 prevision: true
 previsionnels:
-- semi-embarqué terre N1
+- semi embarqué terre N1
 semaine: stage 2 semaines semi-embarqué - 1ère semaine à terre
 tags: []
 title: PrévisionnelSemaine1Terre
