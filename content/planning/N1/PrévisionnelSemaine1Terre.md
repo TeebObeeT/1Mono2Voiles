@@ -59,8 +59,7 @@ planning:
     - chrono/virement
     04_conduite:
     - 1C1.1,2,3,4 Utilisation voile/barre pour avancer et ralentir
-    - 1C1.6 Différencier les allures de près des allures portantes
-    - 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée  
+    - 1C1.6 allures près/portantes
     - 2C1.9 S’arrêter à partir de différentes allures
     05_manoeuvre:
     - 1M3.1, 1M4.1 Départ de port
@@ -92,7 +91,7 @@ planning:
     - topo/équilibres
     04_conduite:
     - 1C1.6 Différencier près/portant
-    - 2C2.1 Identifier et expérimenter les différents réglages disponibles
+    - 2C2.1 différents réglages disponibles
     05_manoeuvre:
     - 1M1.1,2,3 Empannage
     - 2M1.1 Virer et empanner sans s'arrêter
@@ -123,15 +122,15 @@ planning:
     03_soir:
     - chrono/rof
     04_conduite:
-    - 4C2.1 Connaître les principes de l’aérodynamique et de l’hydrodynamique impliqués dans la propulsion et l’équilibre des navires à voiles
+    - 2C1.4 Ajuster trajectoire à la voile  
+    - 4C2.1 aéro/hydro
     05_manoeuvre:
     - null
     06_navigation:
-    - 1N2.1 Connaître les sources et le contenu essentiel d’un bulletin météorologique
-    - 1N2.2 Identifier les phénomènes à risques annoncés
+    - 1N2.1 MTO
     07_sécurité:
     - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
-    - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
+    - 2S2.2 manœuvres courantes de sécurité
     08_technologie:
     - null
     09_viemaritime:
@@ -182,12 +181,12 @@ planning:
     - null
     05_manoeuvre:
     - 1M2.1 Réduction de voilure
-    - 1M4.1 Participer aux manœuvres d’entrée et de sortie de port
-    - 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
-    - 2M2.2 Gréer et dégréer un spinnaker
-    - 3M2.3 Réaliser les manœuvres relatives au spinnaker
+    - 1M4.1 entrée et de sortie de port
+    - 2M2.1 adaptation de la surface
+    - 2M2.2 Gréer spi
+    - 3M2.3 manœuvres relatives au spi
     06_navigation:
-    - 2N3.1 Connaître la dynamique des marées ou les éventuels mouvements d’eau en plans d’eau intérieurs
+    - 2N3.1 marées
     07_sécurité:
     - null
     08_technologie:
