@@ -30,7 +30,7 @@ seance:
   - Redescendre à la bouée sous le vent au GL avec un seul empannage
   - Annoncer toutes les manoeuvres
   - Fonctionner en équipage pour faire marcher le bateau du mieux possible
-  - Faire 2 tours par personne puis tourner à tous les postes
+  - Faire 2 tours par personne puis tourner à tous les postes (1 pour voir)
   07_securite:
   - Veille 360°
   - Déplacements en fonction de l'allure du bateau
@@ -41,12 +41,14 @@ seance:
     - Envoi de spi non tangonné
   09_meteo:
     moins:
-    - Raccourcir le parcour
+    - Raccourcir le parcours
     - Bien utiliser la répartition des masses
     plus:
     - Réduire la voilure (ris)
+    - Empannage interdit
 tags: [Près, Changement amure, Portant]
 title: banane
 previsionnels:
   - Stage Terre N1
+  - Semi emb. terre N1  
 ---

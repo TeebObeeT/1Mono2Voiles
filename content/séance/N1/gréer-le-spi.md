@@ -42,9 +42,10 @@ seance:
     - Faire la préparation en route
     - Hisser le spi à sec
     plus:
-    -
+    - null
 tags: [Spi, Gréer]
 title: gréer le spi
 previsionnels:
   - Stage Terre N1
+  - Semi emb. terre N1
 ---

@@ -52,4 +52,5 @@ title: barre attachée
 previsionnels:
   - Stage Terre N1
   - stage embarqué N2
+  - Semi emb. terre N1
 ---

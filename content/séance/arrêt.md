@@ -29,8 +29,6 @@ seance:
   - L'équipier de GV choque sa voile
   06_consignes:
   - A partir d'un bateau lancé, faire arrêter le bateau pour que ses voiles ne portent plus
-  - <b>Barre</b> - Pointer la barre vers la bôme
-  - <b>Ecoutes</b> - Choquer en grand (penser au hale-bas de GV)
   - Tourner aux postes ecoutes et barre
   07_securite:
   - La bôme est susceptible de se déplacer rapidement et de battre
@@ -40,7 +38,6 @@ seance:
     - Action d'abord GV puis barre si insuffisant
     plus:
     - Expliquer et montrer la cape (plus stable, plus rapide)
-    - Ne pas donner de consignes de départ (Niveau-2)
   09_meteo:
     moins:
     - Faire bien prendre de la vitesse en jouant sur les masses
@@ -54,4 +51,5 @@ previsionnels:
   - Stage Terre N1 3J
   - stage embarqué N2
   - Groupe embarqué 3j
+  - Semi emb. terre N1
 ---

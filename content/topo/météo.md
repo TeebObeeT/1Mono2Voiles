@@ -6,6 +6,7 @@ niveaux:
 - Niveau-2
 previsionnels:
 - stage embarqué N2
+- Semi emb. terre N1
 tags: []
 title: météo
 ---

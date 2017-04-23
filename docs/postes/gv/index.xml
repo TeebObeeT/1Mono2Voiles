@@ -9,6 +9,15 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/gv.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>près barre</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A8s-barre.html</link>
+      <pubDate>Sun, 23 Apr 2017 14:26:22 +0200</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A8s-barre.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>parcours évaluatif</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/parcours-%C3%A9valuatif.html</link>
       <pubDate>Wed, 22 Mar 2017 11:09:14 +0100</pubDate>
@@ -325,143 +334,6 @@
 &lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
 
 &lt;p&gt;Peu de rangements à faire, pour repartir, border la voile et passer le foc, ou par petit temps, changer la barre de côté, empanner de manière contrôlée et repartir&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>empannage</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage.html</link>
-      <pubDate>Thu, 01 Dec 2016 15:18:01 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/chrono/n1/empannage.html</guid>
-      <description>&lt;p&gt;L&amp;rsquo;empannage est une manoeuvre standard sans grande difficulté mais avec des risques, il est donc important de bien le maîtriser pour naviguer en sécurité.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Le plus important ici est la communication entre le barreur et l&amp;rsquo;équipier de GV. Le &lt;strong&gt;risque étant que la GV passe sans qu&amp;rsquo;elle soit contrôlée&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;préparation&#34;&gt;Préparation&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Parés à empanner?&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Se met grand largue&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Prépare sa contre écoute&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GV&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Met le chariot au centre&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Equipage&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Parés!&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;exécution&#34;&gt;Exécution&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Abat jusqu&amp;rsquo;à ce que le point d&amp;rsquo;écoute du foc tombe&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Fait passer le foc en ciseaux&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GV&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Embraque&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GV&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;Dans l&amp;rsquo;axe!&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ldquo;On empanne!&amp;rdquo; et abat&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GV&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Surveille la chute de sa voile, prêt à choquer l&amp;rsquo;écoute&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GV&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Quand la chute se gonfle à contre: &amp;ldquo;Ca passe!&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GV&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Choque en grand : &amp;ldquo;C&amp;rsquo;est passé&amp;rdquo;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Fait un contre &lt;em&gt;(Abat légèrement pour garder le bateau droit et compenser l&amp;rsquo;aulofé)&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;rangement&#34;&gt;Rangement&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;GV&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Remettre le chariot en placer&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Foc&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Ranger les écoutes&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Barre&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Changer de côté si nécessaire&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</description>
     </item>
     
   </channel>

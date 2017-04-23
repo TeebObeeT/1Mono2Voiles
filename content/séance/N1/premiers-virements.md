@@ -24,6 +24,7 @@ seance:
   04_reussite:
   - Les voiles sont gonflées et le bateau avance sous l'autre amure
   - L'équipage a changé de côté
+  - l'angle avec le précédent cap est de moins de 140°
   05_evaluation:
   - Le bateau ne va pas au travers après le virements
   - Le bateau ne s'arrête pas
@@ -57,4 +58,5 @@ title: premiers virements
 previsionnels:
   - Stage Terre N1
   - Stage Terre N1 3J
+  - Semi emb. terre N1
 ---

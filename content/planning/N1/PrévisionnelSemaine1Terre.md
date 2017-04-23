@@ -19,11 +19,12 @@ planning:
     - séance/N1/périmètre
     - Matelotage
     04_conduite:
-    - null
+    - 1C2.1 Gréer, hisser et affaler le foc et la grand-voile
+    - 1C2.2 Gréer les écoutes et les bosses
     05_manoeuvre:
     - null
     06_navigation:
-    - null
+    - 1N1.1 Se situer approximativement sur une carte en faisant le lien avec le paysage
     07_sécurité:
     - 1S1.1 Rester attentif aux conseils de sécurité
     - 1S1.3 Se déplacer en équilibre sur tout le navire
@@ -51,16 +52,16 @@ planning:
     - séance/N1/allures
     - séance/arrêt
     02_aprèsmidi:
-    - séance/N1/départ
     - topo/allures
-    - séance/virements
-    - séance/N1/près voile
+    - séance/N1/premiers virements
+    - séance/N1/près
     03_soir:
     - chrono/virement
     04_conduite:
     - 1C1.1,2,3,4 Utilisation voile/barre pour avancer et ralentir
     - 1C1.6 Différencier les allures de près des allures portantes
     - 2C1.4 Ajuster la trajectoire à une ouverture de voile donnée  
+    - 2C1.9 S’arrêter à partir de différentes allures
     05_manoeuvre:
     - 1M3.1, 1M4.1 Départ de port
     - 1M1.1,2,3 Virements
@@ -81,18 +82,20 @@ planning:
   jour_03:
     00_nom: Lundi
     01_matin:
-    - séance/N1/repères
+    - séance/cape
     - séance/empannages
     02_aprèsmidi:
     - topo/navigation
-    - séance/cape
+    - séance/virements
     - séance/N1/grand largue
     03_soir:
     - topo/équilibres
     04_conduite:
     - 1C1.6 Différencier près/portant
+    - 2C2.1 Identifier et expérimenter les différents réglages disponibles
     05_manoeuvre:
-    - 1M1.1 Utiliser la barre pour changer d’amure
+    - 1M1.1,2,3 Empannage
+    - 2M1.1 Virer et empanner sans s'arrêter
     06_navigation:
     - 1N1.1 Liaison carte/paysage
     - 1N1.2 Principes d’une carte marine
@@ -100,6 +103,7 @@ planning:
     - 3N1.4 Mettre en relation le paysage rencontré avec la carte marine
     07_sécurité:
     - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
+    - 2S2.1 Se regrouper
     08_technologie:
     - null
     09_viemaritime:
@@ -112,7 +116,7 @@ planning:
     00_nom: Mardi
     01_matin:
     - séance/barre attachée
-    - séance/N1/près barre
+    - séance/près barre
     02_aprèsmidi:
     - topo/N1/météo
     - séance/rof initial
@@ -148,10 +152,11 @@ planning:
     - topo/privilèges
     04_conduite:
     - 2C3.1 Réguler la vitesse
+    - 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
     05_manoeuvre:
-    - 1N4.2 Connaître la base des privilèges de route
+    - 1M4.1 Participer aux manœuvres d’entrée et de sortie de port
     06_navigation:
-    - null
+    - 1N4.2 Connaître la base des privilèges de route
     07_sécurité:
     - null
     08_technologie:
@@ -168,7 +173,7 @@ planning:
     - séance/prise de ris
     - séance/N1/gréer le spi
     02_aprèsmidi:
-    - topo/amarrages
+    - topo/amarrage
     - séance/N1/manipulation de tangon
     - séance/N1/hissage affalage de spi
     03_soir:
@@ -177,6 +182,9 @@ planning:
     - null
     05_manoeuvre:
     - 1M2.1 Réduction de voilure
+    - 1M4.1 Participer aux manœuvres d’entrée et de sortie de port
+    - 2M2.1 Participer à l’adaptation de la surface (changement de voiles, prise de ris)
+    - 2M2.2 Gréer et dégréer un spinnaker
     - 3M2.3 Réaliser les manœuvres relatives au spinnaker
     06_navigation:
     - 2N3.1 Connaître la dynamique des marées ou les éventuels mouvements d’eau en plans d’eau intérieurs
@@ -220,7 +228,7 @@ planning:
     - Bilan mi stage
 prevision: true
 previsionnels:
-- semi embarqué terre N1
+- Semi emb. terre N1
 semaine: stage 2 semaines semi-embarqué - 1ère semaine à terre
 tags: []
 title: PrévisionnelSemaine1Terre

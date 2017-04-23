@@ -11,6 +11,7 @@ previsionnels:
   - Stage Terre N1
   - stage embarqué N2
   - Groupe embarqué 3j
+  - Semi emb. terre N1
 ---
 Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navigations
 <!--more-->

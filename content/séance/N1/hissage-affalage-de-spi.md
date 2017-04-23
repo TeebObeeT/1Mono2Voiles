@@ -53,4 +53,5 @@ tags: [Spi]
 title: hissage affalage de spi
 previsionnels:
   - Stage Terre N1
+  - Semi emb. terre N1
 ---

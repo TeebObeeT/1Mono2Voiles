@@ -41,4 +41,5 @@ title: inventaire
 previsionnels:
   - Stage Terre N1
   - Stage Terre N1 3J
+  - Semi emb. terre N1
 ---

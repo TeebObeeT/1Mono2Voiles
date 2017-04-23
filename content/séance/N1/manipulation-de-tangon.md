@@ -40,9 +40,10 @@ seance:
     - Mettre le bateau au portant
     - Envoyer le spi
     plus:
-    - Ne pas envoyer de voile du tout
+    - Le faire à terre
 tags: [Changement amure, Spi]
 title: manipulation de tangon
 previsionnels:
   - Stage Terre N1
+  - Semi emb. terre N1
 ---

@@ -50,4 +50,5 @@ previsionnels:
   - Stage Terre N1 3J
   - stage embarqué N2
   - Groupe embarqué 3j
+  - Semi emb. terre N1
 ---

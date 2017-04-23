@@ -10,6 +10,7 @@ previsionnels:
   - Stage Terre N1
   - stage embarqué N2
   - Groupe embarqué 3j
+  - Semi emb. terre N1
 postes:
 - Barre
 - GV
@@ -20,7 +21,8 @@ seance:
  01_orga:
   - Long bord de grand largue
   - Chrono
- 02_but: Enchainer 5 empannages en moins d'1 minute
+  - Vent faible à moyen
+ 02_but: Enchainer 5 empannages en moins de 2 minutes
  03_objectifs:
  - 1M1.1 Utiliser la barre pour changer d’amure
  - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
@@ -37,7 +39,7 @@ seance:
   - Se mettre au GL
   - Respecter la chronologie
   - Respecter un bon placement des masses
-  - Enchainer 5 empannages maitrisés en moins d'une minute
+  - Enchainer 5 empannages maitrisés en moins de 2 minutes
   - Tourner aux postes
  07_securite:
   - Personne dans le trajet du palan

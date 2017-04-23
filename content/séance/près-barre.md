@@ -1,7 +1,7 @@
 ---
 author: Teebo
 categories: [Conduite]
-date: 2016-12-12T17:55:23+01:00
+date: 2017-04-23T14:26:22+02:00
 niveaux:
 - Niveau-1
 postes:
@@ -14,20 +14,18 @@ seance:
   - Long bord de près
   - Vérifier les penons sur voile d'avant
   - Speedo (GPS)
-  02_but: Régler les voiles pour garder le bateau en équilibre
+  02_but: Barrer en tenant le près
   03_objectifs:
   - 1C1.1 Gonfler la voile pour avance
   04_reussite:
-  - Le bateau avance sans que le barreur ai d'effort à faire
+  - Les penons de voile d'avant sont horizontaux
   05_evaluation:
   - Dialogue dans l'équipage
   - La répartition des masses est correcte
   - Les voiles sont limites de faseyement
   06_consignes:
-  - Se mettre au près
-  - Le barreur barre avec un doigt
-  - Si le barreur ne peut pas, chercher les causes et régler le bateau
-  - Tant que le barreur peut, chercher à améliorer la vitesse
+  - Border les voiles pour le près
+  - Le barreur cherche à mettre puis garder ses penons de VA horizontaux
   07_securite:
   - Déplacements vers l'avant se font au vent
   08_didac:
@@ -42,8 +40,7 @@ seance:
     plus:
     - Réduire la voilure (ris)
 tags: [Près]
-title: près
 previsionnels:
-  - Stage Terre N1
   - Semi emb. terre N1
+title: près barre
 ---

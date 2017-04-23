@@ -18,11 +18,12 @@ seance:
   - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
   - 2S2.1 Se regrouper
   04_reussite:
-  - Le bateau est arrêté, foc à contre
+  - Le bateau reste arrêté, foc à contre
   05_evaluation:
   - La chronologie de la cape est respectée
   - Le bateau est arrêté sans revirement
   - L'équipage a bien suivi la manoeuvre
+  - Pas d'empannage
   06_consignes:
   - Se mettre au près
   - Virer de bord sans toucher au foc
@@ -48,4 +49,5 @@ previsionnels:
   - Stage Terre N1
   - Stage Terre N1 3J
   - stage embarqué N2
+  - Semi emb. terre N1
 ---

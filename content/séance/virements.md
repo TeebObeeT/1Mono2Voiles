@@ -15,7 +15,7 @@ seance:
   - Speedo? Ou GPS vitesse
   - Papier crayon
   - Compas (route ou relèvement)
-  02_but: Faire une série de virements (5) sans sortir à plus de 60° et sans passer sous une vitesse donnée (fonction de la météo)
+  02_but: Faire une série de virements (3) sans sortir à plus de 60° et sans passer sous une vitesse donnée (fonction de la météo)
   03_objectifs:
   - 1M1.1 Utiliser la barre pour changer d’amure
   - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
@@ -33,12 +33,12 @@ seance:
   06_consignes:
   - Relever la direction du vent
   - Se mettre au près
-  - Relver le cap
+  - Relever le cap
   - Prendre de la vitesse
-  - Virer de bord en respectant la chrono
+  - Virer de bord
   - Relever le cap et la vitesse
   - Reprendre suffisament de vitesse
-  - Recommencer 5 fois
+  - Recommencer 3 fois
   - Tourner aux postes
   07_securite:
   - Déplacements au vent de la bôme
@@ -63,4 +63,5 @@ previsionnels:
   - Stage Terre N1
   - stage embarqué N2
   - Groupe embarqué 3j
+  - Semi emb. terre N1
 ---

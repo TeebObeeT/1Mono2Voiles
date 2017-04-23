@@ -50,4 +50,5 @@ tags: [Mouillage]
 title: prise de coffre
 previsionnels:
   - Stage Terre N1
+  - Semi emb. terre N1
 ---
