@@ -45,5 +45,5 @@ tags: []
 title: déplacements
 previsionnels:
   - Stage Terre N1
-  - Semi emb. terre N1
+  - Semi emb terre N1
 ---

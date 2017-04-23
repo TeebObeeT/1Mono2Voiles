@@ -45,5 +45,5 @@ tags: [Changement amure, Spi]
 title: manipulation de tangon
 previsionnels:
   - Stage Terre N1
-  - Semi emb. terre N1
+  - Semi emb terre N1
 ---

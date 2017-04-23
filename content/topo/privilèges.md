@@ -11,7 +11,7 @@ previsionnels:
   - Stage Terre N1
   - stage embarqué N2
   - Groupe embarqué 3j
-  - Semi emb. terre N1
+  - Semi emb terre N1
 ---
 Quelques informations basiques mais essentielles à savoir avant de partir en mer...
 <!--more-->

@@ -228,7 +228,7 @@ planning:
     - Bilan mi stage
 prevision: true
 previsionnels:
-- Semi emb. terre N1
+- Semi emb terre N1
 semaine: stage 2 semaines semi-embarqué - 1ère semaine à terre
 tags: []
 title: PrévisionnelSemaine1Terre

@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technologie on 1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/categories/technologie.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/categories/technologie/index.xml</link>
     <description>Recent content in Technologie on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/technologie.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/technologie/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>rangement</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rangement.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rangement/</link>
       <pubDate>Mon, 28 Nov 2016 15:45:15 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rangement.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rangement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>inventaire</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/inventaire.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/inventaire/</link>
       <pubDate>Mon, 28 Nov 2016 15:18:50 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/inventaire.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/inventaire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>grément</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9ment.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9ment/</link>
       <pubDate>Thu, 24 Nov 2016 22:02:01 +0000</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9ment.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/gr%C3%A9ment/</guid>
       <description></description>
     </item>
     
