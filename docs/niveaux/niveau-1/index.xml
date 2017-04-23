@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Niveau 1 on 1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1/index.xml</link>
     <description>Recent content in Niveau 1 on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>rof initial</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rof-initial.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rof-initial/</link>
       <pubDate>Sun, 23 Apr 2017 14:30:17 +0200</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rof-initial.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rof-initial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>près barre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A8s-barre.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A8s-barre/</link>
       <pubDate>Sun, 23 Apr 2017 14:26:22 +0200</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A8s-barre.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A8s-barre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PrévisionnelSemaine1Terre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelSemaine1Terre.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelSemaine1Terre/</link>
       <pubDate>Fri, 21 Apr 2017 12:10:22 +0200</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelSemaine1Terre.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelSemaine1Terre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stage 1 semaine à terre - 2017-04</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Stage1SemaineTerre201704.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Stage1SemaineTerre201704/</link>
       <pubDate>Wed, 12 Apr 2017 14:45:27 +0200</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Stage1SemaineTerre201704.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Stage1SemaineTerre201704/</guid>
       <description>&lt;p&gt;Stage en co encadrement avec Lionel&lt;/p&gt;
 
 &lt;p&gt;RTQ: Antoine&lt;/p&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>environnement à Marseillan</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/environnement-%C3%A0-Marseillan.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/n1/environnement-%C3%A0-Marseillan/</link>
       <pubDate>Sat, 25 Mar 2017 16:21:13 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/environnement-%C3%A0-Marseillan.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/n1/environnement-%C3%A0-Marseillan/</guid>
       <description>&lt;p&gt;Informations de base sur l&amp;rsquo;environnement aux alentour de la base avec les connaissances référencées dans le niveau 1
 
 &lt;strong&gt;Thau est classé Natura 2000&lt;/strong&gt;&lt;/p&gt;
@@ -221,28 +221,28 @@ Brassens est quant à lui enterré au cimetière du Py, dominant l&amp;rsquo;ét
     
     <item>
       <title>Stage groupe 3j embarqué</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/groupe/Pr%C3%A9visionnelGroupe3jEmbarqu%C3%A9.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/planning/groupe/Pr%C3%A9visionnelGroupe3jEmbarqu%C3%A9/</link>
       <pubDate>Thu, 23 Mar 2017 17:20:58 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/groupe/Pr%C3%A9visionnelGroupe3jEmbarqu%C3%A9.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/groupe/Pr%C3%A9visionnelGroupe3jEmbarqu%C3%A9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prévisionnel stage à terre 3 jours</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelStage3JoursTerre.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelStage3JoursTerre/</link>
       <pubDate>Tue, 21 Feb 2017 17:34:07 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelStage3JoursTerre.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/Pr%C3%A9visionnelStage3JoursTerre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cadre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/cadre.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/cadre/</link>
       <pubDate>Wed, 11 Jan 2017 12:33:05 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/cadre.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/cadre/</guid>
       <description>&lt;p&gt;Aperçu de la notion de cadre, indispensable en régate mais avant tout très utile aussi pour savoir arriver où l&amp;rsquo;on veut dans un délai raisonnable.
 &lt;/p&gt;
 
@@ -303,64 +303,64 @@ Brassens est quant à lui enterré au cimetière du Py, dominant l&amp;rsquo;ét
     
     <item>
       <title>manipulation de tangon</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/manipulation-de-tangon.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/manipulation-de-tangon/</link>
       <pubDate>Tue, 10 Jan 2017 16:48:43 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/manipulation-de-tangon.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/manipulation-de-tangon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>empannage sous spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi/</link>
       <pubDate>Tue, 10 Jan 2017 15:25:57 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>promenade</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade/</link>
       <pubDate>Tue, 10 Jan 2017 09:04:51 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/promenade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evaluation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</link>
       <pubDate>Mon, 09 Jan 2017 13:58:50 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/%C3%A9valuation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prise de coffre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre/</link>
       <pubDate>Mon, 09 Jan 2017 11:21:00 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/prise-de-coffre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>banane</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</link>
       <pubDate>Mon, 09 Jan 2017 11:06:55 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/banane/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ajustages</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages/</link>
       <pubDate>Sun, 08 Jan 2017 16:19:25 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/ajustages/</guid>
       <description></description>
     </item>
     

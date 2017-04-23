@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Allures on 1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/tags/allures.xml</link>
+    <link>https://teebobeet.github.io/1Mono2Voiles/tags/allures/index.xml</link>
     <description>Recent content in Allures on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/tags/allures.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/tags/allures/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>allures</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures/</link>
       <pubDate>Tue, 07 Mar 2017 10:42:09 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n2/allures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>repères</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rep%C3%A8res.html</link>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rep%C3%A8res/</link>
       <pubDate>Sun, 04 Dec 2016 09:47:46 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rep%C3%A8res.html</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/n1/rep%C3%A8res/</guid>
       <description></description>
     </item>
     

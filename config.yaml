@@ -5,7 +5,7 @@ languageCode: "fr-fr"
 metaDataFormat:  "yaml"
 publishdir: "docs"
 DefaultContentLanguage:  "fr"
-uglyURLs: true
+uglyURLs: false
 
 author:
   name: "Teebo"
