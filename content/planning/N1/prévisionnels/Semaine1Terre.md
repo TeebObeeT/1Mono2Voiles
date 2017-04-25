@@ -11,12 +11,12 @@ planning:
     - Check bateau
     02_aprèsmidi:
     - Accueil stagiaires
-    - séance/N1/inventaire
-    - séance/N1/grément
-    - séance/N1/rangement
-    - séance/N1/déplacements
+    - séance/inventaire
+    - séance/grément
+    - séance/rangement
+    - séance/déplacements
     03_soir:
-    - séance/N1/périmètre
+    - séance/périmètre
     - Matelotage
     04_conduite:
     - 1C2.1 Gréer, hisser et affaler le foc et la grand-voile
@@ -49,12 +49,12 @@ planning:
   jour_02:
     00_nom: Dimanche
     01_matin:
-    - séance/N1/allures
+    - séance/initiation-allures
     - séance/arrêt
     02_aprèsmidi:
     - topo/allures
-    - séance/N1/premiers virements
-    - séance/N1/près
+    - séance/premiers virements
+    - séance/près
     03_soir:
     - chrono/virement
     04_conduite:
@@ -86,7 +86,7 @@ planning:
     02_aprèsmidi:
     - topo/navigation
     - séance/virements
-    - séance/N1/grand largue
+    - séance/grand largue
     03_soir:
     - topo/équilibres
     04_conduite:
@@ -117,7 +117,7 @@ planning:
     - séance/barre attachée
     - séance/près barre
     02_aprèsmidi:
-    - topo/N1/météo
+    - topo/météo
     - séance/rof initial
     03_soir:
     - chrono/rof
@@ -142,8 +142,8 @@ planning:
   jour_05:
     00_nom: Mercredi
     01_matin:
-    - séance/N1/banane
-    - séance/N1/prise de coffre
+    - séance/banane
+    - séance/prise de coffre
     02_aprèsmidi:
     - topo/cadre
     - séance/rof
@@ -170,11 +170,11 @@ planning:
     00_nom: Jeudi
     01_matin:
     - séance/prise de ris
-    - séance/N1/gréer le spi
+    - séance/gréer le spi
     02_aprèsmidi:
     - topo/amarrage
-    - séance/N1/manipulation de tangon
-    - séance/N1/hissage affalage de spi
+    - séance/manipulation de tangon
+    - séance/hissage affalage de spi
     03_soir:
     - topo/marées
     04_conduite:

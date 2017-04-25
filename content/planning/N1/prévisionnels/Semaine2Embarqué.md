@@ -8,11 +8,11 @@ planning:
     00_nom: Samedi
     01_matin:
     - séance/préparation navigation
-    - séance/N2/cap
+    - séance/cap
     02_aprèsmidi:
     - séance/virements
     - séance/cape
-    - séance/N2/arrêt surface
+    - séance/arrêt surface
     03_soir:
     - topo/prép navigation
     04_conduite:
@@ -35,10 +35,10 @@ planning:
     00_nom: Dimanche
     01_matin:
     - chrono/mouillage
-    - séance/N2/réglage-de-spi
+    - séance/réglage-de-spi
     - séance/mouillage
     02_aprèsmidi:
-    - séance/N2/point rapide
+    - séance/point rapide
     - séance/rof
     - séance/calcul de cap
     03_soir:
@@ -63,8 +63,8 @@ planning:
   jour_03:
     00_nom: Lundi
     01_matin:
-    - séance/N2/accostage
-    - séance/N2/quick stop
+    - séance/accostage
+    - séance/quick stop
     02_aprèsmidi:
     - séance/ajustages près
     - séance/ajustage portant
@@ -89,9 +89,9 @@ planning:
   jour_04:
     00_nom: Mardi
     01_matin:
-    - séance/N2/point
+    - séance/point
     - séance/empannages
-    - séance/N2/relance
+    - séance/relance
     02_aprèsmidi:
     - séance/barre attachée
     - séance/surpuissance
@@ -119,7 +119,7 @@ planning:
     - séance/préparation navigation
     - séance/suivi de navigation
     02_aprèsmidi:
-    - séance/N2/estime
+    - séance/estime
     - séance/empannage sous spi
     03_soir:
     - chrono/empannage sous spi

@@ -15,7 +15,7 @@ planning:
     02_aprèsmidi:
     - séance/virements
     - séance/empannages
-    - séance/N2/point
+    - séance/point
     03_soir:
     - null
     04_conduite:

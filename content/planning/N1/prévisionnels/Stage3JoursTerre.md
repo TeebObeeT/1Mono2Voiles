@@ -10,16 +10,16 @@ planning:
     - Réunion moniteurs avec RTQ
     - Check bateau
     - Accueil stagiaires
-    - séance/N1/inventaire
-    - séance/N1/grément
-    - séance/N1/rangement
+    - séance/inventaire
+    - séance/grément
+    - séance/rangement
     02_aprèsmidi:
-    - séance/N1/départ
-    - séance/N1/allures
+    - séance/départ
+    - séance/initiation-allures
     - séance/arrêt
-    - séance/N1/initiation au près
+    - séance/initiation au près
     03_soir:
-    - séance/N1/périmètre
+    - séance/périmètre
     - chrono/virement
     - Matelotage
     04_conduite:
@@ -63,17 +63,17 @@ planning:
     01_matin:
     - chrono/prise de ris
     - séance/prise de ris
-    - séance/N1/initiation au grand largue
-    - séance/N1/mouillage
-    - séance/N1/premiers virements
+    - séance/initiation au grand largue
+    - séance/mouillage-terre
+    - séance/premiers virements
     02_aprèsmidi:
     - topo/sécurité à terre
     - chrono/rof
-    - séance/N1/repères
+    - séance/repères
     - séance/rof
     03_soir:
     - topo/allures
-    - chrono/N1/cape
+    - chrono/cape
     04_conduite:
     - 1C1.6 Différencier les allures de près des allures portantes
     - Distinction au vent / sous le vent
@@ -100,11 +100,11 @@ planning:
   jour_03:
     00_nom: Lundi
     01_matin:
-    - chrono/N1/empannage
-    - séance/N1/vent arrière
-    - séance/N1/changement de focs
+    - chrono/empannage
+    - séance/vent arrière
+    - séance/changement de focs
     - séance/cape
-    - séance/N1/premiers empannages
+    - séance/premiers empannages
     02_aprèsmidi:
     - Rangement base
     - Nettoyage bateau

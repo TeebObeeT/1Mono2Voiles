@@ -18,10 +18,10 @@ planning:
     02_aprèsmidi:
       - topo/navigation
       - topo/déplacements
-      - séance/N2/départ habitable
-      - séance/N2/liaison carte paysage
-      - séance/N2/calcul de cap
-      - séance/N2/arrêt surface
+      - séance/départ habitable
+      - séance/liaison carte paysage
+      - séance/calcul de cap
+      - séance/arrêt surface
       - topo/privilèges
     03_soir:
       - Bilan début de stage
@@ -59,18 +59,18 @@ planning:
       - chrono/prise de ris
       - séance/prise de ris
       - séance/arrêt
-      - séance/N2/allures
+      - séance/allures
       - séance/mouillage
       - topo/allures
     02_aprèsmidi:
       - chrono/virement
       - séance/virements
-      - chrono/N1/empannage
+      - chrono/empannage
       - séance/empannages
       - chrono/hissage de spi
-      - séance/N2/gréer le spi
-      - séance/N2/envoi de spi
-      - séance/N2/réglage de spi
+      - séance/gréer le spi
+      - séance/envoi de spi
+      - séance/réglage de spi
     03_soir:
       - topo/amarrage
       - topo/documents
@@ -111,10 +111,10 @@ planning:
     01_matin:
       - chrono/rof
       - séance/rof
-      - séance/N2/point
-      - séance/N2/calcul route
-      - séance/N2/cap
-      - séance/N2/réglage voiles
+      - séance/point
+      - séance/calcul route
+      - séance/cap
+      - séance/réglage voiles
     02_aprèsmidi:
       - nettoyage bateau
       - administratif

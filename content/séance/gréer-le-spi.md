@@ -1,11 +1,14 @@
 ---
 author: Teebo
 categories: [Manoeuvre]
-date: 2017-01-05T13:34:47+01:00
+date: 2017-03-09T10:09:55+01:00
 niveaux:
-- Niveau-1
+- Niveau-2
 postes:
 - null
+previsionnels:
+- stage embarqué N2
+- Groupe embarqué 3j
 seance:
   00_prereq:
   - null
@@ -23,9 +26,10 @@ seance:
   - ... dans les poulies de renvois dans le bon sens
   - bras, écoute et drisse sont frappés au même niveau
   - Le chemin de la drisse est correct
+  - Le tangon est du bon côté
   06_consignes:
   - Préparer un envoi de spi en visualisant la voile gonflée devant le bateau
-  - Ne jamais lâcher la drisse non attachée
+  - Ne jamais lâcher la drisse / le hale-haut non attachée
   - Utiliser les barbers haulers
   - Attacher le sac de spi
   - Vérifier que le spi ne peut pas tomber à l'eau
@@ -35,17 +39,15 @@ seance:
   08_didac:
     moins:
     - Le moniteur aide à la mise en place en donnant des indices
+    - Sans tangon
     plus:
-    - Préparer le tangon égalemment
+    - Gréer en route
   09_meteo:
     moins:
     - Faire la préparation en route
     - Hisser le spi à sec
     plus:
-    - null
+    -
 tags: [Spi, Gréer]
 title: gréer le spi
-previsionnels:
-  - Stage Terre N1
-  - Semi emb terre N1
 ---

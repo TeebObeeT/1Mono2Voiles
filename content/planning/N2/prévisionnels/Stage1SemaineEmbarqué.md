@@ -47,17 +47,17 @@ planning:
   jour_02:
     00_nom: Dimanche
     01_matin:
-    - séance/N2/départ habitable
-    - séance/N2/liaison carte paysage
-    - séance/N2/calcul de cap
-    - séance/N2/arrêt surface
+    - séance/départ habitable
+    - séance/liaison carte paysage
+    - séance/calcul de cap
+    - séance/arrêt surface
     - topo/privilèges
     - topo/déplacements
     02_aprèsmidi:
     - chrono/prise de ris
     - séance/prise de ris
     - séance/arrêt
-    - séance/N2/allures
+    - séance/allures
     - chrono/virement
     - séance/virements
     03_soir:
@@ -96,18 +96,18 @@ planning:
     - chrono/mouillage
     - chrono/hissage de spi
     - séance/empannages
-    - séance/N2/gréer le spi
-    - séance/N2/envoi de spi
-    - séance/N2/réglage de spi
+    - séance/gréer le spi
+    - séance/envoi de spi
+    - séance/réglage de spi
     - séance/mouillage
     02_aprèsmidi:
     - chrono/rof
     - séance/rof
-    - séance/N2/point rapide
-    - séance/N2/calcul route
-    - séance/N2/cap
+    - séance/point rapide
+    - séance/calcul route
+    - séance/cap
     - topo/allures
-    - séance/N2/réglage voiles
+    - séance/réglage voiles
     03_soir:
     - topo/météo
     - topo/site
@@ -139,14 +139,14 @@ planning:
     01_matin:
     - chrono/quick stop
     - topo/accostage
-    - séance/N2/accostage
-    - séance/N2/quick stop
+    - séance/accostage
+    - séance/quick stop
     02_aprèsmidi:
     - topo/réglages ajustages
     - séance/ajustages près
     - séance/ajustages portant
     - séance/cape
-    - séance/N2/changement va
+    - séance/changement va
     03_soir:
     - Bilan mi-stage
     - Entretien, vérif
@@ -176,16 +176,16 @@ planning:
     01_matin:
       - topo/équilibres
       - séance/barre attachée
-      - séance/N2/point
+      - séance/point
       - séance/garder allure
       - séance/surpuissance
     02_aprèsmidi:
       - chrono/empannage sous spi
-      - séance/N2/conduite sous spi
+      - séance/conduite sous spi
       - séance/empannage sous spi
-      - séance/N2/affalage spi en urgence
-      - séance/N2/estime
-      - séance/N2/relance
+      - séance/affalage spi en urgence
+      - séance/estime
+      - séance/relance
     03_soir:
       - topo/marées
       - topo/cadre
@@ -220,8 +220,8 @@ planning:
       - séance/gagner vent
       - séance/descendre vent
     02_aprèsmidi:
-      - chrono/N2/parcours évaluatif
-      - séance/N2/parcours évaluatif
+      - chrono/parcours évaluatif
+      - séance/parcours évaluatif
       - topo/sécurité de nuit
       - topo/navigation de nuit
     03_soir:
@@ -249,7 +249,7 @@ planning:
     00_nom: Vendredi
     01_matin:
       - séance/rof
-      - séance/N2/quick stop
+      - séance/quick stop
       - rangement des affaires
     02_aprèsmidi:
       - nettoyage bateau

@@ -11,12 +11,12 @@ planning:
     - Check bateau
     02_aprèsmidi:
     - Accueil stagiaires
-    - séance/N1/inventaire
-    - séance/N1/grément
-    - séance/N1/rangement
-    - séance/N1/déplacements
+    - séance/inventaire
+    - séance/grément
+    - séance/rangement
+    - séance/déplacements
     03_soir:
-    - séance/N1/périmètre
+    - séance/périmètre
     - Matelotage
     04_conduite:
     - 1C2.1, 1C2.2 Gréer, hisser et affaler
@@ -48,16 +48,16 @@ planning:
   jour_02:
     00_nom: Dimanche
     01_matin:
-    - séance/N1/départ
-    - séance/N1/allures
+    - séance/départ
+    - séance/initiation-allures
     - séance/arrêt
-    - séance/N1/initiation au près
+    - séance/initiation au près
     02_aprèsmidi:
     - chrono/prise de ris
     - séance/prise de ris
-    - séance/N1/initiation au grand largue
-    - séance/N1/mouillage
-    - séance/N1/premiers virements
+    - séance/initiation au grand largue
+    - séance/mouillage-terre
+    - séance/premiers virements
     03_soir:
     - chrono/virement
     - topo/allures
@@ -89,16 +89,16 @@ planning:
     01_matin:
     - topo/sécurité à terre
     - chrono/rof
-    - séance/N1/repères
+    - séance/repères
     - séance/rof
     02_aprèsmidi:
-    - chrono/N1/empannage
-    - séance/N1/vent arrière
-    - séance/N1/changement de focs
+    - chrono/empannage
+    - séance/vent arrière
+    - séance/changement de focs
     - séance/cape
-    - séance/N1/premiers empannages
+    - séance/premiers empannages
     03_soir:
-    - chrono/N1/cape
+    - chrono/cape
     - topo/marées
     04_conduite:
     - 1C1.6 Différencier près/portant
@@ -125,14 +125,14 @@ planning:
   jour_04:
     00_nom: Mardi
     01_matin:
-    - séance/N1/équilibre près
-    - séance/N1/grand largue
+    - séance/équilibre près
+    - séance/grand largue
     - séance/virements
-    - séance/N1/équilibre grand largue
+    - séance/équilibre grand largue
     02_aprèsmidi:
     - topo/équilibres
     - séance/barre attachée
-    - séance/N1/près
+    - séance/près
     - séance/empannages
     03_soir:
     - Bilan de mi-stage
@@ -160,14 +160,14 @@ planning:
     00_nom: Mercredi
     01_matin:
     - topo/réglages ajustages
-    - séance/N1/ajustages à terre
-    - séance/N1/quick stop
-    - topo/N1/météo
+    - séance/ajustages à terre
+    - séance/quick stop voile
+    - topo/bulletin météo
     02_aprèsmidi:
-    - chrono/N1/hissage de spi
-    - séance/N1/gréer le spi
-    - séance/N1/hissage affalage de spi
-    - séance/N1/ajustages
+    - chrono/hissage de spi cv
+    - séance/gréer le spi
+    - séance/hissage affalage de spi
+    - séance/ajustages
     03_soir:
     - topo/cadre
     - environnement
@@ -191,12 +191,12 @@ planning:
     00_nom: Jeudi
     01_matin:
     - topo/privilèges
-    - séance/N1/banane
-    - séance/N1/évaluation
-    - séance/N1/prise de coffre
+    - séance/banane
+    - séance/évaluation
+    - séance/prise de coffre
     02_aprèsmidi:
     - topo/navigation
-    - séance/N1/promenade
+    - séance/promenade
     03_soir:
     - null
     04_conduite:
@@ -221,7 +221,7 @@ planning:
     00_nom: Vendredi
     01_matin:
     - chrono/empannage sous spi
-    - séance/N1/manipulation de tangon
+    - séance/manipulation de tangon
     - séance/empannage sous spi
     02_aprèsmidi:
     - Rangement base

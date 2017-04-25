@@ -11,9 +11,9 @@ planning:
     - Check bateau
     02_aprèsmidi:
     - Accueil stagiaires
-    - séance/N1/inventaire
-    - séance/N1/premiers virements
-    - séance/N1/périmètre
+    - séance/inventaire
+    - séance/premiers virements
+    - séance/périmètre
     - abattre-choquer
     - loffer-border
     03_soir:
@@ -40,7 +40,7 @@ planning:
     - séance/virements
     - séance/cape
     02_aprèsmidi:
-    - séance/N1/allures
+    - séance/initiation-allures
     - séance/empannages
     03_soir:
     - null
@@ -143,9 +143,9 @@ planning:
   jour_06:
     00_nom: Jeudi
     01_matin:
-    - séance/N1/vent arrière
+    - séance/vent arrière
     02_aprèsmidi:
-    - séance/N1/promenade
+    - séance/promenade
     03_soir:
     - null
     04_conduite:
@@ -167,7 +167,7 @@ planning:
   jour_07:
     00_nom: Vendredi
     01_matin:
-    - séance/N1/hissage affalage de spi
+    - séance/hissage affalage de spi
     02_aprèsmidi:
     - Rangement base
     - Nettoyage bateau
