@@ -7,11 +7,14 @@ planning:
   jour_01:
     00_nom: Samedi
     01_matin:
-    - null
+    - séance/préparation navigation
+    - séance/N2/cap
     02_aprèsmidi:
-    - null
+    - séance/virements
+    - séance/cape
+    - séance/N2/arrêt surface
     03_soir:
-    - null
+    - topo/prép navigation
     04_conduite:
     - null
     05_manoeuvre:
@@ -31,11 +34,16 @@ planning:
   jour_02:
     00_nom: Dimanche
     01_matin:
-    - null
+    - chrono/mouillage
+    - séance/N2/réglage-de-spi
+    - séance/mouillage
     02_aprèsmidi:
-    - null
+    - séance/N2/point rapide
+    - séance/rof
+    - séance/calcul de cap
     03_soir:
-    - null
+    - topo/documents
+    - instruments
     04_conduite:
     - null
     05_manoeuvre:
@@ -55,11 +63,13 @@ planning:
   jour_03:
     00_nom: Lundi
     01_matin:
-    - null
+    - séance/N2/accostage
+    - séance/N2/quick stop
     02_aprèsmidi:
-    - null
+    - séance/ajustages près
+    - séance/ajustage portant
     03_soir:
-    - null
+    - topo/réglages ajustages
     04_conduite:
     - null
     05_manoeuvre:
@@ -79,11 +89,14 @@ planning:
   jour_04:
     00_nom: Mardi
     01_matin:
-    - null
+    - séance/N2/point
+    - séance/empannages
+    - séance/N2/relance
     02_aprèsmidi:
-    - null
+    - séance/barre attachée
+    - séance/surpuissance
     03_soir:
-    - null
+    - topo/équilibres
     04_conduite:
     - null
     05_manoeuvre:
@@ -103,11 +116,13 @@ planning:
   jour_05:
     00_nom: Mercredi
     01_matin:
-    - null
+    - séance/préparation navigation
+    - séance/suivi de navigation
     02_aprèsmidi:
-    - null
+    - séance/N2/estime
+    - séance/empannage sous spi
     03_soir:
-    - null
+    - chrono/empannage sous spi
     04_conduite:
     - null
     05_manoeuvre:
@@ -127,11 +142,13 @@ planning:
   jour_06:
     00_nom: Jeudi
     01_matin:
-    - null
+    - séance/rof vs qs
     02_aprèsmidi:
-    - null
+    - séance/banane
+    - topo/navigation de nuit
+    - topo/sécurité de nuit
     03_soir:
-    - null
+    - séance/navigation tardive
     04_conduite:
     - null
     05_manoeuvre:
@@ -151,9 +168,11 @@ planning:
   jour_07:
     00_nom: Vendredi
     01_matin:
-    - null
+    - séance/empannage sous spi
     02_aprèsmidi:
-    - null
+    - nettoyage bateau
+    - bilans stage indiv rtq
+    - restitutions cirés
     03_soir:
     - null
     04_conduite:
