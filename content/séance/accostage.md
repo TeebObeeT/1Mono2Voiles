@@ -3,11 +3,13 @@ author: Teebo
 categories: [Manoeuvre]
 date: 2017-03-15T16:35:38+01:00
 niveaux:
+- Niveau-1
 - Niveau-2
 postes:
 - Barre
 previsionnels:
 - stage embarqué N2
+- Semi emb N1
 seance:
   00_prereq:
   - 2C3.2 Maintenir le navire en arrêt surface

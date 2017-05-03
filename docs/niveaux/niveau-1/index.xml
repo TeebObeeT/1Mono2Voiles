@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Niveau 1 on 1 Mono 2 Voiles</title>
+    <title>1 Mono 2 Voiles</title>
     <link>https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1/index.xml</link>
-    <description>Recent content in Niveau 1 on 1 Mono 2 Voiles</description>
+    <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/niveaux/niveau-1/index.xml" rel="self" type="application/rss+xml" />
@@ -14,23 +14,7 @@
       <pubDate>Tue, 25 Apr 2017 11:25:57 +0200</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Semaine2Embarqu%C3%A9/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;conduite&#34;&gt;Conduite&lt;/h1&gt;
-
-&lt;h1 id=&#34;manoeuvre&#34;&gt;Manoeuvre&lt;/h1&gt;
-
-&lt;h1 id=&#34;navigation&#34;&gt;Navigation&lt;/h1&gt;
-
-&lt;h1 id=&#34;sécurité&#34;&gt;Sécurité&lt;/h1&gt;
-
-&lt;h1 id=&#34;technologie&#34;&gt;Technologie&lt;/h1&gt;
-
-&lt;h1 id=&#34;vie-maritime&#34;&gt;Vie maritime&lt;/h1&gt;
-
-&lt;h1 id=&#34;environnement&#34;&gt;Environnement&lt;/h1&gt;
-
-&lt;h1 id=&#34;administratif&#34;&gt;Administratif&lt;/h1&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -254,129 +238,155 @@ Brassens est quant à lui enterré au cimetière du Py, dominant l&amp;rsquo;ét
     </item>
     
     <item>
-      <title>Prévisionnel stage à terre 3 jours</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Stage3JoursTerre/</link>
-      <pubDate>Tue, 21 Feb 2017 17:34:07 +0100</pubDate>
+      <title>navigation de nuit</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation-de-nuit/</link>
+      <pubDate>Wed, 22 Mar 2017 11:17:35 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Stage3JoursTerre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cadre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/cadre/</link>
-      <pubDate>Wed, 11 Jan 2017 12:33:05 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/cadre/</guid>
-      <description>&lt;p&gt;Aperçu de la notion de cadre, indispensable en régate mais avant tout très utile aussi pour savoir arriver où l&amp;rsquo;on veut dans un délai raisonnable.
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation-de-nuit/</guid>
+      <description>&lt;p&gt;Principes de base de la navigation de nuit
 &lt;/p&gt;
 
-&lt;h1 id=&#34;objectif-au-vent&#34;&gt;Objectif au vent&lt;/h1&gt;
+&lt;h1 id=&#34;repères-disponibles&#34;&gt;Repères disponibles&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Ligne droite possible?&lt;/li&gt;
-&lt;li&gt;Sinon, tirer des bords&lt;/li&gt;
-&lt;li&gt;Que se passe-t-il si on dépasse le compromis idéal (plus abattu)&lt;/li&gt;
-&lt;li&gt;Si le vent devient défavorable (il refuse) ?&lt;/li&gt;
-&lt;li&gt;Si le vent devient favorable (il adonne) ?&lt;/li&gt;
-&lt;li&gt;Quand doit on virer de bord au plus tard&lt;/li&gt;
-&lt;li&gt;Avantages et inconvénients de 1 virements vs plusieurs&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;objectif-sous-le-vent&#34;&gt;Objectif sous le vent&lt;/h1&gt;
+&lt;li&gt;Moins que de jour&lt;/li&gt;
+&lt;li&gt;Visible de plus loin&lt;/li&gt;
+&lt;li&gt;Mieux codifiés
 
 &lt;ul&gt;
-&lt;li&gt;Ligne droite toujours possible&lt;/li&gt;
-&lt;li&gt;Compromis cap/vitesse implique souvent de faire du grand largue
+&lt;li&gt;Explication du code en regardant la carte&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Pas toujours visible, plus dur à chercher
 
 &lt;ul&gt;
-&lt;li&gt;Plus de sécurité&lt;/li&gt;
-&lt;li&gt;Plus de confort&lt;/li&gt;
-&lt;li&gt;Plus de vitesse&lt;/li&gt;
+&lt;li&gt;Chercher par secteur, se laisser le temps de la période du feu pour chercher&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;mdash;SCHEMA&amp;mdash;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Rappel des vecteurs vents vitesse/réel/apparent&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;principes-de-navigation&#34;&gt;Principes de navigation&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Il faut tirer des bords de GL&lt;/li&gt;
-&lt;li&gt;Quand doit on empanner ?&lt;/li&gt;
-&lt;li&gt;Avantages et inconvénients de 1 empannage vs plusieurs&lt;/li&gt;
+&lt;li&gt;Passer plus loin des dangers quand c&amp;rsquo;est possible&lt;/li&gt;
+&lt;li&gt;Eviter les zones avec des dangers sans feux&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;application-sur-une-banane-régate&#34;&gt;Application sur une banane (régate)&lt;/h1&gt;
+&lt;h1 id=&#34;atterissage&#34;&gt;Atterissage&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Dessiner le cadre&lt;/li&gt;
+&lt;li&gt;Moment le plus délicat
 
-&lt;li&gt;&lt;p&gt;Donner les repères par rapport aux bouées&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;feux de la ville gênant la vue&lt;/li&gt;
+&lt;li&gt;risques liés à la proximité du port (casiers, digue,..)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;User et abuser des instructions nautiques
 
-&lt;li&gt;&lt;p&gt;Penser à l&amp;rsquo;envoi de spi&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;feux à secteur&lt;/li&gt;
+&lt;li&gt;alignement de feux&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Préparer son atterissage à l&amp;rsquo;avance (encore plus important que en temps normal)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;application-en-croisière&#34;&gt;Application en croisière&lt;/h1&gt;
+&lt;h1 id=&#34;autres-règles-générales&#34;&gt;Autres règles générales&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Se réserver un couloir pour ne pas partir trop loin si le vent tourne&lt;/li&gt;
-&lt;li&gt;Penser aux sautes de vents probables dûes au relief&lt;/li&gt;
-&lt;li&gt;Anticiper en fonction de la météo&lt;/li&gt;
-&lt;li&gt;Penser aux marées/courants&lt;/li&gt;
+&lt;li&gt;Intérieur du bateau éteint (lampe rouge)&lt;/li&gt;
+&lt;li&gt;Ne pas éblouir ses petits camarades&lt;/li&gt;
+&lt;li&gt;S&amp;rsquo;habiller chaudement&lt;/li&gt;
+&lt;li&gt;Respect des règles de sécurités (très difficile de retrouver un homme à la mer de nuit)&lt;/li&gt;
+&lt;li&gt;Boire chaud avant et ou pendant&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
     <item>
-      <title>manipulation de tangon</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/manipulation-de-tangon/</link>
-      <pubDate>Tue, 10 Jan 2017 16:48:43 +0100</pubDate>
+      <title>sécurité de nuit</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-de-nuit/</link>
+      <pubDate>Wed, 22 Mar 2017 11:17:24 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/manipulation-de-tangon/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/s%C3%A9curit%C3%A9-de-nuit/</guid>
+      <description>&lt;p&gt;Les règles essentielles de sécurité pour naviguer de nuit
+&lt;/p&gt;
+
+&lt;h1 id=&#34;sécurité-de-la-personne&#34;&gt;Sécurité de la personne&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lampe étanche sur soi pour si l&amp;rsquo;on tombe à l&amp;rsquo;eau&lt;/li&gt;
+&lt;li&gt;Toujours attaché, même dans le cockpit&lt;/li&gt;
+&lt;li&gt;Bien s&amp;rsquo;habiller (froid + fatigue font baisser la vigilance et augmenter les chances de mal de mer)&lt;/li&gt;
+&lt;li&gt;Déplacements en gardant une main pour soi (pont facilement glissant)&lt;/li&gt;
+&lt;li&gt;Pas d&amp;rsquo;alcool avant ou pendant la navigation de nuit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;sécurité-du-bateau&#34;&gt;Sécurité du bateau&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Préparer sa navigation&lt;/li&gt;
+&lt;li&gt;Observer les feux et signaler les feux mouvants (bateau)&lt;/li&gt;
+&lt;li&gt;Mettre les feux de navigation en marche&lt;/li&gt;
+&lt;li&gt;Surveiller vers l&amp;rsquo;avant les casiers et débris et les signaler avec une lampe au barreur&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;arrivée-au-port&#34;&gt;Arrivée au port&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Penser à se détacher avant la manoeuvre de port&lt;/li&gt;
+&lt;li&gt;Pas de lampe dans les yeux du barreur&lt;/li&gt;
+&lt;li&gt;Pontons glissant - pas de sauts!&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>suivi de navigation</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/suivi-de-navigation/</link>
+      <pubDate>Tue, 21 Mar 2017 14:44:41 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/suivi-de-navigation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>empannage sous spi</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi/</link>
-      <pubDate>Tue, 10 Jan 2017 15:25:57 +0100</pubDate>
+      <title>préparation navigation</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A9paration-navigation/</link>
+      <pubDate>Tue, 21 Mar 2017 14:36:37 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/empannage-sous-spi/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A9paration-navigation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>promenade</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/promenade/</link>
-      <pubDate>Tue, 10 Jan 2017 09:04:51 +0100</pubDate>
+      <title>relance</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/relance/</link>
+      <pubDate>Mon, 20 Mar 2017 14:17:43 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/promenade/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/relance/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>evaluation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/%C3%A9valuation/</link>
-      <pubDate>Mon, 09 Jan 2017 13:58:50 +0100</pubDate>
+      <title>estime</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/estime/</link>
+      <pubDate>Mon, 20 Mar 2017 14:04:43 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/%C3%A9valuation/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/estime/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>prise de coffre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/prise-de-coffre/</link>
-      <pubDate>Mon, 09 Jan 2017 11:21:00 +0100</pubDate>
+      <title>surpuissance</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/surpuissance/</link>
+      <pubDate>Fri, 17 Mar 2017 12:05:15 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/prise-de-coffre/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/surpuissance/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>banane</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/banane/</link>
-      <pubDate>Mon, 09 Jan 2017 11:06:55 +0100</pubDate>
+      <title>point</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/point/</link>
+      <pubDate>Fri, 17 Mar 2017 11:41:37 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/banane/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/point/</guid>
       <description></description>
     </item>
     

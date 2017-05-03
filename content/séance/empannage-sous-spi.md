@@ -48,5 +48,5 @@ title: empannage sous spi
 previsionnels:
   - Stage Terre N1
   - stage embarqué N2
-  - Semi emb terre N1
+  - Semi emb N1
 ---

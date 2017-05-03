@@ -10,7 +10,7 @@ title: cadre
 previsionnels:
   - Stage Terre N1
   - stage embarqué N2
-  - Semi emb terre N1
+  - Semi emb N1
 ---
 Aperçu de la notion de cadre, indispensable en régate mais avant tout très utile aussi pour savoir arriver où l'on veut dans un délai raisonnable.
 <!--more-->

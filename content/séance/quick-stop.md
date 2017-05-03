@@ -3,11 +3,13 @@ author: Teebo
 categories: [Sécurité]
 date: 2017-03-15T16:41:17+01:00
 niveaux:
+- Niveau-1
 - Niveau-2
 postes:
 - null
 previsionnels:
 - stage embarqué N2
+- Semi emb N1
 seance:
   00_prereq:
   - null

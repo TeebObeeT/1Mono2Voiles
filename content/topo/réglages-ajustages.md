@@ -10,6 +10,7 @@ title: réglages ajustages
 previsionnels:
   - Stage Terre N1
   - stage embarqué N2
+  - Semi emb N1
 ---
 Différences entre réglages et ajustages ainsi que les premières pistes pour optimiser ses voiles...On parlera ici du cas de la navigation en finesse.
 

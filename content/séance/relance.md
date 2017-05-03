@@ -3,12 +3,14 @@ author: Teebo
 categories: [Manoeuvre]
 date: 2017-03-20T14:17:43+01:00
 niveaux:
+- Niveau-1
 - Niveau-2
 postes:
 - Barre
 - GV
 previsionnels:
 - stage embarqué N2
+- Semi emb N1
 seance:
   00_prereq:
   - Virements

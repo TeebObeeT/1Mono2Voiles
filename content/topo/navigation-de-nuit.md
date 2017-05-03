@@ -1,11 +1,13 @@
 ---
 author: Teebo
-categories: []
+categories: [Navigation]
 date: 2017-03-22T11:17:35+01:00
 niveaux:
+- Niveau-1
 - Niveau-2
 previsionnels:
 - stage embarqué N2
+- Semi emb N1
 tags: [Nuit]
 title: navigation de nuit
 ---

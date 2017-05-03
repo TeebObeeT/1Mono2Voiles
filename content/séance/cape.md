@@ -49,5 +49,5 @@ previsionnels:
   - Stage Terre N1
   - Stage Terre N1 3J
   - stage embarqué N2
-  - Semi emb terre N1
+  - Semi emb N1
 ---

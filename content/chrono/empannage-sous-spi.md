@@ -16,6 +16,7 @@ title: empannage sous spi
 previsionnels:
   - Stage Terre N1
   - stage embarqué N2
+  - Semi emb N1
 ---
 L'empannage sous spi tangonné peut paraître difficile, ce n'est pas le cas. C'est une opération longue qui devient difficile si on doit l'effectuer rapidement et mal préparée.
 

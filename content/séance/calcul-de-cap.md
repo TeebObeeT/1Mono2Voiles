@@ -3,6 +3,7 @@ author: Teebo
 categories: [Navigation]
 date: 2017-03-06T13:38:34+01:00
 niveaux:
+- Niveau-1
 - Niveau-2
 postes:
 - Navigateur
@@ -43,6 +44,7 @@ seance:
 previsionnels:
 - stage embarqué N2
 - Groupe embarqué 3j
+- Semi emb N1
 tags: []
 title: calcul de cap
 ---

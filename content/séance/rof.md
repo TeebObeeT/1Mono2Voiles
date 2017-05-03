@@ -4,7 +4,7 @@ categories: [Manoeuvre, Sécurité]
 date: 2016-12-04T10:15:07+01:00
 niveaux:
 - Niveau-1
-- Niveau-2
+- Niveau-2  
 postes:
 - Barre
 seance:
@@ -47,5 +47,5 @@ previsionnels:
   - Stage Terre N1 3J
   - stage embarqué N2
   - Groupe embarqué 3j
-  - Semi emb terre N1
+  - Semi emb N1
 ---

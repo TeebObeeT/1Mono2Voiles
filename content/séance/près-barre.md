@@ -41,6 +41,6 @@ seance:
     - Réduire la voilure (ris)
 tags: [Près]
 previsionnels:
-  - Semi emb terre N1
+  - Semi emb N1
 title: près barre
 ---

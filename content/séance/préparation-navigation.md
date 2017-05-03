@@ -3,11 +3,13 @@ author: Teebo
 categories: [Navigation]
 date: 2017-03-21T14:36:37+01:00
 niveaux:
+- Niveau-1
 - Niveau-2
 postes:
 - Navigateur
 previsionnels:
 - stage embarqué N2
+- Semi emb N1
 seance:
   00_prereq:
   - null

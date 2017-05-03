@@ -3,12 +3,14 @@ author: Teebo
 categories: [Conduite]
 date: 2017-03-09T10:23:52+01:00
 niveaux:
+- Niveau-1
 - Niveau-2
 postes:
 - Ecoute
 previsionnels:
 - stage embarqué N2
 - Groupe embarqué 3j
+- Semi emb N1
 seance:
   00_prereq:
   - Hissage affalage de spi

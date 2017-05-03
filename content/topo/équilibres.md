@@ -10,7 +10,7 @@ title: equilibres
 previsionnels:
   - Stage Terre N1
   - stage embarqué N2
-  - Semi emb terre N1
+  - Semi emb N1
 ---
 Il s'agit ici d'une introduction aux équilibres hydro/aéro qui font que le bateau avance, gîte, ne se retourne pas,...
 

@@ -3,12 +3,14 @@ author: Teebo
 categories: [Conduite]
 date: 2017-03-17T12:05:15+01:00
 niveaux:
+- Niveau-1
 - Niveau-2
 postes:
 - GV
 - Barre
 previsionnels:
 - stage embarqué N2
+- Semi emb N1
 seance:
   00_prereq:
   - équilibres

@@ -1,12 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Navigation on 1 Mono 2 Voiles</title>
+    <title>1 Mono 2 Voiles</title>
     <link>https://teebobeet.github.io/1Mono2Voiles/categories/navigation/index.xml</link>
-    <description>Recent content in Navigation on 1 Mono 2 Voiles</description>
+    <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/categories/navigation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>navigation tardive</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/navigation-tardive/</link>
+      <pubDate>Wed, 22 Mar 2017 11:17:49 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/navigation-tardive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>navigation de nuit</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation-de-nuit/</link>
+      <pubDate>Wed, 22 Mar 2017 11:17:35 +0100</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation-de-nuit/</guid>
+      <description>&lt;p&gt;Principes de base de la navigation de nuit
+&lt;/p&gt;
+
+&lt;h1 id=&#34;repères-disponibles&#34;&gt;Repères disponibles&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Moins que de jour&lt;/li&gt;
+&lt;li&gt;Visible de plus loin&lt;/li&gt;
+&lt;li&gt;Mieux codifiés
+
+&lt;ul&gt;
+&lt;li&gt;Explication du code en regardant la carte&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Pas toujours visible, plus dur à chercher
+
+&lt;ul&gt;
+&lt;li&gt;Chercher par secteur, se laisser le temps de la période du feu pour chercher&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;principes-de-navigation&#34;&gt;Principes de navigation&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Passer plus loin des dangers quand c&amp;rsquo;est possible&lt;/li&gt;
+&lt;li&gt;Eviter les zones avec des dangers sans feux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;atterissage&#34;&gt;Atterissage&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Moment le plus délicat
+
+&lt;ul&gt;
+&lt;li&gt;feux de la ville gênant la vue&lt;/li&gt;
+&lt;li&gt;risques liés à la proximité du port (casiers, digue,..)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;User et abuser des instructions nautiques
+
+&lt;ul&gt;
+&lt;li&gt;feux à secteur&lt;/li&gt;
+&lt;li&gt;alignement de feux&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Préparer son atterissage à l&amp;rsquo;avance (encore plus important que en temps normal)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;autres-règles-générales&#34;&gt;Autres règles générales&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intérieur du bateau éteint (lampe rouge)&lt;/li&gt;
+&lt;li&gt;Ne pas éblouir ses petits camarades&lt;/li&gt;
+&lt;li&gt;S&amp;rsquo;habiller chaudement&lt;/li&gt;
+&lt;li&gt;Respect des règles de sécurités (très difficile de retrouver un homme à la mer de nuit)&lt;/li&gt;
+&lt;li&gt;Boire chaud avant et ou pendant&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>parcours évaluatif</title>
@@ -625,71 +696,6 @@ Le grain à pluie &amp;lsquo;rejette&amp;rsquo; de l&amp;rsquo;air par son centr
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/liaison-carte-paysage/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>promenade</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/promenade/</link>
-      <pubDate>Tue, 10 Jan 2017 09:04:51 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/promenade/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>navigation</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</link>
-      <pubDate>Sun, 08 Jan 2017 14:36:04 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</guid>
-      <description>&lt;p&gt;Introduction rapide à la carte marine, aux amers ainsi qu&amp;rsquo;aux principes de navigations
-&lt;/p&gt;
-
-&lt;h1 id=&#34;la-carte-marine&#34;&gt;La carte marine&lt;/h1&gt;
-
-&lt;h2 id=&#34;couleurs-et-significations&#34;&gt;Couleurs et significations&lt;/h2&gt;
-
-&lt;h2 id=&#34;lignes-isobates-et-utilité&#34;&gt;Lignes isobates et utilité&lt;/h2&gt;
-
-&lt;h3 id=&#34;utilisation-en-méditérranée&#34;&gt;Utilisation en méditérranée&lt;/h3&gt;
-
-&lt;h3 id=&#34;utilisation-en-manche-atlantique&#34;&gt;Utilisation en manche/atlantique&lt;/h3&gt;
-
-&lt;h1 id=&#34;amers&#34;&gt;Amers&lt;/h1&gt;
-
-&lt;h2 id=&#34;naturels&#34;&gt;Naturels&lt;/h2&gt;
-
-&lt;h2 id=&#34;construits&#34;&gt;Construits&lt;/h2&gt;
-
-&lt;h2 id=&#34;de-navigation&#34;&gt;De navigation&lt;/h2&gt;
-
-&lt;h3 id=&#34;cardinaux&#34;&gt;Cardinaux&lt;/h3&gt;
-
-&lt;h3 id=&#34;de-chenaux&#34;&gt;De chenaux&lt;/h3&gt;
-
-&lt;h3 id=&#34;autres&#34;&gt;Autres&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Eau saine&lt;/li&gt;
-&lt;li&gt;Marque spéciale&lt;/li&gt;
-&lt;li&gt;Danger isolé&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;navigation&#34;&gt;Navigation&lt;/h1&gt;
-
-&lt;h2 id=&#34;principe-1-savoir-où-l-on-est&#34;&gt;Principe 1: Savoir où l&amp;rsquo;on est&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Faire le point&lt;/li&gt;
-&lt;li&gt;Plus important de savoir où l&amp;rsquo;on n&amp;rsquo;est pas (cailloux, côte, &amp;hellip;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;savoir-où-l-on-va&#34;&gt;Savoir où l&amp;rsquo;on va&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Trouver un cap&lt;/li&gt;
-&lt;li&gt;Corriger un cap &lt;em&gt;(Déclinaison, Dérive (attention à la direction du vent))&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
   </channel>

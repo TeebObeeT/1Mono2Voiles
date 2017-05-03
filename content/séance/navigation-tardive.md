@@ -1,6 +1,6 @@
 ---
 author: Teebo
-categories: []
+categories: [Navigation]
 date: 2017-03-22T11:17:49+01:00
 niveaux:
 - Niveau-2

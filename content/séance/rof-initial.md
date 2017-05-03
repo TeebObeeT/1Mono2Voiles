@@ -7,7 +7,7 @@ niveaux:
 postes:
 - null
 previsionnels:
-  - Semi emb terre N1
+  - Semi emb N1
 seance:
   00_prereq:
   - 1C1.6 Différencier les allures de près des allures portantes

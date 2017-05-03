@@ -14,15 +14,24 @@ planning:
     - séance/cape
     - séance/arrêt surface
     03_soir:
-    - topo/prép navigation
+    - topo/prép navigation *
     04_conduite:
-    - null
+    - 2C1.2 Conserver une trajectoire fixe
+    - 2C1.6 Suivre un cap ou un alignement
+    - 2C3.2 Maintenir le navire en arrêt surface
     05_manoeuvre:
-    - null
+    - 1M1.1 Utiliser la barre pour changer d’amure
+    - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
+    - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
+    - 2M1.1 Virer de bord et empanner sans s’arrêter
     06_navigation:
-    - null
+    - 2N1.1 Repérer les dangers éventuels sur le parcours proposé
+    - 2N1.2 Participer à l’élaboration d’une route
+    - 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
     07_sécurité:
-    - null
+    - 1S1.2 Savoir utiliser les winches en sécurité
+    - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
+    - 2S2.1 Se regrouper
     08_technologie:
     - null
     09_viemaritime:
@@ -45,13 +54,15 @@ planning:
     - topo/documents
     - instruments
     04_conduite:
-    - null
+    - 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage
+    - 2C3.1 Réguler la vitesse
     05_manoeuvre:
-    - null
+    - 2M3.2 Appareiller ou quitter un mouillage ou un coffre au moteur
     06_navigation:
-    - null
+    - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
     07_sécurité:
-    - null
+    - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
+    - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
     08_technologie:
     - null
     09_viemaritime:
@@ -71,13 +82,13 @@ planning:
     03_soir:
     - topo/réglages ajustages
     04_conduite:
-    - null
+    - 3C2.3 Régler le volume des voiles en statique (halebas, cunningham, bordure, lattes)
     05_manoeuvre:
-    - null
+    - 2M4.1 Appareiller et accoster une place de port
     06_navigation:
     - null
     07_sécurité:
-    - null
+    - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
     08_technologie:
     - null
     09_viemaritime:
@@ -98,11 +109,15 @@ planning:
     03_soir:
     - topo/équilibres
     04_conduite:
-    - null
+    - 2C1.3 Choquer ou border la voile pour compenser un déséquilibre
+    - 4C2.1 Connaître les principes de l’aérodynamique et de l’hydrodynamique impliqués dans la propulsion et l’équilibre des navires à voiles
     05_manoeuvre:
-    - null
+    - 1M1.1 Utiliser la barre pour changer d’amure
+    - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
+    - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
+    - 2M1.1 Virer de bord et empanner sans s’arrêter
     06_navigation:
-    - null
+    - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
     07_sécurité:
     - null
     08_technologie:
@@ -126,9 +141,14 @@ planning:
     04_conduite:
     - null
     05_manoeuvre:
-    - null
+    - 3M2.3 Réaliser les manœuvres relatives au spinnaker
     06_navigation:
-    - null
+    - 2N1.1 Repérer les dangers éventuels sur le parcours proposé
+    - 2N1.2 Participer à l’élaboration d’une route
+    - 2N1.3 Connaître et utiliser les documents nautiques du bord
+    - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
+    - 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
+    - 3N1.6 Entretenir son positionnement sans visibilité ou éloigné de la côte
     07_sécurité:
     - null
     08_technologie:
@@ -142,7 +162,7 @@ planning:
   jour_06:
     00_nom: Jeudi
     01_matin:
-    - séance/rof vs qs
+    - séance/rof vs qs *
     02_aprèsmidi:
     - séance/banane
     - topo/navigation de nuit
@@ -150,13 +170,14 @@ planning:
     03_soir:
     - séance/navigation tardive
     04_conduite:
-    - null
+    - 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
     05_manoeuvre:
     - null
     06_navigation:
-    - null
+    - 2N1.1 Repérer les dangers éventuels sur le parcours proposé
+    - 2N1.2 Participer à l’élaboration d’une route
     07_sécurité:
-    - null
+    - 2S1.2 Se déplacer et agir en limitant les risques
     08_technologie:
     - null
     09_viemaritime:
@@ -178,7 +199,7 @@ planning:
     04_conduite:
     - null
     05_manoeuvre:
-    - null
+    - 3M2.3 Réaliser les manœuvres relatives au spinnaker
     06_navigation:
     - null
     07_sécurité:
@@ -193,25 +214,8 @@ planning:
     - null
 prevision: true
 previsionnels:
-- null
+- Semi emb N1
 semaine: stage 1 semaine à terre
 tags: []
 title: PrévisionnelSemaine2Embarqué
 ---
-
-<!--more-->
-# Conduite
-
-# Manoeuvre
-
-# Navigation
-
-# Sécurité
-
-# Technologie
-
-# Vie maritime
-
-# Environnement
-
-# Administratif

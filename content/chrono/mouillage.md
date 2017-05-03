@@ -3,6 +3,7 @@ author: Teebo
 categories: [Manoeuvre]
 date: 2017-03-09T09:44:22+01:00
 niveaux:
+- Niveau-1
 - Niveau-2
 postes:
 - N1
@@ -11,6 +12,7 @@ postes:
 previsionnels:
 - stage embarqué N2
 - Groupe embarqué 3j
+- Semi emb N1
 tags: [Mouillage]
 title: mouillage
 ---
