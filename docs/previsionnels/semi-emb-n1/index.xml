@@ -9,6 +9,131 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/previsionnels/semi-emb-n1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>prép navigation</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/pr%C3%A9p-navigation/</link>
+      <pubDate>Thu, 04 May 2017 17:07:03 +0200</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/pr%C3%A9p-navigation/</guid>
+      <description>&lt;p&gt;Comment préparer correctement une navigation. Ceci se fait avant de partir quand on est en navigation côtière.
+&lt;/p&gt;
+
+&lt;h1 id=&#34;préparation&#34;&gt;Préparation&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;prendre la météo&lt;/li&gt;
+&lt;li&gt;calculer la marée sur le port de départ&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;où-va-ton&#34;&gt;Où va-ton?&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;A quelle heure peut-on partir?&lt;/li&gt;
+&lt;li&gt;Quelle durée de navigation envisage-t-on?&lt;/li&gt;
+&lt;li&gt;Vitesse approximative aux différentes allures&lt;/li&gt;
+&lt;li&gt;Quels sont les escales que l&amp;rsquo;on peut considérer&lt;/li&gt;
+&lt;li&gt;Où pourrait-on se trouver le lendemain/surlendemain en fonction des étapes imposées.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;si-ça-ne-marche-pas&#34;&gt;Si ça ne marche pas&lt;/h1&gt;
+
+&lt;h2 id=&#34;port-de-repli&#34;&gt;Port de repli&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;On doit toujours, à tout moment de la navigation, avoir un port de repli vers lequel se diriger.&lt;/li&gt;
+&lt;li&gt;De manière générale, il faut que le port soit accessible avec la marée actuelle et le vent actuel au portant (! courants)&lt;/li&gt;
+&lt;li&gt;Aucune considération sur le confort du port, il s&amp;rsquo;agit d&amp;rsquo;un élément de sécurité.&lt;/li&gt;
+&lt;li&gt;Au départ, le port de repli est souvent le port de départ.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;option&#34;&gt;Option&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;On peut également prévoir une option plus lointaine si jamais on avance plus que prévu ou que l&amp;rsquo;on souhaite prolonger par rapport au plan initial.&lt;/li&gt;
+&lt;li&gt;Une option plus courte peut aussi être envisagée.&lt;/li&gt;
+&lt;li&gt;Ici, le confort de l&amp;rsquo;escale est pris en compte dans les choix.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;savoir-où-l-on-va-être&#34;&gt;Savoir où l&amp;rsquo;on va être&lt;/h1&gt;
+
+&lt;p&gt;Préparer un tableau&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vent: N 2à3&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Marées: &amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Phase&lt;/th&gt;
+&lt;th&gt;Amer Babord&lt;/th&gt;
+&lt;th&gt;Cap compas&lt;/th&gt;
+&lt;th&gt;Cap carte&lt;/th&gt;
+&lt;th&gt;Alignement?&lt;/th&gt;
+&lt;th&gt;Amer tribord&lt;/th&gt;
+&lt;th&gt;Repli&lt;/th&gt;
+&lt;th&gt;Heure prévue&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Départ&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Chenal vert&lt;/td&gt;
+&lt;td&gt;180°&lt;/td&gt;
+&lt;td&gt;178°&lt;/td&gt;
+&lt;td&gt;Phare du port avec phare de la jetée&lt;/td&gt;
+&lt;td&gt;Chenal rouge&lt;/td&gt;
+&lt;td&gt;port A&lt;/td&gt;
+&lt;td&gt;8:30&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Antenne A (2M entre 300° et 320°&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Sud xy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Direction port B&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Sud xy à 80°&lt;/td&gt;
+&lt;td&gt;100°&lt;/td&gt;
+&lt;td&gt;90°&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;Nord yz&lt;/td&gt;
+&lt;td&gt;port B&lt;/td&gt;
+&lt;td&gt;9:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;Ne pas hésiter à utiliser du symbolisme&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;vérifier-où-l-on-ne-peut-pas-être&#34;&gt;Vérifier où l&amp;rsquo;on ne peut pas être&lt;/h1&gt;
+
+&lt;p&gt;Définir des zones à éviter avec des relèvements de sécurité à ne pas dépasser
+Barrer sur la carte&lt;/p&gt;
+
+&lt;p&gt;Toute cette préparation permet de suivre la navigation sereinement sur le pont et d&amp;rsquo;anticiper.
+Toujours bien visualiser le port de repli quand on est sur l&amp;rsquo;eau (ou sa direction)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>PrévisionnelSemaine2Embarqué</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Semaine2Embarqu%C3%A9/</link>
       <pubDate>Tue, 25 Apr 2017 11:25:57 +0200</pubDate>
@@ -212,15 +337,6 @@
       <pubDate>Thu, 16 Mar 2017 09:52:53 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/ajustages-pr%C3%A8s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quick stop</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/quick-stop/</link>
-      <pubDate>Wed, 15 Mar 2017 16:41:17 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/quick-stop/</guid>
       <description></description>
     </item>
     
