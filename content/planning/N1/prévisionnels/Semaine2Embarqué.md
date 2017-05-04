@@ -14,7 +14,7 @@ planning:
     - séance/cape
     - séance/arrêt surface
     03_soir:
-    - topo/prép navigation *
+    - topo/prép navigation
     04_conduite:
     - 2C1.2 Conserver une trajectoire fixe
     - 2C1.6 Suivre un cap ou un alignement
