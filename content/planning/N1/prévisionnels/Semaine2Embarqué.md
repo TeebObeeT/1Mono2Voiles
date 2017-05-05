@@ -156,7 +156,7 @@ planning:
   jour_06:
     00_nom: Jeudi
     01_matin:
-    - séance/rof vs qs *
+    - séance/rof vs qs
     02_aprèsmidi:
     - séance/banane
     - topo/navigation de nuit
@@ -172,6 +172,7 @@ planning:
     - 2N1.2 Participer à l’élaboration d’une route
     07_sécurité:
     - 2S1.2 Se déplacer et agir en limitant les risques
+    - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
     08_technologie:
     - null
     09_viemaritime:
@@ -211,7 +212,7 @@ planning:
 prevision: true
 previsionnels:
 - Semi emb N1
-semaine: stage 1 semaine à terre
+semaine: stage 2 semaines semi-embarqué - 2ème semaine embarquée
 tags: []
 title: PrévisionnelSemaine2Embarqué
 ---

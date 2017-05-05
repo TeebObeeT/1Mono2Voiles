@@ -6,8 +6,17 @@
     <description>Recent content in Séance-rsses on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 23 Apr 2017 14:30:17 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 14:21:48 +0200</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>rof vs qs</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rof-vs-qs/</link>
+      <pubDate>Fri, 05 May 2017 14:21:48 +0200</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/rof-vs-qs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>rof initial</title>
@@ -132,15 +141,6 @@
       <pubDate>Fri, 17 Mar 2017 11:58:34 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/garder-allure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>point</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/point/</link>
-      <pubDate>Fri, 17 Mar 2017 11:41:37 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/point/</guid>
       <description></description>
     </item>
     
