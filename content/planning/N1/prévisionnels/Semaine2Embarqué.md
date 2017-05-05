@@ -20,14 +20,11 @@ planning:
     - 2C1.6 Suivre un cap ou un alignement
     - 2C3.2 Maintenir le navire en arrêt surface
     05_manoeuvre:
-    - 1M1.1 Utiliser la barre pour changer d’amure
-    - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
-    - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
-    - 2M1.1 Virer de bord et empanner sans s’arrêter
+    - 1M1.1,2,3 virements
+    - 2M1.1 Virer de bord sans s’arrêter
     06_navigation:
-    - 2N1.1 Repérer les dangers éventuels sur le parcours proposé
-    - 2N1.2 Participer à l’élaboration d’une route
-    - 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
+    - 2N1.1,2 Repérer les dangers éventuels et élaborer une route
+    - 2N2.2 Prendre et considérer la météo
     07_sécurité:
     - 1S1.2 Savoir utiliser les winches en sécurité
     - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
@@ -53,13 +50,14 @@ planning:
     03_soir:
     - topo/documents
     - instruments
+    - environnement
     04_conduite:
-    - 2C1.10 Conduire sous spinnaker par vent faible en évitant l’empannage
+    - 2C1.10 Conduire sous spinnaker
     - 2C3.1 Réguler la vitesse
     05_manoeuvre:
     - 2M3.2 Appareiller ou quitter un mouillage ou un coffre au moteur
     06_navigation:
-    - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
+    - 2N1.4 Faire un point
     07_sécurité:
     - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
     - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
@@ -68,7 +66,8 @@ planning:
     09_viemaritime:
     - null
     10_environnement:
-    - null
+    - 1E1.1,2 Oiseaux
+    - 1E3.2 Connaître l’histoire d’un amer appartenant au patrimoine maritime
     11_administratif:
     - null
   jour_03:
@@ -81,8 +80,9 @@ planning:
     - séance/ajustage portant
     03_soir:
     - topo/réglages ajustages
+    - réparations
     04_conduite:
-    - 3C2.3 Régler le volume des voiles en statique (halebas, cunningham, bordure, lattes)
+    - 3C2.3 Régler les voiles (halebas, cunningham, bordure, lattes)
     05_manoeuvre:
     - 2M4.1 Appareiller et accoster une place de port
     06_navigation:
@@ -90,7 +90,7 @@ planning:
     07_sécurité:
     - 2S2.2 Expérimenter les manœuvres courantes de sécurité dans des conditions aménagées
     08_technologie:
-    - null
+    - 1T4.1 Participer aux réparations simples avec le moniteur
     09_viemaritime:
     - null
     10_environnement:
@@ -110,12 +110,10 @@ planning:
     - topo/équilibres
     04_conduite:
     - 2C1.3 Choquer ou border la voile pour compenser un déséquilibre
-    - 4C2.1 Connaître les principes de l’aérodynamique et de l’hydrodynamique impliqués dans la propulsion et l’équilibre des navires à voiles
+    - 4C2.1 Aéro/hydro
     05_manoeuvre:
-    - 1M1.1 Utiliser la barre pour changer d’amure
-    - 1M1.2 Se déplacer pour changer de côté sans compromettre la manœuvre
-    - 1M1.3 S’assurer que l’équipage est prêt à la manœuvre
-    - 2M1.1 Virer de bord et empanner sans s’arrêter
+    - 1M1.1,2,3 Empannages
+    - 2M1.1 Empanner sans s’arrêter
     06_navigation:
     - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
     07_sécurité:
@@ -143,12 +141,8 @@ planning:
     05_manoeuvre:
     - 3M2.3 Réaliser les manœuvres relatives au spinnaker
     06_navigation:
-    - 2N1.1 Repérer les dangers éventuels sur le parcours proposé
-    - 2N1.2 Participer à l’élaboration d’une route
-    - 2N1.3 Connaître et utiliser les documents nautiques du bord
-    - 2N1.4 Déterminer sa position en vue de la terre et la matérialiser sur une carte
-    - 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
-    - 3N1.6 Entretenir son positionnement sans visibilité ou éloigné de la côte
+    - 2N1.1,2,3,4 Préparer une navigation
+    - 3N1.6 Estime
     07_sécurité:
     - null
     08_technologie:
@@ -170,7 +164,7 @@ planning:
     03_soir:
     - séance/navigation tardive
     04_conduite:
-    - 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
+    - 2C1.5 Gagner au vent ou sous le vent
     05_manoeuvre:
     - null
     06_navigation:
@@ -207,11 +201,13 @@ planning:
     08_technologie:
     - null
     09_viemaritime:
-    - null
+    - 1V2.1 Participer aux tâches collectives
     10_environnement:
     - null
     11_administratif:
-    - null
+    - Bilan collectif
+    - Bilans individuels
+    - Bilan RTQ
 prevision: true
 previsionnels:
 - Semi emb N1

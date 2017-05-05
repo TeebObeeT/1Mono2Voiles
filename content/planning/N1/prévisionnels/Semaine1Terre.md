@@ -19,25 +19,21 @@ planning:
     - séance/périmètre
     - Matelotage
     04_conduite:
-    - 1C2.1 Gréer, hisser et affaler le foc et la grand-voile
-    - 1C2.2 Gréer les écoutes et les bosses
+    - 1C2.1, 2 Gréer le bateau
     05_manoeuvre:
     - null
     06_navigation:
-    - 1N1.1 Se situer approximativement sur une carte en faisant le lien avec le paysage
+    - 1N1.1 Liaison carte/paysage
     07_sécurité:
     - 1S1.1 Rester attentif aux conseils de sécurité
     - 1S1.3 Se déplacer en équilibre sur tout le navire
     08_technologie:
-    - 1T1.1 Faire deux nœuds marins
-    - 1T1.2 Utilisation des équipements nautiques
+    - 1T1.1,2 Utilisation
     - 1T2.1 Points du navire à vérifier
     - 1T3.1,2 Ranger, plier
     - 1T4.1 Participer aux réparations simples avec le moniteur
     09_viemaritime:
-    - 1V1.2 Organiser le rangement de ses effets personnels
-    - 1V1.3 Exprimer ses attentes
-    - 1V1.1 S’équiper avec le matériel proposé
+    - 1V1.1,2,3 Organisation individuelle
     10_environnement:
     - null
     11_administratif:
@@ -151,9 +147,9 @@ planning:
     - topo/privilèges
     04_conduite:
     - 2C3.1 Réguler la vitesse
-    - 2C1.5 Choisir des trajectoires permettant de gagner au vent ou sous le vent
+    - 2C1.5 Gagner au vent ou sous le vent
     05_manoeuvre:
-    - 1M4.1 Participer aux manœuvres d’entrée et de sortie de port
+    - 1M4.1 Entrée et de sortie de port
     06_navigation:
     - 1N4.2 Connaître la base des privilèges de route
     07_sécurité:
@@ -212,7 +208,7 @@ planning:
     04_conduite:
     - null
     05_manoeuvre:
-    - 3M2.3 Réaliser les manœuvres relatives au spinnaker
+    - 3M2.3 manœuvres de spi
     06_navigation:
     - null
     07_sécurité:
