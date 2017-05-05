@@ -45,7 +45,7 @@ seance:
     - Moniteur seulement "secrétaire + chrono" (muet)
   09_meteo:
     moins:
-    - 2 équipiers seulement
+    - barreur + 1 équipier seulement
     plus:
     - Réduire la voilure (ris)
     - Attachés dès que Bob est à l'eau (sur accident)
