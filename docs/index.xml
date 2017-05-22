@@ -6,8 +6,17 @@
     <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 05 May 2017 14:21:48 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 08:43:09 +0200</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>pilotage</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pilotage/</link>
+      <pubDate>Mon, 22 May 2017 08:43:09 +0200</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pilotage/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>rof vs qs</title>
@@ -565,15 +574,6 @@ Brassens est quant à lui enterré au cimetière du Py, dominant l&amp;rsquo;ét
 &lt;li&gt;&lt;em&gt;Bob peut être fait à tout moment&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Changement de parcours sur un autre amer ou utiliser l&amp;rsquo;amer pour la descente et faire une remontée au cap ou à l&amp;rsquo;allure&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>descendre vent</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/descendre-vent/</link>
-      <pubDate>Tue, 21 Mar 2017 15:26:58 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/descendre-vent/</guid>
-      <description></description>
     </item>
     
   </channel>

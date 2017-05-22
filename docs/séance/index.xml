@@ -6,8 +6,17 @@
     <description>Recent content in Séance-rsses on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 05 May 2017 14:21:48 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 08:43:09 +0200</lastBuildDate>
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>pilotage</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pilotage/</link>
+      <pubDate>Mon, 22 May 2017 08:43:09 +0200</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pilotage/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>rof vs qs</title>
@@ -132,15 +141,6 @@
       <pubDate>Fri, 17 Mar 2017 12:05:15 +0100</pubDate>
       
       <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/surpuissance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>garder allure</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/garder-allure/</link>
-      <pubDate>Fri, 17 Mar 2017 11:58:34 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/garder-allure/</guid>
       <description></description>
     </item>
     

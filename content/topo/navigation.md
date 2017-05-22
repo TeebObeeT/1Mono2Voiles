@@ -54,3 +54,9 @@ Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navi
 
 * Trouver un cap
 * Corriger un cap *(Déclinaison, Dérive (attention à la direction du vent))*
+
+# Pilotage
+
+* Importance des alignements
+* Ne pas hésiter à ralentir
+* Faire un point impossible

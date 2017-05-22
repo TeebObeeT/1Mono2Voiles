@@ -47,11 +47,12 @@ planning:
     01_matin:
     - séance/initiation-allures
     - séance/arrêt
+    - séance/mouillage terre
     02_aprèsmidi:
-    - topo/allures
     - séance/premiers virements
     - séance/près
     03_soir:
+    - topo/allures
     - chrono/virement
     04_conduite:
     - 1C1.1,2,3,4 Utilisation voile/barre pour avancer et ralentir
@@ -80,10 +81,11 @@ planning:
     - séance/cape
     - séance/empannages
     02_aprèsmidi:
-    - topo/navigation
+    - séance/pilotage
     - séance/virements
     - séance/grand largue
     03_soir:
+    - topo/navigation
     - topo/équilibres
     04_conduite:
     - 1C1.6 Différencier près/portant
@@ -113,17 +115,17 @@ planning:
     - séance/barre attachée
     - séance/près barre
     02_aprèsmidi:
-    - topo/météo
     - séance/rof initial
     03_soir:
     - chrono/rof
+    - topo/marées
     04_conduite:
     - 2C1.4 Ajuster trajectoire à la voile  
     - 4C2.1 aéro/hydro
     05_manoeuvre:
     - null
     06_navigation:
-    - 1N2.1 MTO
+    - 2N3.1 marées
     07_sécurité:
     - 1S2.2 Arrêter le navire en cas d’incident ou d’accident
     - 2S2.2 manœuvres courantes de sécurité
@@ -138,12 +140,13 @@ planning:
   jour_05:
     00_nom: Mercredi
     01_matin:
+    - séance/pilotage
+    - séance/rof
+    02_aprèsmidi:
     - séance/banane
     - séance/prise de coffre
-    02_aprèsmidi:
-    - topo/cadre
-    - séance/rof
     03_soir:
+    - topo/cadre
     - topo/privilèges
     04_conduite:
     - 2C3.1 Réguler la vitesse
@@ -151,6 +154,7 @@ planning:
     05_manoeuvre:
     - 1M4.1 Entrée et de sortie de port
     06_navigation:
+    - 1N1.1 lien avec le paysage
     - 1N4.2 Connaître la base des privilèges de route
     07_sécurité:
     - null
@@ -167,12 +171,13 @@ planning:
     01_matin:
     - séance/prise de ris
     - séance/gréer le spi
-    02_aprèsmidi:
-    - topo/amarrage
     - séance/manipulation de tangon
+    02_aprèsmidi:
     - séance/hissage affalage de spi
+    - séance/empannage sous spi
     03_soir:
-    - topo/marées
+    - topo/amarrage
+    - topo/météo
     04_conduite:
     - null
     05_manoeuvre:
@@ -182,7 +187,7 @@ planning:
     - 2M2.2 Gréer spi
     - 3M2.3 manœuvres relatives au spi
     06_navigation:
-    - 2N3.1 marées
+    - 1N2.1 MTO
     07_sécurité:
     - null
     08_technologie:
@@ -196,11 +201,10 @@ planning:
   jour_07:
     00_nom: Vendredi
     01_matin:
-    - séance/empannage sous spi
-    02_aprèsmidi:
-    - Rangement base
     - Nettoyage bateau
     - Bilan de mi stage
+    02_aprèsmidi:
+    - Rangement base
     - Menus
     - Inventaire
     03_soir:
@@ -208,7 +212,7 @@ planning:
     04_conduite:
     - null
     05_manoeuvre:
-    - 3M2.3 manœuvres de spi
+    - null
     06_navigation:
     - null
     07_sécurité:
@@ -225,6 +229,6 @@ prevision: true
 previsionnels:
 - Semi emb N1
 semaine: stage 2 semaines semi-embarqué - 1ère semaine à terre
-tags: []
+tags: [Coz, Archi]
 title: PrévisionnelSemaine1Terre
 ---

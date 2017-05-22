@@ -9,6 +9,15 @@
     <atom:link href="https://teebobeet.github.io/1Mono2Voiles/postes/navigateur/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>pilotage</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pilotage/</link>
+      <pubDate>Mon, 22 May 2017 08:43:09 +0200</pubDate>
+      
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pilotage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>navigation tardive</title>
       <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/navigation-tardive/</link>
       <pubDate>Wed, 22 Mar 2017 11:17:49 +0100</pubDate>
