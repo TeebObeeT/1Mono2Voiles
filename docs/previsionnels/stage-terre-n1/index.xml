@@ -308,11 +308,7 @@ Brassens est quant à lui enterré au cimetière du Py, dominant l&amp;rsquo;ét
 
 &lt;h2 id=&#34;couleurs-et-significations&#34;&gt;Couleurs et significations&lt;/h2&gt;
 
-&lt;h2 id=&#34;lignes-isobates-et-utilité&#34;&gt;Lignes isobates et utilité&lt;/h2&gt;
-
-&lt;h3 id=&#34;utilisation-en-méditérranée&#34;&gt;Utilisation en méditérranée&lt;/h3&gt;
-
-&lt;h3 id=&#34;utilisation-en-manche-atlantique&#34;&gt;Utilisation en manche/atlantique&lt;/h3&gt;
+&lt;h2 id=&#34;lignes-isobates-et-utilité-med-atlantique-manche&#34;&gt;Lignes isobates et utilité (med != atlantique/manche)&lt;/h2&gt;
 
 &lt;h1 id=&#34;amers&#34;&gt;Amers&lt;/h1&gt;
 
@@ -347,7 +343,7 @@ Brassens est quant à lui enterré au cimetière du Py, dominant l&amp;rsquo;ét
 
 &lt;ul&gt;
 &lt;li&gt;Trouver un cap&lt;/li&gt;
-&lt;li&gt;Corriger un cap &lt;em&gt;(Déclinaison, Dérive (attention à la direction du vent))&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Corriger un cap &lt;em&gt;Cc = Cv - Dec +/- der -dev&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;pilotage&#34;&gt;Pilotage&lt;/h1&gt;

@@ -19,11 +19,7 @@ Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navi
 
 ## Couleurs et significations
 
-## Lignes isobates et utilité
-
-### Utilisation en méditérranée
-
-### Utilisation en manche/atlantique
+## Lignes isobates et utilité (med != atlantique/manche)
 
 # Amers
 
@@ -38,7 +34,6 @@ Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navi
 ### De chenaux
 
 ### Autres
-
 * Eau saine
 * Marque spéciale
 * Danger isolé
@@ -46,16 +41,13 @@ Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navi
 # Navigation
 
 ## Principe 1: Savoir où l'on est
-
 * Faire le point
 * Plus important de savoir où l'on n'est pas (cailloux, côte, ...)
 
 ## Savoir où l'on va
-
 * Trouver un cap
-* Corriger un cap *(Déclinaison, Dérive (attention à la direction du vent))*
+* Corriger un cap _Cc = Cv - Dec +/- der -dev_
 
 # Pilotage
-
 * Importance des alignements *(faire un point est impossible)*
 * Ne pas hésiter à ralentir
