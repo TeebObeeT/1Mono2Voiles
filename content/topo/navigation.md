@@ -57,6 +57,5 @@ Introduction rapide à la carte marine, aux amers ainsi qu'aux principes de navi
 
 # Pilotage
 
-* Importance des alignements
+* Importance des alignements *(faire un point est impossible)*
 * Ne pas hésiter à ralentir
-* Faire un point impossible

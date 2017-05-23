@@ -32,7 +32,6 @@ Quelques informations basiques mais essentielles à savoir avant de partir en me
 * Moteur: cone pointe en bas
 * Boule: Mouillage
 
-
 # Règles dîtes "de barre" __simplifiées__
 ## Entre voiliers et autres usagers
 
