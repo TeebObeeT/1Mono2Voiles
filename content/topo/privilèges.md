@@ -13,11 +13,10 @@ previsionnels:
   - Groupe embarqué 3j
   - Semi emb N1
 ---
-Quelques informations basiques mais essentielles à savoir avant de partir en mer...
-<!--more-->
 # Notions générales
 ## RIPAM
 * Le "code de la route de la mer" est défini par le RIPAM (__R__èglement __I__nternational pour  __P__révenir des __A__bordages en __M__er)
+<!--more-->
 
 ## Privilèges
 * Il ne contient pas de priorités mais des privilèges, il est interdit d'être idiot, on doit tous tout faire pour éviter les abordages
