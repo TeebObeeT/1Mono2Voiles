@@ -8,6 +8,7 @@ postes:
 - Navigateur
 previsionnels:
 - stage embarqué N2
+- Semi emb N1
 seance:
   00_prereq:
   - Topo navigation de nuit
