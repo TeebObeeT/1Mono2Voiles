@@ -100,7 +100,7 @@ Le vent nous pousse, il y a des tourbillons qui se créés autour de la voile.
 
 #### Kinéstéthique
 * Le bateau prend de la gîte.
-* On sent le vent derrière soit quand positionné au vent.
+* On sent le vent derrière soi quand positionné au vent.
 
 ### Pourquoi on avance
 Les voiles se comportent comme des ailes d'avion.
