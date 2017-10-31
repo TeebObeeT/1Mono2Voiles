@@ -20,7 +20,6 @@ planning:
     - RDV ponts
     03_soir:
     - Bilan début de stage
-    - topo/navigation
     - rappels matelotage
     04_conduite:
     - null
@@ -49,13 +48,10 @@ planning:
     01_matin:
     - séance/départ habitable
     - séance/liaison carte paysage
-    - séance/calcul de cap
     - séance/arrêt surface
     - topo/privilèges
     - topo/déplacements
     02_aprèsmidi:
-    - chrono/prise de ris
-    - séance/prise de ris
     - séance/arrêt
     - séance/allures
     - chrono/virement
@@ -107,10 +103,11 @@ planning:
     - séance/calcul route
     - séance/cap
     - topo/allures
-    - séance/réglage voiles
+    - chrono/prise de ris
+    - séance/prise de ris
     03_soir:
     - topo/météo
-    - topo/site
+    - topo/navigation
     04_conduite:
     - 2C1.1, 2C1.2, 2C1.10 Suivre une direction et régler le bateau
     - 2C1.7 Identifier son allure
@@ -141,6 +138,7 @@ planning:
     - topo/accostage
     - séance/accostage
     - séance/quick stop
+    - séance/réglage voiles
     02_aprèsmidi:
     - topo/réglages ajustages
     - séance/ajustages près
@@ -178,13 +176,11 @@ planning:
       - séance/barre attachée
       - séance/point
       - séance/garder allure
-      - séance/surpuissance
     02_aprèsmidi:
       - chrono/empannage sous spi
       - séance/conduite sous spi
       - séance/empannage sous spi
       - séance/affalage spi en urgence
-      - séance/estime
       - séance/relance
     03_soir:
       - topo/marées
@@ -214,7 +210,6 @@ planning:
   jour_06:
     00_nom: Jeudi
     01_matin:
-      - topo/estime
       - séance/préparation navigation
       - séance/suivi de navigation
       - séance/gagner vent
