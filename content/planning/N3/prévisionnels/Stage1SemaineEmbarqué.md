@@ -165,7 +165,8 @@ planning:
     01_matin:
     - null
     02_aprèsmidi:
-    - null
+    - nettoyage bateau
+    - administratif
     03_soir:
     - null
     04_conduite:
@@ -183,7 +184,10 @@ planning:
     10_environnement:
     - null
     11_administratif:
-    - null
+    - bilan stage
+    - bilans indiv
+    - retour cirés
+    - bilan RTQ  
 prevision: true
 previsionnels:
 - null
