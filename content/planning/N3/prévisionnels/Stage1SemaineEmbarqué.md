@@ -191,13 +191,15 @@ planning:
 prevision: true
 previsionnels:
 - null
-semaine: stage 1 semaine à terre
+semaine: stage 1 semaine embarqué
 tags: []
 title: Stage1SemaineEmbarqué
 ---
 
 <!--more-->
+
 # Conduite
+
 - 3C1.1 Maintenir l’équilibre du support en utilisant la voile (au près)
 - 3C1.2 Maintenir l’équilibre du support en utilisant la barre (au portant)
 - 3C1.3 Se représenter les trajectoires à suivre et les allures à prendre pour rejoindre un point donné du plan d’eau
@@ -209,7 +211,9 @@ title: Stage1SemaineEmbarqué
 - 3C2.3 Connaître les principes aérodynamiques essentiels de la propulsion à la voile
 - 3C3.1 Réaliser un demi-tour sur place
 - 3C3.2 Adapter le régime moteur aux circonstances
+
 # Manoeuvre
+
 - 3M1.1 Connaître et effectuer les tâches de chaque poste lors des manœuvres
 - 3M1.2 Changer d’amure en assurant la sécurité de l’équipage et en préservant le navire
 - 3M1.3 Changer d’amure en contrôlant l’équilibre du navire
@@ -219,7 +223,9 @@ title: Stage1SemaineEmbarqué
 - 3M3.1 Connaître les contraintes pour choisir l’emplacement de l’ancre
 - 3M3.2 Appareiller ou quitter un mouillage ou un coffre à la voile
 - 3M4.1 Appareiller et accoster en mettant en œuvre un amarrage dynamique
+
 # Navigation
+
 - 3N1.1 Élaborer et suivre une route dans un périmètre défini
 - 3N1.2 Participer au choix d’un programme ou d’une zone de navigation
 - 3N1.3 Évaluer les exigences d’une situation de navigation
@@ -236,13 +242,17 @@ title: Stage1SemaineEmbarqué
 - 3N4.2 Parer les risques de collision sous le contrôle du moniteur
 - 3N4.3 Collecter les informations principales nécessaires à la tenue du livre de bord
 - 3N4.4 Connaître la réglementation concernant les marques et les feux des navires
+
 # Sécurité
+
 - 3S1.1 Connaître la localisation et l’utilisation du matériel de sécurité embarqué
 - 3S1.2 Être attentif à l’équipement et au comportement des autres équipiers
 - 3S2.1 Maitriser les manœuvres courantes de sécurité (homme à la mer, départs et arrivées dans des conditions difficiles, arrêt rapide)
 - 3S2.2 Connaître et simuler les procédures d’urgence visant à assurer l’intégrité du navire
 - 3S3.1 Connaître les procédures d’alerte et de signalement
+
 # Technologie
+
 - 3T1.1 Être attentif lors de l’usage des équipements
 - 3T1.2 Connaître les conditions de bonne utilisation des équipements
 - 3T2.1 Surveiller l’état du navire
@@ -251,7 +261,9 @@ title: Stage1SemaineEmbarqué
 - 3T3.2 Maintenir propres les fonds et les équipements y afférents
 - 3T4.1 Connaître les fondamentaux du matelotage en vue d’assurer les réparations de fortune
 - 3T4.2 Connaître les éléments structurels du navire
+
 # Vie maritime
+
 - 3V1.1 Choisir ses équipements individuels
 - 3V2.1 Informer l’équipage de ses propres initiatives
 - 3V2.2 Cuisiner en mer
@@ -259,7 +271,9 @@ title: Stage1SemaineEmbarqué
 - 3V3.1 Connaître les principaux règlements liés au site de pratique
 - 3V3.2 Respecter les autres usagers de l’espace de navigation
 - 3V3.3 Connaître les règles de la pavillonnerie
+
 # Environnement
+
 - 3E1.1 Connaître quelques espèces de poisson de la zone de navigation
 - 3E1.2 Connaître et observer les interdépendances entre les oiseaux, les poissons, le plancton et les apports de nutriment
 - 3E1.3 Connaître des exemples de l’impact de l’homme sur les écosystèmes marins
@@ -269,4 +283,5 @@ title: Stage1SemaineEmbarqué
 - 3E3.2 Connaître l’histoire d’un navire du patrimoine local
 - 3E4.1 Connaître les espèces naturelles protégées du site de pratique
 - 3E4.2 Appliquer la réglementation concernant la pêche de loisir en mer
+
 # Administratif
