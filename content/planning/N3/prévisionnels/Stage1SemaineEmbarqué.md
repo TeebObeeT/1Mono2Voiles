@@ -43,9 +43,10 @@ planning:
   jour_02:
     00_nom: Dimanche
     01_matin:
-    - null
+    - topo/navigation
+    - séance/préparation navigation
     02_aprèsmidi:
-    - null
+    - séance/affalage de spi
     03_soir:
     - null
     04_conduite:
@@ -53,7 +54,7 @@ planning:
     05_manoeuvre:
     - null
     06_navigation:
-    - null
+    - 3N1.1,2,3 Préparer une navigation
     07_sécurité:
     - null
     08_technologie:
@@ -190,7 +191,7 @@ planning:
     - bilan RTQ  
 prevision: true
 previsionnels:
-- null
+- stage embarqué N3
 semaine: stage 1 semaine embarqué
 tags: []
 title: Stage1SemaineEmbarqué
@@ -226,9 +227,9 @@ title: Stage1SemaineEmbarqué
 
 # Navigation
 
-- 3N1.1 Élaborer et suivre une route dans un périmètre défini
-- 3N1.2 Participer au choix d’un programme ou d’une zone de navigation
-- 3N1.3 Évaluer les exigences d’une situation de navigation
+- ~~3N1.1 Élaborer et suivre une route dans un périmètre défini~~
+- ~~3N1.2 Participer au choix d’un programme ou d’une zone de navigation~~
+- ~~3N1.3 Évaluer les exigences d’une situation de navigation~~
 - 3N1.4 Mettre en relation le paysage rencontré avec la carte marine
 - 3N1.5 Adapter le programme de navigation à l’évolution des contraintes
 - 3N1.6 Entretenir son positionnement sans visibilité ou éloigné de la côte

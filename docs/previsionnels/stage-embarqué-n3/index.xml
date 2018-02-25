@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Planning-rsses on 1 Mono 2 Voiles</title>
-    <link>https://teebobeet.github.io/1Mono2Voiles/planning/index.xml</link>
-    <description>Recent content in Planning-rsses on 1 Mono 2 Voiles</description>
+    <title>1 Mono 2 Voiles</title>
+    <link>https://teebobeet.github.io/1Mono2Voiles/previsionnels/stage-embarqu%C3%A9-n3/index.xml</link>
+    <description>Recent content on 1 Mono 2 Voiles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 24 Feb 2018 17:51:04 +0100</lastBuildDate>
-    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/planning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teebobeet.github.io/1Mono2Voiles/previsionnels/stage-embarqu%C3%A9-n3/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stage1SemaineEmbarqué</title>
@@ -121,157 +120,79 @@
     </item>
     
     <item>
-      <title>PrévisionnelSemaine2Embarqué</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Semaine2Embarqu%C3%A9/</link>
-      <pubDate>Tue, 25 Apr 2017 11:25:57 +0200</pubDate>
+      <title>préparation navigation</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A9paration-navigation/</link>
+      <pubDate>Tue, 21 Mar 2017 14:36:37 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Semaine2Embarqu%C3%A9/</guid>
+      <guid>https://teebobeet.github.io/1Mono2Voiles/s%C3%A9ance/pr%C3%A9paration-navigation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>PrévisionnelSemaine1Terre</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Semaine1Terre/</link>
-      <pubDate>Fri, 21 Apr 2017 12:10:22 +0200</pubDate>
+      <title>navigation</title>
+      <link>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</link>
+      <pubDate>Sun, 08 Jan 2017 14:36:04 +0100</pubDate>
       
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Semaine1Terre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stage 3 jours groupe 2017-04</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/groupe/r%C3%A9alis%C3%A9s/Stage3JoursGroupe201704/</link>
-      <pubDate>Thu, 13 Apr 2017 09:02:18 +0200</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/groupe/r%C3%A9alis%C3%A9s/Stage3JoursGroupe201704/</guid>
-      <description>&lt;p&gt;Stage réalisé sur Dufour325 avec la famille Détruit.&lt;/p&gt;
+      <guid>https://teebobeet.github.io/1Mono2Voiles/topo/navigation/</guid>
+      <description>&lt;p&gt;Introduction rapide à la carte marine, aux amers ainsi qu&amp;rsquo;aux principes de navigations
+&lt;/p&gt;
 
-&lt;p&gt;Problème de brûleur au démarrage&lt;/p&gt;
+&lt;h1 id=&#34;la-carte-marine&#34;&gt;La carte marine&lt;/h1&gt;
 
-&lt;p&gt;Problème de moteur dès la sortie des Onglous.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stage 1 semaine à terre - 2017-04</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Stage1SemaineTerre201704/</link>
-      <pubDate>Wed, 12 Apr 2017 14:45:27 +0200</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Stage1SemaineTerre201704/</guid>
-      <description>&lt;p&gt;Stage en co encadrement avec Lionel&lt;/p&gt;
+&lt;h2 id=&#34;couleurs-et-significations&#34;&gt;Couleurs et significations&lt;/h2&gt;
 
-&lt;p&gt;RTQ: Antoine&lt;/p&gt;
+&lt;h2 id=&#34;lignes-isobates-et-utilité-med-atlantique-manche&#34;&gt;Lignes isobates et utilité (med != atlantique/manche)&lt;/h2&gt;
 
-&lt;p&gt;Stagiaires:&lt;/p&gt;
+&lt;h1 id=&#34;amers&#34;&gt;Amers&lt;/h1&gt;
+
+&lt;h2 id=&#34;naturels&#34;&gt;Naturels&lt;/h2&gt;
+
+&lt;h2 id=&#34;construits&#34;&gt;Construits&lt;/h2&gt;
+
+&lt;h2 id=&#34;de-navigation&#34;&gt;De navigation&lt;/h2&gt;
+
+&lt;h3 id=&#34;cardinaux&#34;&gt;Cardinaux&lt;/h3&gt;
+
+&lt;h3 id=&#34;de-chenaux&#34;&gt;De chenaux&lt;/h3&gt;
+
+&lt;h3 id=&#34;autres&#34;&gt;Autres&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Louis&lt;/li&gt;
-&lt;li&gt;Jean&lt;/li&gt;
-&lt;li&gt;Vanessa&lt;/li&gt;
-&lt;li&gt;Greg&lt;/li&gt;
-&lt;li&gt;Alice&lt;/li&gt;
-&lt;li&gt;Tim&lt;/li&gt;
-&lt;li&gt;David&lt;/li&gt;
+&lt;li&gt;Eau saine&lt;/li&gt;
+&lt;li&gt;Marque spéciale&lt;/li&gt;
+&lt;li&gt;Danger isolé&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stage groupe 3j embarqué</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/groupe/pr%C3%A9visionnels/Groupe3jEmbarqu%C3%A9/</link>
-      <pubDate>Thu, 23 Mar 2017 17:20:58 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/groupe/pr%C3%A9visionnels/Groupe3jEmbarqu%C3%A9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prévisionnel stage embarqué 1 semaine</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n2/pr%C3%A9visionnels/Stage1SemaineEmbarqu%C3%A9/</link>
-      <pubDate>Thu, 02 Mar 2017 16:58:48 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n2/pr%C3%A9visionnels/Stage1SemaineEmbarqu%C3%A9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prévisionnel stage à terre 3 jours</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Stage3JoursTerre/</link>
-      <pubDate>Tue, 21 Feb 2017 17:34:07 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Stage3JoursTerre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1ère semaine 29102016</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Semaine1Terre-29102016/</link>
-      <pubDate>Thu, 01 Dec 2016 11:20:49 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Semaine1Terre-29102016/</guid>
-      <description>&lt;p&gt;Semaine réalisée en &amp;ldquo;improvisation&amp;rdquo; en fonction de la météo et sur &lt;a href=&#34;https://teebobeet.github.io/1Mono2Voiles/1Mono2Voiles/planning/n1/brouillons/Pr%C3%A9visionnelSemaine1Terre-29102016/&#34; title=&#34;Prévisionnel&#34;&gt;cette base&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
+&lt;h1 id=&#34;navigation&#34;&gt;Navigation&lt;/h1&gt;
 
-&lt;p&gt;&lt;strong&gt;Stagiaires:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;principe-1-savoir-où-l-on-est&#34;&gt;Principe 1: Savoir où l&amp;rsquo;on est&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Alain&lt;/li&gt;
-&lt;li&gt;Marc&lt;/li&gt;
-&lt;li&gt;Antoine&lt;/li&gt;
-&lt;li&gt;Gaëtan&lt;/li&gt;
-&lt;li&gt;Charles-Pierre (Sharp)&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>2ème semaine 05112016</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Semaine2Mer-05112016/</link>
-      <pubDate>Thu, 01 Dec 2016 11:09:37 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/r%C3%A9alis%C3%A9s/Semaine2Mer-05112016/</guid>
-      <description>&lt;p&gt;Semaine réalisée en &amp;ldquo;improvisation&amp;rdquo; en fonction de la météo et sur &lt;a href=&#34;https://teebobeet.github.io/1Mono2Voiles/1Mono2Voiles/planning/n1/brouillons/Pr%C3%A9visionnelSemaine2Mer-05112016/&#34; title=&#34;Prévisionnel&#34;&gt;cette base&lt;/a&gt;.&lt;/p&gt;
+&lt;li&gt;Faire le point&lt;/li&gt;
+&lt;li&gt;Plus important de savoir où l&amp;rsquo;on n&amp;rsquo;est pas (cailloux, côte, &amp;hellip;)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stagiaires:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;savoir-où-l-on-va&#34;&gt;Savoir où l&amp;rsquo;on va&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Alain&lt;/li&gt;
-&lt;li&gt;Marc&lt;/li&gt;
-&lt;li&gt;Antoine&lt;/li&gt;
-&lt;li&gt;Gaëtan&lt;/li&gt;
-&lt;li&gt;Charles-Pierre (Sharp)&lt;/li&gt;
+&lt;li&gt;Trouver un cap&lt;/li&gt;
+&lt;li&gt;Corriger un cap &lt;em&gt;Cc = Cv - Dec +/- der -dev&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;n3-pourquoi&#34;&gt;[N3] Pourquoi&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vent actuel&lt;/li&gt;
+&lt;li&gt;Prévisions &lt;em&gt;(chercher le vent, le calme, chemin du retour)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Autres contraintes &lt;em&gt;(ravitaillement, personnel, confort &amp;hellip;)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;pilotage&#34;&gt;Pilotage&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Importance des alignements &lt;em&gt;(faire un point est impossible)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Ne pas hésiter à ralentir&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Brouillon de prévisionnel 2eme semaine embarquée.</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/brouillons/Pr%C3%A9visionnelSemaine2Mer-05112016/</link>
-      <pubDate>Thu, 01 Dec 2016 10:46:45 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/brouillons/Pr%C3%A9visionnelSemaine2Mer-05112016/</guid>
-      <description>&lt;p&gt;Prévision faite en cours de stage et à un niveau basique pour avoir du feedback des permanents. Rentrée ici juste pour voir l&amp;rsquo;évolution avec la suite&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Brouillon de prévisionnel 1ere semaine à terre.</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/brouillons/Pr%C3%A9visionnelSemaine1Terre-29102016/</link>
-      <pubDate>Thu, 01 Dec 2016 10:33:08 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/brouillons/Pr%C3%A9visionnelSemaine1Terre-29102016/</guid>
-      <description>&lt;p&gt;Prévision faite en milieu de semaine et à un niveau basique pour avoir du feedback des permanents. Rentrée ici juste pour voir l&amp;rsquo;évolution avec la suite&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Prévisionnel stage à terre 1 semaine</title>
-      <link>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Stage1SemaineTerre/</link>
-      <pubDate>Thu, 24 Nov 2016 19:19:50 +0100</pubDate>
-      
-      <guid>https://teebobeet.github.io/1Mono2Voiles/planning/n1/pr%C3%A9visionnels/Stage1SemaineTerre/</guid>
-      <description></description>
     </item>
     
   </channel>

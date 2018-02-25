@@ -5,11 +5,14 @@ date: 2017-03-21T14:36:37+01:00
 niveaux:
 - Niveau-1
 - Niveau-2
+- Niveau-3
 postes:
 - Navigateur
 previsionnels:
 - stage embarqué N2
 - Semi emb N1
+- stage embarqué N3
+
 seance:
   00_prereq:
   - null
@@ -20,6 +23,9 @@ seance:
   - 2N1.1 Repérer les dangers éventuels sur le parcours proposé
   - 2N1.2 Participer à l’élaboration d’une route
   - 2N2.2 Prendre et considérer un bulletin météorologique adapté à la zone de navigation
+  - 3N1.1 Élaborer et suivre une route dans un périmètre défini
+  - 3N1.2 Participer au choix d’un programme ou d’une zone de navigation
+  - 3N1.3 Évaluer les exigences d’une situation de navigation
   04_reussite:
   - La navigation est prête à être suivie sans avoir besoin de passer plus de 20% de son temps à la table à carte
   05_evaluation:
@@ -41,6 +47,7 @@ seance:
     - Prévoir une route directe ou sans beaucoup d'obstacles
     plus:
     - Inventer des obstacles
+    - Laisser décider de l'objectif
   09_meteo:
     moins:
     - Prévoir la navigation au moteur

@@ -19,11 +19,13 @@ previsionnels:
   - stage embarqué N2
   - Groupe embarqué 3j
 ---
-La prise de ris est une manoeuvre de sécurité indispensable et qui doit pouvoir être fait rapidement et dans le calme...Mais il faut bien annoncer haut et fort ce que l'on a fait pour que l'équipage se synchronize.
+La prise de ris est une manoeuvre de sécurité indispensable et qui doit pouvoir être fait rapidement et dans le calme...Mais il faut bien annoncer haut et fort ce que l'on a fait pour que l'équipage se synchronise.
 <!--more-->
 
 # Prise de ris
+
 ## Préparation
+
  |
 ------|-------
 **Barre** | Rester de préférence à une allure de près bon plein/petit largue.
@@ -31,6 +33,7 @@ La prise de ris est une manoeuvre de sécurité indispensable et qui doit pouvoi
 **Numéro 1** | Mettre sous tension la balancine de bôme.
 
 ## Exécution
+
  |
 ------|-------
 **GV** |Choquer l'écoute de grand voile pour que la grand voile faseye.
@@ -44,6 +47,7 @@ La prise de ris est une manoeuvre de sécurité indispensable et qui doit pouvoi
 **GV** |Border de nouveau la grand voile.
 
 ## Rangement
+
  |
 ------|-------
 **Numéro 1 ou Piano** |Reprendre le mou des autres bosses de ris en attente.
@@ -55,6 +59,7 @@ La prise de ris est une manoeuvre de sécurité indispensable et qui doit pouvoi
 Le lâcher de ris est similaire à la prise de ris, si ce n'est qu'il faut hisser la grand voile au lieu de l'affaler, voici les détails de l'opération:
 
 ## Préparation
+
  |
 ------|-------
 **Barre** |_Rester de préférence à une allure de près bon plein/petit largue._
@@ -62,6 +67,7 @@ Le lâcher de ris est similaire à la prise de ris, si ce n'est qu'il faut hisse
 **Numéro 1** |_Metter sous tension la balancine de bôme._
 
 ## Exécution
+
  |
 ------|-------
 **GV** |_Choquer l'écoute de grand voile pour que la grand voile faseye._
@@ -76,6 +82,7 @@ Le lâcher de ris est similaire à la prise de ris, si ce n'est qu'il faut hisse
 **GV** |_Border de nouveau la grand voile._
 
 ## Rangement
+
  |
 ------|-------
 **Numéro 1 ou Piano** |_Reprendre le mou des autres bosses de ris en attente._
